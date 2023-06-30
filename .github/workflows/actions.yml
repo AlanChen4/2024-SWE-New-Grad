@@ -1,0 +1,33 @@
+name: update readme
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v2
+
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: execute py script
+        run: python updaters.py
+
+      - name: Commit and push if changed
+        run: |
+          git add .
+          git config --global user.email "github-action-bot@example.com"
+          git config --global user.name "GitHub Action Bot"
+          git commit -m "chore: Daily README update" -a || echo "No changes to commit"
+          git push
