@@ -1,19 +1,12 @@
 # 2024 Software Engineering New Graduate Positions by Carbos
 
-📅 This board is **updated daily** using a custom automated job monitor that watches 20% of the companies from [a list of 1000+ high-growth companies](https://www.carbosjobs.com/monitoring?utm_source=github&utm_medium=SWEinternrepo).
+📅 This board is updated daily using a custom automated job monitor that watches companies vetted for growth, student engagement, & innovation.
 
-📢 If you're interested in:
-- The [full list of jobs](https://www.carbosjobs.com/?utm_source=github&utm_medium=SWEinternrepo)
-- Developing connections with recruiters
-- Creating your own private list of monitored jobs
-- Keyword filters for title/location
-- Slack integration to notify updates
-- Recruiter emails
+💡 This is just 10% of the job data on [Carbos](https://www.carbosjobs.com/?utm_source=github&utm_medium=SWEinternrepo), a platform that connects students with companies that fascinate them (it's all free & only takes 5 minutes to apply!)
 
-And so much more that can't fit all on one repo, then check out [Carbos](https://www.carbosjobs.com/?utm_source=github&utm_medium=SWEinternrepo) (it's all free!)
+‼ In addition to way more companies, Carbos includes custom filters, a stronger pipeline to recruiters, & NEVER sponsors posts on our board (so you only see the roles & companies that best match your interests).
 
 ♥ Thanks for all the support, please feel free to leave any [suggestions](https://airtable.com/shr37NBeVqqhlWSq2) (completely anonymous)
-
 ---
 
 <div align="center">
