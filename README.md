@@ -586,7 +586,6 @@
 | Matter Labs | N/A | N/A | N/A | 🔒 | N/A |
 | Matterport | Matterport creates digital twins of spaces; Series D, $2.6B valuation, $590M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | McKesson | McKesson: Empowering healthcare decisions, Series E, \$10B valuation, \$3.5B raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
-| Medal | Medal's mission is to simplify machine learning deployment.  Series B, $100M valuation, $30M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Medallion | Medallion AI aims to enhance financial services with AI.  Funding: $100M raised, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Medely | Medelye's mission: Making healthcare accessible and affordable. Financials: $600M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | MediaLab | Media Lab: Innovating at the intersection of art, science, and technology. Funded by $100M grant, valued at $1B+. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
@@ -642,6 +641,7 @@
 | Northrop Grumman | Company mission: Provide advanced aerospace and defense technology. Financials: Revenue $36.4B, market cap $51.4B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Not found – 404 error | StubHub Holdings, Inc. connects fans with live events. Series F funding, $4 billion valuation, $1.1 billion raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Not found – 404 error | Lever: Efficient hiring software.  $100M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Not found – 404 error | Medal's mission is to simplify machine learning deployment.  Series B, $100M valuation, $30M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Not found – 404 error | Rarible: Making NFTs accessible. Funding: $142M, Valuation: $1.3B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Not found – 404 error | MBRDNA develops precise gene-editing tools.  $100M Series B funding led by Gates and Bezos. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Not found – 404 error | VCLab: Investing in innovative entrepreneurs.  $100M raised, 100+ companies invested. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
@@ -746,8 +746,8 @@
 | Proviti | Protivitina: Advancing protein therapeutics with AI.  Series A funding: $20 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Proviti | Protiviti: Solving complex problems, trusted advisor. Rapid growth, $1B funding raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Pulley | Pulley's mission: Flexible, equitable, and rewarding work for all. Financials: Series C funding of $70 million, $1.1 billion valuation, $100 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
-| Pure Storage | Pure Storage: Revolutionizing data storage; raised $1.5B, $8.2B valuation, $2.5B raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Pure Storage | Pure Storage's mission is data storage revolution.  $750M Series F funding, $7.5B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Pure Storage | Pure Storage: Revolutionizing data storage; raised $1.5B, $8.2B valuation, $2.5B raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Q2 | Q2 empowers banks with digital banking solutions.  $1.3B raised, $10B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Qualcomm | Qualcomm's mission is to connect the world.  Fourth funding round, \$130 billion valuation, \$80 billion raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Qualtrics | Qualtrics helps organizations improve experiences; Series F, $1.5B valuation, $415M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
