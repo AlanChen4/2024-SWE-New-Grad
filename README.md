@@ -302,8 +302,8 @@
 | Crowdstrike | CrowdStrike's mission: Global leader in cybersecurity protection. Financials: $1.1B funding, $11B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Cruise | Cruise: Revolutionizing transportation with self-driving cars.  Fourth funding round, valued at $30 billion, raised $8 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Cruise - University | Cruise University: Revolutionizing cruise industry education.  Funding: \$100M, valuation: \$1B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
-| Crusoe | Crusoe Energy: Sustainable energy provider accelerating clean energy transition. Raised $500M, valued at $1B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Crusoe | Crusoe Energy provides affordable renewable natural gas solutions. Series C funding, $1B valuation, $700M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Crusoe | Crusoe Energy: Sustainable energy provider accelerating clean energy transition. Raised $500M, valued at $1B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Cubic | Cubic connects people, communities, and data.  Series F funding raised $2.1 billion, valuation $14 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Culture Biosciences | Culture Biosciences aims to develop sustainable animal products.  $100M Series B, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Curio Research | Curio.gg aims to revolutionize gaming by connecting players and promoting accessibility. (10 words) Series A, $100M valuation, $20M raised. (5 words) | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
