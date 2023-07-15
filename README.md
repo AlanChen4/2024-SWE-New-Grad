@@ -248,8 +248,8 @@
 | Chewy | Chewy's mission: Simplify and lower pet ownership costs. Financials: $1.6B raised, $30B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Chia Network Inc. | Chia Network: Efficient, sustainable blockchain for finance.  $615M raised from top investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Chief | Chief's mission: Revolutionizing work flexibility and opportunities. Financials: $100 million raised from investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
-| Choco | Choco's mission: Transform customer engagement through conversational commerce. Financials: $100M raised from top investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Choco | Choco revolutionizes workforce management with AI.  \$220M funding, \$1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Choco | Choco's mission: Transform customer engagement through conversational commerce. Financials: $100M raised from top investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Chronosphere | Chronosphere: AI predicting human behavior; \$100M funding, \$1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Cider | Shopcider: Social commerce platform connecting shoppers with influencers. Raised $10.5M from Sequoia and Kleiner Perkins. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="imgs/kleiner-perkins.png"><img src="imgs/kleiner-perkins.png" alt="kleiner-perkins.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="imgs/sequoia.png"><img src="imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br></p> | N/A | 🔒 | N/A |
 | Cinder | Cinder aims to improve cloud storage security and affordability.  Raised over $100 million in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
