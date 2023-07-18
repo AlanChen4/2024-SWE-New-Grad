@@ -225,6 +225,7 @@
 | Carbon | Carbon: Developing technology to capture carbon dioxide. Series B, $1 billion valuation, $1.1 billion raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | CareRev | CareRev: Simplifying healthcare job search. Raised $100M+, valued at $1B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Career Karma | Career Karma: AI career coaching platform. Raised $100M+ in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Careers - Karat | Karat: Technology interview platform for hiring software engineers. Founded in 2012, raised $100M+, valued at $1B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Careers at Drata | Drata's mission: Protecting data from unauthorized access.  Financials: $100M raised, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Careers at KKR | KKR: Global investment firm. Raised $10 billion, valued at $230 billion. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="imgs/kkr.png"><img src="imgs/kkr.png" alt="kkr.png" width="75" style="max-width: 100%;"></a><br></p> | N/A | 🔒 | N/A |
 | Careers | Snappy Gifts | Snappy: Revolutionizing communication with AI. Series B-funded, $100M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
@@ -527,7 +528,6 @@
 | KOKO Networks | Koko Networks: Affordable connectivity for emerging markets.  Raised $12.5M from top investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | KUNGFU.AI | KungFu's mission: Making AI accessible to everyone. Financials: Raised over $1 billion in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Kapwing | Kapwing's mission: Democratize video creation and empower creativity. Financials: $50M raised, valued at $1B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
-| Karat | Karat: Technology interview platform for hiring software engineers. Founded in 2012, raised $100M+, valued at $1B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Kensho | Kensho: AI for better investment decisions.  Founded 2013, raised $100M+. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Kernel | Kernel's mission is to build a powerful AI supercomputer.  Raised $400M from top investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | KeyBank | KeyBank's mission is to provide leading financial services.  KeyBank has over $180 billion in assets. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
