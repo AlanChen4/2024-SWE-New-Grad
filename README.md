@@ -21,2110 +21,1354 @@
 
 | Company | Description | Investors | Title | Status | Added On |
 | ------- | ------------| ----------| ----- | ------ |--------- |
-| Teledyne | FLIR develops thermal imaging for various applications. Series G funding, $4.5 billion valuation, $1.4 billion raised. | Kleiner Perkins | [SharePoint Junior Nintex Developer](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/SharePoint-Junior-Nintex-Developer_REQ19696) | ✅ | July 21, 2023 |
-| Sword Health | Sword Health: Improving musculoskeletal care accessibility. Series B: $60M raised, $360M valuation. | Google Ventures | [Junior ML Engineer (Portugal Based Remote/Hybrid)](https://jobs.lever.co/swordhealth/3a4a2ba1-f398-4c39-8e50-054bd2db5d8e) | ✅ | July 21, 2023 |
-| Squarepoint Capital | SquarePound Capital invests in early-stage fintech companies.$2.1 billion raised, 100+ investments. |  | [Junior Quant Researcher - Data Science](https://www.squarepoint-capital.com?gh_jid=4481896) | ✅ | July 21, 2023 |
-| Squarepoint Capital | SquarePound Capital invests in early-stage fintech companies.$2.1 billion raised, 100+ investments. |  | [Junior Quant Researcher](https://www.squarepoint-capital.com?gh_jid=239376) | ✅ | July 21, 2023 |
-| Old Mission | Old Mission Capital: VC investing in AI/ML startups. Raised $100M from top investors. | Accel, Google Ventures, Kleiner Perkins | [Junior Quantitative Trader (Asian Market Hours)](https://www.oldmissioncapital.com/careers/?gh_jid=4454224003) | ✅ | July 21, 2023 |
-| Old Mission | Old Mission Capital: VC investing in AI/ML startups. Raised $100M from top investors. | Accel, Google Ventures, Kleiner Perkins | [College Graduates - Full-Time - Junior Software Engineer (2024)](https://www.oldmissioncapital.com/careers/?gh_jid=5643831003) | ✅ | July 21, 2023 |
-| Ercot | ERCOT manages Texas electric grid. Raised $2.5 billion in funding. | Goldman Sachs | [Engineer Development Program - Entry Level Power Engineer](https://ercot.wd1.myworkdayjobs.com/en-US/ercot_careers/job/Austin-TX/Engineer-Development-Program---Entry-Level-Power-Engineer_R1376) | ✅ | July 21, 2023 |
-| Applied Intuition | Applied Intuition's mission is to deploy autonomous vehicles for safer roads. The company is in Series D funding with a valuation of $2.3 billion and raised over $200 million. | A16Z, Kleiner Perkins, Sequoia | [Software Engineer - New Grad](https://boards.greenhouse.io/appliedintuition/jobs/4296158005?gh_jid=4296158005) | ✅ | July 21, 2023 |
-| Applied Intuition | Applied Intuition's mission is to deploy autonomous vehicles for safer roads. The company is in Series D funding with a valuation of $2.3 billion and raised over $200 million. | A16Z, Kleiner Perkins, Sequoia | [Product Application Engineer - New Grad](https://boards.greenhouse.io/appliedintuition/jobs/4045211005?gh_jid=4045211005) | ✅ | July 21, 2023 |
-| Rackspace | Rackspace's mission is to enable innovative businesses. Funding: $4 billion raised, $6 billion valuation. | Goldman Sachs, Google Ventures | [Junior Data Scientist](https://jobs.lever.co/rackspace/e6641245-1156-4b4d-945f-fc70ea4b694a) | ✅ | July 04, 2023 |
-| Qualcomm | Qualcomm's mission is to connect the world. Fourth funding round, \$130 billion valuation, \$80 billion raised. |  | [GPU Compiler Developer- Junior (San Diego/Santa Clara/Boxborough/Toronto)](https://qualcomm.wd5.myworkdayjobs.com/External/job/San-Diego-USA/GPU-Compiler-Developer--Junior--SD-SCL-BOX-TOR-_3040062) | ❌ | July 02, 2023 |
-| Pimco | Pimco's mission is to help clients achieve financial goals. Privately held, undisclosed funding and valuation. |  | [Portfolio Manager – Junior Systematic Quantitative Researcher](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Portfolio-Manager---Junior-Systematic-Quantitative-Researcher_R100959) | ❌ | July 02, 2023 |
-| Applied Intuition | Applied Intuition's mission is to deploy autonomous vehicles for safer roads. The company is in Series D funding with a valuation of $2.3 billion and raised over $200 million. | A16Z, Kleiner Perkins, Sequoia | [Software Engineer - New Grad](https://boards.greenhouse.io/appliedintuition/jobs/4045212005?gh_jid=4045212005) | ❌ | June 22, 2023 |
-| Applied Intuition | Applied Intuition's mission is to deploy autonomous vehicles for safer roads. The company is in Series D funding with a valuation of $2.3 billion and raised over $200 million. | A16Z, Kleiner Perkins, Sequoia | [Junior Software Engineer](https://boards.greenhouse.io/appliedintuition/jobs/4204732005?gh_jid=4204732005) | ✅ | June 22, 2023 |
-| Affirm | Affirm: Making credit accessible and affordable. $1.5B funding, $2B valuation. |  | [Software Engineer, New Grad](https://boards.greenhouse.io/affirm/jobs/5630963003) | ❌ | June 22, 2023 |
-| webfx.com | WebFX helps businesses grow online. Raised $100 million in funding. |  | [Entry Level Software Engineer](https://jobs.lever.co/webfx/7c15f9e7-6ca5-4188-887e-3b147485c58f) | ✅ | June 21, 2023 |
-| Commonwealth Fusion Systems | CFS Energy: Decarbonizing energy with innovative solutions. $1 billion raised from leading investors. |  | [Instrumentation and Control Engineer – Entry Level](https://jobs.lever.co/cfsenergy/bdc3cbaf-7574-411f-8635-b0ea268e7dfc) | ❌ | June 21, 2023 |
-| Binance | Binance: Making crypto accessible. No public funding information. |  | [Binance Accelerator Program - Junior Data Analyst](https://jobs.lever.co/binance/3e2fc921-a871-4cbb-9cd0-8000412053be) | ❌ | June 21, 2023 |
-| Agot | Ago.ai aims to democratize AI. Raised $100 million in funding. | Kleiner Perkins, Sequoia | [Junior Computer Vision Engineer](https://jobs.lever.co/agotai/cf6c3e9d-d5a6-467b-b04f-695af995d46e) | ✅ | June 21, 2023 |
-| Unity Technologies | Unity's mission: Democratize creativity through 3D content creation.Financials: Raised $1 billion, valued at $4 billion. | Accel, Google Ventures, Sequoia | [Junior Test Engineer](https://careers.unity.com/position?id=1742856?gh_jid=1742856) | ✅ | June 21, 2023 |
-| SpaceX | SpaceX aims to make humanity multi-planetary. $850M funding, $74B valuation, $8.5B raised. | Kleiner Perkins | [Security Engineer, New Graduate](https://boards.greenhouse.io/spacex/jobs/6793685002?gh_jid=6793685002) | ✅ | June 21, 2023 |
-| SpaceX | SpaceX aims to make humanity multi-planetary. $850M funding, $74B valuation, $8.5B raised. | Kleiner Perkins | [Security Engineer, New Graduate](https://boards.greenhouse.io/spacex/jobs/6793678002?gh_jid=6793678002) | ✅ | June 21, 2023 |
-| SpaceX | SpaceX aims to make humanity multi-planetary. $850M funding, $74B valuation, $8.5B raised. | Kleiner Perkins | [Security Engineer, New Graduate](https://boards.greenhouse.io/spacex/jobs/6793684002?gh_jid=6793684002) | ✅ | June 21, 2023 |
-| 1Password | 1Password: Enhancing online security; $425M raised, $4B valuation. | Accel, Bessemer, Sequoia | N/A | 🔒 | N/A |
-| 23andMe | 23andMe empowers people with genetic information. Series H, $3.5B valuation, $850M raised. | Google Ventures | N/A | 🔒 | N/A |
-| 2K | 2K creates innovative video games for all ages.  Series G funding: $2.1 billion, $12.1 billion valuation, $1.3 billion raised. | KKR | N/A | 🔒 | N/A |
-| 360Learning | 360Learning: Global leader in corporate digital learning. Raised $100M in Series E, $265M total funding. | Bessemer, Insight Partners | N/A | 🔒 | N/A |
-| 3M | 3M's mission is innovation for a better world.  Series D, \$1 billion valuation, \$150 million raised. | Accel, Founders Fund | N/A | 🔒 | N/A |
-| 84.51° | 84.51° is a venture-backed startup that uses AI to develop solutions for the energy industry, aiming to make it more sustainable and efficient. The company has raised $100 million in funding through a Series B round, with a valuation of $1 billion. Notable investors include NEA, GV, and Kleiner Perkins. | Kleiner Perkins | N/A | 🔒 | N/A |
-| 84.51° University Programs / Early Career Paths | 84.51 AI aims to democratize AI.  Series A, $100 million raised. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| A Thinking Ape | nan |  | N/A | 🔒 | N/A |
-| A10 | A10 Networks: Protecting and optimizing data center applications globally.  Series F, \$1.7B valuation, \$400M raised. | Goldman Sachs | N/A | 🔒 | N/A |
-| ABL Schools | ABL Schools is a cutting-edge education technology company with a mission to revolutionize the way students learn and provide them with a world-class education. Led by experienced education and technology leaders, ABL Schools has a proven track record of success and is backed by prestigious investors such as Kleiner Perkins Caufield & Byers, NEA, and Google Ventures. With a Series B funding round, a valuation of $100 million, and a total amount raised of $200 million, ABL Schools is poised to make a significant impact on the education landscape. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| ABL Space Systems | nan |  | N/A | 🔒 | N/A |
-| AIG | AIG's mission is to protect customers from financial risks. AIG has raised $475 million in a Series E funding round, with a valuation of $11.1 billion. |  | N/A | 🔒 | N/A |
-| AIP Connect | nan |  | N/A | 🔒 | N/A |
-| AKASA | Akasa: Developing carbon-neutral air conditioner.  Series B: $200M raised, $1B valuation. | Accel, Sequoia | N/A | 🔒 | N/A |
-| AMAROK | nan |  | N/A | 🔒 | N/A |
-| AMP Robotics | Amp Robotics: Automating recycling for a sustainable future.  $100M funding, $1B valuation. | Kleiner Perkins | N/A | 🔒 | N/A |
-| AMP Robotics | nan |  | N/A | 🔒 | N/A |
-| AMT Engineering | nan |  | N/A | 🔒 | N/A |
-| AON3D | nan |  | N/A | 🔒 | N/A |
-| APOLLO Insurance | nan |  | N/A | 🔒 | N/A |
-| AQR | nan |  | N/A | 🔒 | N/A |
-| ASAPP | nan |  | N/A | 🔒 | N/A |
-| AUDIENCEX | nan |  | N/A | 🔒 | N/A |
-| Aalto | Aalto develops AI solutions for healthcare problems.  Raised $200M at $1B valuation. | Google Ventures, Sequoia | N/A | 🔒 | N/A |
-| Aave | nan |  | N/A | 🔒 | N/A |
-| Abarca Health | nan |  | N/A | 🔒 | N/A |
-| Abata Therapeutics | nan |  | N/A | 🔒 | N/A |
-| AbelsonTaylor | nan |  | N/A | 🔒 | N/A |
-| Abl | nan |  | N/A | 🔒 | N/A |
-| Abnormal Security | Abnormal Security: Cloud email security provider.  Funding: $200M raised, $1B valuation. | Greylock, Sequoia | N/A | 🔒 | N/A |
-| Abridge | nan |  | N/A | 🔒 | N/A |
-| Absci | Absci's mission is to engineer cells for molecule production. The company raised $100 million in Series B funding, with a valuation of $1.2 billion and total funding of $150 million. | Google Ventures | N/A | 🔒 | N/A |
-| Academy Sports + Outdoors | SoFi: Achieving financial independence, Series G, $4.4 billion valuation, $1.2 billion raised. | Sequoia | N/A | 🔒 | N/A |
-| Acadia Pharmaceuticals Inc. | Acadia Pharmaceuticals develops CNS disorder treatments.  Raised $400M from top investors. |  | N/A | 🔒 | N/A |
-| Accela | nan |  | N/A | 🔒 | N/A |
-| Accenture | nan |  | N/A | 🔒 | N/A |
-| Access Softek | nan |  | N/A | 🔒 | N/A |
-| Accesso | Accesso is a venture-backed startup focused on developing advanced access control technology using artificial intelligence and machine learning to enhance building safety and security. They have raised $100 million in funding from investors including Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Accolade | Accolades: AI platform for personalized employee recognition. Series B, \$100M valuation, \$130M raised. | A16Z, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Accolade | Accolades: AI-powered talent identification for efficient hiring.  Series B funding, $100 million raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| AccuWeather | AccuWeather is a global leader in weather forecasting and data analytics, offering accurate and actionable weather information to businesses, governments, and consumers worldwide. They have raised a total of $1.1 billion in funding, with a valuation of $4.2 billion, and have attracted prestigious investors such as Berkshire Hathaway, Blackstone Group, and Temasek Holdings. What makes them unique is their ability to provide reliable weather forecasts and data analytics on a global scale. |  | N/A | 🔒 | N/A |
-| AccuWeather Careers | nan |  | N/A | 🔒 | N/A |
-| Acelerate | nan |  | N/A | 🔒 | N/A |
-| Aclima | nan |  | N/A | 🔒 | N/A |
-| Acorns | Acorns aims to help people save and invest.  $700M funding, $1B valuation. | Sequoia | N/A | 🔒 | N/A |
-| Acquia | Acquia: Leading open source software for Drupal. $250M Series E, $2.5B valuation, $600M raised. | Accel, Bessemer, Google Ventures, Insight Partners, Salesforce Ventures | N/A | 🔒 | N/A |
-| Acronis | nan |  | N/A | 🔒 | N/A |
-| ActBlue | nan |  | N/A | 🔒 | N/A |
-| ActionIQ | ActionIQ's mission is to personalize customer experiences. The company has raised over $100 million and is valued at over $1 billion. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| ActiveCampaign | nan |  | N/A | 🔒 | N/A |
-| Activision Blizzard | nan |  | N/A | 🔒 | N/A |
-| Actual | Ashby: Future of work platform enabling remote work.  Series A funding: $100 million raised. | A16Z, Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Acumen, LLC | Acumen invests in poverty-solving businesses. Series E, $1.5B valuation, $250M raised. |  | N/A | 🔒 | N/A |
-| Acument | Acument is a unique deep tech startup founded by MIT engineers in 2017 that utilizes artificial intelligence to enhance supply chain management for companies. The company has raised $100 million in funding from prominent investors like Sequoia Capital and Kleiner Perkins. Acument's focus is on improving supply chain efficiency and resilience, and it has already established partnerships with major corporations such as Walmart, Coca-Cola, and Nike. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Ad Hoc | Ad Hoc is an AI-powered personalization platform that uses proprietary AI technology to collect and analyze customer data, creating personalized experiences for each individual. They have raised a total of $230 million in funding, with a valuation of $1.3 billion, and have prestigious investors such as Kleiner Perkins Caufield & Byers, Sequoia Capital, and Accel Partners. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Ad Hoc Company Website | nan |  | N/A | 🔒 | N/A |
-| Ada | nan |  | N/A | 🔒 | N/A |
-| Adaptive | nan |  | N/A | 🔒 | N/A |
-| Adaptive Biotech | Adaptive Biotech is a clinical-stage biopharmaceutical company based in Cambridge, Massachusetts. They are focused on developing innovative immunotherapies for cancer treatment. Their lead product candidate, AD-9281, is a unique bispecific antibody that targets the PD-L1 and CD47 receptors. This antibody is currently undergoing Phase 1 clinical trials for patients with advanced solid tumors.  In terms of financials, Adaptive Biotech raised $100 million in a Series B financing round led by OrbiMed Advisors in February 2023. They have also received funding from other prominent investors such as Versant Ventures, Fidelity Management & Research Company, and F-Prime Capital Partners. |  | N/A | 🔒 | N/A |
-| Adaptive Biotechnologies | nan |  | N/A | 🔒 | N/A |
-| Adaptive build | Adaptive Build is a digital transformation consultancy that specializes in helping businesses accelerate their growth through cloud computing. Founded in 2014, the company has raised $100 million in funding from investors including Sequoia Capital and Kleiner Perkins. With a team of over 500 employees, Adaptive Build is headquartered in San Francisco, California. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Addepar | Addepar: Revolutionizing financial advice; $400M funding, $2B valuation. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Addi | ADDI is an AI lending platform empowering small businesses. Series C funding, $1.6B valuation, $240M raised. | Tiger Global | N/A | 🔒 | N/A |
-| Adept | nan |  | N/A | 🔒 | N/A |
-| Adept AI Labs | Adept AI Labs is a deep learning research lab focused on developing AI technologies for self-driving cars. They are unique because they have received $100M in funding from prominent investors such as Google Ventures, Kleiner Perkins, and Sequoia Capital. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Adim | ADIM's mission: Make information accessible and useful. Financials: Founded in 2017, $100M raised, $1B valuation. | Accel, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Adobe | Adobe's mission is to enable creativity for all. Adobe raised $4.75 billion at a valuation of $221 billion. |  | N/A | 🔒 | N/A |
-| Adyen | nan |  | N/A | 🔒 | N/A |
-| Aechelon Technology | Aechelon: Democratizing AI. Backed by top investors. |  | N/A | 🔒 | N/A |
-| Aera Technology | nan |  | N/A | 🔒 | N/A |
-| AeroVect | nan |  | N/A | 🔒 | N/A |
-| AeroVironment | Avav's mission is to democratize AI.  \$100 million raised in funding. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Aerospike | nan |  | N/A | 🔒 | N/A |
-| Aetion | nan |  | N/A | 🔒 | N/A |
-| AffiniPay | AffiniPay is a unique next-generation payment platform that offers businesses a centralized solution for managing all their payments. Founded in 2014, the company has raised $110 million in funding from notable investors including Goldman Sachs, American Express Ventures, and Accel. With a valuation of $1 billion, AffiniPay stands out as a leading player in the payment industry. | Accel, Goldman Sachs | N/A | 🔒 | N/A |
-| Affinitiv | nan |  | N/A | 🔒 | N/A |
-| Affinity | Affinity is a unique decentralized protocol that empowers users to have control over their data and privacy, aiming to create a transparent, secure, and fair financial system. The company has successfully raised $100 million in funding from prominent investors such as Andreessen Horowitz, Paradigm, and Sequoia Capital. | A16Z, Sequoia | N/A | 🔒 | N/A |
-| Affinity.co | Affinity: Personalized AI search engine. Series A, $100M raised. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Afresh | nan |  | N/A | 🔒 | N/A |
-| Age of Learning | nan |  | N/A | 🔒 | N/A |
-| AgentSync | nan |  | N/A | 🔒 | N/A |
-| Agero | nan |  | N/A | 🔒 | N/A |
-| Agiloft | nan |  | N/A | 🔒 | N/A |
-| Agtonomy | nan |  | N/A | 🔒 | N/A |
-| Aifleet | Aifleet is an AI-powered logistics platform aiming to revolutionize the trucking industry by making freight shipping more efficient, transparent, and sustainable. They have raised $100 million in funding from prominent investors like Kleiner Perkins, Sequoia Capital, and GV, and currently hold a valuation of $1 billion. What sets them apart is their innovative use of artificial intelligence to optimize logistics operations. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Aigen | nan |  | N/A | 🔒 | N/A |
-| AirGarage | AirGarage connects drivers with available parking spaces.  Series C funding, valued at $1 billion, raised over $100 million. | Accel, Kleiner Perkins, YC | N/A | 🔒 | N/A |
-| Airbase | Airbase automates spend processes for businesses.  Raised $100M from top investors. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Airbnb | nan |  | N/A | 🔒 | N/A |
-| Airbyte | Airbyte: Open-source data integration platform.  Series B: $100M raised, $1.1B valuation. | Accel, Sequoia | N/A | 🔒 | N/A |
-| Aircall | Aircall's mission: Improve business phone calls. Financials: $200M funding, $1B valuation. | Accel | N/A | 🔒 | N/A |
-| Airkit | nan |  | N/A | 🔒 | N/A |
-| Airlines Reporting Corporation | nan |  | N/A | 🔒 | N/A |
-| Airplane | nan |  | N/A | 🔒 | N/A |
-| Airspeed | nan |  | N/A | 🔒 | N/A |
-| Airtable | Airtable's mission is to democratize software development.  Funding: $700M, Valuation: $10B. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Airwallex | nan |  | N/A | 🔒 | N/A |
-| Aizon | nan |  | N/A | 🔒 | N/A |
-| Akasa | Akasa Air is a unique startup airline founded by Vinay Dube, the former CEO of GoAir, with a mission to make air travel affordable and accessible to all Indians. The company has raised $310 million in funding from investors including SoftBank Vision Fund 2, Norwest Venture Partners, and Qatar Airways. Akasa Air is set to launch operations in the summer of 2022. |  | N/A | 🔒 | N/A |
-| Akuna Capital | Akuna Capital: Global quantitative trading firm using cutting-edge technology. Funding: Over $1 billion raised. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Alamar Biosciences | Alamar Biosciences: Developing targeted cancer therapies.  Raised $100 million in funding. |  | N/A | 🔒 | N/A |
-| Alation | Alation is an enterprise data catalog company that helps organizations discover, understand, and manage their data. They have raised over $200 million in funding from investors such as Sequoia Capital, Kleiner Perkins, and Accel Partners. Alation's unique offering is their mission to make data accessible and usable for everyone in the enterprise, providing a central repository for all data and offering tools and services for data governance, data quality, and data lineage. They are a leader in the enterprise data catalog market and have a valuation of $1.5 billion. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Alation, Inc. | nan |  | N/A | 🔒 | N/A |
-| Albert | Albert uses AI to improve customer service.  Series C, $1 billion valuation, $100 million raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Alchemy | Alchemy provides blockchain infrastructure for decentralized applications.  Series C, $10.2B valuation, $350M raised. | A16Z, Sequoia | N/A | 🔒 | N/A |
-| Alcon | Alcon's mission: Solve global eye health challenges. Financials: $6.7B funding, $75B valuation. |  | N/A | 🔒 | N/A |
-| Aledade | nan |  | N/A | 🔒 | N/A |
-| Aleo | Aleo: Decentralized identity platform giving users control over data. Series B funding, $100 million valuation, $20 million raised. | A16Z, Coinbase | N/A | 🔒 | N/A |
-| Algolia | Algolia: AI-powered search engine making information accessible.  Funding: $150M, $2.5B valuation. | Accel | N/A | 🔒 | N/A |
-| Alkymi | nan |  | N/A | 🔒 | N/A |
-| Allegion | Allegion's mission: Creating a safer world. Financials: Fourth funding round, $1 billion raised. | Bain | N/A | 🔒 | N/A |
-| Allen Institute for AI | The Allen Institute for AI (AI2) is a non-profit research institute founded in 2013 by Paul Allen. With a current budget of $100 million, AI2 conducts fundamental research in artificial intelligence and aims to ensure that artificial general intelligence benefits all of humanity. What makes AI2 unique is its focus on conducting research for the greater good rather than for profit. The institute has received funding from prestigious investors such as Amazon, Google, and Microsoft. In terms of financials, AI2 has raised a total of $400 million in funding, with a valuation of $1.9 billion in its Series C funding round. |  | N/A | 🔒 | N/A |
-| Alloy | nan |  | N/A | 🔒 | N/A |
-| Alloy AI | Alloy AI is an artificial intelligence company founded in 2017 by Dr. Andrew Ng and Greg Brockman. They specialize in using natural language processing to assist businesses in comprehending and organizing their data. What sets them apart is their ability to leverage AI technology to provide advanced data management solutions. In terms of financials, Alloy AI has raised $160 million in funding from prominent investors including Google Ventures, Kleiner Perkins Caufield & Byers, and Sequoia Capital. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Alloy Automation | Run Alloy's mission: Enable previously impossible applications. Financials: Backed by leading investors. | Accel, YC | N/A | 🔒 | N/A |
-| Alloy.ai | nan |  | N/A | 🔒 | N/A |
-| Alluxio | Alluxio accelerates data-intensive applications on hybrid-clouds.  $100M Series D, $1.6B valuation. | A16Z | N/A | 🔒 | N/A |
-| Alma | nan |  | N/A | 🔒 | N/A |
-| Almanac | nan |  | N/A | 🔒 | N/A |
-| Aloft Appraisal | Aloft aims to create affordable and stylish AR glasses.  $100 million raised from top investors. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Alpaca | Alpaca's mission: democratize financial markets. Financials: $200 million raised from investors. | Sequoia | N/A | 🔒 | N/A |
-| Alpha Grep | Alpha Grep is a leading AI company founded in 2017 by two Stanford University computer science graduates. They have raised $100 million in funding from investors like Sequoia Capital and Kleiner Perkins. Alpha Grep uses natural language processing to help businesses find relevant information online and is already being used by major companies like Google, Amazon, and Microsoft. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| AlphaFlow | nan |  | N/A | 🔒 | N/A |
-| AlphaGrep Securities | nan |  | N/A | 🔒 | N/A |
-| AlphaSights | AlphaSights provides business intelligence to improve decision-making.  Series E funding: $400 million, valuation: $4.5 billion. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Alpine Investors | nan |  | N/A | 🔒 | N/A |
-| Altana AI | nan |  | N/A | 🔒 | N/A |
-| Alteryx | Alteryx: Democratizing analytics; raised over $500 million. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Altimate AI | Altimate: AI platform for personalized customer experiences.  $60M raised from Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Alto | Alto is a unique next-gen lending platform that offers fast and flexible credit to small businesses. It stands out due to its backing from prominent investors like Kleiner Perkins, Sequoia Capital, and Ribbit Capital. In its Series B funding round, Alto raised $100 million, reaching a valuation of $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Alto Pharmacy | nan |  | N/A | 🔒 | N/A |
-| Altro | Altro is a deep tech startup focused on developing the next generation of artificial intelligence. Their unique proposition lies in making AI more accessible and user-friendly for businesses of all sizes. Altro has successfully raised $100 million in funding from prominent investors such as Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Amadeus | Amadeus: Simplifying travel through innovative technology. Raised $2.5B, valued at $22B. |  | N/A | 🔒 | N/A |
-| Amarok Security | Amarok Security is a prominent cybersecurity solutions provider that aims to safeguard businesses from the constantly changing threat landscape. They have raised $100 million in funding from renowned investors like Sequoia Capital and Kleiner Perkins, and currently hold a valuation of $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Amazon | nan |  | N/A | 🔒 | N/A |
-| Ambi Robotics | Ambi Robotics develops advanced AI solutions for industrial automation.  Raised $100M in Series B funding, valued at $1B. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Ambience Healthcare | Ambience Healthcare aims to revolutionize chronic condition management. Series B funding, $1.2 billion valuation, $100 million raised. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Ambient AI | nan |  | N/A | 🔒 | N/A |
-| Ambiq | nan |  | N/A | 🔒 | N/A |
-| American Century Investments | American Century Investments delivers investment excellence to help clients achieve financial goals. $2.2 trillion AUM. |  | N/A | 🔒 | N/A |
-| American Family Insurance | Amica Financial Group provides property and casualty insurance. Series E funding, $1.5 billion valuation, $350 million raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Amika | Amika is a unique hair care company that stands out for its focus on creating sustainable, cruelty-free hair care products. Founded in 2014, the company has raised over $50 million in funding from notable investors and was acquired by Unilever in 2021 for $400 million. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Amino | Amino is a unique decentralized social media platform on the Ethereum blockchain, aiming to establish an open and democratic internet where users have ownership and control over their data. In their seed funding round, Amino has raised $10 million from prominent venture capital firms including Andreessen Horowitz and Sequoia Capital. | A16Z, Sequoia | N/A | 🔒 | N/A |
-| Amino, Inc. | nan |  | N/A | 🔒 | N/A |
-| Amperity | nan |  | N/A | 🔒 | N/A |
-| Ampla | nan |  | N/A | 🔒 | N/A |
-| Amplitude | nan |  | N/A | 🔒 | N/A |
-| Ampush | nan |  | N/A | 🔒 | N/A |
-| Anaconda | nan |  | N/A | 🔒 | N/A |
-| Anchorage | Anchorage is a digital asset platform that offers secure and compliant custody, trading, and issuance of digital assets for financial institutions. Founded in 2017 and based in New York City, Anchorage has raised $350 million in funding from investors including Andreessen Horowitz, GIC, and Goldman Sachs, and is currently valued at $3 billion. What makes Anchorage unique is its focus on providing a secure and compliant solution for financial institutions to engage with digital assets. | A16Z, Goldman Sachs | N/A | 🔒 | N/A |
-| Anchorage Digital | Anchorage: Making digital assets accessible to institutions.  $350M funding, $3B valuation. | A16Z | N/A | 🔒 | N/A |
-| Andela | nan |  | N/A | 🔒 | N/A |
-| Anduril Industries | Anduril develops AI-powered defense technology.  Series D funding, $2 billion raised. | Founders Fund, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Angi | nan |  | N/A | 🔒 | N/A |
-| Angle Labs | Angle Labs aims to revolutionize investing.  Series A funding round. |  | N/A | 🔒 | N/A |
-| Angle Labs | Angle Labs aims to democratize global financial access.  Venture-backed with top investors. | Kleiner Perkins, Sequoia, YC | N/A | 🔒 | N/A |
-| Ansira | nan |  | N/A | 🔒 | N/A |
-| Ansys | Company mission: Empower engineers to create a sustainable world. Financials: $1 billion annual revenue, $20 billion valuation. |  | N/A | 🔒 | N/A |
-| Ansys | Ansys enables innovative product design through engineering simulation. Backed by $1.2 billion funding, valued at $14 billion. | Kleiner Perkins, Tiger Global | N/A | 🔒 | N/A |
-| Anthropic | Anthropic aims to solve existential risks.  Raised $240 million in funding. |  | N/A | 🔒 | N/A |
-| Antler | Antler invests in and launches new tech companies globally. Series C, $1.3B valuation, $245M raised. | Founders Fund, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| AnyRoad | AnyRoad: Revolutionizing transportation with self-driving trucks.  Venture-backed with $100 million raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Anyscale | Anyscale's mission: Making distributed computing accessible to everyone. Financials: $200M funding, $1.1B valuation. | Accel, Sequoia | N/A | 🔒 | N/A |
-| Apeel Sciences | Apeel Sciences is a unique food technology company that develops plant-based coatings to prolong the shelf life of fresh produce, eliminating the need for chemicals. They have raised $290 million in funding from notable investors including Bill Gates, Jeff Bezos, and Leonardo DiCaprio. |  | N/A | 🔒 | N/A |
-| Apeel Sciences Careers | Apeel's mission: Reduce food waste, increase produce accessibility. Financials: $290M raised, $2.1B valuation. |  | N/A | 🔒 | N/A |
-| Apex | Apex: Making AI accessible for businesses.  $1B funding, $7B valuation. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Apixio | Apixio is a healthcare data analytics company that aims to make healthcare more affordable and accessible by utilizing its proprietary AI platform to aggregate and analyze patient data from various sources, offering valuable insights to improve patient care and outcomes. In March 2023, the company raised $100 million in Series E funding, bringing its total funding to $400 million, with participation from Insight Partners, GV, Kaiser Permanente Ventures, and McKesson Ventures. | Google Ventures, Insight Partners | N/A | 🔒 | N/A |
-| Apollo | ApollographQL aims to make GraphQL the web's data fetching standard. Series C funding, $1.1 billion valuation, $31.5 million raised. | A16Z, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Apollo Insurance | Apollo Insurance is an innovative insurtech company that is revolutionizing the insurance industry through its unique risk assessment and pricing methods. With a $100 million Series A funding round led by Sequoia Capital and a valuation of $1 billion, Apollo Insurance is making waves in the market. | Sequoia | N/A | 🔒 | N/A |
-| Apollo.io | Apollo.io helps sales and marketing teams connect with prospects.  $100M funding, $1B valuation. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| AppLovin | AppLovin: Mobile ad platform for app developers.  $1B funding, $15B valuation. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| AppOmni | nan |  | N/A | 🔒 | N/A |
-| Appcues | nan |  | N/A | 🔒 | N/A |
-| Appfolio | nan |  | N/A | 🔒 | N/A |
-| Appian | Appian is a unique low-code development platform that allows businesses to create and implement high-quality applications without requiring extensive coding expertise. Founded in 2006 and based in Boston, Massachusetts, Appian has raised more than $1 billion in funding from notable investors including Goldman Sachs, T. Rowe Price, and Salesforce Ventures. In its latest funding round, the company achieved a valuation of $13.7 billion. | Goldman Sachs, Salesforce Ventures | N/A | 🔒 | N/A |
-| Appian Corporation | Appian enables low-code development for businesses.  $1 billion funding, $10 billion valuation. | Goldman Sachs, Salesforce Ventures | N/A | 🔒 | N/A |
-| Apple | Apple's mission is to provide groundbreaking user experiences. The company's financials include Series G funding, a \$2.4 trillion valuation, and \$65.6 billion raised. |  | N/A | 🔒 | N/A |
-| Apple | Apple's mission is to innovate technology for customers. The company has raised $100 million in a Series C funding round, with a valuation of $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Apple | Apple's mission is to provide groundbreaking user experiences. The company's financials include Series G funding, a \$2.4 trillion valuation, and \$65.6 billion raised. |  | N/A | 🔒 | N/A |
-| Applied Materials | nan |  | N/A | 🔒 | N/A |
-| ApplyBoard | nan |  | N/A | 🔒 | N/A |
-| AptDeco | nan |  | N/A | 🔒 | N/A |
-| Aptos | Aptos Labs: Decentralized finance for all.  $200M Series B funding. | A16Z, Coinbase, Kleiner Perkins | N/A | 🔒 | N/A |
-| Aquatic Capital Management | Aquatic Capital Management: Investing in AI startups. Raised $100 million. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Arc Boats | Arc Boats: Autonomous electric boats for accessible, sustainable boating.  $60M raised from top investors. | Founders Fund, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Arc Technologies | nan |  | N/A | 🔒 | N/A |
-| Arcadia | nan |  | N/A | 🔒 | N/A |
-| Arcadia | nan |  | N/A | 🔒 | N/A |
-| Arcadia Energy | Arcadia Energy is a prominent renewable energy solutions provider that aims to expedite the shift towards clean energy by offering affordable and sustainable energy choices. What sets them apart is their impressive financial backing, having raised more than $1 billion in funding from notable investors such as Google Ventures, Kleiner Perkins, and TPG Growth. The company's valuation currently stands at over $1 billion. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Arcellx | nan |  | N/A | 🔒 | N/A |
-| Archive | nan |  | N/A | 🔒 | N/A |
-| Archive Resale | Archive Resale is a prominent online marketplace that specializes in the buying and selling of pre-owned luxury goods. Their unique approach lies in their mission to make luxury goods more accessible and sustainable, offering a secure platform for both buyers and sellers. In terms of financials, the company has raised a total of $150 million in funding, with a valuation of $100 million, through a Series B funding round. Notably, Archive Resale has attracted prestigious investors such as Kleiner Perkins Caufield & Byers, Accel Partners, and Forerunner Ventures. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Arctic Wolf | nan |  | N/A | 🔒 | N/A |
-| Arist | Arist is a deep learning company founded in 2017 that utilizes artificial intelligence to deliver personalized customer experiences. What sets them apart is their ability to leverage AI technology to create tailored interactions. The company has raised $100 million in funding from notable investors such as Google Ventures, Kleiner Perkins Caufield & Byers, and Accel. | Accel, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Aritzia | nan |  | N/A | 🔒 | N/A |
-| Arkestro | nan |  | N/A | 🔒 | N/A |
-| Arrive Logistics | nan |  | N/A | 🔒 | N/A |
-| Arrowstreet Capital | Arrowstreet Capital aims to generate alpha through disciplined investing. Series C funding, \$1.5 billion valuation, \$1.2 billion raised. | Goldman Sachs | N/A | 🔒 | N/A |
-| Arsenal Biosciences | nan |  | N/A | 🔒 | N/A |
-| ArsenalBio | ArsenalBio is a synthetic biology company founded in 2016 that specializes in developing innovative therapeutics through their unique platform for designing, constructing, and testing gene circuits. They have raised $200 million in funding from notable investors including Flagship Pioneering, Polaris Partners, and GV. |  | N/A | 🔒 | N/A |
-| Art Processors | Art Processors: democratizing art; $100M funding, $1B valuation. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Arta Finance | nan |  | N/A | 🔒 | N/A |
-| Artemis | nan |  | N/A | 🔒 | N/A |
-| Arthur AI | Arevo aims to revolutionize composite material manufacturing.  Series B funding: $75 million, valuation: $500 million, total raised: $110 million. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Articulate | nan |  | N/A | 🔒 | N/A |
-| Artisan Partners | nan |  | N/A | 🔒 | N/A |
-| Artsy | nan |  | N/A | 🔒 | N/A |
-| Asana | Asana's mission: Remove friction from work. Financials: $500M funding, $10B valuation. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Asana  | Asana is a unique work management platform that assists teams in organizing, tracking, and managing their work. Founded in 2008, the company has raised more than $500 million in funding from notable investors including Sequoia Capital, Tiger Global Management, and Kleiner Perkins Caufield & Byers, and is currently valued at over $10 billion. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Asana Early Career Programs | Early Career Programs: Equitable tech careers, $100M funding, $1B valuation. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Ascend.io | nan |  | N/A | 🔒 | N/A |
-| Ashby | nan |  | N/A | 🔒 | N/A |
-| Asimov | Asimov: Deep learning lab for self-driving cars.  Founded 2017, $100M funding, $1B valuation. | Google Ventures | N/A | 🔒 | N/A |
-| Aspire | nan |  | N/A | 🔒 | N/A |
-| Assembled | nan |  | N/A | 🔒 | N/A |
-| AssemblyAI | AssemblyAI's mission: Revolutionizing information interaction with AI. Financials: Series B raised $135M, $1.3B valuation. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Assurance Careers | nan |  | N/A | 🔒 | N/A |
-| Assurance IQ | Assurance IQ is an AI-powered insurance platform that aims to simplify and make insurance affordable for businesses of all sizes. They have raised $200 million in funding from investors like Accel, General Catalyst, and Ribbit Capital, and currently have a valuation of $1 billion. | Accel | N/A | 🔒 | N/A |
-| Assured | nan |  | N/A | 🔒 | N/A |
-| Astra | nan |  | N/A | 🔒 | N/A |
-| Astranis | Astranis: Providing affordable internet to underserved communities.  Funding: $67 million from investors. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Asure | nan |  | N/A | 🔒 | N/A |
-| At-Bay | nan |  | N/A | 🔒 | N/A |
-| Athelas | nan |  | N/A | 🔒 | N/A |
-| Athena Health | Athenahealth's mission is to improve healthcare. Funding: Series F, Valuation: $11 billion, Total raised: $6 billion. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Atlan | nan |  | N/A | 🔒 | N/A |
-| Atlassian | Atlassian's mission is to improve team collaboration.  Valued at $27.4 billion, raised $6.3 billion. | Sequoia | N/A | 🔒 | N/A |
-| Atlys | ATLYS: AI company making information accessible; Series B, \$1B valuation, \$100M raised. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Atlys | Atlys: Democratizing computational imaging.  Series A: $30 million raised. | Sequoia | N/A | 🔒 | N/A |
-| AtoB | AtoB's mission: Enhancing automotive safety and enjoyment. Financials: $100M funding, $1B valuation. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Atom Finance | nan |  | N/A | 🔒 | N/A |
-| Atomic | Atomic: Next-gen cybersecurity solutions for businesses.  Venture-backed, $200M raised, $1B valuation. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Atomic VC | Atomic VC is a venture capital firm that focuses on investing in early-stage startups with a mission to support promising entrepreneurs who are shaping the future. They have raised $100 million in funding and have invested in over 50 companies, including notable ones like Airbnb, Uber, and Palantir. |  | N/A | 🔒 | N/A |
-| Atomwise | nan |  | N/A | 🔒 | N/A |
-| Attabotics | Attabotics revolutionizes warehouses; efficient, sustainable.  Series C: $250M, $1.5B valuation. |  | N/A | 🔒 | N/A |
-| AttackIQ | nan |  | N/A | 🔒 | N/A |
-| Attentive | nan |  | N/A | 🔒 | N/A |
-| Attest | nan |  | N/A | 🔒 | N/A |
-| Aucto | nan |  | N/A | 🔒 | N/A |
-| AudienceX | AudienceX is a venture-backed startup founded in 2017 that utilizes artificial intelligence to offer personalized recommendations for users online. They have raised $12 million in funding from investors including Y Combinator and Kleiner Perkins Caufield & Byers, and are currently in their Series A round of funding. What makes them unique is their use of AI to deliver tailored recommendations to users. | Kleiner Perkins, YC | N/A | 🔒 | N/A |
-| Audigent | nan |  | N/A | 🔒 | N/A |
-| Audius | nan |  | N/A | 🔒 | N/A |
-| Augmedix | nan |  | N/A | 🔒 | N/A |
-| Aurora | Aurora is a prominent self-driving vehicle developer with a mission to enhance road safety through the widespread deployment of autonomous vehicles. They have secured more than $1 billion in funding from notable investors like Sequoia Capital, TPG, and Kleiner Perkins, and are presently in a Series B funding round. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Aurora Innovation | nan |  | N/A | 🔒 | N/A |
-| Aurora Labs | nan |  | N/A | 🔒 | N/A |
-| Aurora Solar | nan |  | N/A | 🔒 | N/A |
-| Auterion | nan |  | N/A | 🔒 | N/A |
-| Autify | Autify is an AI-powered test automation platform founded in 2017 to address the challenges of manual testing. They aim to make test automation accessible to all software teams, regardless of their size or technical expertise. Autify has raised $200 million in funding, with a valuation of $1.4 billion, and its investors include Kleiner Perkins, Insight Partners, and Tiger Global Management. They are a leader in the test automation space, serving major companies like Google, Amazon, and Microsoft, and are well-positioned for future growth as the demand for test automation rises. | Insight Partners, Kleiner Perkins, Tiger Global | N/A | 🔒 | N/A |
-| Autify, Inc. | Autify's mission is to simplify software testing. The company has raised $200 million in funding. | Accel, Kleiner Perkins, Tiger Global | N/A | 🔒 | N/A |
-| Autodesk | Autodesk's mission: Empower people to create a better world. Financials: $1B funding, $30B valuation. | Blackrock | N/A | 🔒 | N/A |
-| Autograph | nan |  | N/A | 🔒 | N/A |
-| Ava Labs | nan |  | N/A | 🔒 | N/A |
-| Avala | nan |  | N/A | 🔒 | N/A |
-| Avala AI | Avala AI is a deep learning company founded in 2017 that offers an end-to-end platform for developers to build and deploy AI applications. What makes them unique is their mission to make AI accessible to everyone, allowing developers to create and deploy AI applications without prior knowledge of deep learning. The company has raised $20 million in funding from investors including Google Ventures, Intel Capital, and Accel. | Accel, Google Ventures | N/A | 🔒 | N/A |
-| Avantium | Avantium's mission: "make chemistry sustainable." Financials: Series C funding, $1 billion valuation, $200 million raised. |  | N/A | 🔒 | N/A |
-| Aven | nan |  | N/A | 🔒 | N/A |
-| Aviatrix | nan |  | N/A | 🔒 | N/A |
-| Avnet | Avnet's mission: Build a connected world. Financials: $28B revenue, $50B market cap. | Goldman Sachs | N/A | 🔒 | N/A |
-| Awardco | nan |  | N/A | 🔒 | N/A |
-| Aware | Aware's mission: Improve decision-making with AI.  Financials: $100M raised, $1B valuation. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Away | nan |  | N/A | 🔒 | N/A |
-| Axiom Zen | Axiom Zen is a venture capital firm founded in 2014 by Sam Altman and Justin Kan. They have raised $1.2 billion in funding and have invested in over 100 companies, including notable ones like Coinbase, OpenAI, and Twitch. What makes them unique is their focus on early-stage companies and their impressive track record of successful investments. |  | N/A | 🔒 | N/A |
-| Axios | Axios: Inform and inspire through unbiased news. Raised $100M, valued at $1B. | A16Z, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Axon | Axon's mission is to protect life.  $2.2 billion in funding. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Axoni | Axoni's mission: Enhancing cybersecurity for critical infrastructure. Financials: $200M funding, $1B valuation. | Goldman Sachs | N/A | 🔒 | N/A |
-| Azra Games | Azra Games aims to create immersive and engaging games. They have raised over $30M in a Series A funding round, with a valuation of $100M+. | A16Z, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Aztec | Aztec: Decentralized secure communication platform.  Series B funding, $200 million valuation, $60 million raised. | A16Z, Coinbase | N/A | 🔒 | N/A |
-| Aztec | Aztec: Building secure, scalable, and private blockchain infrastructure. $20M raised from top investors. | A16Z | N/A | 🔒 | N/A |
-| B-Stock | nan |  | N/A | 🔒 | N/A |
-| B12 | B12's mission: Revolutionize learning with AI. Financials: $100M funding, $1B valuation. | Accel | N/A | 🔒 | N/A |
-| BAO, Inc | Bao Inc. aims to solve global issues with AI.  Series C funding, valued at $10 billion, raised $1.5 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| BARK | nan |  | N/A | 🔒 | N/A |
-| BCG Digital Ventures | BCG Digital Ventures is a global innovation and venture capital firm that assists companies in their digital transformation through the use of digital technologies. They have invested in over 200 companies and have raised over $1 billion in funding. BCGDV's unique approach lies in their mission to help companies create new businesses, disrupt their industries, and accelerate their digital transformation. In terms of financials, they have recently completed a Series C funding round, resulting in a valuation of $1.1 billion and a total amount raised of $1.3 billion. Notably, they have attracted prestigious investors such as Alphabet, Microsoft, and Salesforce. |  | N/A | 🔒 | N/A |
-| BCG X | BCG Digital Ventures helps companies innovate digitally. Series E funding, $2.1 billion valuation, $430 million raised. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| BDG | BDG's mission is to make knowledge accessible and useful. The company has raised $130M in a Series C funding round, with a valuation of $1.2B. | Accel, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| BETA Technologies | Beta is building a global remote workforce platform. (7 words) Series A funded, $10 million raised. (5 words) | Sequoia, YC | N/A | 🔒 | N/A |
-| BHG Financial | BHG Inc. aims to revolutionize healthcare with AI.  Series B funding, $100 million raised. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| BILL | Bill.com helps businesses get paid faster.  Raised $600M, valued at $5B. | Bain, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| BMO | BMO Financial Group's mission: Help customers succeed financially. Financials: Net income $10.3 billion, market cap $60.8 billion. |  | N/A | 🔒 | N/A |
-| BStock Solutions | BStock Solutions is a leading provider of cloud-based inventory management solutions for the retail industry, offering features to help retailers track inventory, manage orders, and forecast demand. What makes them unique is their mission to help retailers optimize their inventory and improve their bottom line. The company has raised $100 million in funding from investors like Kleiner Perkins Caufield & Byers and Sequoia Capital, and is currently valued at $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| BTIG | BTIG is a global financial services firm that offers execution, research, and advisory services to institutional investors. They aim to be the leading provider of innovative financial solutions worldwide. What makes them unique is their prestigious investors, including Goldman Sachs, J.P. Morgan, and Morgan Stanley. In terms of financials, BTIG has raised a total of $220 million in a Series C funding round, resulting in a valuation of $1.2 billion. | Goldman Sachs | N/A | 🔒 | N/A |
-| Babylon | nan |  | N/A | 🔒 | N/A |
-| Babylon Health | Babylon Health is a unique digital healthcare company that aims to empower individuals by providing various services, including symptom checkers, prescriptions, and video consultations, through the use of artificial intelligence. The company has raised over $600 million in funding from notable investors like Google Ventures and SoftBank Vision Fund, and it was valued at $4.6 billion in 2021. | Google Ventures | N/A | 🔒 | N/A |
-| Backbone | nan |  | N/A | 🔒 | N/A |
-| BackerKit | BackerKit: Crowdfunding platform for creators. Raised $1 billion. | Accel | N/A | 🔒 | N/A |
-| Backerkit | BackerKit is a unique crowdfunding platform that assists creators and entrepreneurs in successfully launching their projects by providing tools to manage campaigns, collect payments, and fulfill rewards. The company has raised $18.5 million in funding from prominent investors including Andreessen Horowitz, Kleiner Perkins, and Accel. | A16Z, Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Badger Meter | Badger Meter: Global leader in smart water technology. Series D funding, $1 billion valuation, $100 million raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Balbix | nan |  | N/A | 🔒 | N/A |
-| Bandwidth | Bandwidth's mission: Connect businesses effectively and securely. Financials: $500M funding, $2B valuation. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Barefoot | nan |  | N/A | 🔒 | N/A |
-| Barefoot Proximity | Barefoot Proximity is a startup working on a unique wearable device that monitors user biometrics and offers immediate guidance to enhance athletic performance. The company has received $10M in funding from prominent venture capital firms. |  | N/A | 🔒 | N/A |
-| Baseten | BaseTen: Developing cybersecurity solutions. Series B funding, \$1 billion valuation, \$100 million raised. | Accel, Sequoia | N/A | 🔒 | N/A |
-| Basis Technologies | Centro: AI solutions for businesses. Series C, $100M, $1B valuation. | Insight Partners, Kleiner Perkins | N/A | 🔒 | N/A |
-| Basten | Basten is a unique deep tech company specializing in artificial intelligence solutions for the energy sector. They aim to facilitate the energy transition by offering tools to optimize energy consumption and reduce carbon footprint. The company has successfully raised $100 million in funding from prominent investors such as NEA and Sequoia Capital, resulting in a current valuation of $1 billion. | Sequoia | N/A | 🔒 | N/A |
-| Baton (A Ryder Technology Lab) | nan |  | N/A | 🔒 | N/A |
-| Baton Trucking | Baton Trucking is an autonomous trucking company that aims to revolutionize the logistics industry with its advanced technology and experienced team. They are poised to disrupt the $800 billion trucking industry. The company has raised $200 million in funding from prominent investors, including Kleiner Perkins Caufield & Byers and Sequoia Capital, and is currently in its Series B funding round. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| BaubleBar | nan |  | N/A | 🔒 | N/A |
-| Bazaarvoice | nan |  | N/A | 🔒 | N/A |
-| BeReal. | BeReal: Real-time, unedited social media; $35M raised. |  | N/A | 🔒 | N/A |
-| Beacon Platform | Beacon Platform aims to democratize blockchain technology.  $50M funding, $300M valuation. | Coinbase, Sequoia | N/A | 🔒 | N/A |
-| Beacons | Ashby's mission is to enhance safety through real-time movement tracking. The company has raised $100 million in funding. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Beam | Beam is a unique decentralized privacy-preserving blockchain that allows users to send private transactions and swap tokens anonymously. It recently raised $20 million in a Series A funding round led by Polychain Capital, bringing its total funding to $25 million. |  | N/A | 🔒 | N/A |
-| Beam Benefits | Beam: Developing intuitive AR glasses.  Backed by top-tier investors. | A16Z, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Beek | Beek is a unique decentralized social media platform that prioritizes user ownership and control over their data. Founded in 2021 by two Stanford University students, the company has raised $10 million in funding from notable investors such as Y Combinator and Kleiner Perkins. Currently in beta, Beek is available to users in the United States. In terms of financials, Beek has completed a Series A funding round, resulting in a valuation of $100 million with a total amount raised of $10 million. | Kleiner Perkins, YC | N/A | 🔒 | N/A |
-| Believer | Believer empowers creators to build communities and earn income.  $7 million raised in funding. | Accel, Coinbase | N/A | 🔒 | N/A |
-| Beliver | Beliver is a prominent company in the financial services industry, offering innovative AI-powered solutions to enhance accessibility, affordability, and transparency. They have secured $100 million in funding from renowned investors like Sequoia Capital and Kleiner Perkins, and currently hold a valuation of $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Belong | Belong Home aims to improve renting through a social platform.  $10 million raised from top investors. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Belvedere Trading | Belvedere Trading: Quantitative trading firm using advanced technology. Founded 2014, raised $100M+, valued $1B+. | Sequoia | N/A | 🔒 | N/A |
-| BenchSci | BenchSci: AI transforming life sciences research.  $100M funding, $1B valuation. | Google Ventures, Sequoia | N/A | 🔒 | N/A |
-| Benchling | Benchling's mission: Empower life sciences to solve global problems. Financials: Raised $100M, valued at $1.1B. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Benchling | Benchling: Cloud-based platform for life sciences research.  Funding: Over $100 million raised. | Google Ventures | N/A | 🔒 | N/A |
-| Benepass | nan |  | N/A | 🔒 | N/A |
-| Benevity | nan |  | N/A | 🔒 | N/A |
-| BentoBox | BentoBox: Future of food software platform. Valued at $1.5B. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Bereal | Bereal is a unique social media app founded in 2022 that stands out by promoting the sharing of unfiltered, real-life moments. The company has successfully raised $25 million in funding from prominent investors including Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| BerlinRosen | BerlinRosen's mission: Helping clients create a better future. Financials: Raised over $100 million. |  | N/A | 🔒 | N/A |
-| Beta Technologies | Beta Technologies is a unique developer of electric vertical takeoff and landing (eVTOL) aircraft, aiming to make air travel more sustainable and accessible. The company has raised over $200 million in funding from notable investors including Fidelity Investments, Baillie Gifford, and General Motors. |  | N/A | 🔒 | N/A |
-| Better.com | nan |  | N/A | 🔒 | N/A |
-| BetterCloud | nan |  | N/A | 🔒 | N/A |
-| BetterSleep | nan |  | N/A | 🔒 | N/A |
-| BetterUp | nan |  | N/A | 🔒 | N/A |
-| Betterment | Betterment is an online financial advisor that stands out as the largest independent digital wealth manager in the U.S. They utilize algorithms to offer personalized investment advice. In terms of financials, the company raised $300 million in Series E funding in 2021, valuing the company at $4.8 billion. Notable investors include Sequoia Capital, T. Rowe Price, and Fidelity. | Sequoia | N/A | 🔒 | N/A |
-| Betterworks | nan |  | N/A | 🔒 | N/A |
-| Beyond Identity | nan |  | N/A | 🔒 | N/A |
-| Big Health | nan |  | N/A | 🔒 | N/A |
-| BigCommerce | nan |  | N/A | 🔒 | N/A |
-| BigHat Biosciences | BigHat Biosciences: Developing microbial platforms for low-cost production.  Funding: $100M raised, $1.2B valuation. | Google Ventures | N/A | 🔒 | N/A |
-| Bill | Bill is a venture-backed startup founded in 2017 that utilizes artificial intelligence to enhance customer experiences. It has raised $10 million in funding from investors including Kleiner Perkins Caufield & Byers and Sequoia Capital, and currently holds a valuation of $50 million. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| BillionToOne | BillionToOne uses AI to find top talent.  Venture-backed, $200M funding, $1B valuation. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Billtrust | Billtrust is a B2B payments platform that assists businesses in accelerating their payment collection process. Founded in 2005 and based in Atlanta, Georgia, Billtrust offers a unique solution for businesses of all sizes to improve their cash flow by facilitating faster payments. In February 2023, the company raised $250 million in Series E funding, valuing the company at $2.5 billion. Insight Partners led the funding round, joined by existing investors TPG Growth, Scale Venture Partners, and Norwest Venture Partners. | Insight Partners | N/A | 🔒 | N/A |
-| Billtrust US Careers | nan |  | N/A | 🔒 | N/A |
-| Bilt Rewards | nan |  | N/A | 🔒 | N/A |
-| Binti | nan |  | N/A | 🔒 | N/A |
-| Biofire | Biofire is a San Diego-based company that develops rapid, portable, and affordable diagnostic tests for infectious diseases. What makes them unique is their focus on creating tests that can be used in resource-constrained settings, such as rural clinics and hospitals in developing countries. The company was founded in 2014 by a team of scientists and engineers from the University of California, San Diego. In 2017, Biofire raised $25 million in Series A funding led by Illumina Ventures, and currently has a valuation of $100 million. Their tests are not only being used in developing countries but also in the United States and Europe for diagnosing infectious diseases. |  | N/A | 🔒 | N/A |
-| BitGo | nan |  | N/A | 🔒 | N/A |
-| BitMEX | nan |  | N/A | 🔒 | N/A |
-| Bitcoin Depot | nan |  | N/A | 🔒 | N/A |
-| Bitfury | nan |  | N/A | 🔒 | N/A |
-| Bitrise | Bitrise: Simplifying mobile app development.  $100M funding, $1B valuation. | Bessemer, Insight Partners, Kleiner Perkins | N/A | 🔒 | N/A |
-| Bittrex | Bittrex is a global cryptocurrency exchange founded in 2014, known for its strong emphasis on security, innovation, and customer service. With over 3 million registered users worldwide, the company is headquartered in Seattle, Washington. In February 2019, Bittrex raised $100 million in a Series C funding round led by Fortress Investment Group, resulting in a valuation of over $1 billion. |  | N/A | 🔒 | N/A |
-| Bitwarden | nan |  | N/A | 🔒 | N/A |
-| BlackBerry | Brex provides financial tools for startups to succeed.  Raised $1 billion, valued at $12 billion. | Sequoia, YC | N/A | 🔒 | N/A |
-| Blackbaud | Blackbaud powers nonprofits, raising $1 billion in funding. | Accel | N/A | 🔒 | N/A |
-| Blackbird | nan |  | N/A | 🔒 | N/A |
-| Blackbird Interactive | Blackbird Interactive is a video game development studio founded in 2007 with a mission to create innovative and engaging games that push the boundaries of the medium. They have released critically acclaimed games like Homeworld: Deserts of Kharak and Alien: Isolation. Currently, they are working on a new game called Star Citizen, which is being crowdfunded through Kickstarter. The company has raised over $200 million in funding from investors including Tencent, Amazon, and Intel.   What makes Blackbird Interactive unique is their focus on pushing the boundaries of what is possible in video game development, as well as their successful track record of critically acclaimed games. Additionally, their ability to secure significant funding from major investors highlights their potential for continued growth and success in the industry. |  | N/A | 🔒 | N/A |
-| Blackboard | nan |  | N/A | 🔒 | N/A |
-| Blackstone | Blackstone's mission: Create positive economic impact and long-term value. Financials: $21 billion funding round, $600 billion valuation. |  | N/A | 🔒 | N/A |
-| Blackstone | Blackstone: Global investment firm creating positive impact.  $20 billion funding round, $684 billion valuation. |  | N/A | 🔒 | N/A |
-| Blackstone | Blackstone's mission: Creating positive impact for clients, employees, and communities. Financials: $21.7 billion funding round, $684 billion valuation. |  | N/A | 🔒 | N/A |
-| Blend | Blend: Digital lender for small businesses.  $2.2B Series E, $11.7B valuation, $4.5B raised. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Blink UX | nan |  | N/A | 🔒 | N/A |
-| Blinkist | nan |  | N/A | 🔒 | N/A |
-| BlocPower | nan |  | N/A | 🔒 | N/A |
-| Blockchain.com | nan |  | N/A | 🔒 | N/A |
-| Blockstream | nan |  | N/A | 🔒 | N/A |
-| Blockworks | Blockworks: Media and research for the digital asset ecosystem. $10M Series A funding, $15M total raised. | Tiger Global | N/A | 🔒 | N/A |
-| Bloom Institute of Technology | nan |  | N/A | 🔒 | N/A |
-| Blue Crest Capital Management | Blue Crest Capital Management is a global macro hedge fund founded in 2000 by Peter Borish. They have offices in New York, London, and Hong Kong and aim to provide investors with superior risk-adjusted returns through a disciplined approach to macro investing. Blue Crest has a long track record of success and has been ranked as one of the top performing macro hedge funds globally. In 2018, they received the "Best Macro Hedge Fund" award from Institutional Investor. The firm has raised over $10 billion in capital from institutional investors and currently manages $12 billion in assets. |  | N/A | 🔒 | N/A |
-| Blue Cross Blue Shield of Massachusetts | Blue Cross Blue Shield of Massachusetts provides affordable health care. Funding round: Series E, Valuation: $6.5 billion, Total amount raised: $1.2 billion. |  | N/A | 🔒 | N/A |
-| Blue Origin | Blue Origin's mission is space exploration.  Raised over $7 billion in funding. | Blackrock | N/A | 🔒 | N/A |
-| Blue River Technology | nan |  | N/A | 🔒 | N/A |
-| BlueCrest Capital Management | BlueCrest Capital Management: Global macro hedge fund with systematic approach. Raised over $10 billion. |  | N/A | 🔒 | N/A |
-| BlueYonder | JDA Software Group's mission is operational excellence through innovative solutions. Raised $1 billion, valued at $5 billion. | Goldman Sachs | N/A | 🔒 | N/A |
-| Bluesky | BlueSky: Making AI accessible; $100M raised. | Google Ventures, YC | N/A | 🔒 | N/A |
-| Bodo AI | Bodo AI is an AI company founded in 2017 that specializes in natural language processing to assist businesses in comprehending and engaging with their customers. What sets them apart is their ability to leverage AI technology to enhance customer interactions. They have secured $120 million in funding from prominent investors including Sequoia Capital, Kleiner Perkins, and GV, resulting in a valuation of $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Bodo, Inc. | Bodo: AI-powered customer success platform. Series B, $1.1B valuation, $140M raised. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Boku | Boku: Simplifying mobile payments globally.  Funding: $100M+, Valuation: $1B+. | Sequoia | N/A | 🔒 | N/A |
-| Bonfire Studios | Bonfire Studios aims to create immersive blockchain games.  $2.1M raised from top investors. |  | N/A | 🔒 | N/A |
-| Boom Supersonic | Boom Supersonic: Developing safe, sustainable, and accessible supersonic travel. Raised $200 million in funding. | YC | N/A | 🔒 | N/A |
-| Boost | nan |  | N/A | 🔒 | N/A |
-| Boost Insurance | Boost Insurance is an AI-powered insurance company founded in 2017 that utilizes data science to offer personalized and affordable insurance policies. They have raised $31 million in funding from investors including Sequoia Capital and General Catalyst, and currently hold a valuation of $100 million. What makes them unique is their use of AI and data science to provide tailored insurance solutions. | Sequoia | N/A | 🔒 | N/A |
-| BorgWarner | BorgWarner: Powertrain solutions for sustainable mobility.  2021 revenue: $13.6 billion. |  | N/A | 🔒 | N/A |
-| Bose | Bose's mission: Develop innovative technologies for global improvement. Financials: Valued at $4.1 billion, raised $595 million. | Sequoia | N/A | 🔒 | N/A |
-| Boulevard | nan |  | N/A | 🔒 | N/A |
-| Bounteous | nan |  | N/A | 🔒 | N/A |
-| Box | Box: Cloud-based content management platform. Mission: Improve information accessibility. Financials: $182M funding, $7.7B valuation. | Salesforce Ventures | N/A | 🔒 | N/A |
-| Bracebridge Capital | Bracebridge Capital invests in AI startups. Series A, \$100 million raised. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Brain Corp | nan |  | N/A | 🔒 | N/A |
-| Brain Corporation | Brain Corporation is a robotics company that specializes in developing brain-inspired AI systems with the goal of creating robots that can think and act like humans. They have raised $100 million in funding from notable investors including Google Ventures, Kleiner Perkins Caufield & Byers, and GV. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Brain Technologies | Brain Technologies develops BCIs to empower people with disabilities.  Series A, \$100M valuation, \$20M raised. | Google Ventures | N/A | 🔒 | N/A |
-| Branch | nan |  | N/A | 🔒 | N/A |
-| Branch Metrics | nan |  | N/A | 🔒 | N/A |
-| Branch.gg | Branch.gg is a venture-backed startup focused on developing advanced e-commerce infrastructure to simplify online selling for businesses of all sizes. They have raised $100 million in funding from prominent investors like Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| BranchMetrics | BranchMetrics is a mobile attribution platform that enables companies to monitor the success of their marketing campaigns. Founded in 2011 and based in San Francisco, California, BranchMetrics offers unique solutions for tracking mobile marketing effectiveness. In 2019, the company secured $60 million in Series C funding, led by General Atlantic. BranchMetrics has been acquired by Google. |  | N/A | 🔒 | N/A |
-| Brand Knew | Brand Knew: Empowering creators to sell their own brands. Venture-backed startup, raised $100 million, valued at $1 billion. | Kleiner Perkins, Sequoia, YC | N/A | 🔒 | N/A |
-| Brave | Brave: Privacy-focused browser blocking ads and trackers.  Funding: $350M+, Valuation: $1B+. | A16Z, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Braze | Braze: Customer engagement platform. Raised $300M, valued at $1B. | Accel, Sequoia | N/A | 🔒 | N/A |
-| Bread Financial | Bread Financial: Empowering financial accessibility.  $600M raised from Goldman Sachs, Citigroup, Visa. | Goldman Sachs | N/A | 🔒 | N/A |
-| BreederDAO | BreederDAO aims to simplify digital asset creation and management.  Series A funding, $100M valuation, $13.3M raised. | Coinbase | N/A | 🔒 | N/A |
-| Breeze Airways | Breeze Airways is a new airline founded in 2018 by David Neeleman, the founder of JetBlue Airways. They are disrupting the industry with their low fares and innovative business model. The company has raised $1.15 billion in funding from investors including JetBlue Airways, Google Ventures, and Oaktree Capital Management, and is currently valued at $1.7 billion. | Google Ventures | N/A | 🔒 | N/A |
-| Breeze Airways™ | nan |  | N/A | 🔒 | N/A |
-| Brex | Brex's mission is to help startups succeed. (7 words) Raised $1.1 billion, valued at $12 billion. (6 words) | Sequoia | N/A | 🔒 | N/A |
-| BridgeBio | BridgeBio's mission is to develop transformative medicines for serious diseases. The company has raised over $1 billion in funding. |  | N/A | 🔒 | N/A |
-| Bridgewater Associates | Bridgewater AI: AI-powered data management for businesses.  Series B funding, $500 million valuation, $100 million raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| BrightHire | nan |  | N/A | 🔒 | N/A |
-| BrightSide | BrightSide is an AI-powered startup that assists individuals in discovering the most favorable deals on products and services. What sets them apart is their utilization of artificial intelligence technology to provide personalized recommendations and optimize savings for users. The company has successfully secured $100 million in funding from prominent investors including Sequoia Capital and Kleiner Perkins, resulting in a valuation of $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Brightflow AI | nan |  | N/A | 🔒 | N/A |
-| Brightside | GoBrightside: AI-powered mental health tools for all.  Founded in 2017, raised $11.5 million. | Google Ventures, Thrive | N/A | 🔒 | N/A |
-| Brightwheel | Brightwheel is a unique early childhood education platform that offers software, services, and support to enhance the experience of early childhood teachers and families. They aim to make the early years the best years for every child. In terms of financials, Brightwheel has raised a total of $275 million in funding, with a valuation of $2.2 billion. They have attracted prestigious investors such as Kleiner Perkins, NEA, Index Ventures, and Owl Ventures. | Kleiner Perkins | N/A | 🔒 | N/A |
-| Brilliant | Brilliant: Democratizing education globally.  Raised over $100 million in funding. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Brilliant | Brilliant: Revolutionizing learning through innovative technology.  $100M raised from prestigious investors. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Brinc Drones | Brinc Drones is a leading provider of commercial drone solutions, aiming to make drones accessible and easy to use for businesses of all sizes. They offer a wide range of drones, software, and services to help businesses capture aerial data, improve efficiency, and make better decisions. What makes them unique is their focus on providing comprehensive solutions for businesses, rather than just selling drones.   In terms of company financials, Brinc Drones has raised a total of $20M in a Series A funding round, with a valuation of $100M. Their investors include GV, Sequoia Capital, and Kleiner Perkins Caufield & Byers. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Bristol Myers Squibb | BioMed Realty: Innovative real estate for life science industry.  $10 billion valuation, $500 million raised. | Goldman Sachs | N/A | 🔒 | N/A |
-| Bristol Myers Squibb | BioMed Realty provides real estate solutions for life sciences.  Series E, \$6.8B valuation, \$1.5B raised. | Goldman Sachs | N/A | 🔒 | N/A |
-| Bristol Myers Squibb | nan |  | N/A | 🔒 | N/A |
-| Broadway Technology | Broadway Technology empowers traders with fast, accurate data.  Raised $100M, valued at $1B. | Accel, Goldman Sachs | N/A | 🔒 | N/A |
-| Brooklinen | nan |  | N/A | 🔒 | N/A |
-| Brooks Running | Brooks Running is a leading global running footwear and apparel brand that was founded in 1914. They are dedicated to helping runners of all levels achieve their goals and their mission is to create the best running shoes in the world. Brooks has a long history of innovation and their shoes are known for their comfort, performance, and durability. They have expanded their product line to include apparel, accessories, and running gear, and they also offer running training programs and events. Brooks is headquartered in Seattle, Washington, and employs over 1,000 people worldwide. They have received numerous awards for their products and business practices, including being named one of the "100 Best Companies to Work For" by Fortune magazine.  In terms of company financials, in 2021, Brooks raised $300 million in Series E funding led by TPG Growth, with participation from existing investors Advent International and General Atlantic. The company's valuation was estimated to be around $1 billion. |  | N/A | 🔒 | N/A |
-| Browser Company | The Browser Company aims to improve web privacy and security.  Backed by Y Combinator, raised $10M. | YC | N/A | 🔒 | N/A |
-| Bubble | Bubble enables code-free web app development.  Series B funding, $415M raised. | Accel, Kleiner Perkins, YC | N/A | 🔒 | N/A |
-| Bugcrowd | nan |  | N/A | 🔒 | N/A |
-| BuildOps | nan |  | N/A | 🔒 | N/A |
-| BukuWarung | BukuWarung empowers Indonesian MSMEs with affordable financial services. Funding: $500M+, Valuation: $1B+. | Tiger Global | N/A | 🔒 | N/A |
-| Bungie | Bungie creates innovative video games.  Fourth round funding, $3.6 billion valuation, $500 million raised. | Accel | N/A | 🔒 | N/A |
-| Businessolver | nan |  | N/A | 🔒 | N/A |
-| Butler, Shine, Stern & Partners | nan |  | N/A | 🔒 | N/A |
-| Butterfly Network | nan |  | N/A | 🔒 | N/A |
-| Button | Button: Simplifying global payments.  Backed by top investors. | Kleiner Perkins, Sequoia, YC | N/A | 🔒 | N/A |
-| BuzzFeed | BuzzFeed is a unique media company that creates news, entertainment, and quizzes, known for its viral content and innovative approach to digital media. In 2019, it was acquired by the parent company of The New York Times for $346 million, and it has raised a total of $1.7 billion in funding from investors including RRE Ventures, GV, and NBCUniversal. | Google Ventures | N/A | 🔒 | N/A |
-| C3 AI | C3 IoT's mission: Making industrial IoT accessible and valuable. Financials: Raised over $200 million. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| CANDY | Candy's mission is personalized customer engagement; Series B, \$1.1B valuation, \$160M raised. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| CB Insights | nan |  | N/A | 🔒 | N/A |
-| CDC Foundation | CDC Foundation: Saving lives, improving health for global communities.  Third funding round, $1.1 billion raised. |  | N/A | 🔒 | N/A |
-| CLEAR - Corporate | Clear develops AI platform for data management.  Series A funding, $20 million raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| COTA | nan |  | N/A | 🔒 | N/A |
-| Cadence | Cadence's mission: Accelerate innovation through advanced EDA solutions. Financials: $4B funding, $30B valuation. | Goldman Sachs | N/A | 🔒 | N/A |
-| Cadre | Cadre is democratizing real estate investing. Series A funding, $1 billion valuation, $100 million raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Caffeine | nan |  | N/A | 🔒 | N/A |
-| Cake Group | Cake DeFi's mission is to democratize DeFi.  Raised $100M, valued at $1B. |  | N/A | 🔒 | N/A |
-| Calendly | nan |  | N/A | 🔒 | N/A |
-| Caliva | Caliva is a California-based cannabis company founded in 2015 with a mission to enhance the cannabis experience through high-quality products and services. What makes them unique is their impressive financial backing, having raised over $100 million in funding from notable investors including Constellation Brands, Snoop Dogg, and Peter Thiel, resulting in a valuation of over $1 billion. |  | N/A | 🔒 | N/A |
-| Calm | nan |  | N/A | 🔒 | N/A |
-| Cambly | Cambly's mission: Accessible and affordable English learning for all. Financials: Raised $70M, valued at $300M. | Accel | N/A | 🔒 | N/A |
-| Cameo | nan |  | N/A | 🔒 | N/A |
-| Canal | Shop-Canal: Shopify for physical stores. Backed by top investors, raised $100M+. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Candid | nan |  | N/A | 🔒 | N/A |
-| Candid Health | Candid Health is a digital health company founded in 2016 that aims to provide personalized, affordable, and accessible care to women. They have raised $100 million in funding from investors like Sequoia Capital, GV, and Kleiner Perkins. What makes Candid Health unique is their mission to make high-quality healthcare accessible to all women, regardless of income or location, offering services such as virtual doctor visits, prescription delivery, and lab testing. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Canonical | Canonical's mission is to deliver free internet software. The company has raised $2.4 billion in a Series E funding round, with a valuation of $6 billion. |  | N/A | 🔒 | N/A |
-| Capital One | Capital One's mission: Build trusted relationships through innovative financial products. Financials: $10B raised, $40B valuation. | Blackrock | N/A | 🔒 | N/A |
-| Capital One | nan |  | N/A | 🔒 | N/A |
-| Capitolis | Capitolis enables frictionless transactions in global financial markets.  Raised $400M, valued at $2B. | Sequoia | N/A | 🔒 | N/A |
-| Capitolis | Capitolis aims to improve financial market efficiency and transparency. Series E funding, $1.2 billion valuation, $200 million raised. | A16Z, Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Capstone | CapstoneDC aims to revolutionize commercial real estate investing.  Venture-backed, $10M funding, $50M valuation. |  | N/A | 🔒 | N/A |
-| Capstone | Capstone Investment Advisors: Venture capital firm supporting startups.  $1 billion raised, 100+ investments. |  | N/A | 🔒 | N/A |
-| Capstone (policy) | Capstone is a venture-backed startup that utilizes AI to assist companies in managing their policy portfolios. The company has secured $100 million in funding from prominent investors including Sequoia Capital and Kleiner Perkins, making them unique in their ability to leverage AI for policy management. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| CaptivateIQ | CaptivateIQ's mission: Enhancing sales teams' efficiency and effectiveness. Financials: $100M funding, $1B valuation. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Car IQ | Car IQ is unique because it uses AI technology to improve the car buying and selling process, making it more efficient and transparent. The company has raised a total of $20 million in a Series A funding round, with a valuation of $100 million. Prestige investors include Kleiner Perkins Caufield & Byers, GV (formerly Google Ventures), and General Catalyst. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Car IQ Inc. | nan |  | N/A | 🔒 | N/A |
-| Carbon | Carbon: Developing technology to capture carbon dioxide. Series B, $1 billion valuation, $1.1 billion raised. |  | N/A | 🔒 | N/A |
-| Carbon Direct | nan |  | N/A | 🔒 | N/A |
-| Cardlytics | nan |  | N/A | 🔒 | N/A |
-| Care/of | nan |  | N/A | 🔒 | N/A |
-| CareRev | CareRev: Simplifying healthcare job search. Raised $100M+, valued at $1B. | Accel | N/A | 🔒 | N/A |
-| Careem | nan |  | N/A | 🔒 | N/A |
-| Career Karma | Career Karma: AI career coaching platform. Raised $100M+ in funding. | Google Ventures, Kleiner Perkins, YC | N/A | 🔒 | N/A |
-| Careers - Karat | Karat: Technology interview platform for hiring software engineers. Founded in 2012, raised $100M+, valued at $1B. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Careers at Drata | Drata's mission: Protecting data from unauthorized access.  Financials: $100M raised, $1B valuation. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Careers at KKR | KKR: Global investment firm. Raised $10 billion, valued at $230 billion. | KKR | N/A | 🔒 | N/A |
-| Careers | Snappy Gifts | Snappy: Revolutionizing communication with AI. Series B-funded, $100M raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Careof | Careof is a digital health company that offers a platform for individuals to effectively manage their chronic conditions. They aim to simplify the process of living a healthier life by providing users with the necessary tools and resources to manage their conditions.   What makes Careof unique is their focus on digital health and their comprehensive platform that caters specifically to chronic condition management. They provide personalized care plans, medication reminders, educational resources, and access to healthcare professionals, all in one place.  In terms of financials, Careof has raised $100 million in funding from investors including Sequoia Capital, Oak Ventures, and GV. | Sequoia | N/A | 🔒 | N/A |
-| Carrot Fertility | nan |  | N/A | 🔒 | N/A |
-| Carry1st | Carry1st: Digital lending for emerging markets.  $100M funding, $1B valuation. | Goldman Sachs | N/A | 🔒 | N/A |
-| Carta | nan |  | N/A | 🔒 | N/A |
-| Carta | Carta simplifies equity management for startups.  Raised over $400 million in funding. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Carta Healthcare | Carta Healthcare is a venture-backed startup focused on creating innovative healthcare software to improve accessibility, affordability, and equity in healthcare. They have raised $100 million in funding from prominent investors like Sequoia Capital and Tiger Global Management. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Cartography | Cartography is a venture-backed startup that is developing advanced mapping software to help people comprehend the world around them through accurate and up-to-date maps. The company has raised $100 million in funding from prominent investors such as Google Ventures and Kleiner Perkins Caufield & Byers, and it is currently valued at $1 billion. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Cartography Biosciences | Cartography: Making geospatial data accessible; Series B funding, $100M valuation, $30M raised. | Sequoia | N/A | 🔒 | N/A |
-| Carvana | nan |  | N/A | 🔒 | N/A |
-| Castiron | nan |  | N/A | 🔒 | N/A |
-| Castleton Commodities International | Cerebras Systems: Leading AI supercomputer developer enabling AI research. Series D, $3.4B valuation, $780M raised. | Google Ventures | N/A | 🔒 | N/A |
-| Cboe | CBOE is a global exchange operator offering innovative trading solutions. Series G funding, \$7.8B valuation, \$1.4B raised. |  | N/A | 🔒 | N/A |
-| Cedar | CarePortal: Transforming healthcare delivery; $100M raised. |  | N/A | 🔒 | N/A |
-| Celestia Labs | Celestia aims to create a secure, private, and censorship-resistant internet. They have raised $68M in a Series B funding round, with a valuation of $320M. | A16Z, Coinbase | N/A | 🔒 | N/A |
-| Celigo | nan |  | N/A | 🔒 | N/A |
-| Census | Ashby: Decentralized social network empowering data control.  Backed by Y Combinator, Sequoia Capital, Kleiner Perkins. | Kleiner Perkins, Sequoia, YC | N/A | 🔒 | N/A |
-| Censys | Censys: Making internet safer; raised $100M+. | Accel, Sequoia | N/A | 🔒 | N/A |
-| Centivo | nan |  | N/A | 🔒 | N/A |
-| Cerebral | nan |  | N/A | 🔒 | N/A |
-| Cerebras Systems | nan |  | N/A | 🔒 | N/A |
-| CertiK | Certif's mission is to secure the blockchain ecosystem.  Raised $88M, valued at $500M. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Chainalysis | Chainalysis helps understand cryptocurrency flow.  $14B valuation, $400M raised. | A16Z, Accel | N/A | 🔒 | N/A |
-| Chamberlain Group | Chamberlain Group: Making homes safer; raised $200 million, valued at $1 billion. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Chan Zuckerberg Initiative | nan |  | N/A | 🔒 | N/A |
-| Chapter | nan |  | N/A | 🔒 | N/A |
-| Character.AI | Ashby: Building meaningful social media. Series A, $10 million raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| ChargePoint | nan |  | N/A | 🔒 | N/A |
-| ChartHop | Transforming work, $100M funding, $1B valuation. | A16Z, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| ChartHop | ChartHop's mission is to simplify data visualization.  Over $100 million raised in funding. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Chartboost | nan |  | N/A | 🔒 | N/A |
-| Check | nan |  | N/A | 🔒 | N/A |
-| Checkr | Checkr automates background checks for employment. (7 words) Raised $600M, valued at $4B. (5 words) | Accel | N/A | 🔒 | N/A |
-| Chef Robotics | nan |  | N/A | 🔒 | N/A |
-| ChefRobotics | Chef Robotics is an AI-powered robotics company focused on creating advanced kitchen appliances to enhance cooking experiences. Their unique selling point lies in their aim to automate tedious and time-consuming tasks, making cooking more accessible and enjoyable for all. The company has successfully raised $100 million in funding from prominent investors such as Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Chemours | Chemours: Sustainable chemistry solutions for global challenges.  Funding: $10 billion raised, $33.5 billion market cap. | Blackrock | N/A | 🔒 | N/A |
-| Chewy | Chewy's mission: Simplify and lower pet ownership costs. Financials: $1.6B raised, $30B valuation. |  | N/A | 🔒 | N/A |
-| Chia | Chia is a unique blockchain and cryptocurrency that stands out for its energy-efficient design compared to Bitcoin. It utilizes a proof-of-space consensus mechanism, relying on hard drives instead of powerful processors, making it more environmentally friendly. In terms of financials, Chia has raised a total of $61.5 million in a Series A funding round, with a valuation of $315 million. Notably, prestigious investors such as Andreessen Horowitz, Sequoia Capital, and Ribbit Capital have backed the company. | A16Z, Sequoia | N/A | 🔒 | N/A |
-| Chia Network Inc. | Chia Network: Efficient, sustainable blockchain for finance.  $615M raised from top investors. | A16Z, Sequoia | N/A | 🔒 | N/A |
-| Chief | Chief's mission: Revolutionizing work flexibility and opportunities. Financials: $100 million raised from investors. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Chime | nan |  | N/A | 🔒 | N/A |
-| Choco | Choco revolutionizes workforce management with AI.  \$220M funding, \$1B valuation. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Choco | Choco's mission: Transform customer engagement through conversational commerce. Financials: $100M raised from top investors. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| ChowBus | ChowBus is an on-demand food delivery platform that connects customers with local restaurants. Founded in 2016 and based in San Francisco, ChowBus has raised $100 million in funding from investors including Sequoia Capital and Kleiner Perkins Caufield & Byers, resulting in a valuation of $1 billion. What makes ChowBus unique is its focus on delivering authentic Asian cuisine from local restaurants, providing customers with a specialized and diverse dining experience. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Chowbus | nan |  | N/A | 🔒 | N/A |
-| Chronosphere | Chronosphere: AI predicting human behavior; \$100M funding, \$1B valuation. | Sequoia, YC | N/A | 🔒 | N/A |
-| Cider | Shopcider: Social commerce platform connecting shoppers with influencers. Raised $10.5M from Sequoia and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Cinder | Cinder aims to improve cloud storage security and affordability.  Raised over $100 million in funding. | A16Z, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Circle | Circle enables businesses to use digital currencies and blockchain. (8 words) Series E funding, $9 billion valuation, $480 million raised. (7 words) | Goldman Sachs | N/A | 🔒 | N/A |
-| CircleCI | nan |  | N/A | 🔒 | N/A |
-| Circles.Life | Circles.Life aims to democratize mobile accessibility.  Raised over $300 million in funding. | Sequoia | N/A | 🔒 | N/A |
-| Cirque du Soleil Entertainment Group | Cirque du Soleil's mission is to entertain and inspire. They have raised $1.5 billion in funding. |  | N/A | 🔒 | N/A |
-| Citadel | Citadel's mission: Superior investment performance and service. Financials: $1.15 billion funding, $15 billion valuation. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Citadel | Citadel's mission: Superior investment performance and service. Financials: $1.15 billion funding, $15 billion valuation. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Citi | Citi's mission: Achieving clients' financial goals. Citi's financials: $10 billion raised, $200 billion valuation. | Blackrock | N/A | 🔒 | N/A |
-| Citizen | nan |  | N/A | 🔒 | N/A |
-| Citrix | Citrix enables secure cloud computing for businesses globally.  Series G funding, \$14.1 billion valuation, \$1.4 billion raised. | Goldman Sachs, KKR | N/A | 🔒 | N/A |
-| Civis Analytics | nan |  | N/A | 🔒 | N/A |
-| ClassDojo | ClassDojo's mission: Improve education through technology. Financials: $100M funding, $1B valuation. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| ClassPass | nan |  | N/A | 🔒 | N/A |
-| Clear | Clear is a venture-backed startup founded in 2019 by a team of Stanford University engineers. They are developing a unique contact lens that enables people to see in the dark. The company has raised $100 million in funding from investors like Khosla Ventures and Lightspeed Venture Partners. Clear is currently in the pre-clinical stage and plans to launch its first product in 2024. |  | N/A | 🔒 | N/A |
-| Clear Street | ClearStreet: Transforming financial industry with personalized advice.  $120M funding, $1B valuation. | Goldman Sachs | N/A | 🔒 | N/A |
-| Clearcover | nan |  | N/A | 🔒 | N/A |
-| Cleo (US) | nan |  | N/A | 🔒 | N/A |
-| Cleo Ai | Cleo AI is an artificial intelligence company that utilizes machine learning to assist individuals in managing their finances. Their unique aspect lies in their mission to make financial advice accessible to all. The company has secured $100 million in funding from prominent investors including Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Clerk | Clerk automates administrative tasks to make work more human.  Series B-funded, \$1B+ valuation, \$100M raised. | Accel, Kleiner Perkins, YC | N/A | 🔒 | N/A |
-| Clever | nan |  | N/A | 🔒 | N/A |
-| ClickHouse | nan |  | N/A | 🔒 | N/A |
-| ClickUp | ClickUp: Disrupting team productivity; Raised $400M in Series C. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Clickhouse | ClickHouse is an open-source DBMS that specializes in processing massive amounts of data in real time. It was founded in 2016 and is headquartered in Moscow, Russia. The company has received funding from investors like Benchmark Capital, Index Ventures, and Yuri Milner, raising over $100 million. With a valuation of over $1 billion, ClickHouse stands out for its ability to handle petabytes and exabytes of data efficiently. |  | N/A | 🔒 | N/A |
-| Climate Power | Climate Power's mission is to accelerate clean energy transition. The company has raised over $100 million in funding. |  | N/A | 🔒 | N/A |
-| Clio | Clio empowers lawyers with cloud-based legal software.  Series E, $11.5B valuation, $400M raised. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Clipboard Health | Company mission: Make healthcare more accessible and affordable. Financials: Backed by leading investors. | Thrive, Sequoia, YC | N/A | 🔒 | N/A |
-| Clockwise | nan |  | N/A | 🔒 | N/A |
-| Clockwork | nan |  | N/A | 🔒 | N/A |
-| Clockwork Systems | Clockwork Systems is a prominent AI solutions provider for the manufacturing sector, aiming to enhance productivity and efficiency through task and process automation. The company has secured a substantial \$100 million in funding from renowned investors such as Sequoia Capital and Kleiner Perkins, resulting in a current valuation of \$1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Close | Close is a sales engagement platform for revenue growth. Series E funding, $1.8B valuation, $400M raised. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Cloudera | Cloudera's mission: Powering data solutions for businesses. Financials: $1.5B funding, $5B valuation. | Google Ventures, Sequoia | N/A | 🔒 | N/A |
-| Cloudflare | nan |  | N/A | 🔒 | N/A |
-| Clozd | nan |  | N/A | 🔒 | N/A |
-| Clutter | nan |  | N/A | 🔒 | N/A |
-| Coalition | Coalition's mission: Decentralized web infrastructure for security and accessibility. Financials: $250 million raised from top investors. | A16Z, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Coast | nan |  | N/A | 🔒 | N/A |
-| Cockroach Labs | nan |  | N/A | 🔒 | N/A |
-| Coda | Coda: Real-time collaborative document editor. Series D, $10B valuation, $525M raised. | A16Z, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Code | Code is a venture-backed startup founded in 2017 by two Stanford University computer science graduates. It has raised $100 million in funding from investors such as Sequoia Capital and Kleiner Perkins. Code's unique approach involves using artificial intelligence, machine learning, and natural language processing to automate and improve the process of writing code. The company aims to make software development more accessible and efficient by eliminating tedious and error-prone tasks. Currently in private beta, Code plans to launch its platform to the public later this year. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Code Climate | nan |  | N/A | 🔒 | N/A |
-| Code and Theory | nan |  | N/A | 🔒 | N/A |
-| Code42 | Code42's mission is to protect businesses' data from cyber threats. The company has raised over $200 million and is valued at over $1 billion. | Sequoia | N/A | 🔒 | N/A |
-| CodeGem | CodeGem is a prominent company that offers artificial intelligence-driven solutions specifically designed for the financial services sector. Their unique approach focuses on automating and enhancing processes, minimizing risk, and ensuring compliance. Notably, CodeGem has successfully secured $100 million in funding from renowned investors including Goldman Sachs, JP Morgan, and UBS, resulting in a valuation of $1 billion. | Goldman Sachs | N/A | 🔒 | N/A |
-| CodeSignal | nan |  | N/A | 🔒 | N/A |
-| Codesignal | Codesignal is a coding platform that aims to transform the hiring process for software engineers by offering a fair and objective evaluation of their technical skills. They have raised $200 million in funding from prominent investors like Sequoia Capital, Tiger Global, and Kleiner Perkins, resulting in a valuation of $1.2 billion. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Codi | Codi: AI coding assistant. Series A, $15M raised, $75M valuation. | Kleiner Perkins, YC | N/A | 🔒 | N/A |
-| Coffee Meets Bagel | Coffee Meets Bagel: Dating app for meaningful relationships. Raised $100M+, valued at $1B. | Accel, Google Ventures | N/A | 🔒 | N/A |
-| Cogent Biosciences | Cogent Biosciences: Precision cancer treatments, transformative technology.  $400M raised, Phase 2 trials. |  | N/A | 🔒 | N/A |
-| Cogo Labs | Cogo Labs: Making AI accessible; raised $100M, valued at $1B. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Cohen & Co | Cohen & Co is a venture-backed startup focused on developing AI technology to make it more accessible for businesses. They have raised $100 million in funding from investors like Sequoia Capital and Kleiner Perkins, and currently have a valuation of $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Cohere | Cohere's mission: Advance AI for language understanding and generation. Financials: $160M raised from top investors. | Google Ventures, Sequoia | N/A | 🔒 | N/A |
-| Coherus BioSciences | nan |  | N/A | 🔒 | N/A |
-| Cohesity | nan |  | N/A | 🔒 | N/A |
-| Coin Metrics | nan |  | N/A | 🔒 | N/A |
-| CoinDesk | nan |  | N/A | 🔒 | N/A |
-| CoinFlip | CoinFlip: Making cryptocurrency accessible; raised $100 million, valued at $1.2 billion. | Accel, Coinbase, YC | N/A | 🔒 | N/A |
-| CoinGecko | Coingecko aims to democratize cryptocurrency data.  Series B, $1.7B valuation, $92M raised. | A16Z, Tiger Global | N/A | 🔒 | N/A |
-| CoinList | nan |  | N/A | 🔒 | N/A |
-| CoinTracker | CoinTracker: Cryptocurrency tax software; $100M+ raised. | Sequoia | N/A | 🔒 | N/A |
-| Coinbase | Coinbase is a leading cryptocurrency exchange platform that provides a secure and user-friendly experience for buying, selling, and storing digital currencies. What sets Coinbase apart is its status as the world's largest cryptocurrency exchange, with an impressive annual trading volume of over $327 billion. Founded in 2012 by Brian Armstrong and Fred Ehrsam, Coinbase has garnered significant financial support, raising more than $5 billion in funding from notable investors like Andreessen Horowitz, Union Square Ventures, and Tiger Global Management. In 2021, Coinbase went public and achieved a valuation of over $85 billion. | A16Z, Tiger Global | N/A | 🔒 | N/A |
-| Coinbase Careers Page | Coinbase: Secure cryptocurrency exchange. Raised $5B, valued at $8B. | A16Z, Sequoia | N/A | 🔒 | N/A |
-| Collective Health | nan |  | N/A | 🔒 | N/A |
-| Collective[i] | nan |  | N/A | 🔒 | N/A |
-| Collibra | nan |  | N/A | 🔒 | N/A |
-| Color | Color uses computer vision to transform physical interactions.  Series B, $1.2B valuation, $100M raised. | Accel, Google Ventures | N/A | 🔒 | N/A |
-| Column | Ashby: Future of work platform. Series B, $100M+ raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Commerce Bank | Commerce Bank: Simplifying banking; $120M raised. | Accel, Bain, Goldman Sachs | N/A | 🔒 | N/A |
-| Commercetools | Commercetools is a cloud-native commerce platform that enables brands and retailers to create and manage digital commerce experiences to fuel growth. They offer a comprehensive platform for managing all aspects of commerce operations, from product content to payments and fulfillment. Notable clients include Nike, Unilever, and Coca-Cola. Commercetools has raised a total of $1.8 billion in funding, with a valuation of $10.1 billion, and has attracted prestigious investors such as Salesforce, Insight Partners, and Bessemer Venture Partners. | Bessemer, Insight Partners | N/A | 🔒 | N/A |
-| Common | nan |  | N/A | 🔒 | N/A |
-| Common Room | nan |  | N/A | 🔒 | N/A |
-| Community Phone | Ashby is revolutionizing telecommunications with a personal, secure phone. Series B, $100M+ valuation, $40M+ raised. | A16Z, YC | N/A | 🔒 | N/A |
-| ComplyAdvantage | nan |  | N/A | 🔒 | N/A |
-| Conduit | Conduit: Simplifying remote collaboration. Series A, $100M valuation, $20M raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Confirm | nan |  | N/A | 🔒 | N/A |
-| Confluent | Confluent enables real-time data analysis; raised $2.5 billion. | Sequoia | N/A | 🔒 | N/A |
-| ConnectWise | ConnectWise is a software company that offers cloud-based IT management solutions to businesses. They aim to assist businesses in achieving their IT goals by providing effective tools and resources for managing their IT infrastructure. ConnectWise has raised a total of $425 million in funding, with a valuation of $3.8 billion. They have attracted prestigious investors such as Insight Venture Partners, Goldman Sachs, and Lightspeed Venture Partners. | Goldman Sachs | N/A | 🔒 | N/A |
-| Consensys | nan |  | N/A | 🔒 | N/A |
-| Contentful | nan |  | N/A | 🔒 | N/A |
-| Convoy | Convoy disrupts trucking industry, connecting shippers and carriers.  $2.7B funding, $4B valuation. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Cord | Cord aims to improve wireless connectivity.  $100M raised from top investors. | Accel, Kleiner Perkins, Sequoia, YC | N/A | 🔒 | N/A |
-| Core | nan |  | N/A | 🔒 | N/A |
-| Core Digital Media | Core Digital Media (CDM) is a company that utilizes artificial intelligence to automate video creation from text, allowing anyone to produce professional videos quickly and effortlessly, even without prior video editing skills. What sets CDM apart is its ability to streamline the video creation process through AI technology. The company has received substantial support from prominent investors such as Y Combinator and Sequoia Capital, having raised more than $100 million in funding. | Sequoia, YC | N/A | 🔒 | N/A |
-| Corelight | Corelight is a cybersecurity company that offers network traffic analysis and threat detection solutions, aiming to safeguard networks from cyber threats. They stand out for their prestigious investors, including Accel, General Catalyst, and Kleiner Perkins Caufield & Byers. In terms of financials, Corelight has raised a total of $100 million in funding, with a valuation of $1.1 billion in their Series C funding round. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Corvus Insurance | nan |  | N/A | 🔒 | N/A |
-| Cottage | nan |  | N/A | 🔒 | N/A |
-| Coupa Software, Inc. | Coupa Software automates financial processes; raised $4.5 billion. | Insight Partners | N/A | 🔒 | N/A |
-| Coupang | Coupang's mission: "Best shopping experience for customers." Funding round: Series G, \$2.2 billion, \$9 billion valuation. | Sequoia | N/A | 🔒 | N/A |
-| Course Hero | nan |  | N/A | 🔒 | N/A |
-| Coursera | Coursera: Online learning platform, universal education access. Raised $1.5B, valued at $2.9B. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Covera Health | nan |  | N/A | 🔒 | N/A |
-| Covetool | Covetool is a unique AI startup that utilizes natural language processing to enhance customer understanding for companies. Founded in 2017 by Stanford University graduates, the company has raised $10 million in funding from prominent investors like Sequoia Capital and Kleiner Perkins. Covetool's impressive clientele includes major corporations such as Google, Microsoft, and Amazon. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Cowbell Cyber | Cowbell Cyber is a cybersecurity company based in San Francisco that offers a cloud-based platform to safeguard organizations' data from cyber threats. Founded in 2017, the company recently secured $20 million in Series A funding led by Sequoia Capital in 2022, resulting in a valuation of $100 million. | Sequoia | N/A | 🔒 | N/A |
-| Cowbell Cyber Inc. | Cowbell Cyber's mission is affordable cybersecurity for all. They have raised $20 million in funding. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Crabel | Crabel is a unique deep learning startup that utilizes computer vision to enhance retail operations. Founded in 2016, the company has raised $10 million in funding from notable investors including Accel Partners and Y Combinator. Crabel aims to optimize retail efficiency and profitability by providing retailers with insights into customer behavior and assisting them in making informed decisions regarding store merchandising. | Accel, YC | N/A | 🔒 | N/A |
-| Crabel Capital Management, LLC | nan |  | N/A | 🔒 | N/A |
-| Credible | nan |  | N/A | 🔒 | N/A |
-| Credit Karma | Credit Karma's mission is financial empowerment. $700M funding, $4B valuation. | Google Ventures, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Credit Suisse | Credit Suisse is a global investment bank that offers financial services to clients worldwide. They aim to be a trusted partner for clients' financial success. Founded in 1856 and headquartered in Zurich, Switzerland, Credit Suisse operates in over 50 countries with a workforce of over 45,000 employees. In 2021, the company generated revenues of $47.1 billion and had a market capitalization of $54.5 billion. Notable investors in Credit Suisse include BlackRock, State Street, and Vanguard. | Blackrock | N/A | 🔒 | N/A |
-| Creditas | Creditas provides affordable financial products in Latin America. Raised $800 million, valued at $1 billion. | Goldman Sachs | N/A | 🔒 | N/A |
-| Cresco Labs | nan |  | N/A | 🔒 | N/A |
-| Cresta | Cresta: AI company boosting sales.  $100M funding, $1B valuation. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Cribl | nan |  | N/A | 🔒 | N/A |
-| Critical Mass | nan |  | N/A | 🔒 | N/A |
-| Cross River | Cross River Bank: Mission-driven financial institution serving small businesses and consumers. Raised $250M in Series E at $4B valuation. | Accel, Goldman Sachs | N/A | 🔒 | N/A |
-| Cross River | Cross River Bank provides digital banking services to small businesses and startups.  Raised $350M in Series E funding, valued at $4.5B. | Goldman Sachs | N/A | 🔒 | N/A |
-| Crossbeam | Crossbeam connects B2B sales teams with target accounts.  Raised over $100 million in funding. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Crowdbotics | nan |  | N/A | 🔒 | N/A |
-| Crowdstrike | CrowdStrike's mission: Global leader in cybersecurity protection. Financials: $1.1B funding, $11B valuation. | Google Ventures, Tiger Global | N/A | 🔒 | N/A |
-| Cruise | Cruise: Revolutionizing transportation with self-driving cars.  Fourth funding round, valued at $30 billion, raised $8 billion. |  | N/A | 🔒 | N/A |
-| Cruise - University | Cruise University: Revolutionizing cruise industry education.  Funding: \$100M, valuation: \$1B. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Crunchbase | nan |  | N/A | 🔒 | N/A |
-| Crunchyroll | nan |  | N/A | 🔒 | N/A |
-| Crusoe | Crusoe Energy provides affordable renewable natural gas solutions. Series C funding, $1B valuation, $700M raised. |  | N/A | 🔒 | N/A |
-| Crusoe | Crusoe Energy: Sustainable energy provider accelerating clean energy transition. Raised $500M, valued at $1B. |  | N/A | 🔒 | N/A |
-| Cubic | Cubic connects people, communities, and data.  Series F funding raised $2.1 billion, valuation $14 billion. |  | N/A | 🔒 | N/A |
-| Culture Biosciences | Culture Biosciences aims to develop sustainable animal products.  $100M Series B, $1B valuation. |  | N/A | 🔒 | N/A |
-| Curaleaf | nan |  | N/A | 🔒 | N/A |
-| Curated | nan |  | N/A | 🔒 | N/A |
-| Curative | nan |  | N/A | 🔒 | N/A |
-| Curio Research | Curio.gg aims to revolutionize gaming by connecting players and promoting accessibility. (10 words) Series A, $100M valuation, $20M raised. (5 words) | A16Z, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Current Job Openings | New Positions | Careers at Betterment | Betterment provides accessible financial advice through technology. Series E, $1.5B valuation, $450M raised. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Current Openings at Seven Eight Capital | Seven Eight Capital: VC firm investing in early-stage startups. $1B raised, 100+ investments. |  | N/A | 🔒 | N/A |
-| Curve Health | nan |  | N/A | 🔒 | N/A |
-| D2L | nan |  | N/A | 🔒 | N/A |
-| DHI Group, Inc. | DHI Group's mission is to streamline real estate transactions.  Raised $100 million, valued at $1 billion. | Goldman Sachs, Insight Partners | N/A | 🔒 | N/A |
-| DISCO | nan |  | N/A | 🔒 | N/A |
-| DRW | DRW Engineering: Solving complex problems with technology.  $1 billion raised, prestigious investors. | Goldman Sachs | N/A | 🔒 | N/A |
-| Dagger | nan |  | N/A | 🔒 | N/A |
-| Daily Harvest | nan |  | N/A | 🔒 | N/A |
-| DailyPay | DailyPay is a unique financial technology company that offers on-demand access to earned wages, aiming to empower workers with the financial flexibility they need. They have raised over $100 million in funding from prominent investors like Kleiner Perkins Caufield & Byers, GV, and Citi Ventures, and currently have a valuation of over $500 million. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| DailyPay Belfast | nan |  | N/A | 🔒 | N/A |
-| Dandy | nan |  | N/A | 🔒 | N/A |
-| Dapper Labs | Axiom Zen: Making AI accessible; $2B valuation, $300M raised. | A16Z, Google Ventures, Sequoia | N/A | 🔒 | N/A |
-| Dashlane | nan |  | N/A | 🔒 | N/A |
-| Dashworks | Dashworks: AI sales enablement software, empowering sales teams.  Funding: $100M+, valued at $1B. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| DataCamp | nan |  | N/A | 🔒 | N/A |
-| DataGrail | nan |  | N/A | 🔒 | N/A |
-| Databento | DataBend's mission is to revolutionize data usage for businesses. They have raised $100 million in funding and are valued at $1 billion in their Series C funding round. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Databook | nan |  | N/A | 🔒 | N/A |
-| Databricks | Databricks: Collaborative analytics platform for big data.  Founded in 2013, raised $3.1 billion, valued at $28 billion. | A16Z, Google Ventures | N/A | 🔒 | N/A |
-| Datadog | nan |  | N/A | 🔒 | N/A |
-| Dataiku | Dataiku helps businesses make better decisions using AI.  Series D, $4.6B valuation, $530M raised. | Battery, Insight Partners | N/A | 🔒 | N/A |
-| Datavant | Datavant: Healthcare data sharing platform improving patient care. Raised $100M+, valued at $1B+. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Dealpath | nan |  | N/A | 🔒 | N/A |
-| Decide | Decide: AI-powered decision-making tools for businesses.  Series B funding, $100 million raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Deel | nan |  | N/A | 🔒 | N/A |
-| DeepMind | DeepMind's mission is to solve intelligence.  Raised over $1 billion in funding. | Google Ventures | N/A | 🔒 | N/A |
-| Deepcell | DeepCell develops cell-based therapies.  Backed by leading investors. |  | N/A | 🔒 | N/A |
-| Deepgram | Deepgram's mission: Making information accessible through accurate speech recognition. Financials: $110 million raised from investors. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Degreed | nan |  | N/A | 🔒 | N/A |
-| Deliveroo | nan |  | N/A | 🔒 | N/A |
-| Dell | Dell Technologies: Transforming technology; $50 billion raised. |  | N/A | 🔒 | N/A |
-| Delphia | nan |  | N/A | 🔒 | N/A |
-| Demandbase | nan |  | N/A | 🔒 | N/A |
-| Demiurge | Demiurge is an innovative AI company focused on utilizing AI to address practical challenges. They have garnered support from prominent investors such as Google Ventures, Kleiner Perkins, and Sequoia Capital, and have successfully raised $100 million in funding. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Demiurge Studios | Demiurge Studios: Innovative game development for wide player appeal. Raised $50M+ in funding. |  | N/A | 🔒 | N/A |
-| Density | nan |  | N/A | 🔒 | N/A |
-| Descript | nan |  | N/A | 🔒 | N/A |
-| Desktop Metal | nan |  | N/A | 🔒 | N/A |
-| DevRev | nan |  | N/A | 🔒 | N/A |
-| DiDi | DiDi is a global mobility platform that connects riders with drivers through its app, aiming to make transportation more accessible, affordable, and sustainable. It is unique for its extensive operations in over 100 cities worldwide and its expansion into other transportation-related businesses. In terms of financials, DiDi has raised a total of $62 billion in funding, with a valuation of $80 billion, and has prestigious investors such as SoftBank, Tencent, and Alibaba. |  | N/A | 🔒 | N/A |
-| DiDi Labs | Didi Chuxing's mission: Convenient and affordable transportation for everyone. Financials: Raised $4.4 billion, valued at $67 billion. |  | N/A | 🔒 | N/A |
-| Dialpad | Dialpad's mission is to empower effective business communication. They have raised $433 million in a Series E funding round, with a valuation of $1.2 billion. | A16Z, Accel, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Diamond Foundry | Diamond Foundry manufactures lab-grown diamonds. They aim to make diamonds more accessible and sustainable. They raised $110 million in a Series D funding round, have a valuation of $1.1 billion, and raised a total of $270 million. | Google Ventures | N/A | 🔒 | N/A |
-| Digit | nan |  | N/A | 🔒 | N/A |
-| Digital.ai | nan |  | N/A | 🔒 | N/A |
-| DigitalAI | DigitalAI is a leading artificial intelligence company founded in 2017 by experienced scientists and engineers. They have raised over $100 million in funding from investors such as Accel, General Catalyst, and Khosla Ventures. With a valuation of $1 billion, DigitalAI is focused on using AI to address global challenges like climate change, healthcare, and poverty. | Accel | N/A | 🔒 | N/A |
-| Diligent Corporation | Diligent Corporation empowers lawyers with efficient software tools. Raised $100M, valued at $1B. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Diligent Robotics | Diligent Robotics is a robotics company founded in 2017 that specializes in developing AI-powered robots for warehouse automation. They have raised $150M in funding from investors including SoftBank Vision Fund, Playground Global, and Greylock Partners. | Greylock | N/A | 🔒 | N/A |
-| Diligent Services | nan |  | N/A | 🔒 | N/A |
-| Dimensional | Dimensional AI's mission: Making AI accessible for businesses. Financials: $100M funding, $1B valuation. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Disability Rights California | Disability Rights California fights for disability rights. Series A funding raised $10 million. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Disc Golf Pro Tour | Ashby: Revolutionizing computing with new chip technology.  Series B funding, $100 million raised. | Google Ventures, Sequoia | N/A | 🔒 | N/A |
-| Disco | Disco is a stealth mode startup that is working on creating the next generation of social media. The company is unique in that it is backed by Y Combinator, a prestigious startup accelerator, and has managed to raise an impressive $100 million in funding. | YC | N/A | 🔒 | N/A |
-| Discord | nan |  | N/A | 🔒 | N/A |
-| Ditto | Ditto aims to improve voice assistants' naturalness and understanding. Series B funding, \$1.2 billion valuation, \$125 million raised. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Divvy Homes | nan |  | N/A | 🔒 | N/A |
-| Docker | Docker: Platform for developing and running applications. Series F, \$13.2B valuation, \$350M raised. | Accel, Google Ventures, Greylock | N/A | 🔒 | N/A |
-| Docugami | nan |  | N/A | 🔒 | N/A |
-| Dollar Shave Club | nan |  | N/A | 🔒 | N/A |
-| DollarShaveClub | Dollar Shave Club is a unique men's shaving subscription company that offers high-quality razors and grooming products at a lower cost compared to traditional brands. Founded in 2012, the company has raised over $100 million in funding from prestigious investors such as Andreessen Horowitz and Sequoia Capital. In 2016, Dollar Shave Club was acquired by Unilever for $1 billion. | A16Z, Sequoia | N/A | 🔒 | N/A |
-| Doma | nan |  | N/A | 🔒 | N/A |
-| Domeyard | Domeyard is a unique social media platform that enables users to create and share 3D content, aiming to enhance immersion and meaningful connections. The company has raised $10 million in funding from investors including Andreessen Horowitz and Kleiner Perkins Caufield & Byers. | A16Z, Kleiner Perkins | N/A | 🔒 | N/A |
-| Domeyard LP | Domeyard aims to revolutionize digital commerce. (10 words) Series A funding: $10M, valuation: $100M, total raised: $15M. (5 words) | Accel, Kleiner Perkins, YC | N/A | 🔒 | N/A |
-| Domino Data Lab | nan |  | N/A | 🔒 | N/A |
-| Domo | Domo's mission is to provide businesses with data insights.  Funding: $900M+, Valuation: $2B+. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| DoorDash | DoorDash's mission: Empower local businesses and provide convenient delivery. Financials: $12B raised, $70B valuation. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| DoubleVerify | DoubleVerify's mission is to make digital advertising transparent and safe. They have raised $325M in funding, totaling $540M. | Goldman Sachs | N/A | 🔒 | N/A |
-| Dovetail | nan |  | N/A | 🔒 | N/A |
-| Dow Jones | Dow Jones: Trusted news and business information globally. Raised $500M, valued at $5B. |  | N/A | 🔒 | N/A |
-| Doximity | Doximity's mission is to verify online user identities.  $100M Series C funding, $1B valuation. | Insight Partners, Kleiner Perkins | N/A | 🔒 | N/A |
-| Doxo | Doxo is a digital bill pay platform that aims to simplify and secure the bill payment process for consumers while also helping them save money. They have raised over $100 million in funding from investors like Kleiner Perkins Caufield & Byers, Sequoia Capital, and Tiger Global Management, and are currently valued at over $1 billion. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Drata | Drata is a cybersecurity company based in San Francisco that specializes in cloud-based email security solutions. They aim to safeguard businesses from email threats like phishing, malware, and ransomware. What sets Drata apart is their focus on providing comprehensive protection for businesses through their cloud-based platform. They have successfully raised over $100 million in funding from prominent investors including Sequoia Capital, Accel Partners, and Norwest Venture Partners. | Accel, Sequoia | N/A | 🔒 | N/A |
-| Dreambound | Dreambound is a deep tech startup that specializes in developing an innovative AI technology capable of comprehending and producing human language. What sets them apart is their ability to create a new breed of AI that can understand and generate human language. In terms of financials, the company has raised a total of $100 million in funding from prominent investors such as Google Ventures, Kleiner Perkins, and Sequoia Capital. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Dremio | nan |  | N/A | 🔒 | N/A |
-| Dremio Corporation | Dremio Corporation is an open source data lake engine that allows businesses to analyze their data using SQL tools. Founded in 2015 and based in San Mateo, California, Dremio has raised over $200 million in funding from investors including Lightspeed Venture Partners, Accel Partners, and T. Rowe Price. What makes Dremio unique is its ability to provide a unified view of data from various sources, enabling efficient analysis and decision-making. | Accel | N/A | 🔒 | N/A |
-| Drift | Drift is a unique conversational AI platform that enables businesses to interact with customers through messaging channels. Founded in 2014 and based in San Francisco, Drift has raised $125 million in funding from notable investors including Google Ventures, Accel Partners, and Kleiner Perkins Caufield & Byers. In its latest funding round, the company achieved a valuation of $1.1 billion. | Accel, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Drift.com | nan |  | N/A | 🔒 | N/A |
-| DriveTime | DriveTime: Convenient and affordable car buying.  $1 billion raised, $2 billion valuation. | Goldman Sachs, Kleiner Perkins | N/A | 🔒 | N/A |
-| DriveWealth | nan |  | N/A | 🔒 | N/A |
-| DroneUp | DroneUp aims to revolutionize drone delivery.  Series D funding, $1 billion valuation, $500 million raised. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Dropbox | nan |  | N/A | 🔒 | N/A |
-| Druva | Druva's mission is to provide comprehensive cloud data protection.  Raised over $400 million in funding. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Ducera Partners | Ducera Partners is a venture capital firm specializing in early-stage investments in the artificial intelligence and machine learning sector. Founded in 2017 by Arjun Sethi and Nikhil Sethi, the firm has raised $100 million in funding, including a $50 million Series A round in 2020. Notably, Ducera Partners has secured investments from prominent firms such as Google Ventures, Kleiner Perkins Caufield & Byers, and Sequoia Capital. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Ducera Partners - Experienced Hires | nan |  | N/A | 🔒 | N/A |
-| Duck Creek | Duck Creek Technologies: Simplifying insurance; $300M funding, $1B valuation. | Bain, Goldman Sachs | N/A | 🔒 | N/A |
-| Duke Energy | Duke Energy provides reliable, sustainable energy to millions.  2020: Ranked 10th, $100B market cap, $10B raised. | Blackrock | N/A | 🔒 | N/A |
-| Duolingo | Duolingo's mission: Make language learning accessible to all. Financials: Raised $400 million in funding. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Dwolla | Dwolla's mission: Simplify business payments. Financials: $100M funding, $1B valuation. | Accel, Goldman Sachs | N/A | 🔒 | N/A |
-| Dynamic | DynamicXYZ: AI solutions for better business decisions. Prestigious investors, $1B+ raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Dyno Therapeutics | Dyno Therapeutics develops gene therapies for serious diseases.  Raised $120 million in funding. |  | N/A | 🔒 | N/A |
-| E Space | E Space is a stealth mode startup working on augmented reality contact lenses. They have received \$100M in funding from prominent Silicon Valley investors like Google Ventures and Kleiner Perkins Caufield & Byers. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| E-Space | nan |  | N/A | 🔒 | N/A |
-| EH2 | EH2 is a deep tech startup specializing in advanced AI solutions for the energy industry, with a mission to facilitate the adoption of renewable energy sources for businesses. They have raised $100 million in funding from prominent investors such as Google Ventures, Kleiner Perkins, and Sequoia Capital, and currently hold a valuation of $1 billion. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| EarnIn | nan |  | N/A | 🔒 | N/A |
-| EarnUp | nan |  | N/A | 🔒 | N/A |
-| Earnest | Earnest is an online lending platform that offers personal loans to individuals with credit scores of 640 or above. Founded in 2012, the company has raised $300 million in funding from investors including Accel Partners, Ribbit Capital, and Kleiner Perkins Caufield & Byers. In its latest funding round, Earnest achieved a valuation of $1.5 billion. What sets Earnest apart is its focus on serving borrowers with relatively higher credit scores, distinguishing it from other online lending platforms. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Earnest Current Job Openings | nan |  | N/A | 🔒 | N/A |
-| Earnin | Earnin is a financial technology company that offers on-demand cash advances to users, allowing them to access up to $500 deposited directly into their bank accounts. The company charges a fee of 1.5% for each cash advance, which can be waived if the advance is repaid within 24 hours. Earnin has raised over $100 million in funding from investors such as Andreessen Horowitz, GV, and Kleiner Perkins Caufield & Byers. The company's unique approach and mission to provide fast, convenient, and affordable access to cash sets it apart in the financial services industry. Earnin's financials include a Series D funding round, a valuation of $1.2 billion, and a total amount raised of $108.5 million. | A16Z, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| EasyPost | EasyPost's mission is to simplify shipping. They have raised over $300 million and are valued at over $1 billion. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Echo | Echo Logistics aims to revolutionize logistics.  $100M funding, $1B valuation. |  | N/A | 🔒 | N/A |
-| Eco | nan |  | N/A | 🔒 | N/A |
-| Ecobee | Ecobee is a smart home company that specializes in creating user-friendly and energy-efficient thermostats, sensors, and cameras. They aim to make homes smarter, more comfortable, and more energy-efficient. What makes Ecobee unique is their focus on creating easy-to-use products that prioritize energy efficiency. In terms of financials, Ecobee has raised a total of $215 million in funding, with a valuation of $1.7 billion. They have received investments from prestigious companies such as the Amazon Alexa Fund, Samsung NEXT, and Kleiner Perkins Caufield & Byers. | Kleiner Perkins | N/A | 🔒 | N/A |
-| Egen | Egen Solutions: AI-powered cybersecurity protecting critical data. Series C, \$1.5B valuation, \$240M raised. | Sequoia | N/A | 🔒 | N/A |
-| Eko | Eko is a voice-first AI company that aims to make voice the primary interface for humans and machines. They provide an end-to-end platform for building voice experiences.   What makes Eko unique is their focus on voice technology and their mission to make it the primary interface. They offer a comprehensive platform that allows developers to create voice experiences.  In terms of financials, Eko raised $60 million in Series B funding in February 2023 at a valuation of $700 million. The funding round was led by Insight Partners, with participation from existing investors Lightspeed Venture Partners, GV, and Kleiner Perkins. In total, Eko has raised $105 million in funding to date. | Google Ventures, Insight Partners, Kleiner Perkins | N/A | 🔒 | N/A |
-| Elastic | nan |  | N/A | 🔒 | N/A |
-| Electric AI | ElectricAI's mission is to democratize AI technology.  Venture-backed with leading investors. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Electric Hydrogen | nan |  | N/A | 🔒 | N/A |
-| Elegen | Elegen: AI solutions for energy efficiency.  Backed by leading investors, raised [total amount raised]. |  | N/A | 🔒 | N/A |
-| Element Biosciences | nan |  | N/A | 🔒 | N/A |
-| ElementBiosciences | Element Biosciences is a synthetic biology company based in San Diego that specializes in developing and manufacturing gene editing tools for research and clinical applications. Founded in 2015, the company has raised $350 million in funding from notable investors including GV, ARCH Venture Partners, and Fidelity Management & Research. What makes Element Biosciences unique is its focus on synthetic biology and its ability to provide innovative gene editing solutions for various scientific and medical purposes. | Google Ventures | N/A | 🔒 | N/A |
-| Elementum | nan |  | N/A | 🔒 | N/A |
-| Elevance Health | Evalence Health: Making personalized healthcare accessible.  Series B: Raised $60M at $300M valuation. | Google Ventures | N/A | 🔒 | N/A |
-| EliseAI | Elise AI: AI platform for data management. Series C, $1B valuation, $100M raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Elodie Games | nan |  | N/A | 🔒 | N/A |
-| Elwood Technologies | nan |  | N/A | 🔒 | N/A |
-| Embrace | nan |  | N/A | 🔒 | N/A |
-| Employment Opportunities at BuzzFeed, Inc. | Buzzfeed creates news, entertainment, and branded content for the social web. It has raised $465 million in funding, with a valuation of $1.5 billion in Series F. |  | N/A | 🔒 | N/A |
-| Emulate | Emulate's mission: Enable immersive AI experiences. Financials: Series A, $25 million raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Endava | Levvel: AI solutions for businesses. Raised $100M+ in funding. | Accel, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| EnergyHub | nan |  | N/A | 🔒 | N/A |
-| Enova | Enova is a leading provider of online credit solutions for consumers, offering personal loans, credit cards, and installment loans. What makes them unique is their commitment to providing customers with a fast, easy, and convenient way to get the credit they need. In terms of financials, Enova has raised a total of $400 million in a Series E funding round, with a valuation of $1.5 billion. Prestige investors include Goldman Sachs, TPG Capital, and Accel Partners. | Accel, Goldman Sachs | N/A | 🔒 | N/A |
-| Enova International | nan |  | N/A | 🔒 | N/A |
-| Enthought | Enthought: Python tools for scientific computing. Series C, $100M valuation, $40M raised. | Accel | N/A | 🔒 | N/A |
-| Entrata | Entrata: Cloud-based property management software for multifamily industry. Backed by leading VCs, raised $100M+, $1B valuation. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Enveda Biosciences | EnvedaBio develops probiotics to revolutionize disease treatment.  Series B: $50M raised, $250M valuation. | Google Ventures | N/A | 🔒 | N/A |
-| Enveritas | nan |  | N/A | 🔒 | N/A |
-| Envision Employment Solutions | Envision Employment Solutions: AI-powered talent acquisition for efficient hiring. Series C, \$1.2B valuation, \$100M raised. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Envoy | Envoy: Building the future of work, making interactions more human. Backed by top investors, valued at $10 billion, raised $1.2 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Epic Avature | Epic Systems' mission is to improve healthcare.  Funding round: $5.7 billion, valuation: $56 billion. | KKR | N/A | 🔒 | N/A |
-| Epic Games | Epic Games: Leading game developer and publisher. Financials: $3 billion raised, $15 billion valuation. | KKR | N/A | 🔒 | N/A |
-| Epirus | nan |  | N/A | 🔒 | N/A |
-| Epsilon3 | Epsilon3: Quantum computing software startup.  Backed by top-tier investors. | A16Z | N/A | 🔒 | N/A |
-| Equinix | Equinix: Global digital infrastructure leader connecting businesses. Series F, \$57B valuation, \$7.8B raised. | Goldman Sachs | N/A | 🔒 | N/A |
-| Equitable Bank | EQ Bank: Simplifying banking for Canadians.  Series C funding: $150 million, $1 billion valuation. | Accel | N/A | 🔒 | N/A |
-| Erasca | Erasca's mission: Develop transformative cancer treatments. Financials: Raised over $100 million. |  | N/A | 🔒 | N/A |
-| Ethereum Foundation | The Ethereum Foundation supports Ethereum's blockchain development.  Raised over $1 billion in funding. | A16Z, Coinbase | N/A | 🔒 | N/A |
-| Eva | Eva is a unique deep learning company that utilizes artificial intelligence to enhance online shopping experiences, aiming to make the process more efficient and enjoyable for shoppers. They have raised $100 million in funding from prominent venture capital firms like Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Everlane | Everlane is a unique direct-to-consumer clothing company that offers high-quality, ethically-sourced clothing at affordable prices. Founded in 2011, the company has raised over $100 million in funding from prestigious investors such as Kleiner Perkins Caufield & Byers, Sequoia Capital, and Forerunner Ventures. Everlane's mission is to make ethical fashion accessible to everyone, and it has gained recognition for its transparency and commitment to sustainability. In terms of financials, Everlane recently completed a Series E funding round, resulting in a valuation of $1.7 billion and a total amount raised of $133 million. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Everlaw | Everlaw's mission: Transforming legal work management. Financials: Raised $200M, valued at $1B. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Evernote | Evernote is a note-taking app that stands out for its ability to help users create, edit, and organize notes across multiple devices. It aims to assist people in remembering everything and has gained recognition for its user-friendly interface and robust features. In 2023, Evernote secured $100 million in Series F funding, valuing the company at $1.3 billion. The funding round was led by Tiger Global Management, with participation from existing investors T. Rowe Price, Meritech Capital Partners, and Sapphire Ventures. | Tiger Global | N/A | 🔒 | N/A |
-| Everyday Robots | Everyday Robots is a robotics company that specializes in developing advanced AI technology for creating robots that assist individuals in their everyday activities. The company has secured $100 million in funding from prominent investors such as Google Ventures and Kleiner Perkins Caufield & Byers. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Evidation Health | Evidation Health is a digital health company that utilizes data and analytics to empower individuals in making healthier choices. Their unique approach lies in their mission to make health data globally useful, ultimately leading to improved health outcomes. The company has raised over $200 million in funding from notable investors including Google Ventures, Kaiser Permanente, and Fidelity Investments, and is currently valued at over $1 billion. | Google Ventures | N/A | 🔒 | N/A |
-| Exabeam | Exabeam is a cybersecurity company that stands out for its use of machine learning and artificial intelligence to detect and respond to threats. Founded in 2013 and based in Redwood City, California, Exabeam raised $500 million in Series F funding in February 2023, valuing the company at $5.6 billion. The funding round was led by Insight Partners, with participation from Lightspeed Venture Partners, Norwest Venture Partners, and Atlassian Ventures. | Insight Partners | N/A | 🔒 | N/A |
-| Exact Sciences | Exact Sciences provides cancer screening and diagnostics. They have raised $1.2 billion in a Series E funding round, with a valuation of $5.1 billion. |  | N/A | 🔒 | N/A |
-| ExecOnline | ExecOnline is a unique online executive education platform that offers courses from top universities and institutions, aiming to provide high-quality executive education to a global audience and help executives develop the skills needed for success in the business world. The company has raised a total of $20 million in a Series A funding round and has a valuation of $100 million, with prestigious investors including Kleiner Perkins Caufield & Byers and Sequoia Capital. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Exiger | Exiger is a leading provider of AI-powered risk management solutions, helping organizations identify and mitigate risks. Their solutions are used by major financial institutions. Exiger has raised a total of $400 million in funding, with a valuation of $1.5 billion, and has prestigious investors such as Kleiner Perkins Caufield & Byers, Sequoia Capital, and Accel Partners. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Exodus Point | Exodus Point is a venture capital firm that specializes in investing in early-stage companies in the artificial intelligence, robotics, and life sciences industries. They have raised over $1 billion in capital since their founding in 2017, with investors such as Google Ventures, Kleiner Perkins Caufield & Byers, and Fidelity Investments. The firm has a portfolio of over 50 companies, including Nuro, Covariant, and Carta. What makes Exodus Point unique is their commitment to supporting the development of innovative technologies that have the potential to change the world. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| ExodusPoint | ExodusPoint: VC investing in AI, cybersecurity, and life sciences. Raised $1 billion+. |  | N/A | 🔒 | N/A |
-| Expa | I apologize, but I am unable to provide a summary or highlight any information about Expa as I am unable to fetch any details about the company. |  | N/A | 🔒 | N/A |
-| Expedia | Expedia's mission is to "Be the Travel Superpower." Expedia raised $1 billion, valued at $20 billion. |  | N/A | 🔒 | N/A |
-| Expel | Expel is a cybersecurity company that offers cloud-based solutions to safeguard organizations against advanced threats. They aim to enhance global security by equipping organizations with the necessary tools to defend against cyber attacks.   What makes Expel unique is their focus on providing cloud-based solutions, which allows for greater flexibility and scalability in protecting organizations from cyber threats. Additionally, their prestigious investors, including Insight Partners, Norwest Venture Partners, and Bessemer Venture Partners, highlight the company's credibility and potential for growth.  In terms of financials, Expel has raised a total of $225 million in funding through a Series C round, resulting in a valuation of $1.1 billion. | Bessemer, Insight Partners | N/A | 🔒 | N/A |
-| Explo | Explo(None) is a venture-backed startup focused on developing a groundbreaking technology for deep-sea exploration, aiming to make the ocean's unexplored depths accessible to scientists and explorers. The company has raised $100 million in funding from top venture capital firms, with a valuation of $1 billion. |  | N/A | 🔒 | N/A |
-| Exponential Defi, Inc | Exponential's mission: democratizing AI for global problem-solving. Financials: \$100 million raised from top investors. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Extreme Networks | Extreme Networks connects the world with limitless networking possibilities. Series G funding, $1.7B valuation, $750M raised. | Goldman Sachs | N/A | 🔒 | N/A |
-| F5 | F5: Making AI accessible; $100M funding, $1B valuation. |  | N/A | 🔒 | N/A |
-| FIGS | Figment empowers creators to build virtual worlds. Series A, $100M valuation, $20M raised. | A16Z, Coinbase | N/A | 🔒 | N/A |
-| FORTE | Forte is revolutionizing work with a platform for seamless collaboration. They have raised $150 million in funding, with a valuation of $1 billion, in a Series B round. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| FS Investments | FsInvestments supports early-stage startups.  Invested in 100+ companies, raised $10B. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| FabFitFun | FabFitFun's mission is to empower women through discovery and self-care. The company has raised $300 million in a Series D funding round, with a valuation of $1.2 billion. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Facet | Facet is a conversational AI platform that aims to enhance customer service by enabling businesses to have meaningful conversations with their customers. They have raised $100 million in funding from investors like Sequoia Capital, Tiger Global Management, and Kleiner Perkins, and are currently valued at $1 billion. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| FactSet | FactSet provides financial data and analytics for investors.  Series E funding, $1.5 billion valuation, $300 million raised. |  | N/A | 🔒 | N/A |
-| Fair Square Medicare | Fair Square Medicare: Affordable healthcare for all. Backed by top investors, raised $100M+. | A16Z, Tiger Global | N/A | 🔒 | N/A |
-| Faire | Faire: Revolutionizing B2B e-commerce for small businesses. $1B funding, $12B valuation. | Bain, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Fairmarkit | Fairmarkit is a next-generation financial marketplace that aims to democratize access to illiquid assets by providing a transparent and efficient platform for buyers and sellers. The company has raised $110M in funding from investors such as Goldman Sachs, Bain Capital Ventures, and RRE Ventures, and is currently valued at $500M. Fairmarkit's platform offers transparency, efficiency, and liquidity, providing full visibility into asset prices, eliminating intermediaries, and creating a liquid market for illiquid assets. This has the potential to revolutionize the trading of illiquid assets and unlock trillions of dollars of value for institutional investors. | Bain, Goldman Sachs | N/A | 🔒 | N/A |
-| FalconX | FalconX is a digital asset trading platform that specializes in providing institutional investors with access to cryptocurrency markets. They were founded in 2017 and are based in San Francisco, California. What makes FalconX unique is their focus on serving institutional investors and their ability to provide access to cryptocurrency markets. In March 2022, FalconX raised $150 million in Series D funding at a valuation of $8 billion, with Thoma Bravo leading the round and participation from existing investors GIC, Valor Equity Partners, and D1 Capital Partners. |  | N/A | 🔒 | N/A |
-| FanDuel | FanDuel: Engaging fans through sports betting and fantasy sports. $1.5B funding, $37B valuation. | KKR, Tiger Global | N/A | 🔒 | N/A |
-| Fanatics | Fanatics: Making sports accessible and engaging for fans. $3 billion raised, $18 billion valuation. |  | N/A | 🔒 | N/A |
-| Fauna | Fauna is a cloud-native NoSQL database that provides a straightforward and scalable solution for storing and retrieving data, with a focus on enabling developers to create applications capable of handling large data volumes. What sets Fauna apart is its emphasis on simplicity and scalability. Currently in its Series B funding round, Fauna has a valuation of $100 million and has raised a total of $60 million in funding from notable investors including GV, Kleiner Perkins Caufield & Byers, and Index Ventures. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Featureform | Featureform: AI-powered personalization platform for businesses.  2021: $30M Series B, $100M valuation. | Insight Partners | N/A | 🔒 | N/A |
-| Federato | Federato is a unique decentralized finance (DeFi) platform that enables users to trade cryptocurrencies, earn interest on their crypto assets, and borrow against their holdings. Founded in 2021 by a team of experienced finance professionals and engineers, Federato aims to make DeFi accessible to everyone. The company has successfully raised $10 million in a Series A funding round from prestigious investors such as Sequoia Capital and Kleiner Perkins. With a valuation of $100 million, Federato is making waves in the DeFi space. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Feedzai | Feedzai: AI fraud prevention for global customers.  $150m Series E, $1.7bn valuation. | Accel | N/A | 🔒 | N/A |
-| Fernish | Fernish is an online marketplace founded in 2017 by brothers Matt and Nick Garrett, connecting interior designers with homeowners seeking home improvements. What makes Fernish unique is its focus on bridging the gap between designers and homeowners through its online platform. The company has raised $20 million in funding from investors including NEA, Greycroft, and Forerunner Ventures, and as of 2022, it is valued at $100 million. |  | N/A | 🔒 | N/A |
-| Fetch | Fetch Rewards' mission: Make shopping rewarding for everyone. Financials: $500M funding, $3B valuation. | Tiger Global | N/A | 🔒 | N/A |
-| Fetch Rewards | Fetch Rewards is a rewards app that allows users to earn cash back on everyday purchases. With over 30 million active users, it is the fastest-growing rewards app in the US. The company has raised over $500 million in funding from investors like Tiger Global Management, Accel, and General Catalyst. What makes Fetch Rewards unique is its commitment to making shopping rewarding for everyone, its simple and easy-to-use platform, and its dedication to giving back to the community through donations of over $10 million to charities. | Accel, Tiger Global | N/A | 🔒 | N/A |
-| Fictiv | Fictiv is a digital manufacturing platform that offers businesses on-demand access to manufacturing resources, aiming to simplify the process of obtaining necessary parts. What makes them unique is their ability to cater to businesses of all sizes. Fictiv has raised $150 million in funding from prominent investors like Sequoia Capital, Kleiner Perkins, and GV, and currently holds a valuation of $1.5 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Fifth Third Bank | Fifth Third Bancorp's mission is to help people and businesses thrive. They raised $1.5 billion in funding with a $24 billion valuation. |  | N/A | 🔒 | N/A |
-| Figma | Figma's mission: Create world's best design tools. Funding: $500M raised, $10B valuation. | A16Z, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Figure | Figure is a unique startup that utilizes AI technology to generate customized 3D avatars for individuals to utilize in virtual environments. Founded in 2021, the company has successfully secured $10 million in funding from prominent investors including Andreessen Horowitz and Khosla Ventures. Figure's primary objective is to simplify the process of creating and employing 3D avatars that faithfully depict users in the metaverse. | A16Z | N/A | 🔒 | N/A |
-| Filecoin Foundation | The Filecoin Foundation is a non-profit organization established in 2017 to aid the growth of the Filecoin network, a decentralized storage network based on the InterPlanetary File System (IPFS). They aim to create a censorship-resistant, open-source, and incentivized storage network to ensure the accessibility and security of global data.   What makes the Filecoin Foundation unique is its non-profit status and its focus on supporting the development of a decentralized storage network. They prioritize the mission of making data accessible and secure rather than pursuing profit.   In terms of financials, the Filecoin Foundation has raised a total of $347 million in funding, with a valuation of $200 million. They have attracted prestigious investors such as Andreessen Horowitz, Union Square Ventures, and Sequoia Capital in their Series B funding round. | A16Z, Sequoia | N/A | 🔒 | N/A |
-| Financial Technology Partners | Financial Technology Partners (Fintech) invests in early-stage financial technology companies. Series D funding, $1 billion valuation, $1.1 billion raised. | A16Z, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Findhelp | Findhelp is a mission-driven startup founded in 2023 that uses AI to connect people in need with the right resources, such as food, shelter, and healthcare. They have raised $100 million in funding from investors like Sequoia Capital and Kleiner Perkins, and currently have a valuation of $1 billion. What makes Findhelp unique is their focus on making help accessible to everyone and their efforts to build a community of support for those who are struggling. They are a cutting-edge company that is determined to change the way people access help and make a real difference in the world. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Findhelp, A Public Benefit Corporation | FindHelp: Making childcare affordable, accessible, and equitable.  Venture-backed with leading investors. | Sequoia, YC | N/A | 🔒 | N/A |
-| Fireblocks | Fireblocks provides secure infrastructure for digital assets. (7 words) Series E, $8 billion valuation, $550 million raised. (7 words) | Sequoia | N/A | 🔒 | N/A |
-| Firefly Health | Firefly Health aims to make healthcare more affordable and accessible. It has raised over $100 million in funding and is valued at $1 billion. | Google Ventures | N/A | 🔒 | N/A |
-| FiscalNote | FiscalNote provides legislative data and insights. (7 words) Series E, $1.1B valuation, $100M raised. (5 words) | Insight Partners | N/A | 🔒 | N/A |
-| Fisher & Paykel | Haier Smart Home: Creating smart living experiences.  Latest funding round: $1 billion, $7 billion valuation. | Sequoia | N/A | 🔒 | N/A |
-| Fitogram | Fitogram is a social media platform for fitness enthusiasts that offers features such as a social feed, private messaging system, and challenges to help users track their progress, stay motivated, and connect with others. What makes Fitogram unique is its focus on connecting people with similar fitness goals and its popularity as one of the most popular fitness social media platforms in the world. The company has raised $10 million in funding from venture capital firms including Sequoia Capital and Kleiner Perkins Caufield & Byers. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Five Rings | Five Rings aims to create lightweight and comfortable AR glasses.  Raised $100 million in funding. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Five9 | Five9 is a cloud-based software company that offers contact center solutions to businesses, aiming to improve customer service by facilitating efficient communication between customers and agents. They have raised $300 million in funding through a Series E round and are currently valued at $1 billion. Notable investors include Goldman Sachs, Accel Partners, and Norwest Venture Partners. | Accel, Goldman Sachs | N/A | 🔒 | N/A |
-| Fivetran | Fivetran's mission: Simplify data access and analysis. Financials: $500M funding, $1B valuation. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Fivetran | Fivetran's mission is to simplify data integration.  Funding: $500 million raised. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Flashpoint | Flashpoint is a global threat intelligence company that offers a threat intelligence platform, expert analyst services, and a network of over 1 million sources of threat intelligence data. They have raised over $300 million in funding from investors such as Blackstone, General Atlantic, and GV. | Google Ventures | N/A | 🔒 | N/A |
-| Flatiron | Flatiron Health is a unique healthcare technology company that offers a cloud-based platform for cancer research, aiming to enhance efficiency and effectiveness by providing a centralized location for data storage and analysis. The company has raised more than $1 billion in funding from notable investors including Google Ventures, Pfizer, and Novartis. | Google Ventures | N/A | 🔒 | N/A |
-| Flatiron Health | Flatiron Health is a healthcare technology company that specializes in developing software for cancer treatment, aiming to enhance the effectiveness of cancer care by equipping doctors with the necessary tools for improved decision-making. What sets Flatiron Health apart is its unique focus on utilizing technology to address the complexities of cancer treatment. The company has successfully raised over $1 billion in funding from prominent investors including Google Ventures, Pfizer, and Novartis, and currently holds a valuation of $1.9 billion. | Google Ventures | N/A | 🔒 | N/A |
-| Flatiron Health Conference Applications | Conference Applications: AI platform for event speaker booking. 2021: $20M Series A, $100M valuation. | Accel | N/A | 🔒 | N/A |
-| Flex | Flex: Future of work platform connecting remote professionals.  Funding: $100M raised, $1B valuation. | Accel, Kleiner Perkins, YC | N/A | 🔒 | N/A |
-| Flexe | Flexe is a cloud-based logistics platform that connects shippers with warehouses and carriers, aiming to improve efficiency and transparency in the logistics process. The company has raised over $120 million in funding from investors including SoftBank Vision Fund, GV, and Kleiner Perkins Caufield & Byers. In January 2023, Flexe was acquired by Amazon for $1.4 billion.   What makes Flexe unique is its cloud-based approach to logistics, which allows for seamless connectivity between shippers, warehouses, and carriers. This technology-driven solution sets Flexe apart from traditional logistics providers and enables greater efficiency and transparency in the supply chain. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Flexport | Flexport's mission is to simplify global trade.  Raised $1 billion, valued at $8 billion. | Google Ventures | N/A | 🔒 | N/A |
-| Flipboard | Flipboard is a unique social news app that enables users to create customized newsfeeds, aiming to make knowledge accessible and enjoyable. The company has raised over $200 million in funding, with its latest funding round being a Series E round of $100 million in July 2017, valuing the company at $800 million. | A16Z, Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Flix | Flix's mission: Next-gen video streaming platform disrupting entertainment industry. Financials: $100M funding, $1B valuation, profitable soon. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Flock Freight | Flock Freight is a unique digital freight network that utilizes machine learning and predictive analytics to connect shippers with carriers, leading to cost and time savings. The company has raised a total of $265 million in funding, including a recent $100 million Series D round led by GV. Flock Freight is based in San Francisco, California. | Google Ventures | N/A | 🔒 | N/A |
-| Flock Safety | Flock Safety's mission: Making communities safer through crime prevention. Financials: Series E-funded, $400 million raised. | Accel, Founders Fund | N/A | 🔒 | N/A |
-| FlockSafety | Flock Safety is a San Francisco-based company that utilizes artificial intelligence to assist law enforcement and communities in combating crime. Their standout product, the Flock Safety camera, is a solar-powered license plate reader that can be placed on both public and private property. The camera collects data, which is then utilized to generate crime maps and detect criminal activity patterns. Flock Safety has secured over $200 million in funding from notable investors like Kleiner Perkins Caufield & Byers, GV (formerly Google Ventures), and Lux Capital. As of 2021, the company's valuation stands at $1.5 billion. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Flow | Flow Life: Making water sports accessible and enjoyable.  Venture-backed startup, $10M funding, $40M valuation. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Flow Traders | Flow Traders is a global market maker specializing in the energy and cryptocurrency markets. They have become one of the largest market makers worldwide since their establishment in 2004, with offices in major financial hubs. Their unique mission is to enhance market liquidity and improve trading efficiency. In 2021, Flow Traders raised $1.1 billion in Series D funding, resulting in a valuation of $6.3 billion, with TPG Growth leading the round and participation from existing investors GIC, Temasek, and Wellington Management. |  | N/A | 🔒 | N/A |
-| Flowcarbon | Flowcarbon: Blockchain platform for carbon credit trading. Series A, $70M raised, $350M valuation. | A16Z | N/A | 🔒 | N/A |
-| Fly.io | Fly.io's mission is to simplify cloud-native application development. They have raised $200 million in funding. | A16Z, Insight Partners, Tiger Global | N/A | 🔒 | N/A |
-| Flyhomes | Flyhomes: Streamlining homebuying with technology.  $100M raised from top investors. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Flyr | Flyr is a Norwegian ultra low-cost carrier that was founded in 2018 with the goal of making air travel affordable and accessible to everyone. They have raised $250 million in funding from investors like DNB Ventures, Northzone, and Viking Venture, and currently have a valuation of $1.5 billion. What makes Flyr unique is their focus on providing low-cost air travel options while still maintaining a high level of accessibility for all passengers. |  | N/A | 🔒 | N/A |
-| Flywheel Software | Flywheel Software is a prominent AI solutions provider for businesses, aiming to enhance decision-making processes. Their AI platform is utilized by major companies like Google, Amazon, and Microsoft. In their most recent funding round, Flywheel raised $100 million at a valuation of $1 billion, with Sequoia Capital leading the round and participation from Kleiner Perkins Caufield & Byers and Accel Partners. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Forage | Forage is a venture-backed startup founded in 2017 by two Stanford University graduates. They have raised $20 million in funding from investors like Sequoia Capital and Kleiner Perkins, and are currently valued at $100 million. Forage uses artificial intelligence to help companies find the best talent by matching candidates with jobs that suit their skills and experience. Their platform has been utilized by major companies like Google, Amazon, and Uber for hiring purposes. What makes Forage unique is their use of AI to streamline and improve the hiring process. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Forbes | Forbes: Empowering decisions, global media.  Forbes: $600M Series F, $1B valuation. | Insight Partners, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Forethought | Forethought is a prominent company that offers AI-powered solutions for businesses to make better decisions by analyzing their data. They have a strong client base, including major companies like Amazon, Google, and Microsoft. What makes Forethought unique is their ability to provide valuable insights from data. In terms of financials, they have raised a total of $300 million in funding, with a valuation of $1.7 billion, through a Series C funding round with prestigious investors such as Kleiner Perkins Caufield & Byers, Sequoia Capital, and Accel Partners. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| ForgeRock | ForgeRock is a global leader in identity and access management, offering a comprehensive Identity Platform that serves as a trusted source of truth for all identity data. They enable enterprises to securely connect people to technology and systems. What makes ForgeRock unique is their strong backing from prominent investors like Goldman Sachs, Intel Capital, and Salesforce Ventures. In March 2023, ForgeRock raised $1.3 billion in a Series E funding round, valuing the company at $13 billion. | Goldman Sachs, Salesforce Ventures | N/A | 🔒 | N/A |
-| Forma | Forma's mission: Making augmented reality accessible to everyone. Financials: $20 million raised from investors. | Google Ventures | N/A | 🔒 | N/A |
-| Formation | Formation empowers employees through AI training.  $1 billion valuation, $100 million raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Formic | Formic is a venture-backed startup focused on developing self-driving vehicles with the goal of making autonomous vehicles accessible to all. The company is supported by a team of renowned experts in artificial intelligence, robotics, and automotive engineering. Formic has raised $100 million in funding from notable investors including Google Ventures and Kleiner Perkins Caufield & Byers. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Formlabs | Formlabs is a prominent 3D printing company that specializes in the development and sale of desktop 3D printers and scanners. Their unique approach lies in their mission to democratize 3D printing, making it accessible, affordable, and user-friendly. The company has successfully raised over $200 million in funding from renowned investors like Google Ventures, Kleiner Perkins Caufield & Byers, and Accel Partners. In 2019, Formlabs achieved a valuation of $1.5 billion. | Accel, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Forta | Forta is a cybersecurity company that utilizes artificial intelligence to safeguard organizations against cyberattacks, aiming to eliminate the ability of malicious actors to exploit vulnerabilities. Notably, the company has achieved a valuation of $1 billion through a Series B funding round, raising a total of $71 million from prestigious investors including Coatue Management, General Catalyst, and Acrew Capital. |  | N/A | 🔒 | N/A |
-| Forta Job Board | Forta: Blockchain security solutions protecting decentralized web. Series B, \$2.1B valuation, \$47.5M raised. | A16Z, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Forte | Forte is a stealth-mode startup that is working on developing a unique AI technology capable of learning from vast amounts of data without explicit programming. The company has received significant support with a $100 million Series A funding round from prominent investors such as Google Ventures, Kleiner Perkins, and Sequoia Capital. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Forward | GoForward aims to revolutionize work processes. Series B-funded with top investors. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Forward Networks | Forward Networks is a cloud-based network automation platform that aims to simplify network deployment and management for businesses, allowing them to focus on their core operations. The company closed a $40 million Series B funding round led by Insight Partners in March 2023, bringing their total funding raised to $60 million. | Insight Partners | N/A | 🔒 | N/A |
-| Found | Ashby empowers brands to sell direct-to-consumer. (7 words) Seed round: $20M, Valuation: $100M, Total amount raised: $20M. (11 words) | Thrive, Sequoia | N/A | 🔒 | N/A |
-| Found Energy | Found Energy is an early-stage startup focused on developing a groundbreaking technology for extracting natural gas from shale deposits. The company has secured $20 million in funding from prominent investors like Kleiner Perkins Caufield & Byers and NEA. Found Energy's unique approach and innovative technology position them to become a significant player in the energy industry, with the potential to revolutionize the way natural gas is accessed. | Kleiner Perkins | N/A | 🔒 | N/A |
-| Foundation | Foundation simplifies crypto investing.  Series B: $150M raised, $1B valuation. | Sequoia | N/A | 🔒 | N/A |
-| Founders Factory | Founders Factory is a global network of startup studios that assists entrepreneurs in building and expanding their businesses. They have offices in London, New York, and Singapore and have helped over 200 startups raise more than $1 billion in funding. They recently completed a Series B funding round, resulting in a valuation of $100 million, and have raised a total of $50 million from prestigious investors such as Accel Partners, LocalGlobe, and Seedcamp. | Accel | N/A | 🔒 | N/A |
-| Foundry Digital | Foundry Digital is a unique digital asset platform that offers a range of services specifically designed for institutional investors, aiming to simplify their investment in digital assets. The company has successfully raised $100 million in funding from prominent investors including Bain Capital Ventures, Digital Currency Group, and Fidelity Investments. | Bain | N/A | 🔒 | N/A |
-| Fountain | Fountain's mission: Enhancing conversational AI experiences. Financials: Series A-funded startup. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| FourKites | Fourkites revolutionizes supply chain management.  $100M funding, $1B valuation. | Accel, Kleiner Perkins, Tiger Global | N/A | 🔒 | N/A |
-| Foursquare | Foursquare: Location intelligence platform. Series E, $3.5B valuation, $650M raised. |  | N/A | 🔒 | N/A |
-| Freenome | Freenome's mission: Early cancer detection for all. Financials: $200 million raised from investors. | Google Ventures, Sequoia | N/A | 🔒 | N/A |
-| FreshBooks | FreshBooks is a cloud-based accounting software that assists small businesses in managing their finances. Founded in 2003, the company has raised over $100 million in funding and is currently valued at $1.5 billion. With over 1 million customers worldwide, FreshBooks stands out for its user-friendly interface and extensive features tailored to the needs of small businesses. |  | N/A | 🔒 | N/A |
-| Front | Front's mission: Simplify customer communication for businesses. Financials: $100M funding, $1B valuation. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Fueled | Fueled is a venture-backed startup focused on developing a revolutionary battery technology to transform the way we power our devices. Their mission is to make clean energy accessible to everyone and create a more sustainable future. Fueled has raised $100 million in funding from prominent investors including Khosla Ventures and Kleiner Perkins Caufield & Byers. | Kleiner Perkins | N/A | 🔒 | N/A |
-| FullStack Labs | FullStack Labs helps businesses build innovative software products. Series D, $1.1B valuation, $230M raised. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| FullStory | FullStory is a digital experience analytics platform that helps businesses understand user interactions with their websites and apps, aiming to make the digital world more human by providing insights for better customer experiences.   Unique features of FullStory include its ability to provide comprehensive analytics on user behavior and interactions, allowing businesses to gain deep insights into how users engage with their digital platforms. The platform also offers session replay, which enables businesses to watch recordings of user sessions to understand their actions and behaviors in real-time.  In March 2023, FullStory raised $150 million in Series E funding at a valuation of $1.3 billion. The funding round was led by Insight Partners, with participation from existing investors Accel, Benchmark, and GV. In total, FullStory has raised $300 million in funding.  Headquartered in San Francisco, FullStory has offices in New York City, London, and Tokyo, and employs over 400 people. | Accel, Google Ventures, Insight Partners | N/A | 🔒 | N/A |
-| Fyllo | Fyllo is an AI-powered platform that assists retailers in optimizing their marketing campaigns by providing them with data-driven insights and tools. What makes Fyllo unique is its focus on helping retailers grow their businesses through the use of AI technology. In February 2023, Fyllo raised $50 million in Series B funding, led by Tiger Global Management, with participation from existing investors Insight Partners and GGV Capital. The company's total amount raised is now $75 million, and its valuation stands at $300 million. | Insight Partners, Tiger Global | N/A | 🔒 | N/A |
-| Fynd | Fynd's mission is to simplify and enhance fashion discovery. They have a Series C funding round with a valuation of over $100M and have raised over $100M. | Accel, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| GHX | Global Healthcare Exchange: Revolutionizing healthcare; $100M funding, $1B valuation. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| GOAT Group | Goat Group: Advancing AI-powered conversational assistants.  Raised $100 million from top investors. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| GPTZero | AshbyAI: Making AGI accessible; raised $100M at $1B valuation. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| GRIN | GRIN is a unique decentralized social media platform that prioritizes freedom of expression by enabling users to post and share content without censorship. The company has raised $10 million in funding from notable investors including Andreessen Horowitz and Accel. | A16Z, Accel | N/A | 🔒 | N/A |
-| Garda Capital Partners | Garda Capital Partners invests in AI, ML, and robotics startups. Series A funding, \$100 million valuation, \$100 million raised. | Accel, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Garner Health | Garner Health is a digital health company that aims to enhance the accessibility and affordability of mental healthcare. They provide a range of online tools and resources, including therapy, coaching, and medication management, to assist individuals in managing their mental health requirements. What sets Garner Health apart is their focus on making mental healthcare more accessible through digital platforms. They have secured $20 million in funding from prominent investors like Y Combinator and Kleiner Perkins. | Kleiner Perkins, YC | N/A | 🔒 | N/A |
-| Gate.io | Gate.io's mission: Easy and accessible crypto trading for all. Financials: $100M Series B, $200M raised. | Sequoia | N/A | 🔒 | N/A |
-| Gather | Gather's mission: Create a more human internet. Financials: $200M funding, $2.7B valuation. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Gather AI | Gather AI is an AI company founded in 2017 that utilizes natural language processing to assist businesses in comprehending their customers. They have raised $100 million in funding from investors like Sequoia Capital and Kleiner Perkins. What sets Gather AI apart is their focus on making sense of vast amounts of data to enable businesses to make more informed decisions. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Gatik | Gatik: Revolutionizing logistics with self-driving vehicles.  Funding: $175 million raised from top investors. |  | N/A | 🔒 | N/A |
-| Gecko Robotics | Gecko Robotics is a robotics company specializing in the development and deployment of advanced inspection robots for industrial purposes. Their unique approach focuses on enhancing safety, speed, and accuracy in industrial inspections. The company has successfully raised $100 million in funding from prominent investors including Kleiner Perkins, GV, and Lux Capital, resulting in a current valuation of $500 million. | Kleiner Perkins | N/A | 🔒 | N/A |
-| Gem | ZenSourcer: AI platform for talent acquisition. Founded 2017, $100M funding, $1B valuation. | Accel, YC | N/A | 🔒 | N/A |
-| Gemini | Gemini is a cryptocurrency exchange and custodian founded in 2014 by Cameron and Tyler Winklevoss. It is known for its emphasis on security and compliance. In 2017, Gemini raised $400 million in Series C funding at a valuation of $6 billion and has since raised an additional $100 million in debt financing. As of 2021, Gemini is valued at $7.1 billion. |  | N/A | 🔒 | N/A |
-| Gen | Gen aims to improve healthcare through AI-powered solutions.  Raised $100 million in funding. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| General Assembly | General Assembly is a global education company that provides immersive technology and business courses in various cities worldwide. Founded in 2011, General Assembly has raised over $400 million in funding from investors like Sequoia Capital, Accel Partners, and Kleiner Perkins Caufield & Byers. What sets General Assembly apart is its mission to empower individuals to transform their lives and careers through technology. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| General Motors | GM's mission is to create innovative and sustainable automotive products. The company's financials include Series F funding, $82 billion valuation, and $27.5 billion raised. | Blackrock | N/A | 🔒 | N/A |
-| Genesis Therapeutics | Genesis Therapeutics develops gene therapies for rare diseases.  Raised $100 million in funding. |  | N/A | 🔒 | N/A |
-| Genesis Trading | Genesis Trading is a prominent digital asset trading platform that provides spot, margin, and futures trading services. Established in 2017, the company has rapidly emerged as a frontrunner in the cryptocurrency trading industry, facilitating more than $10 billion in daily trading volume. What sets Genesis Trading apart is its backing from renowned venture capital firms such as Paradigm, Sequoia Capital, and Digital Currency Group. Unfortunately, the description does not provide any information regarding the company's funding round, valuation, or total amount raised. | Sequoia | N/A | 🔒 | N/A |
-| Geneva Trading | Geneva Trading is a prominent provider of algorithmic trading solutions, offering institutional investors advanced tools for achieving exceptional returns in the financial markets. What sets Geneva Trading apart is their use of proprietary algorithms that are developed using state-of-the-art research in machine learning and artificial intelligence. The company has successfully raised more than $100 million in funding from renowned investors like Sequoia Capital and Tiger Global Management, resulting in a valuation of over $1 billion. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Genies | Genies is a unique avatar platform that enables users to create and monetize their personalized digital identities. The company has secured $150 million in funding from prominent investors including Andreessen Horowitz, GV, and Kleiner Perkins. | A16Z, Kleiner Perkins | N/A | 🔒 | N/A |
-| Genius Sports | Genius Sports is a global sports data and technology company that aims to make sports betting more fair, transparent, and secure. They provide real-time data, integrity services, and software solutions to the sports betting industry. The company was founded in 2001 and is headquartered in London, England. What makes Genius Sports unique is their comprehensive sports data, advanced integrity services, and software solutions that ensure the accuracy and security of sports betting. They have a team of over 800 employees and operate in more than 100 countries.  In 2022, Genius Sports raised $1.9 billion in Series E funding, bringing their valuation to $7.3 billion. In total, they have raised $2.7 billion. Investors in the funding round included SoftBank Vision Fund 2, MSD Capital, and Temasek. |  | N/A | 🔒 | N/A |
-| Getty Images | Getty Images empowers creators worldwide. Raised $1.2 billion at $4.2 billion valuation. | Accel, ICONIQ | N/A | 🔒 | N/A |
-| GigFinesse | GigFinesse: Revolutionizing freelance talent sourcing.  Venture-backed, \$100M funding, \$1B valuation. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Gilead Sciences | Gilead Sciences: Innovative medicines for life-threatening diseases.  2021: $3.3 billion funding round. |  | N/A | 🔒 | N/A |
-| Ginkgo Bioworks | Ginkgo Bioworks: Simplifying biology engineering.  $1 billion raised from top investors. |  | N/A | 🔒 | N/A |
-| Girl Effect | Girl Effect empowers adolescent girls in developing countries. Raised $10 million in funding. |  | N/A | 🔒 | N/A |
-| GitHub | GitHub's mission is to democratize software development.  GitHub has raised over $7 billion. | A16Z, Sequoia | N/A | 🔒 | N/A |
-| GitLab | Gitlab is a DevOps platform for software development. (10 words) Series D, \$2.7B valuation, \$360M raised. (5 words) | A16Z | N/A | 🔒 | N/A |
-| Github | Github is a unique global platform that allows developers to share code, collaborate on projects, and build software together. They have raised a total of $100 million in funding, with a valuation of $3 billion, and have prestigious investors such as Andreessen Horowitz, Bessemer Venture Partners, and Index Ventures. | A16Z, Bessemer | N/A | 🔒 | N/A |
-| Glance | Glance is a unique computer vision startup that utilizes AI to enhance people's understanding of the world, with a mission to increase accessibility for all. The company has raised $200 million in funding from prominent investors such as Google Ventures, Kleiner Perkins, and Sequoia Capital, and is currently valued at $1 billion. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Glassdoor | Glassdoor is a unique website that allows employees to anonymously review their workplaces, aiming to increase workplace transparency and help individuals find suitable jobs. The company has raised over $100 million in funding from investors like Accel Partners, Google Ventures, and Kleiner Perkins Caufield & Byers, with a valuation of $1 billion. | Accel, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Glean | Glean is an AI-powered data platform that aims to make data accessible and actionable for businesses to improve decision-making. Founded in 2016, the company is based in San Francisco. In 2021, Glean raised $60 million in a Series B funding round led by Sequoia Capital, resulting in a valuation of $300 million. | Sequoia | N/A | 🔒 | N/A |
-| Glean Website | Glean: AI procurement platform saving money and time. Founded 2017, raised $100M+, valued at $1B. | Accel, Kleiner Perkins, YC | N/A | 🔒 | N/A |
-| Glia | Glia is a venture-backed startup utilizing artificial intelligence to aid doctors in diagnosing and treating brain diseases. What makes Glia unique is its focus on leveraging AI technology specifically for brain-related conditions. The company has successfully raised $100 million in funding from prominent investors including Google Ventures, Kleiner Perkins, and Sequoia Capital. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Global Blood Therapeutics | Global Blood Therapeutics is a clinical-stage biopharmaceutical company focused on developing innovative treatments for severe genetic blood disorders. They have raised over $450M in funding from prominent investors and are currently in Phase 3 clinical trials for their lead product candidate, GBT440, which aims to treat sickle cell disease. What makes them unique is their dedication to addressing unmet medical needs in the field of genetic blood disorders and their promising progress in developing novel therapeutics. |  | N/A | 🔒 | N/A |
-| Global Healthcare Exchange, Inc. | Global Healthcare Exchange, Inc. is a healthcare technology company focused on creating a platform to connect patients with doctors and medical providers. They are unique in their mission to make healthcare more accessible and affordable for everyone. In their seed round of funding, they have raised $5 million from investors including Y Combinator and GV. | YC | N/A | 🔒 | N/A |
-| Global Relay | Global Relay is a global leader in cloud-based communications software, offering businesses a secure and user-friendly platform for communication and collaboration. They have raised over $100 million in funding from prominent investors like Accel Partners, First Round Capital, and Kleiner Perkins Caufield & Byers, and are currently valued at over $1 billion. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Glorify | Glorify is a unique platform that enables users to create and sell personalized digital content, aiming to empower creators to monetize their passions. The company, founded in 2021 by Shiv Gaglani and Trey Stubbs, has raised $100 million in funding from prominent investors including Sequoia Capital and Kleiner Perkins. With its rapid growth and innovative approach, Glorify is set to revolutionize the creation and sale of digital content. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Glossier | Glossier is a digitally native beauty company that focuses on creating playful and easy-to-use products for the modern woman. They have raised over $100 million in funding, with their latest funding round valuing the company at $1.2 billion. Glossier stands out for its mission to make beauty more inclusive, accessible, and fun, targeting millennial women who seek high-quality and affordable beauty products. They sell their products both online and in select retail locations. | Sequoia | N/A | 🔒 | N/A |
-| Glovo | Glovo's mission is on-demand delivery services.  Glovo raised $525 million in Series E funding. | Accel, Goldman Sachs | N/A | 🔒 | N/A |
-| Go1 Australia | Go1: Making learning frictionless. Raised $150M at $1.5B valuation. |  | N/A | 🔒 | N/A |
-| Go1 United States | Go1's mission: Lifelong learning accessible and affordable. Financials: $100M funding, $1B valuation. |  | N/A | 🔒 | N/A |
-| GoCardless | GoCardless: Simplifying payments, raising $900M, valued at $2.5B. |  | N/A | 🔒 | N/A |
-| GoDaddy | GoDaddy is a leading provider of cloud-based web hosting, domain name registration, and related services. They have become one of the most recognizable brands in the internet industry since their founding in 1997. What makes GoDaddy unique is their mission to empower people to easily create and manage their online presence. They offer a wide range of products and services, including domain name registration, web hosting, email, and marketing tools. In terms of financials, GoDaddy has raised a total of $1.7 billion in funding, with a valuation of $11.8 billion. They have received funding from prestigious investors such as Kleiner Perkins Caufield & Byers, Accel Partners, and Insight Venture Partners. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| GoFundMe | GoFundMe is a unique global fundraising platform that enables individuals to raise money for personal or community causes. Since its establishment in 2010, GoFundMe has successfully raised over $10 billion for more than 100 million campaigns. The company has received support from renowned investors including Accel Partners, Andreessen Horowitz, and Sequoia Capital. | A16Z, Accel, Sequoia | N/A | 🔒 | N/A |
-| GoGuardian | GoGuardian is an EdTech company that offers a range of digital safety and productivity tools specifically designed for K-12 schools. Their main goal is to create a secure and efficient learning environment for students. What sets GoGuardian apart is their focus on providing comprehensive solutions tailored to the unique needs of K-12 education. In 2021, the company successfully raised $150 million in Series E funding, resulting in a valuation of $1.3 billion. Prominent investors in this funding round include Owl Ventures, GSV Capital, and NEA. |  | N/A | 🔒 | N/A |
-| GoPro | GoPro captures and shares exciting moments.  Series F funding, $3 billion valuation, $900 million raised. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Going | Ashby: Simplifying remote job search.  Funding: \$100M raised, \$1B valuation. | Kleiner Perkins, Sequoia, YC | N/A | 🔒 | N/A |
-| Gold Flora | nan |  | N/A | 🔒 | N/A |
-| Goldbelly | Goldbelly connects customers with local food producers nationwide. Raised $100M, valued at $500M. | Accel, Sequoia | N/A | 🔒 | N/A |
-| Golden Hippo | Golden Hippo is a unique venture-backed startup that leverages artificial intelligence to enhance decision-making for businesses. They have secured $10 million in funding from prominent investors like Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Gong | Gong is a sales intelligence platform that aims to enhance revenue growth for sales teams by making them high-performing. They have secured more than $1 billion in funding from prominent investors like Sequoia Capital, Tiger Global, and Accel. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Gong.io | Gong.io helps businesses understand customers and grow revenue. Raised $125M in Series F, valued at $7.7B. | Accel, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Google | Google's mission is to organize information globally. It is valued at $1.1 trillion and has raised $134.4 billion. |  | N/A | 🔒 | N/A |
-| Gopuff | Gopuff is an on-demand delivery service based in Philadelphia that offers a diverse range of products, including groceries and electronics. What sets them apart is their extensive funding of over $3.4 billion from investors like SoftBank Vision Fund 2, D1 Capital Partners, and Sequoia Capital, leading to a valuation of $15 billion in February 2022. | Sequoia | N/A | 🔒 | N/A |
-| Gordian | Gordian is an AI-powered platform founded in 2016 that automates procurement processes for businesses. It has raised $100 million in funding from investors including Accel, Kleiner Perkins, and Sequoia Capital, and is currently valued at $1 billion. What makes Gordian unique is its use of artificial intelligence to streamline and optimize procurement operations. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Gordian Software | Gordian Software aims to revolutionize logistics with AI-powered solutions.  Raised $100 million in funding. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Gordian Software | Gordian Software aims to streamline supply chains.  $50M funding, $1B valuation, $ raised. |  | N/A | 🔒 | N/A |
-| Gradient Comfort | Gradient Comfort is a venture-backed startup that specializes in developing smart textiles that can sense and respond to the wearer's body temperature, activity level, and other biometric data. Their mission is to create a more comfortable and personalized wearable experience for people of all ages and activity levels. What makes them unique is their focus on integrating technology into textiles to enhance comfort and customization. Gradient Comfort has raised $10 million in funding from prominent venture capital firms such as Sequoia Capital and Kleiner Perkins Caufield & Byers. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Grafana Labs | Grafana Labs: Open source analytics and monitoring platform. Raised $215M, valued at $3B. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Grailed | Grailed is an online marketplace for men's fashion that connects buyers and sellers of rare, authentic pieces. What makes them unique is their focus on curated, high-end fashion items and their strong community of fashion enthusiasts. They have raised over $100 million in funding from top investors like Andreessen Horowitz and Kleiner Perkins Caufield & Byers, and currently have a valuation of $1 billion. | A16Z, Kleiner Perkins | N/A | 🔒 | N/A |
-| Grammarly | Grammarly: AI writing assistant for effective communication.  Raised $900M, valued at $13B. | Sequoia | N/A | 🔒 | N/A |
-| Greene & Co Careers | nan |  | N/A | 🔒 | N/A |
-| Greenlight | Greenlight is a decentralized finance platform that offers users the ability to trade cryptocurrencies, earn interest on their crypto holdings, and borrow against their crypto assets. Founded in 2017, the company has raised $36 million in funding from notable investors including Coinbase Ventures, Pantera Capital, and Winklevoss Capital. With a valuation of $300 million, Greenlight stands out as a unique platform in the decentralized finance space. | Coinbase | N/A | 🔒 | N/A |
-| Greenlight Financial Technology | Greenlight: Changing family finances through education.  $200M raised from top investors. | Sequoia | N/A | 🔒 | N/A |
-| Grid | Grid is a decentralized infrastructure protocol that focuses on enabling secure, scalable, and sustainable Web3 applications. It recently raised $100M in a Series B funding round led by Coatue Management. |  | N/A | 🔒 | N/A |
-| Grindr | Grindr is a social networking app for LGBTQ+ individuals. It was acquired by Spire Global for $235 million in 2022. | Accel, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Gro Intelligence | Gro Intelligence is an agtech company founded in 2014 that utilizes satellite imagery, machine learning, and big data to offer valuable insights into the global food system. What sets them apart is their unique combination of advanced technologies to provide comprehensive and accurate information. They have raised over $100 million in funding from prominent investors like GV, Kleiner Perkins, and Horizons Ventures. In 2021, Gro Intelligence was acquired by Microsoft for an undisclosed amount. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Groove | Groove is a voice AI company that aims to enhance customer experiences by enabling businesses to connect with their customers on a human level, regardless of their location or device. They have raised $20 million in funding from prominent investors such as GV, Kleiner Perkins Caufield & Byers, and Spark Capital, and currently hold a valuation of $100 million. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| GroundTruth | GroundTruth is an AI company that utilizes computer vision to provide businesses with valuable insights about their customers, aiming to create a more transparent world. They have raised $12 million in funding from investors including Sequoia Capital and GV. | Google Ventures, Sequoia | N/A | 🔒 | N/A |
-| Grow Therapy | Grow Therapy is a mental health startup founded in 2019 that offers personalized therapy using AI. They have raised $12 million in funding from investors including Y Combinator and General Catalyst, and are currently in their Series A funding round with a valuation of $70 million. What makes them unique is their use of AI technology to provide tailored therapy to users. | YC | N/A | 🔒 | N/A |
-| Guideline | [Company name] is a prominent AI solutions provider with a mission to address global challenges using AI. The company has secured a significant funding round of \$100 million in Series A, resulting in a valuation of \$1 billion. Notable investors include [list of investors]. |  | N/A | 🔒 | N/A |
-| Guidepoint | Guidepoint is a global leader in applied intelligence, offering high-quality insights to Fortune 500 companies. They have over 20 years of experience and a team of over 1,000 experts who help clients make better decisions by providing them with the right information, at the right time, in the right format.   What makes Guidepoint unique is their ability to connect clients with industry experts who have firsthand knowledge and experience in specific fields. This allows clients to gain valuable insights and make informed decisions.   In terms of financials, Guidepoint closed a $150 million Series E funding round in November 2021, bringing their total funding to over $300 million. The funding round was led by Insight Partners, with participation from existing investors Accel, T. Rowe Price, and General Atlantic. | Accel, Insight Partners | N/A | 🔒 | N/A |
-| Guild | Guild AI's mission is to make AI accessible for businesses. The company has raised over $100 million in funding. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Gusto | Gusto is a cloud-based payroll and benefits platform that simplifies the process of paying employees and setting up benefits for businesses. Founded in 2012, Gusto has raised over $400 million in funding from investors including Sequoia Capital, Tiger Global Management, and GV. With a valuation of over $3.8 billion, Gusto stands out as a unique and highly valued player in the payroll and benefits industry. | Google Ventures, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Gusto, Inc. | Gusto helps businesses with payroll and HR software. Funding: Series F, Valuation: $10.5 billion, Raised: $1.7 billion. | Accel, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| H1 | H1's mission: Make AI accessible to everyone. Financials: $120 million raised from investors. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| HCVT | The company's mission is to advance computational imaging technology. They have raised $300M and achieved a valuation of $1B+. | Accel, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| HQ Digital | HQ Digital is a digital marketing agency that stands out for its cutting-edge approach and data-driven strategies. They specialize in helping businesses enhance their online presence through customized marketing campaigns. Notably, HQ Digital has secured a significant amount of funding, raising $100 million from prominent investors including Sequoia Capital and Tiger Global Management. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| HYPR | HYPR is a unique blockchain-based authentication platform founded in 2017 that offers users a secure and private method to verify their identity online. The company has raised $10 million in funding from notable investors including Andreessen Horowitz and Accel, and is currently in its Series A funding round with a valuation of $100 million. | A16Z, Accel | N/A | 🔒 | N/A |
-| HackerRank | HackerRank helps companies hire software engineers; Series D, $1.7B valuation, $240M raised. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Handshake | Handshake is a mission-driven company that is revolutionizing the job search process using artificial intelligence. They have raised over $100 million in funding from prestigious investors such as Kleiner Perkins Caufield & Byers, Accel Partners, and Google Ventures, resulting in a valuation of $1 billion. They are rapidly growing and seeking talented individuals to join their team. | Accel, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Hang | Hang is a voice-activated social media app that allows users to share audio snippets. The company's mission is to create a more personal online experience. It has raised $10 million in funding from Sequoia Capital and Y Combinator, with a valuation of $100 million. | Sequoia, YC | N/A | 🔒 | N/A |
-| Hardsuit Labs | Hardsuit Labs: Innovative game development studio. Series B funding, $100M valuation, $35M raised. |  | N/A | 🔒 | N/A |
-| Harris | Harris Computer: AI solutions for better decision-making.  $100M+ raised, backed by Google Ventures and Kleiner Perkins. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Harry's | Harry's disrupts men's grooming with innovative products and services. Raised $100M, valued at $1B. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| HashiCorp | HashiCorp: Making infrastructure invisible for innovative companies.  Funding round: \$225 million, valuation: \$5.1 billion. | Accel, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Headway | Headway is a venture-backed startup focused on developing a unique form of artificial intelligence that can comprehend and produce human language. Led by a team of experienced AI researchers and engineers, the company has raised $100 million in funding from prominent investors. Headway aims to transform computer interaction and is positioned to become a significant player in the AI industry. |  | N/A | 🔒 | N/A |
-| Heap | Heap is a unique privacy-first analytics platform that prioritizes user privacy while helping companies gain insights about their users. Their mission is to enable data-driven decision-making without compromising privacy. They have raised a total of $218 million in funding, with a valuation of $1.7 billion, and have prestigious investors such as Kleiner Perkins, Sequoia Capital, and Accel Partners. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Hebbia | Hebbia is a unique social media platform that stands out for its focus on audio-based content creation and sharing. Founded in 2022 and based in San Francisco, California, Hebbia has raised $10 million in funding from notable investors including Y Combinator and Greylock Partners. | Greylock, YC | N/A | 🔒 | N/A |
-| Helbiz | Helbiz is a global leader in micro-mobility, providing affordable and sustainable transportation solutions worldwide. They have deployed over 20,000 e-scooters and e-bikes in more than 200 cities globally, aiming to improve urban living conditions. In 2021, Helbiz secured $500 million in Series C funding, valuing the company at $2.4 billion. The funding round was led by Fidelity Management & Research Company, with participation from existing investors such as Temasek, Baillie Gifford, and GGV Capital. |  | N/A | 🔒 | N/A |
-| Helbiz Inc. | Helbiz: Micro-mobility leader making urban transportation accessible.  Series E funding: $500 million, $2.4 billion valuation, $800 million raised. |  | N/A | 🔒 | N/A |
-| Helion Energy | Helion Energy: Developing affordable fusion energy.  $500M raised from top investors. |  | N/A | 🔒 | N/A |
-| Helix | Helix is a unique next-generation sequencing company founded in 2015 by two Stanford University professors. They offer affordable, accurate, and comprehensive genetic testing. The company has raised over $200 million in funding from investors like Sequoia Capital and GV, and is currently valued at over $1 billion. | Sequoia | N/A | 🔒 | N/A |
-| HelloFresh | HelloFresh: Making cooking accessible; $1B funding, $3.1B valuation. | Accel, Insight Partners, Tiger Global | N/A | 🔒 | N/A |
-| Highnote | Highnote is a unique cloud-based collaboration tool provider for the music industry, aiming to simplify music creation, sharing, and collaboration for musicians. The company has raised a total of $20 million in a Series A funding round led by Accel Partners. | Accel | N/A | 🔒 | N/A |
-| Hightouch | HighTouch: AI-powered sales engagement platform.  Latest funding round: $1.2 billion, $100 million raised. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Hipcamp | Hipcamp: Making camping accessible; raised $250M in Series E. | A16Z, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Hive | Hive is a unique decentralized data warehouse that offers a comprehensive perspective of enterprise data, utilizing Apache Hadoop and Spark for scalability, security, and user-friendliness. The company has raised a total of $21.1 million in funding from prominent investors including Accel Partners, Benchmark Capital, and Khosla Ventures. | Accel | N/A | 🔒 | N/A |
-| Hologram | Hologram is a prominent provider of holographic display technology, aiming to integrate holograms into daily life. The company has secured $300 million in funding from notable investors like Sequoia Capital and Kleiner Perkins, and currently holds a valuation of $2 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Holy Grail | Holy Grail is a stealth-mode startup that is working on the development of augmented reality contact lenses. What makes them unique is their focus on creating the next generation of this technology. They have received significant support from SoftBank Vision Fund 2, securing a $100 million Series A funding round. |  | N/A | 🔒 | N/A |
-| Homebase | Homebase is a home management platform that aims to simplify and enhance the lives of busy individuals by helping them keep track of their homes and schedules. They offer features such as bill management, task scheduling, and family and friends connectivity. Homebase has raised a total of $125 million in funding, with a valuation of $1.1 billion, through a Series B funding round. They have attracted prestigious investors including Kleiner Perkins Caufield & Byers, GV (formerly Google Ventures), and General Catalyst. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Homebound | Homebound is a unique healthtech company that focuses on providing virtual care to patients in rural areas, aiming to bridge the gap in quality of care between rural and urban patients. They have raised $100 million in funding from investors including Sequoia Capital and Tiger Global Management. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Homelight | HomeLight is a unique online marketplace that connects home buyers with top-rated real estate agents in their area. Founded in 2012, the company has raised over $100 million in funding from investors like Accel Partners, Lightspeed Venture Partners, and Khosla Ventures, and is currently valued at over $1 billion. | Accel | N/A | 🔒 | N/A |
-| Honor | Honor: Revolutionizing cybersecurity; $60M Series B, $400M valuation. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Hopin | Hopin: Online events platform. Raised $400M, valued at $2B. | A16Z, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Hopper | Hopper: Travel search engine for best deals.  Funding: \$100 million raised, valued at \$1.5 billion. | Accel, Sequoia | N/A | 🔒 | N/A |
-| Horizon Blockchain Games | Horizon Blockchain Games is a game studio founded in 2018 by industry veterans aiming to create open, decentralized worlds where players own their digital assets and can create and share their own experiences. They have raised $50 million in funding from investors like Andreessen Horowitz, Polychain Capital, and Coinbase Ventures. Horizon is developing blockchain-based games and tools that allow players to build, own, and trade in-game assets using the Oasis blockchain. With over 50 employees, the company is rapidly growing and based in San Francisco, California. | A16Z, Coinbase | N/A | 🔒 | N/A |
-| Hot Topic & BoxLunch | Company mission: Unknown. Financials: Unknown. |  | N/A | 🔒 | N/A |
-| Housecall Pro | Housecall Pro is a home services marketplace that connects homeowners with local professionals, aiming to simplify and make affordable the process of finding and hiring the best professionals for homeowners' needs. They have raised a total of $175 million in funding, with a valuation of $4.6 billion, and have prestigious investors such as NEA, Insight Partners, and Norwest Venture Partners. | Insight Partners | N/A | 🔒 | N/A |
-| HubSpot | HubSpot is a CRM platform that helps businesses grow. It has raised $1.1 billion in funding. | Accel, Google Ventures | N/A | 🔒 | N/A |
-| Hudl | Hudl's mission is to improve athletic performance.  Funding: $400M+, Valuation: $1B+. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Hudson River Trading | WertHyou revolutionizes home buying.  $100M raised from top investors. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Hugging Face | Hugging Face is an AI company specializing in NLP models, with a unique mission to democratize NLP and make it accessible to all. They have raised $189 million in funding, including a recent Series D round of $100 million, and are currently valued at $1 billion. | A16Z, Accel, Sequoia | N/A | 🔒 | N/A |
-| Humaans | Humaans: AI chatbots for customer service.  Funding: \$100M raised, \$1B valuation. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Human Interest | Human Interest provides personalized financial advice to employees. Raised $100M in Series E funding, $1.5B valuation. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Humane | Humane: AI for humane workplaces.  Series A funding: $20 million raised. | Google Ventures, Kleiner Perkins, YC | N/A | 🔒 | N/A |
-| Huntress | Huntress is a cybersecurity company based in Atlanta, Georgia that offers cloud-based solutions to safeguard organizations against advanced threats. Founded in 2015, Huntress stands out for its innovative approach to cybersecurity. In March 2023, the company raised $100 million in Series C funding, valuing the company at $700 million. Insight Partners led the funding round, joined by existing investors ForgePoint Capital, Paladin Capital Group, and Ten Eleven Ventures. | Insight Partners | N/A | 🔒 | N/A |
-| Huntsman | Huntsman: Enabling a sustainable future through differentiated chemicals. 2021: Fortune 500 #13, $28.4B market cap, $10B raised. | Blackrock | N/A | 🔒 | N/A |
-| Hyperscience | Hyperscience automates workflows with AI.  Series C funding raised $150 million, $1 billion valuation. | Kleiner Perkins, Sequoia, YC | N/A | 🔒 | N/A |
-| HyreCar | HyreCar is a unique on-demand car rental marketplace that aims to make car rental more affordable and convenient for everyone by connecting people who need a car with people who have cars to rent. The company has raised over $30 million in funding from investors including Andreessen Horowitz and Kleiner Perkins Caufield & Byers. | A16Z, Kleiner Perkins | N/A | 🔒 | N/A |
-| IBKR | IBKR is a next-generation brokerage platform that offers commission-free trading on various financial instruments. Founded in 2013, the company has raised $100 million in funding from investors like Andreessen Horowitz and Accel Partners, and is currently valued at $1 billion. What makes IBKR unique is its mission to make investing accessible and affordable for everyone, offering features like commission-free trading, fractional shares, and a mobile app. The company also provides educational resources to help investors learn about the markets. With its rapid growth, IBKR is poised for continued success in the future. | A16Z, Accel | N/A | 🔒 | N/A |
-| ICON | ICON is a blockchain company that focuses on developing enterprise-grade blockchain platforms for businesses. Their unique selling point lies in their mission to provide a secure, scalable, and user-friendly platform for businesses to build and deploy blockchain applications. ICON has successfully raised $45 million in funding from notable investors including SoftBank Ventures Korea, Binance Labs, and Walden International. |  | N/A | 🔒 | N/A |
-| IDEO | Ideo: Global design consultancy solving complex problems. Raised $700M in Series F funding, valued at $1.8B. | Kleiner Perkins, Tiger Global | N/A | 🔒 | N/A |
-| IEX | IEX is a unique stock exchange that aims to create a fair and transparent market for all investors. Founded in 2012 by Brad Katsuyama, a former trader at the Royal Bank of Canada, IEX has raised over $600 million in funding from prestigious investors such as Fidelity Investments, T. Rowe Price, and BlackRock. The company went public in 2016 on the New York Stock Exchange with a valuation of $11.2 billion. | Blackrock | N/A | 🔒 | N/A |
-| IMC Trading | nan |  | N/A | 🔒 | N/A |
-| INMAR Intelligence | Inmar's mission is to transform commerce through intelligent connections. Inmar has raised $300M and is valued at $1B. | Insight Partners, KKR | N/A | 🔒 | N/A |
-| IXL Learning | IXL Learning is an online education company that offers personalized learning experiences for K-12 students, aiming to help them succeed by providing engaging and fun resources that cater to their individual pace. The company has raised over $100 million in funding from investors including Sequoia Capital, Kleiner Perkins Caufield & Byers, and Accel Partners. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Illumio | Illumio's mission: Protect organizations from cyberattacks. Financials: $220M Series E funding, $2.7B valuation. | Accel, Sequoia | N/A | 🔒 | N/A |
-| Imgur | Imgur is a unique community-driven platform that enables users to easily share images, videos, and GIFs, with a mission to make visual experiences accessible for all. The company has raised more than $200 million in funding from notable investors including Sequoia Capital, Tencent, and GIC, and is currently valued at over $1 billion. | Sequoia | N/A | 🔒 | N/A |
-| ImmersiveLabs | ImmersiveLabs is a cybersecurity training company that offers immersive, interactive training simulations to assist organizations in preparing for and addressing cyber threats. Founded in 2017, the company has secured $100 million in funding from prominent investors including Sequoia Capital, GV, and Kleiner Perkins. What sets ImmersiveLabs apart is its unique approach to training, providing hands-on experiences that simulate real-world cyber threats. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Immutable | Immutable is a blockchain gaming company that focuses on developing and publishing games on the Ethereum blockchain. They aim to make blockchain gaming more accessible and user-friendly while adhering to the principles of decentralization and transparency.   What makes Immutable unique is their emphasis on creating a new generation of games that leverage blockchain technology. They have successfully raised a total of $60 million in funding, with their most recent funding round being a Series B round where they raised $50 million. The company is currently valued at $2.5 billion. | Coinbase | N/A | 🔒 | N/A |
-| Imprint | Imprint is a venture-backed startup that uses artificial intelligence to create personalized learning experiences for students, aiming to empower every student to reach their full potential. They have raised $20 million in a Series A funding round, with a valuation of $100 million, and have prestigious investors such as Kleiner Perkins Caufield & Byers and Sequoia Capital. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Impulse | Impulse: Making AI accessible. Raised $100 million. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| InVision | InVision is a digital product design platform that helps teams create better user experiences by allowing designers to collaborate, prototype, and receive feedback from real users. What makes InVision unique is its focus on empowering designers to create the world's best user experiences. The company, founded in 2011 and headquartered in San Francisco, California, has raised over $300 million in funding from prestigious investors such as Sequoia Capital, Kleiner Perkins, and Tiger Global Management. InVision's latest funding round, Series E, resulted in a valuation of $1.1 billion, with a total amount raised of $340 million. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Inari Agriculture | Inari Agriculture is a venture-backed startup focused on developing gene-edited seeds to enhance crop resilience for farmers. The company has secured over $100 million in funding from notable investors including Bill Gates and Jeff Bezos. |  | N/A | 🔒 | N/A |
-| Incident IQ | Incident IQ is an AI-powered platform that aims to enhance the efficiency and effectiveness of security teams by providing them with tools to identify, investigate, and respond to threats. They have raised $50 million in funding from investors including Khosla Ventures, General Catalyst, and GV (formerly Google Ventures). | Google Ventures | N/A | 🔒 | N/A |
-| Included Health | Included Health: Revolutionizing healthcare delivery.  Series D: $250M raised, $1.5B valuation. |  | N/A | 🔒 | N/A |
-| Incode Technologies | Incode Technologies is a prominent company specializing in biometric authentication solutions, aiming to enhance global safety through secure and dependable authentication technology. Notably, the company has secured $150 million in funding from prominent investors including Sequoia Capital, Kleiner Perkins Caufield & Byers, and Visa. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Incredible Health | Incredible Health is a healthcare company founded in 2016 that utilizes AI to match patients with suitable doctors and providers. What makes them unique is their use of AI technology to streamline the process of connecting patients with the right healthcare professionals. They have raised over $100 million in funding from notable investors such as GV, Kleiner Perkins, and Sequoia Capital. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Indent | Indent is a company that utilizes technology to address a specific problem. Their mission is to improve the world. They have completed a Series A funding round, resulting in a valuation of $100 million, and have raised a total of $200 million from a list of prestigious investors. |  | N/A | 🔒 | N/A |
-| Independent Financial | Independent Bank: Digital-first bank providing convenient financial services.  Recent funding round: $100 million, $1 billion valuation. | Goldman Sachs | N/A | 🔒 | N/A |
-| Inflection AI | Inflection AI is a deep learning startup founded in 2017 by Stanford University graduates. They utilize artificial intelligence to address practical issues. In 2019, the company secured $10 million in Series A funding, led by GV, and currently holds a valuation of $60 million. | Google Ventures | N/A | 🔒 | N/A |
-| Infogrid | Infogrid is a prominent company that offers AI-powered software solutions for the energy industry, aiming to enhance operational efficiency and cost reduction. They have secured a significant funding round of $100 million from renowned investors like Kleiner Perkins Caufield & Byers and Sequoia Capital, resulting in a valuation of $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Ingredion | Ingredion: Enhancing products with nature. Raised $1.5B at $28B valuation. | KKR | N/A | 🔒 | N/A |
-| Innovid | Innovid is an advertising technology company that offers a platform for personalized ad creation and delivery across devices. Their unique mission is to improve advertising for everyone. They have raised over $1 billion in funding from investors like Goldman Sachs, Comcast Ventures, and WPP, and their current valuation stands at $2.6 billion. | Goldman Sachs | N/A | 🔒 | N/A |
-| Insightsoftware | Insight Software: AI-powered financial solutions. Funding: $100M+, valuation: $1B+. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Insightsoftware | Insight Software: AI-powered sales enablement, $100M funding, $1B valuation. | Bessemer, Insight Partners | N/A | 🔒 | N/A |
-| Insitro | Insitro is a synthetic biology company founded in 2017 that utilizes AI to develop innovative drugs. They have raised $210 million in funding from investors including Andreessen Horowitz, GV, and Temasek, and currently hold a valuation of $1.1 billion. | A16Z, Google Ventures | N/A | 🔒 | N/A |
-| Inspire Clean Energy | Inspire Clean Energy is an innovative solar energy company founded in 2014 with a mission to make solar energy accessible and affordable for everyone. They have quickly become a leader in the solar industry and have been recognized as one of the "Most Innovative Companies in the World" by Fast Company. The company has raised over $1 billion in funding from leading investors and is currently valued at over $1 billion. What makes Inspire Clean Energy unique is their commitment to making a positive impact on the environment and creating a cleaner, healthier future for all. |  | N/A | 🔒 | N/A |
-| Inspire11 | Inspire11 is a venture-backed startup that utilizes AI to make learning new skills accessible and affordable for all. They have raised $100 million in funding from investors like Sequoia Capital and Kleiner Perkins, with a valuation of $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Instabase | Instabase: AI company revolutionizing search infrastructure.  Funding: Over $100 million raised. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Instacart | Instacart: Simplifying grocery shopping; valued at $39 billion, raised $3.5 billion. | A16Z, Sequoia | N/A | 🔒 | N/A |
-| Instawork | Instawork is a unique marketplace that connects businesses with on-demand workers, aiming to simplify the process of finding the right workers for projects and the best jobs for workers. The company has raised over $100 million in funding from notable investors including GV, Kleiner Perkins Caufield & Byers, and Sequoia Capital. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Instrumental | Instrumental is an AI-powered platform founded in 2015 that aims to make music creation more accessible and enjoyable for everyone. They have raised a total of $20 million in funding from prestigious investors such as Sequoia Capital, Accel, and Founders Fund. The company's unique aspect lies in its use of AI technology to assist musicians in creating, collaborating, and performing. In terms of financials, Instrumental has completed a Series B funding round, resulting in a valuation of $100 million. | Accel, Founders Fund, Sequoia | N/A | 🔒 | N/A |
-| Instrumentl | Instrumentl is a deep tech startup founded in 2019 that utilizes artificial intelligence to automate business workflows. They recently raised a \$10 million Series A funding round led by Sequoia Capital, bringing their total funding to \$10 million. The company is currently valued at \$50 million. | Sequoia | N/A | 🔒 | N/A |
-| Insurify | Insurify is an online insurance marketplace that allows consumers to compare quotes from various insurers. Founded in 2015 and based in New York City, Insurify has raised $120 million in funding from investors including Sequoia Capital, Accel Partners, and Ribbit Capital, resulting in a valuation of $1.3 billion. What sets Insurify apart is its ability to provide a comprehensive platform for comparing insurance quotes, making it unique in the market. | Accel, Sequoia | N/A | 🔒 | N/A |
-| Intapp | Intapp: Cloud-based solutions for financial services.  $200M funding, $1B valuation. | Accel, Bain, Goldman Sachs | N/A | 🔒 | N/A |
-| Integral Ad Science | Integral Ad Science is a global leader in digital media measurement and fraud prevention, aiming to protect the integrity of the digital advertising ecosystem by providing transparency, control, and actionable intelligence to buyers and sellers. They have raised a total of $165 million in funding, with a valuation of $1.3 billion, and have prestigious investors such as Goldman Sachs, Google Ventures, WPP, and Horizon Media. | Goldman Sachs, Google Ventures | N/A | 🔒 | N/A |
-| Intel | Intel Corporation's mission is to innovate for global enrichment. The company's financials include a Series G funding round, a \$100 billion valuation, and \$15 billion raised. | Tiger Global | N/A | 🔒 | N/A |
-| InterSystems | InterSystems is a global leader in healthcare technology, offering innovative software solutions for demanding healthcare organizations. They aim to improve global health by making healthcare data useful. InterSystems has raised a total of $300 million in funding, with a valuation of $1.2 billion, and has attracted prestigious investors such as Insight Partners, Fidelity Management & Research Company, T. Rowe Price Associates, and Temasek Holdings. | Insight Partners | N/A | 🔒 | N/A |
-| Interactive Brokers | Interactive Brokers' mission is to provide the best trading experience. They raised $1.4 billion in Series H funding at a $50 billion valuation. | Blackrock | N/A | 🔒 | N/A |
-| Interbrand | Interbrand is a global brand consultancy that specializes in helping companies create relevant, authentic, and distinctive brands. Founded in 1974, the company operates in over 30 countries and has a strong track record of working with renowned brands such as Coca-Cola, Nike, and McDonald's. In 2021, Interbrand was acquired by Omnicom Group for $1.4 billion. |  | N/A | 🔒 | N/A |
-| Intercom | Intercom is a conversational marketing platform that aims to facilitate meaningful business conversations with customers. They have raised a total of $225 million in funding, with a valuation of $1 billion, and have prestigious investors such as Sequoia Capital, Index Ventures, and Bessemer Venture Partners. | Bessemer, Sequoia | N/A | 🔒 | N/A |
-| Interfolio | Interfolio is an EdTech company that offers a cloud-based platform for managing academic research workflows, aiming to enhance efficiency and accessibility for researchers. They have raised a total of $105 million in funding, with a valuation of $1.3 billion, and have prestigious investors such as Bessemer Venture Partners, General Catalyst, and NEA. | Bessemer | N/A | 🔒 | N/A |
-| Intersection | Intersection is an AI-powered platform founded in 2016 that assists companies in creating personalized experiences for their customers. It has raised over $100 million in funding from investors such as Accel, Lightspeed Venture Partners, and Kleiner Perkins Caufield & Byers. In 2021, Google acquired Intersection for $1.1 billion. What makes Intersection unique is its use of AI technology to enable companies to deliver tailored experiences to their customers. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Interstate Batteries | Interstate Batteries: Innovative battery solutions powering lives globally.  Series E funding, $1 billion valuation, $120 million raised. | Battery, Kleiner Perkins | N/A | 🔒 | N/A |
-| Intradiem | Intradiem is a privately held company founded in 2012 that offers a platform for businesses to manage employee expenses. What makes them unique is their ability to streamline and automate expense management processes. They have raised $35 million in funding from investors including Sequoia Capital and Kleiner Perkins Caufield & Byers, with a valuation of $100 million. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Intro | Company mission: Build conversational search engine. Financials: Venture-backed, leading investors. | Kleiner Perkins, Sequoia, YC | N/A | 🔒 | N/A |
-| Inversion | Inversion Space: VC firm investing in transformative startups. Founded in 2017, raised $100M. |  | N/A | 🔒 | N/A |
-| Inversion Space | Inversion Space is a venture capital firm that focuses on early-stage startups with transformative potential, aiming to support innovative entrepreneurs shaping the future. They have raised over $1 billion in capital and invested in more than 100 companies, including notable ones like Airbnb, Stripe, and SpaceX. |  | N/A | 🔒 | N/A |
-| Invitae | Invitae empowers health decisions through genetic testing.  $800M funding, $3B valuation. | Google Ventures | N/A | 🔒 | N/A |
-| Invoca | Invoca is an AI-powered revenue platform that assists businesses in increasing their revenue by effectively converting leads into customers. Founded in 2007 and based in San Francisco, California, Invoca stands out for its use of artificial intelligence to optimize lead conversion. The company has raised over $200 million in funding from prominent investors including Sequoia Capital, Kleiner Perkins, and GV. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Invoke Staffing | Mission: Connect tech talent with top companies. Financials: $100M funding, $1B valuation. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Iomaxis | Company mission: Revolutionize healthcare with AI-powered medical devices. Financials: Series A funding, $20 million raised. | Sequoia | N/A | 🔒 | N/A |
-| Iomaxis | Iomaxis: AI-powered solutions for life sciences.  Backed by Sequoia and Khosla, raised $100M+. | Sequoia | N/A | 🔒 | N/A |
-| IonQ | IonQ is a quantum computing company that is focused on developing the world's first full-stack quantum computer. They have secured a significant amount of funding, totaling $1.9 billion, from notable investors including Google Ventures, GV, and Jeff Bezos. What makes IonQ unique is their pursuit of creating a complete quantum computing solution, encompassing both hardware and software, which sets them apart from other players in the industry. | Google Ventures | N/A | 🔒 | N/A |
-| Ionic | Ionic is a San Francisco-based startup that offers an end-to-end platform for creating mobile apps without coding. Their unique selling point is their mission to make app development accessible to everyone, enabling the creation of beautiful and high-performance mobile apps. The company has raised $100 million in funding from prominent investors including Andreessen Horowitz and Sequoia Capital. | A16Z, Sequoia | N/A | 🔒 | N/A |
-| Iterable | Iterable is a customer engagement platform that stands out for its ability to deliver personalized experiences at scale. It helps businesses reach their customers across channels, collect data, and analyze results to drive ROI. The company has raised a total of $225 million in funding, with a valuation of $1.3 billion, and has attracted prestigious investors such as Sequoia Capital, Tiger Global Management, and General Atlantic. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Iterative Health | Iterative Health is a healthcare technology company that utilizes AI to enhance patient care, aiming to personalize, streamline, and make healthcare more affordable. They recently raised $100 million in Series B funding at a $1 billion valuation, led by Tiger Global Management, alongside existing investors General Catalyst, GV, and Lux Capital. This funding will be used to expand their team, accelerate AI platform development, and establish partnerships with healthcare providers and payers. Iterative Health is unique for its rapid growth and potential to revolutionize healthcare through its AI platform. | Google Ventures, Tiger Global | N/A | 🔒 | N/A |
-| JIL | JLL's mission is to shape the future of real estate. They have a Series A funding round, $10 billion valuation, and raised $1 billion. |  | N/A | 🔒 | N/A |
-| JOOR | Joor: Global fashion rental marketplace. Raised $100M in Series D, valued at $1B. | Bain, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| JP Morgan | JPMorgan Chase's mission is to provide high-quality financial services. Their financials include Series B funding, $100 billion valuation, and $1 billion raised. | Tiger Global | N/A | 🔒 | N/A |
-| JUUL Labs | JUUL Labs is a vaping company that aims to eliminate cigarettes by offering a better alternative. They have revolutionized the smoking industry and have raised over $1.2 billion in funding from investors such as Altria Group, GV, and Fidelity Investments. Currently, JUUL's valuation stands at over $38 billion. | Google Ventures | N/A | 🔒 | N/A |
-| Jackpocket | Jackpocket is a unique mobile lottery app that enables users to conveniently buy lottery tickets through their phones. Founded in 2015 and based in New York City, the company has secured over $100 million in funding from notable investors including GV, Tiger Global Management, and Kleiner Perkins Caufield & Byers. | Google Ventures, Kleiner Perkins, Tiger Global | N/A | 🔒 | N/A |
-| Jagex | Jagex's mission is to create engaging online games. They have raised $300 million in funding, with a valuation of $1.5 billion. | Goldman Sachs | N/A | 🔒 | N/A |
-| Jamf | Jamf: Cloud-based IT management for Apple devices.  Series F funding: $200 million, $6 billion valuation, $400 million raised. | Bessemer | N/A | 🔒 | N/A |
-| Jane Street | Jane Street: Quantitative trading firm using cutting-edge technology. Financials: $1B+ funding, $10B+ valuation. | Goldman Sachs | N/A | 🔒 | N/A |
-| January | January is a venture-backed startup focused on developing a unique form of artificial intelligence that can comprehend and produce human language. Their goal is to enhance the accessibility and usability of AI for all users. Notably, January has secured $100 million in funding from prominent investors including Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Jasper | Jasper's mission: Make AI accessible to everyone. Financials: $100M raised, $1B valuation. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Jeeves | TryJeeves automates administrative tasks for a more productive work. Raised $100M from top investors. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Jellyfish | Jellyfish's mission: Make AI accessible to everyone. Financials: Raised $120M, valued at $1B. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| JetInsight | JetInsight is a prominent provider of predictive analytics solutions that utilize artificial intelligence. Their unique offering lies in their ability to provide businesses with valuable insights from their data that would otherwise be inaccessible. The company has successfully raised $100 million in funding from renowned investors including Sequoia Capital and Kleiner Perkins Caufield & Byers, resulting in a current valuation of $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Jetty | Jetty is a unique next-generation infrastructure layer that allows enterprises to create and operate decentralized applications. It stands out by utilizing the Cosmos SDK and offering a modular framework for developing application-specific blockchains. The company has received funding from prominent venture capital firms such as Sequoia Capital, Lightspeed Venture Partners, and Polychain Capital. Unfortunately, specific financial details such as funding round, valuation, and total amount raised are not provided in the given description. | Sequoia | N/A | 🔒 | N/A |
-| Jina AI | Jina AI: Democratizing AI development. Raised $100 million. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Job Application for Submit a General Application at Apixio | nan |  | N/A | 🔒 | N/A |
-| Job Board | nan |  | N/A | 🔒 | N/A |
-| JobGet | JobGet is an AI-powered job matching platform founded in 2019 that has raised $100 million in funding from investors including Sequoia Capital and Kleiner Perkins, and is currently valued at $1 billion. What makes JobGet unique is its use of artificial intelligence to help job seekers find their ideal jobs. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Jobs - Scout24 | Scout24's mission: Simplify buying and selling online. Financials: €4.5bn funding, €5bn valuation. | Blackrock, Goldman Sachs | N/A | 🔒 | N/A |
-| Johnson Controls | Jupiter Intelligence: Geospatial intelligence for global safety. Raised $200M in Series E, valued at $1B. | Accel, Insight Partners | N/A | 🔒 | N/A |
-| Journera | Journera is a healthcare technology company that offers a platform for healthcare providers to streamline patient care management and data sharing. Their unique approach aims to enhance the quality of patient care by simplifying access to patient data. The company has raised $300 million in funding from notable investors including GV, Kleiner Perkins Caufield & Byers, and Fidelity Investments. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Joy | Joy(None) is a venture-backed startup focused on developing a unique type of artificial intelligence that aims to be more human-like and empathetic. Their mission is to improve people's lives by creating machines that are not only useful but also have a positive impact. The company has raised $100 million in funding from prominent venture capital firms like Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Jump Trading | Jump Trading is a unique proprietary trading firm that stands out for its use of advanced technology and quantitative models to trade financial instruments. Founded in 1999 and based in Chicago, Illinois, the company has raised over $1 billion in funding from notable investors including Sequoia Capital, Tiger Global Management, and Citadel. As of 2021, Jump Trading is valued at $10 billion. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Juniper | Juniper is a stealth mode AI company that aims to revolutionize natural language processing and computer interaction. They have a team of world-class experts.   Unique factors: Juniper's unique factor lies in their focus on developing the next generation of natural language processing, which sets them apart from other AI companies.  Company financials: Juniper has raised a total of $200M in funding, with a valuation of $100M, through a Series A funding round. Their investors include Sequoia Capital, Tiger Global Management, and Kleiner Perkins Caufield & Byers. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Juniper Solutions, Inc. | Juniper Platform: Making blockchain accessible; \$100M funding, \$1B valuation. | A16Z, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| JuniperSquare | JuniperSquare is a unique Series A-funded startup that utilizes AI technology to simplify financial management for businesses. With $10 million in funding from prominent investors like Sequoia Capital and Kleiner Perkins, JuniperSquare aims to assist companies of all sizes in managing their finances more efficiently. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Jupiter | Jupiter: AI tech for global challenges.  Series C, $7B valuation, $1B raised. |  | N/A | 🔒 | N/A |
-| Just Appraised | Just Appraised is an AI-powered home valuation platform founded in 2019 by a team of real estate professionals and technologists. They provide accurate and unbiased home value estimates in minutes. What makes them unique is their use of AI technology to deliver quick and reliable valuations. In terms of financials, Just Appraised has raised $10 million in funding from prominent venture capital firms like Kleiner Perkins Caufield & Byers and Accel Partners. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| JustWatch | JustWatch is a streaming search engine improving streaming experience. Series D, \$1.4B valuation, \$200M raised. | Accel, Goldman Sachs | N/A | 🔒 | N/A |
-| Justworks | Justworks: HR tech for small businesses.  $400M funding, $1B valuation. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| KAYAK | Kayak's mission is to simplify travel search.  Funded by prestigious investors. | Google Ventures, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| KKR | KKR is a venture capital firm founded in 2019 that focuses on investing in early-stage companies with disruptive technologies. They have raised $100 million in funding from investors such as Google Ventures, Kleiner Perkins, and Sequoia Capital. What makes KKR unique is their mission to help entrepreneurs build world-changing companies. | Google Ventures, Kleiner Perkins, KKR, Sequoia | N/A | 🔒 | N/A |
-| KOKO Networks | Koko Networks: Affordable connectivity for emerging markets.  Raised $12.5M from top investors. | A16Z, Accel | N/A | 🔒 | N/A |
-| KUNGFU.AI | KungFu's mission: Making AI accessible to everyone. Financials: Raised over $1 billion in funding. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Kairos Aerospace | Kairos Aerospace is a company focused on developing a new generation of hypersonic aircraft to transform air travel. What makes them unique is their $100 million Series A funding round led by Andreessen Horowitz, which has given them a valuation of $1 billion. | A16Z | N/A | 🔒 | N/A |
-| Kalepa | Kalepa is a stealth mode startup that aims to revolutionize human interaction with the world through their unique AI technology. The company is supported by a team of renowned experts in artificial intelligence, machine learning, and computer vision. They have successfully raised $100 million in funding from prominent Silicon Valley investors. |  | N/A | 🔒 | N/A |
-| Kalshi | Kalshi is a unique futures exchange that utilizes blockchain technology, allowing users to trade on the outcomes of real-world events. It stands out as the first exchange of its kind to offer fully regulated, cash-settled futures contracts on a wide range of events, including elections and sports games. In their mission to democratize access to financial markets, Kalshi aims to make trading on any event accessible to everyone. The company has raised a total of $35 million in funding, with a recent Series A round securing $25 million, resulting in a valuation of $100 million. Notably, prestigious investors such as Andreessen Horowitz, Polychain Capital, and Coinbase Ventures have supported Kalshi. | A16Z, Coinbase | N/A | 🔒 | N/A |
-| Kapwing | Kapwing's mission: Democratize video creation and empower creativity. Financials: $50M raised, valued at $1B. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Karat | Karat is a unique technology interview platform founded in 2012 by Manny Medina and David Lidsky. It aims to help companies hire the best software engineers by providing a specialized interviewing process. The company has raised over $100 million in funding from investors including Sequoia Capital, Accel Partners, and Goldman Sachs. | Accel, Goldman Sachs, Sequoia | N/A | 🔒 | N/A |
-| Karat Financial | Karat Financial is a unique next-generation digital banking platform founded in 2022 that offers users a seamless and secure way to manage their finances. The company has raised $100 million in funding from prominent investors like Sequoia Capital and Kleiner Perkins, and is currently valued at $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Kargo | Kargo is a last-mile delivery startup that stands out for its use of autonomous vehicles to provide efficient and eco-friendly package delivery. Founded in 2016, the company has raised over $100 million in funding from prominent investors like Kleiner Perkins Caufield & Byers and Sequoia Capital. Currently in a Series B funding round, Kargo has a valuation of $700 million. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Kasisto | Kasisto is a global leader in Conversational AI, aiming to make the world more accessible by creating intelligent interfaces that assist people in navigating a complex world. They have raised a total of $240M in funding, with a valuation of $1.3B, through a Series C funding round, with notable investors including Accel, CapitalG, Citi Ventures, Goldman Sachs, IVP, Mouro Capital, QIA, Salesforce Ventures, T. Rowe Price, and Visa Ventures. | Accel, Goldman Sachs, Salesforce Ventures | N/A | 🔒 | N/A |
-| Kayak | Kayak is a global travel search engine founded in 2004. They aim to simplify the process of finding the best travel deals by offering a comprehensive search engine that allows users to compare prices from multiple airlines, hotels, and car rental companies. Kayak is also known for being a leading provider of travel data and their products are widely used by major travel brands worldwide. In 2017, the company was acquired by Booking Holdings for $1.8 billion. They have raised a total of $250 million in funding, with their Series F funding round being particularly notable. |  | N/A | 🔒 | N/A |
-| Kensho | Kensho: AI for better investment decisions.  Founded 2013, raised $100M+. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Kentik | Kentik is a network observability company that offers a comprehensive perspective on network performance and security, aiming to enhance the security, reliability, and efficiency of global networks. They have secured over $100 million in funding from prominent investors such as Sequoia Capital, NEA, and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Kernel | Kernel's mission is to build a powerful AI supercomputer.  Raised $400M from top investors. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Ketch | Ketch is a cybersecurity company that offers a platform for businesses to safeguard their data from cyber threats, with a mission to make cybersecurity accessible to all. They have raised $100 million in funding from prominent investors like Sequoia Capital and Tiger Global Management, and currently hold a valuation of $1 billion. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Kevel | Kevel is a revenue infrastructure platform that helps businesses monetize their content and applications, making it easy for them to get paid for their creations. What makes Kevel unique is its focus on providing a comprehensive solution for businesses of all sizes. They have raised $100M in funding from top investors like Accel, Andreessen Horowitz, and Y Combinator, and were recognized as one of the 500 fastest-growing companies in America by Inc. Magazine in 2022. | A16Z, Accel, YC | N/A | 🔒 | N/A |
-| KeyBank | KeyBank's mission is to provide leading financial services.  KeyBank has over $180 billion in assets. |  | N/A | 🔒 | N/A |
-| Khan Academy | Khan Academy provides free education globally. Series F funding, $1 billion valuation, $325 million raised. | Google Ventures | N/A | 🔒 | N/A |
-| Kiavi | Kiavi is a mission-driven fintech company that offers innovative mortgage lending solutions to creditworthy borrowers who have been historically underserved by traditional lenders. They have raised $150 million in funding from prominent investors like Goldman Sachs, Citi Ventures, and Accel, and their most recent funding round valued the company at $1 billion. | Accel, Goldman Sachs | N/A | 🔒 | N/A |
-| Kin Insurance | Kin Insurance is a unique next-generation insurance company that utilizes artificial intelligence and machine learning to offer personalized, affordable, and sustainable insurance products. Their mission is to make insurance more accessible for everyone. They have raised a total of $200 million in funding, with a valuation of $1.3 billion, and have attracted prestigious investors such as Sequoia Capital, Ribbit Capital, and Canaan Partners. | Sequoia | N/A | 🔒 | N/A |
-| Kinaxis | Kinaxis is a global leader in supply chain planning software, providing businesses with a single view of the supply chain to optimize operations and improve profitability. They have raised a total of $575 million in funding, with a valuation of $1.6 billion, through a Series G funding round. Prestige investors include Bain Capital Ventures, Insight Partners, and Kleiner Perkins Caufield & Byers. | Bain, Insight Partners, Kleiner Perkins | N/A | 🔒 | N/A |
-| Kindbody | Kindbody is a digital fertility company that offers women a modern and convenient way to access fertility care. They provide services like fertility testing, IVF, and egg freezing in a comfortable and supportive environment. What makes Kindbody unique is their focus on creating a seamless and accessible experience for women seeking fertility services. They have raised over $200 million in funding from investors like Sequoia Capital, GV, and Kleiner Perkins. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Kindred | Livekindly: Creating sustainable plant-based alternatives.  $300M raised from investors. |  | N/A | 🔒 | N/A |
-| Kindred | Livekindly: Making plant-based living mainstream. Raised $200M in Series E funding at $1.5B valuation. |  | N/A | 🔒 | N/A |
-| Kinship | Kinship is a healthcare startup focused on revolutionizing patient care by making it more accessible, affordable, and personalized. They have raised $100 million in funding from investors like Sequoia Capital and Kleiner Perkins, and are currently in their Series B funding round. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Kinsta | Kinsta: Managed WordPress hosting with top performance and support. Series D, $1 billion valuation, $350 million raised. | Accel, Google Ventures, Insight Partners | N/A | 🔒 | N/A |
-| Kintsugi | Kintsugi is a unique blockchain-based platform founded in 2017 that enables users to create and manage decentralized applications. It stands out for its focus on providing developers with an easy-to-use platform that ensures security, scalability, and user-friendliness. The company has raised $30 million in funding from notable investors including Andreessen Horowitz and Coinbase Ventures. | A16Z, Coinbase | N/A | 🔒 | N/A |
-| Kiva | Kiva is a unique international nonprofit organization that enables individuals to lend money to entrepreneurs in developing countries, having facilitated over $1 billion in loans to 2 million borrowers. In 2019, Kiva raised $100 million in Series F funding led by GV. | Google Ventures | N/A | 🔒 | N/A |
-| Kiva.org | Kiva's mission: Provide microloans to entrepreneurs in developing countries. Kiva's financials: $1 billion in loans, 98% repayment rate. | Google Ventures | N/A | 🔒 | N/A |
-| Kla | KLA's mission: Advance semiconductor manufacturing with innovative solutions. Financials: $1 billion funding, $10 billion valuation. | Goldman Sachs | N/A | 🔒 | N/A |
-| Klarity | Klarity: AI platform for customer understanding.  Funding: $12.5M raised, $75M valuation. | Sequoia | N/A | 🔒 | N/A |
-| Klarna | Klarna's mission: Convenient and affordable online shopping. Financials: \$1.6B funding, \$45B valuation. | Goldman Sachs, Sequoia | N/A | 🔒 | N/A |
-| Klaviyo | Klaviyo is a customer engagement platform that helps businesses understand their customers and create personalized experiences to drive sales. They have raised a total of $428 million in funding, with a valuation of $4.2 billion, and have prestigious investors such as Sequoia Capital, Tiger Global Management, and Bain Capital Ventures. | Bain, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Klue | Klue: AI company improving customer understanding.  $100M raised from Sequoia and Tiger Global. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Knock | Knock is a company that is focused on revolutionizing home security by offering a range of smart home devices and an intuitive app that allows homeowners to stay connected to their homes remotely. What makes Knock unique is its comprehensive suite of products and its user-friendly interface, which simplifies the home security experience for customers. In March 2023, Knock raised $200 million in Series E funding, valuing the company at $1.5 billion. The funding round was led by Insight Partners, with participation from existing investors Accel, General Atlantic, and Khosla Ventures. | Accel, Insight Partners | N/A | 🔒 | N/A |
-| Knoetic | Knoetic is a unique deep learning-powered data analytics platform that offers businesses a comprehensive view of their data, uncovering hidden trends and insights. Founded in 2017, the company has raised $100 million in funding from prominent investors including Sequoia Capital, Kleiner Perkins, and GV. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| KnowBe4 | KnowBe4: Security awareness training for enterprises. Raised $300M, $1B valuation. | Insight Partners, Sequoia | N/A | 🔒 | N/A |
-| KoBold Metals | Kobold Metals: Revolutionizing batteries for clean energy.  $100M raised from investors. |  | N/A | 🔒 | N/A |
-| Kobalt Music Group | Kobalt Music Group is a unique global music company that stands out for its technology-driven solutions, empowering music creators to own and control their work while ensuring fair compensation. The company has raised over $1 billion in funding from prominent venture capital firms like Index Ventures, Accel Partners, and Kleiner Perkins Caufield & Byers. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Kodiak Robotics | Kodiak Robotics: Revolutionizing trucking with autonomous vehicles.  $100M Series C, $1.5B valuation, $260M raised. |  | N/A | 🔒 | N/A |
-| Komodo Health | Komodo Health: AI healthcare data platform. Series B funding, $100M raised. | Google Ventures | N/A | 🔒 | N/A |
-| Komodo Health | Komodo Health aims to improve healthcare affordability and accessibility. Series C funding, $1.1 billion valuation, $160 million raised. | Google Ventures | N/A | 🔒 | N/A |
-| Kong | Kong's mission is to simplify API management for developers.  Funding: $100M+, Valuation: $1B+. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Konrad | Konrad Group's mission: Making financial services accessible and affordable. Financials: $100M raised, $1B valuation. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| KorroBio | KorroBio is a synthetic biology company that focuses on creating innovative biological solutions for the food, energy, and environmental industries. Founded in 2016, the company has raised $100 million in funding from notable investors including Bill Gates, Jeff Bezos, and Peter Thiel. In its latest funding round, KorroBio achieved a valuation of $1 billion. What makes KorroBio unique is its emphasis on utilizing synthetic biology to address challenges in various sectors, setting it apart from traditional approaches. |  | N/A | 🔒 | N/A |
-| Kraken Digital Asset Exchange | Kraken's mission is to make cryptocurrency accessible to everyone. The company's financials include Series C funding, $10 billion valuation, and $515 million raised. |  | N/A | 🔒 | N/A |
-| Kroll Bond Rating Agency | Kroll Bond Rating Agency provides credit ratings and analytics.  Raised $1 billion from investors. | Goldman Sachs | N/A | 🔒 | N/A |
-| LPA, Inc. | LumenAI's mission is to make AI accessible to everyone. They have raised $250 million in a Series C funding round, with a valuation of $1.5 billion. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Labelbox | Labelbox's mission is to democratize AI.  Series C funding, $1 billion valuation, $100 million raised. | A16Z, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Lacework | Lacework is a cloud-native security company that aims to simplify and enhance cloud security for businesses of all sizes. Their unique selling point lies in their cloud-native architecture and machine learning-powered solutions, which offer comprehensive visibility and control across hybrid and multi-cloud environments. In terms of financials, Lacework has raised a total of $240 million in funding across a Series D round, with a valuation of $1.3 billion. They have attracted prestigious investors such as Insight Partners, Lightspeed Venture Partners, and Norwest Venture Partners. | Insight Partners | N/A | 🔒 | N/A |
-| Laika | Laika is a unique deep learning company specializing in computer vision models for self-driving cars. Founded in 2017 by former Google employees, the company has raised $100M in funding from prominent investors including Sequoia Capital and Kleiner Perkins, and is currently valued at $1B. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Lakeside Software | Lakeside Software: AI solutions for better business decisions.  \$100M funding, \$1B valuation. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Landing | Landing is a venture-backed startup focused on developing accessible and affordable virtual reality (VR) technology. Their team consists of experts in computer graphics, engineering, and product development. They have raised $100 million in funding from investors like Andreessen Horowitz and Sequoia Capital. | A16Z, Sequoia | N/A | 🔒 | N/A |
-| Landis | Landis is a venture-backed startup specializing in the development of advanced AI for natural language processing (NLP). Their unique proposition lies in their mission to make AI accessible to everyone. Landis has already gained traction with some of the world's largest companies utilizing their technology. The company has raised $100 million in funding from prominent investors including Sequoia Capital and Kleiner Perkins Caufield & Byers. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Landit | Landit is a venture-backed startup founded in 2017 that has developed an AI-powered platform to assist companies in creating personalized employee experiences. They have raised $10 million in funding from investors including Sequoia Capital and Kleiner Perkins. Landit's unique approach focuses on helping companies create workplaces that prioritize employee value and engagement, resulting in improved productivity and innovation. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Lark Health | Lark Health: Simplifying chronic disease management; $100M Series E, $1.5B valuation, $265M raised. | Google Ventures, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Lattice | Lattice is a unique provider of AI-powered talent solutions that helps organizations find, hire, and develop the best talent. Their platform uses data and analytics to match candidates with jobs and provide personalized training and development plans. In terms of financials, Lattice has raised a total of $300 million in funding, with a valuation of $1.7 billion in their Series D funding round. They have attracted prestigious investors such as Kleiner Perkins, Sequoia Capital, and Accel Partners. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| LaunchDarkly | LaunchDarkly's mission is to improve software delivery. They have raised over $100M in funding, with a valuation of over $1B. | A16Z, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| LayerZero | LayerZero is a blockchain interoperability protocol founded in 2021 by CEO Bryan Pellegrino and CTO Charles Juliano. It enables communication between different blockchains. The company has raised $23 million in funding from investors including Sequoia Capital and Andreessen Horowitz. What makes LayerZero unique is its focus on facilitating seamless communication between disparate blockchains. | A16Z, Sequoia | N/A | 🔒 | N/A |
-| LayerZero Labs | LayerZero Labs aims to enable blockchain interoperability.  $140M funding, $1B valuation. | Sequoia | N/A | 🔒 | N/A |
-| LeafLink | LeafLink is a unique B2B cannabis marketplace that connects licensed cannabis retailers with brands, offering a platform for retailers to discover products, compare prices, and make orders. The company has raised $125 million in funding from investors like Tiger Global Management, DFJ Growth, and DCM Ventures, and is currently valued at $1 billion. | Tiger Global | N/A | 🔒 | N/A |
-| LedgerInvesting | LedgerInvesting is a unique financial services platform that utilizes blockchain technology to offer investors a secure and transparent method for portfolio management. They have raised a total of $20 million in a Series A funding round, with a valuation of $100 million. Notably, they have attracted prestigious investors such as Andreessen Horowitz, Coinbase Ventures, and Polychain Capital. | A16Z, Coinbase | N/A | 🔒 | N/A |
-| Lego 2K Drive | Lego 2K Drive is a self-driving car company focused on developing advanced autonomous vehicles to enhance safety and sustainability. Their unique proposition lies in their goal of creating cars that can operate without human intervention. The company has successfully raised $100 million in funding from notable investors including Toyota and BMW. |  | N/A | 🔒 | N/A |
-| LendingTree | LendingTree is an online marketplace that connects borrowers with lenders, aiming to simplify and make the loan process transparent. They have raised over $1 billion in funding from investors like Kleiner Perkins Caufield & Byers, Sequoia Capital, and Google Ventures, and are currently valued at over $10 billion. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Lendtable | Lendtable is a mission-driven FinTech company that offers unsecured loans to creditworthy borrowers at fair rates. They are unique because they are backed by prominent investors such as Kleiner Perkins, Sequoia Capital, and Ribbit Capital. In their Series A funding round, Lendtable raised $40 million, valuing the company at $200 million. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Lessonly | Lessonly is a learning platform that provides businesses with the tools to train their employees through engaging and interactive courses. They offer on-demand access from anywhere and have received backing from top investors like Insight Partners and Bessemer Venture Partners. Lessonly has raised over $100 million in funding. | Bessemer, Insight Partners | N/A | 🔒 | N/A |
-| Lev | Lev is a venture-backed startup focused on developing the next generation of AI systems. What makes Lev unique is its mission to make AI more accessible and easier to use for businesses of all sizes. The company has raised $100 million in funding from top investors including Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Level | Level(None) is a deep learning startup founded in 2017 by Ilya Sutskever, Greg Brockman, and Sam Altman. They use reinforcement learning to build artificial general intelligence, with the goal of solving any problem that a human can. The company believes that artificial general intelligence has the potential to revolutionize various aspects of our lives, such as healthcare, transportation, and climate change.   What makes Level(None) unique is their focus on deep learning, a type of machine learning that allows computers to learn from data without explicit programming. They believe that deep learning is the key to building artificial general intelligence.   In terms of financials, Level(None) raised $325 million in Series B funding in 2019 at a valuation of $2.1 billion. Their investors include prominent figures such as Peter Thiel, Jeff Bezos, and Elon Musk. This significant funding and support from successful investors make Level(None) one of the most promising startups in the field of artificial intelligence. |  | N/A | 🔒 | N/A |
-| LevelTen Energy | LevelTen Energy revolutionizes energy buying and selling.  $100M funding, $1B valuation, leading investors. | Kleiner Perkins | N/A | 🔒 | N/A |
-| LevelTenEnergy | LevelTen Energy is a global marketplace that aims to speed up the transition to clean energy by connecting buyers and sellers of renewable energy. They have raised over $200 million in funding from investors like Kleiner Perkins, DBL Partners, and TPG Rise, and are currently valued at over $1 billion. What makes them unique is their platform that facilitates transactions and connections in the renewable energy market. | Kleiner Perkins | N/A | 🔒 | N/A |
-| Life360 | Life360 is a unique location-based services company that focuses on keeping families connected and safe through real-time location tracking, safety alerts, and other family-focused features. In 2021, the company raised $100 million in Series E funding at a valuation of $1.3 billion, with participation from Insight Partners, Kleiner Perkins Caufield & Byers, Lightspeed Venture Partners, and Norwest Venture Partners. | Insight Partners, Kleiner Perkins | N/A | 🔒 | N/A |
-| Lightning Labs | Ashby Lightning's mission is to make clean energy storage accessible. The company has raised $100 million in funding. | Sequoia | N/A | 🔒 | N/A |
-| Lime | Lime's mission: Sustainable and affordable urban transportation. Financials: $760M funding, $2.4B valuation. |  | N/A | 🔒 | N/A |
-| Lime | Lime's mission: Sustainable and affordable urban transportation. Financials: $760M funding, $2.4B valuation. |  | N/A | 🔒 | N/A |
-| Limeade | Limeade is a next-generation insurtech company that is revolutionizing the insurance industry with its AI-powered platform. They provide a seamless, personalized experience for customers and deliver valuable insights to insurers. Limeade has raised a total of $187.5 million in funding, with a valuation of $1.3 billion. Prestige investors include General Atlantic, GV (formerly Google Ventures), and Norwest Venture Partners. | Google Ventures | N/A | 🔒 | N/A |
-| Linqia | Linqia is a data-driven marketing platform that helps brands personalize content to reach their target audiences. They were founded in 2012 and are headquartered in New York City. Linqia has raised over $100 million in funding from investors such as Google Ventures, Kleiner Perkins Caufield & Byers, and Accel Partners. In 2019, they were acquired by Oracle for $400 million. Linqia's unique approach lies in their use of data to create more engaging and effective marketing campaigns. | Accel, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Linus Health | Linus Health is a digital health company founded in 2016 that utilizes AI to assist individuals in managing their chronic conditions. They have raised $100 million in funding from investors like Sequoia Capital and Kleiner Perkins, and currently hold a valuation of $1 billion. What sets them apart is their innovative use of AI technology in the healthcare sector. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Live Oak Bank | Live Oak Bancshares provides banking services to small businesses. Raised $1 billion, valued at $2 billion. | Goldman Sachs | N/A | 🔒 | N/A |
-| Loft | Loft is a real estate technology company founded in 2014 that offers a platform for users to buy, sell, and rent apartments. What makes them unique is their ability to raise over $1 billion in funding, with a current valuation of $4.4 billion. Notable investors such as SoftBank Vision Fund, General Atlantic, and Tiger Global Management have supported the company. | Tiger Global | N/A | 🔒 | N/A |
-| LogRocket | LogRocket is a developer-friendly application performance monitoring platform that helps engineers troubleshoot production issues faster. They aim to empower engineers by providing them with the necessary tools to understand and debug their applications.   What makes LogRocket unique is its focus on being developer-friendly and its mission to enable engineers to build better software. They prioritize providing engineers with the tools they need to effectively troubleshoot and improve their applications.  In terms of financials, LogRocket has raised a total of $116.6 million in funding through a Series C round. The company is currently valued at $1.1 billion. They have received investments from prestigious firms such as Accel, Benchmark, Coatue Management, Insight Partners, and Tiger Global Management. | Accel, Insight Partners, Tiger Global | N/A | 🔒 | N/A |
-| Logikcull | Logikcull is a legal research platform founded in 2012 that utilizes artificial intelligence to assist lawyers in finding relevant information more efficiently. The company has raised over $100 million in funding from investors including Sequoia Capital and Kleiner Perkins Caufield & Byers, and is currently valued at over $1 billion. Logikcull's mission is to enhance the speed, simplicity, and affordability of legal research by leveraging AI technology, and they are dedicated to creating the most advanced legal research tools available. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Lookout | Lookout's mission: Protecting people from cybercrime threats. Financials: $400M funding, $1B valuation. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Loom | Loom is a venture-backed startup focused on developing lightweight, comfortable, and affordable augmented reality (AR) glasses. They have raised $100 million in funding from investors including Google Ventures and Andreessen Horowitz. | A16Z, Google Ventures | N/A | 🔒 | N/A |
-| Loom, Inc. | Loom: Simplifying video communication; $425M Series C, $4B valuation, $600M raised. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Loop | Loop is a decentralized Web3 protocol that allows users to create and manage their own private NFT collections. Founded in 2022, the company has raised $12 million in funding from notable investors including Sequoia Capital, Andreessen Horowitz, and Paradigm. What makes Loop unique is its focus on decentralization and empowering users to have full control over their NFT collections. | A16Z, Sequoia | N/A | 🔒 | N/A |
-| Loop Returns | Loop Returns is an investment platform that utilizes AI to assist investors in finding optimal returns. It allows users to create a diversified portfolio of various assets, which is automatically rebalanced to align with their financial objectives. The company has raised $20 million in a Series A funding round, with a valuation of $100 million. Notably, Loop Returns has attracted prestigious investors such as Sequoia Capital and Tiger Global Management. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Loopio | Loopio empowers sales teams to win with data. Series C, $1.2B valuation, $100M raised. | A16Z, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Loyal Health | Loyal Health is a digital health platform founded in 2016 that utilizes AI to deliver personalized care plans for patients. What sets them apart is their ability to leverage AI technology to provide tailored healthcare solutions. The company has raised $20 million in funding from notable investors such as GV, Sequoia Capital, and Khosla Ventures. | Google Ventures, Sequoia | N/A | 🔒 | N/A |
-| Lucid | Lucid is an AI company founded in 2017 by former Google engineers that specializes in using natural language processing to assist users in finding information online. What makes them unique is their focus on utilizing AI technology to enhance the search experience. They have raised $100 million in funding from investors including Google Ventures and Kleiner Perkins Caufield & Byers. Currently in stealth mode, Lucid is not yet publicly available. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Lucid Motors | Lucid Motors aims to create advanced electric vehicles.  Funding: $1 billion, valued at $14 billion. |  | N/A | 🔒 | N/A |
-| Lucid Software | Lucid Software: AI company creating interactive 3D visuals. Funding: $100M+ raised from top investors. | A16Z, Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Lumen | Lumen connects people and businesses globally.  \$3.2B funding, \$25B valuation, \$13.1B raised. | Google Ventures | N/A | 🔒 | N/A |
-| Luminar | Luminar Technologies is a leading provider of lidar sensors for autonomous vehicles, aiming to make autonomous driving a reality by offering advanced lidar sensors that provide high-resolution, real-time data for safe and reliable autonomous driving. They have raised a total of $560 million in funding, with a valuation of $3.4 billion, and have prestigious investors such as Accel, Andreessen Horowitz, Fidelity, and TPG Growth. | A16Z, Accel | N/A | 🔒 | N/A |
-| Luminary Cloud | Luminary Cloud is a cloud computing company that offers a platform for businesses to create and launch applications, with a focus on making cloud computing accessible and affordable for businesses of all sizes. They have received $20 million in Series A funding led by Accel Partners and have raised a total of $30 million in funding. | Accel | N/A | 🔒 | N/A |
-| Lumos | Lumos is a venture-backed startup that is creating an AI-powered microscope capable of imaging the human body at the cellular level. The company has raised $100 million in funding from prominent investors including Google Ventures, Kleiner Perkins, and Sequoia Capital. What sets Lumos apart is their innovative approach to microscopy, utilizing artificial intelligence to enhance imaging capabilities and potentially revolutionize medical diagnostics. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Lumunai | Lumunai is a venture-backed startup founded in 2017 that uses artificial intelligence to personalize marketing campaigns. They have raised $10 million in funding from investors like Sequoia Capital and Kleiner Perkins Caufield & Byers. In 2023, Lumunai was acquired by Google for an undisclosed amount. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Lyft | Lyft's mission: Improve transportation for people's lives. Financials: $11.5 billion valuation, $5.5 billion raised. | A16Z, Sequoia | N/A | 🔒 | N/A |
-| Lyft | Lyft's mission: Alternative to personal car ownership in cities. Lyft's financials: $5.5B funding, $11B valuation. | A16Z, Sequoia | N/A | 🔒 | N/A |
-| Lytx | Lytx's mission: Making roads safer for everyone. Financials: $200M funding, $1B valuation. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| M1 Finance | M1 Finance is a unique next-generation financial services company that aims to democratize wealth management through a user-friendly and automated investment platform. They have recently raised $285 million in a Series C funding round, with a valuation of $1.5 billion, and have attracted prestigious investors such as Andreessen Horowitz, Ribbit Capital, and Accel Partners. | A16Z, Accel | N/A | 🔒 | N/A |
-| MFS Careers | MFS provides financial services to commercial real estate. (7 words) Series E funding, $1B valuation, $250M raised. (6 words) | Goldman Sachs | N/A | 🔒 | N/A |
-| MITRE | MITRE is a non-profit research organization that collaborates with the US government to advance technology and solve problems for a safer world. It has raised a total of $1.2 billion in funding, with a valuation of $5.4 billion in its Series G funding round. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| MORSE Corp | Morse Corp's mission: democratizing artificial intelligence. Company financials: \$100 million raised from top investors. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| MTS Health Partners, L.P. | MTS develops advanced imaging tech for various industries.  Venture-backed with $100M raised. | Google Ventures | N/A | 🔒 | N/A |
-| MTS Partners | MTS Partners is a venture capital firm established in 2012, specializing in investing in early-stage companies within the artificial intelligence and robotics sectors. They have raised more than $100 million in funding and have supported notable companies like Covariant, Fetch Robotics, and Vicarious. MTS Partners stands out for its dedication to assisting portfolio companies in developing groundbreaking technologies with the potential to revolutionize the world. |  | N/A | 🔒 | N/A |
-| MUI | Ashby's mission: Simplify financial management for everyone. Financials: Series B funding, $1 billion valuation, $100 million raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Machine Zone | Machine Zone's mission is mobile gaming excellence.  $600M funding, $1B valuation. | Goldman Sachs | N/A | 🔒 | N/A |
-| Machine Zone | MZ: Developing comfortable AR glasses. Series B, $100 million raised. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Magic Labs | Magic Labs is a venture-backed startup focused on developing lightweight and unobtrusive augmented reality (AR) glasses. Their unique mission is to create AR glasses that are so comfortable that users forget they are wearing them. The company has raised $100 million in funding from notable investors such as Google Ventures and Andreessen Horowitz. | A16Z, Google Ventures | N/A | 🔒 | N/A |
-| Magic Leap | Magic Leap is a unique mixed reality company that aims to merge the real and digital worlds through their AR glasses. They have raised over $2.5 billion in funding from notable investors like Google, Alibaba, and Qualcomm, with their latest funding round being a $500 million Series D round in 2019. The company's current valuation is estimated to be $2.3 billion. |  | N/A | 🔒 | N/A |
-| Magic Leap, Inc. | Magic Leap's mission is to create compelling augmented reality experiences. They have raised over $2.5 billion in funding. |  | N/A | 🔒 | N/A |
-| Magic Spoon | Magic Spoon is a unique direct-to-consumer cereal brand that caters to millennials by offering healthier ingredients. Founded in 2017, the company has raised an impressive $41.5 million in funding from notable investors such as General Mills, GV, and Accel. | Accel, Google Ventures | N/A | 🔒 | N/A |
-| MaintainX | MaintainX is a Silicon Valley-based startup that is developing AI-powered maintenance software to help businesses keep their assets running smoothly. They have raised $100 million in funding from investors like Sequoia Capital and Kleiner Perkins, and currently have a valuation of $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| MakersPlace | MakersPlace is a prominent NFT marketplace that enables users to trade digital art directly. Founded in 2018, it has raised more than $125 million in funding and aims to empower creators by facilitating direct sales to fans and collectors. In 2021, MakersPlace was acquired by OpenSea, another NFT marketplace. |  | N/A | 🔒 | N/A |
-| Mantle | Mantle is a unique decentralized finance platform that enables users to borrow, lend, and trade cryptocurrencies. Founded in 2018 and based in San Francisco, California, Mantle has raised $30 million in funding from notable investors including Andreessen Horowitz, Coinbase Ventures, and Polychain Capital, with a valuation of $100 million. | A16Z, Coinbase | N/A | 🔒 | N/A |
-| Mark43 | Mark43 is a San Francisco-based company that offers AI-powered predictive policing software to law enforcement agencies. Their mission is to enhance community safety by assisting law enforcement officers in predicting and preventing crime.   What makes Mark43 unique is their use of artificial intelligence to provide predictive capabilities to law enforcement agencies, enabling them to proactively address potential criminal activities. This technology sets them apart from traditional policing methods and allows for more efficient and effective crime prevention.  In terms of financials, Mark43 raised $60 million in Series C funding in 2021, valuing the company at $400 million. The funding round was led by Insight Partners, with participation from existing investors Accel, Lightspeed Venture Partners, and Menlo Ventures. | Accel, Insight Partners | N/A | 🔒 | N/A |
-| Markforged | Markforged is a prominent company that specializes in metal and carbon fiber 3D printers, aiming to make additive manufacturing accessible, affordable, and user-friendly. They have secured more than $150 million in funding from notable investors such as Ford Motor Company, Google Ventures, and Kleiner Perkins Caufield & Byers. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Marqeta | Marqeta is a unique financial technology company that offers a card issuing platform for businesses, aiming to simplify the process of issuing and managing cards. They have raised over $900 million in funding from notable investors like Visa, Mastercard, and Goldman Sachs, and currently hold a valuation of over $1 billion. | Goldman Sachs | N/A | 🔒 | N/A |
-| Marshfield Clinic Health Systems | Marshfield Clinic Health System's mission is to improve regional health. They had $6.7 billion in revenue and $1.1 billion in net income in 2022. They raised over $1 billion in funding. |  | N/A | 🔒 | N/A |
-| Marvell | Marvell's mission: Transforming computing and connectivity solutions. Financials: $5 billion raised, $100 billion valuation. | Sequoia | N/A | 🔒 | N/A |
-| Mashgin | Mashgin revolutionizes retail with AI.  $1B valuation, $100M raised. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Mason | Mason is a deep learning company founded in 2019 that specializes in building highly advanced language models. What makes them unique is their ability to create cutting-edge technology in the field of natural language processing. They have received significant support from renowned investors like Sequoia Capital and Kleiner Perkins, securing $100 million in funding. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| MasterClass | MasterClass is an online learning platform that provides video courses taught by experts in various fields, aiming to make top instructors accessible to anyone with an internet connection. They have raised a total of $325 million in funding, with a valuation of $2.7 billion, and have prestigious investors such as Alphabet, IVP, Sequoia Capital, and Kleiner Perkins Caufield & Byers. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Mastercard | Mastercard's mission is to facilitate global digital payments.  Funding: $100 billion, Valuation: $250 billion. |  | N/A | 🔒 | N/A |
-| Mastery Charter Schools | Mastery Charter is revolutionizing education with personalized learning. Series B, \$1.2B valuation, \$150M raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Match Group | Company mission: Help people find love and build relationships. Financials: Raised $400 million at a $13 billion valuation. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Material Security | Material Security is a cybersecurity company founded in 2018 by a team of experts from the National Security Agency and MIT. They utilize machine learning to safeguard critical infrastructure from cyberattacks. In 2021, the company raised $20 million in Series A funding led by Sequoia Capital, and their current valuation stands at $100 million. | Sequoia | N/A | 🔒 | N/A |
-| Materialize | Materialize is a prominent company that offers decentralized infrastructure for the Metaverse, aiming to bring the Metaverse to life by equipping developers with the necessary tools for creating immersive and interactive experiences. What sets Materialize apart is its focus on providing infrastructure for the Metaverse, which distinguishes it from other companies in the space. In terms of financials, Materialize has raised $200 million in funding from notable investors such as Andreessen Horowitz, Sequoia Capital, and Tiger Global, and currently holds a valuation of $1 billion. | A16Z, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Matter Labs | nan |  | N/A | 🔒 | N/A |
-| MatterPort | Matterport is a company that specializes in creating immersive 3D digital twins of physical spaces, allowing clients to visualize, understand, and interact with their environments. What makes them unique is their ability to provide a detailed and realistic representation of physical spaces, enhancing the user experience and enabling better decision-making. In terms of financials, Matterport has raised a total of $575 million in funding, with a valuation of $2.1 billion, through a Series C funding round with investments from prestigious investors such as SoftBank Vision Fund 2, Fidelity, GIC, GV (formerly Google Ventures), Kleiner Perkins, Lux Capital, and Temasek Holdings. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Matterport | Matterport creates digital twins of spaces; Series D, $2.6B valuation, $590M raised. | Kleiner Perkins | N/A | 🔒 | N/A |
-| Maven Clinic | Maven Clinic is a digital healthcare platform founded in 2014 that aims to provide affordable, high-quality care to women and families. They have raised over $100 million in funding from investors like Sequoia Capital and Kleiner Perkins. What makes them unique is their mission to make high-quality healthcare accessible and affordable for all women and families, as well as their experienced leadership team, innovative technology platform, and strong financial backing. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Maven Securities | Maven Securities is a venture capital firm specializing in early-stage investments in the financial technology sector. Founded in 2016, the firm has raised $100 million in funding from notable investors such as Accel Partners, Sequoia Capital, and Kleiner Perkins Caufield & Byers. What sets Maven Securities apart is its mission to assist financial technology startups in developing the next generation of financial services. The firm not only provides capital but also offers guidance and access to a network of industry experts, demonstrating its commitment to helping portfolio companies succeed and make a positive impact on the financial services industry. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| May Mobility | May Mobility is an autonomous vehicle company focused on developing self-driving shuttles for public transportation. They aim to make autonomous vehicles a safe, reliable, and affordable mode of travel. What makes them unique is their focus on shuttles for public transportation, as well as their impressive list of investors including Toyota, Honda, and BMW. They have raised over $100 million in funding and are currently in a Series C funding round. Their valuation is $800 million. |  | N/A | 🔒 | N/A |
-| McKesson | McKesson: Empowering healthcare decisions, Series E, \$10B valuation, \$3.5B raised. |  | N/A | 🔒 | N/A |
-| MedArrive | MedArrive is a digital health company that aims to enhance healthcare accessibility and affordability by offering a platform for patients to connect with doctors and receive care remotely. They have raised $100 million in funding from investors like Sequoia Capital and Tiger Global Management. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Medal | Medal's mission is to simplify machine learning deployment.  Series B, $100M valuation, $30M raised. | Accel, Google Ventures, YC | N/A | 🔒 | N/A |
-| Medal.tv | Medal.tv is a gaming video platform that allows users to create, edit, and share gaming videos. What makes them unique is their focus on making it easy for gamers to share their best moments with the world. They have over 100 million monthly active users and have processed over 1 billion gaming videos. In 2021, Medal.tv raised $150 million in Series B funding at a valuation of $1 billion, with Andreessen Horowitz leading the round and participation from existing investors Accel Partners and SignalFire. | A16Z, Accel | N/A | 🔒 | N/A |
-| Medallion | Medallion AI aims to enhance financial services with AI.  Funding: $100M raised, $1B valuation. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Medely | Medelye's mission: Making healthcare accessible and affordable. Financials: $600M funding, $1B valuation. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| MediaLab | Media Lab: Innovating at the intersection of art, science, and technology. Funded by $100M grant, valued at $1B+. |  | N/A | 🔒 | N/A |
-| Meesho | Meesho: Empowering entrepreneurs through social commerce.  Funding: \$500M raised, valued at \$4.9B. | Sequoia | N/A | 🔒 | N/A |
-| Meijer  | Meijer: Family-owned retailer providing affordable products and community support. Ranked 23rd largest retailer in the US. |  | N/A | 🔒 | N/A |
-| Mejuri | Mejuri is a unique direct-to-consumer jewelry company that stands out for its high-quality, ethically sourced pieces offered at affordable prices. Founded in 2015, the company has raised over $40 million in funding and is currently valued at $200 million, with notable investors such as Forerunner Ventures, General Catalyst, and Thrive Capital. | Thrive | N/A | 🔒 | N/A |
-| Memora Health | Memora Health aims to improve healthcare accessibility and affordability. Series B funding, $1.5 billion valuation, $215 million raised. | A16Z, Google Ventures, Thrive | N/A | 🔒 | N/A |
-| Menlo Security | Menlo Security is a cybersecurity company that offers cloud-based, real-time protection against advanced threats, aiming to make the internet safe for everyone. They recently raised $325 million in Series E funding at a valuation of $2.1 billion, bringing their total funding raised to $562 million. | Accel, Insight Partners | N/A | 🔒 | N/A |
-| Mento | Mento is an AI-powered platform that specializes in creating personalized learning experiences for employees, allowing them to learn and grow at their own pace and on their own terms. What makes Mento unique is its focus on empowering individuals through personalized learning, tailoring the experience to each employee's needs and preferences. The company has successfully raised $100 million in funding from prominent investors including Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Mercedes-Benz R&D North America | MBRDNA: Synthetic biology innovating drugs.  Funding: \$200M, \$1B valuation. |  | N/A | 🔒 | N/A |
-| Mercedes-Benz Research | Mercedes-Benz Research is an AI research lab focused on developing advanced technologies for the future of mobility. Founded in 2017 and based in Stuttgart, Germany, it has raised $500 million in funding from notable investors including Daimler, Bosch, and Intel. |  | N/A | 🔒 | N/A |
-| Mercury | Mercury: Future of global payments. Funding: \$130M, \$1B valuation. | Sequoia, YC | N/A | 🔒 | N/A |
-| Merge | Merge simplifies financial operations for businesses.  Series C-funded, raised $100M. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Merit | Merit is a unique decentralized autonomous organization (DAO) that is developing a permissionless platform for users to create, manage, and invest in personalized investment portfolios. The platform utilizes the Merit token for transaction fees and voting on proposals. In terms of financials, Merit has raised a total of $5 million in a seed funding round, with a valuation of $10 million. Notably, prestigious investors such as Polychain Capital and Alameda Research have supported the company. |  | N/A | 🔒 | N/A |
-| Messari | Messari is an independent research and data company that specializes in the cryptoeconomy. They offer data, research, and indexes to the crypto community. What makes them unique is their focus on providing independent and reliable information in a rapidly evolving industry. They have raised $21 million in funding from investors including Bain Capital Ventures, Coinbase Ventures, and Pantera Capital. | Bain, Coinbase | N/A | 🔒 | N/A |
-| Meta | Meta is a leading social media platform reimagining connection. It is in Series G funding with a \$500 billion valuation and \$100 billion raised. | Blackrock, Tiger Global | N/A | 🔒 | N/A |
-| Metadata | Metadata is a unique deep learning startup that leverages artificial intelligence to assist businesses in comprehending their data. Founded in 2017 by a group of Stanford University alumni, the company raised $10 million in Series A funding in 2019, led by Sequoia Capital, and currently holds a valuation of $50 million. | Sequoia | N/A | 🔒 | N/A |
-| Metapack | Metapack is an early stage startup that aims to revolutionize shipping infrastructure by making it easy, fast, and affordable for everyone. They are unique in being backed by top venture capital firms like Y Combinator and Sequoia Capital. Unfortunately, the provided description does not include any information about the company's financials such as funding rounds, valuation, or total amount raised. | Sequoia, YC | N/A | 🔒 | N/A |
-| Metatheory | Metatheory is a unique venture-backed startup founded in 2022 by ex-Googlers, specializing in developing artificial intelligence tools for creative content production. The company has raised $100 million in funding from prominent investors including Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Meter | Meter is a climate tech company focused on developing a platform to assist businesses in measuring and reducing their carbon footprints. What makes them unique is their emphasis on providing a comprehensive solution for businesses to actively monitor and decrease their environmental impact. They have received significant support, including a $10 million Series A funding round led by NEA, resulting in a valuation of $50 million. |  | N/A | 🔒 | N/A |
-| Metropolis | Metropolis is a unique decentralized autonomous organization (DAO) that is developing the world's first open-source financial operating system. It stands out for being governed by its community of token holders, ensuring censorship resistance and permissionless access. The company has raised $40 million in funding from prominent venture capital firms including Andreessen Horowitz and Polychain Capital. | A16Z | N/A | 🔒 | N/A |
-| Mezmo | Mezmo: AI platform for customer service.  Venture-backed, raised $100 million. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| MiTek | MiTek: Making dream homes affordable.  $1 billion funding from prestigious investors. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Michaels | Michaels: Inspiring creativity with extensive arts and crafts products. Series E funding, \$16 billion valuation, \$16 billion raised. | Bain | N/A | 🔒 | N/A |
-| Microsoft | Microsoft empowers people with innovative technology. Series E funding, \$10 billion valuation, \$1.5 billion raised. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Mindbloom | Mindbloom: Making psychedelic therapy accessible; raised $34 million. | Founders Fund, YC | N/A | 🔒 | N/A |
-| Minted | Minted: Empowering artists to sell custom-made goods.  $100M raised from top investors. | Goldman Sachs, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Mirror | Mirror is a unique metaverse company that enables users to generate and exchange 3D avatars of themselves, aiming to build a more immersive and social internet experience. Founded in 2018, the company has secured $90 million in funding from prominent investors including Andreessen Horowitz and Sequoia Capital. | A16Z, Sequoia | N/A | 🔒 | N/A |
-| Misfits Market | Misfits Market is an online grocery store that specializes in selling "ugly" produce and other food items to reduce food waste and increase accessibility to healthy food. They have raised over $100 million in funding and are currently valued at over $2 billion. | Accel | N/A | 🔒 | N/A |
-| Mission Lane | Mission Lane is a mission-driven fintech company that provides credit and financial services to the underbanked and underserved. Founded in 2017 by former Goldman Sachs executives, the company has raised over $200 million in funding from investors such as Kleiner Perkins Caufield & Byers, Accel Partners, and Ribbit Capital. Mission Lane's unique aspect is its focus on serving the underbanked and underserved population, offering a variety of products and services including credit cards, personal loans, and savings accounts. In terms of financials, Mission Lane has completed a Series C funding round, resulting in a valuation of $1.1 billion. | Accel, Goldman Sachs, Kleiner Perkins | N/A | 🔒 | N/A |
-| MissionWired | MissionWired is an AI-powered platform that revolutionizes the hiring process by using AI to match candidates with jobs based on their skills, experience, and interests. They offer additional services such as resume screening, interview scheduling, and onboarding to streamline the hiring process. Founded in 2017, MissionWired has raised $[funding round] in funding and is currently valued at $[valuation]. |  | N/A | 🔒 | N/A |
-| Mitek Systems | Mitek Systems: Digital identity verification and fraud prevention.  $300M funding, $1B valuation. | Goldman Sachs | N/A | 🔒 | N/A |
-| Mixpanel | Mixpanel is a San Francisco-based software company that provides analytics tools for understanding user behavior. They have raised over $200 million in funding, including a $100 million Series E round led by T. Rowe Price. What makes Mixpanel unique is their data-driven approach to user analytics, which helps businesses make better decisions about improving their products and services. They are used by some of the world's largest companies, including Airbnb, Spotify, and Uber. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Modern Animal | Modern Animal is a venture-backed startup that utilizes AI technology to assist pet owners in discovering the most suitable food for their pets. The company has secured $10 million in funding from prominent investors including Andreessen Horowitz and Kleiner Perkins. | A16Z, Kleiner Perkins | N/A | 🔒 | N/A |
-| Modern Health | Modern Health: Making mental healthcare accessible; raised $100M+. | Google Ventures, Thrive | N/A | 🔒 | N/A |
-| Modern Treasury | Modern Treasury helps businesses manage cash effectively.  Series C-funded, raised $100 million. | Accel, Sequoia | N/A | 🔒 | N/A |
-| ModernLoop | ModernLoop is an AI-powered platform founded in 2017 that assists businesses in creating and managing personalized customer experiences. It has raised $100 million in funding from investors like Sequoia Capital and Kleiner Perkins, and is currently valued at $1 billion. What makes ModernLoop unique is its use of artificial intelligence to enhance customer experiences. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Mojo Vision | Mojo Vision is a unique company that is developing a smart contact lens with a heads-up display and augmented reality features. They have raised a total of $125 million in funding, with a valuation of $1 billion. Their mission is to empower people to see more and do more, and they believe their smart contact lens will revolutionize how people interact with the world. The lens will provide users with information, control over devices, and the ability to interact with virtual objects. They have a working prototype and plan to launch the lens to consumers in 2024. |  | N/A | 🔒 | N/A |
-| Moloco | Moloco is a global marketing technology company that focuses on real-time bidding (RTB) to enhance the efficiency and effectiveness of digital advertising for advertisers and publishers. They have raised $200 million in funding from investors including Sequoia Capital, GGV Capital, and SoftBank Vision Fund, and currently hold a valuation of $1.2 billion. | Sequoia | N/A | 🔒 | N/A |
-| Moment | Moment is a venture-backed startup focused on creating a unique social media platform that aims to foster authentic and meaningful connections between people. They are currently in their seed round of funding and have raised $10 million from investors including Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Momentus | Momentus is a space logistics company that is creating innovative space tugs to transport satellites and payloads to orbit. They have secured $140 million in funding from notable investors including Khosla Ventures, GV, and Kleiner Perkins Caufield & Byers. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Momentus Space LLC | Momentus aims to make space travel more affordable and accessible.  Series B funding, $1 billion valuation, $100 million raised. | YC | N/A | 🔒 | N/A |
-| Monad | Monad: Making AI accessible; Series A, $100M raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Monad Labs | Monad Labs is a deep learning company focused on developing artificial general intelligence technologies with the goal of creating machines that can understand and reason like humans. They have raised $100 million in funding from notable investors including Google Ventures and Kleiner Perkins. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| MongoDB | MongoDB's mission is to enable app development. The company has raised over $1.5 billion and is valued at $7.7 billion. | Accel, Greylock, Sequoia | N/A | 🔒 | N/A |
-| Monzo | Monzo aims to revolutionize banking.  $1 billion raised, $4.5 billion valuation. | Accel, Goldman Sachs, Sequoia | N/A | 🔒 | N/A |
-| Moonpay | MoonPay is a global cryptocurrency payments infrastructure company that enables users to purchase and sell cryptocurrencies using their bank accounts. Founded in 2018 and based in London, UK, MoonPay has processed over $1 billion in cryptocurrency transactions and is accessible in 30 countries.   What makes MoonPay unique is its ability to provide a seamless and user-friendly experience for individuals looking to enter the world of cryptocurrencies. By allowing users to connect their bank accounts, MoonPay simplifies the process of buying and selling cryptocurrencies, making it more accessible to a wider audience.   In terms of financials, MoonPay raised $555 million in a Series A funding round in March 2022, valuing the company at $3.4 billion. The funding round was led by Coatue Management and Accel, with participation from existing investors Paradigm, Thrive Capital, and Tiger Global. | Accel, Thrive, Tiger Global | N/A | 🔒 | N/A |
-| MosaicML | MosaicML's mission is to democratize AI.  Series B funding, $1.2 billion valuation, $40 million raised. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Motion | Ashby's mission is to democratize computer vision.  Series A funding, $100 million raised. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Motional | Motional: Developing self-driving systems. Series E, $3.2B valuation, $900M raised. |  | N/A | 🔒 | N/A |
-| Motiv Power Systems | Motiv Power Systems is a prominent supplier of electric medium-duty trucks, aiming to enhance the sustainability of commercial transportation through the provision of cost-effective and user-friendly zero-emission vehicles. Notably, the company has secured more than $100 million in funding from notable investors like Daimler Trucks, Kleiner Perkins, and DBL Partners, resulting in a valuation exceeding $1 billion. | Kleiner Perkins | N/A | 🔒 | N/A |
-| Motive | Motive is a venture-backed startup that is developing a platform to enable employees to effortlessly transition between various work tasks and projects. The company has secured $100 million in funding from prominent investors including Kleiner Perkins, Sequoia Capital, and GV. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Motorola | Motorola Solutions: Mission-critical communications technology for global customers. Raised $1 billion, valued at $20 billion. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Moveworks | Moveworks is an AI-powered platform that automates repetitive tasks and enhances employee productivity. They raised $225 million in a Series D funding round at a valuation of $1.5 billion, bringing their total amount raised to $350 million. Moveworks' unique offering lies in their ability to automate various tasks, such as IT support, customer service, and HR operations, allowing employees to focus on more strategic responsibilities. They have received recognition as a leader in the AI-powered enterprise automation space from Gartner, Forrester, and IDC. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Moxe Health | Moxe Health is a digital health company that aims to make mental healthcare more accessible and affordable by providing online therapy, psychiatry, and medication management services at a lower cost than traditional care. The company is unique in its focus on mental health and its ability to offer a comprehensive suite of services. Moxe Health has received significant backing from prominent investors such as Y Combinator, General Catalyst, and Thrive Capital. In 2022, the company raised $100 million in Series B funding, valuing the company at $1 billion. | Thrive, YC | N/A | 🔒 | N/A |
-| Mozilla | Mozilla is a unique non-profit organization that promotes open source software and creates innovative web technologies. They are dedicated to ensuring the internet remains a global public resource, open and accessible to everyone. In terms of financials, Mozilla has raised a total of $2.7 billion through a Series D funding round, with a valuation of $1.1 billion. They have attracted prestigious investors such as Google Ventures, Andreessen Horowitz, T. Rowe Price, and Fidelity Investments. | A16Z, Google Ventures | N/A | 🔒 | N/A |
-| MuckRack | MuckRack is a data-driven insights provider that offers comprehensive and accurate intelligence on the global public affairs landscape. They empower clients to make informed decisions about their public affairs strategies. MuckRack's unique aspect is not mentioned in the description. In terms of financials, MuckRack has raised a total of $40 million in funding, with a valuation of $100 million, through a Series B funding round with prestigious investors such as NEA, Index Ventures, and Kleiner Perkins Caufield & Byers. | Kleiner Perkins | N/A | 🔒 | N/A |
-| Mudflap | Mudflap is a unique stealth mode startup founded in 2019 by a team of engineers and scientists from Stanford University. They are developing the next generation of self-driving vehicles. The company has raised $100 million in funding from top venture capital firms, including Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Multiply Labs | Multiply Labs aims to improve AI accessibility and ethics.  Venture-backed with leading investors. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Mural | Mural is an online whiteboard platform founded in 2011 that enables real-time collaboration and brainstorming for teams. What makes them unique is their ability to provide a virtual space for teams to work together, allowing for seamless collaboration regardless of location. Mural has raised over $400 million in funding from investors such as Sequoia Capital, Kleiner Perkins, and Accel Partners, and is currently valued at over $1 billion. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Mutiny | Mutiny is a stealth mode startup revolutionizing work. Backed by Accel and Greylock, valued at $100M+ with $20M+ raised. | Accel, Greylock | N/A | 🔒 | N/A |
-| MyFitnessPal | MyFitnessPal: Health app empowering users.  Series F funding: $700 million, $1.6 billion valuation. | Bessemer, Insight Partners, Sequoia | N/A | 🔒 | N/A |
-| MyTutor | MyTutor: Online tutoring connecting students with tutors.  Funding: $100M raised, $1B valuation. | Sequoia | N/A | 🔒 | N/A |
-| Mysten Labs | Mysten Labs aims to develop metaverse technologies.  Raised $200M from investors. | A16Z | N/A | 🔒 | N/A |
-| Mythic | Mythic is a computer graphics company that specializes in building high-performance GPUs for AI applications. Founded in 2012 by engineers from Stanford University and UC Berkeley, the company has raised $1.2 billion in funding from investors like Intel Capital, Samsung Ventures, and Temasek. Their latest funding round, a Series C round, raised $500 million in March 2022. Mythic's GPUs are unique in their ability to power AI applications such as self-driving cars, natural language processing, and computer vision. |  | N/A | 🔒 | N/A |
-| Mythical Games | Mythical Games is a game technology company founded in 2018 that is focused on building the infrastructure for the metaverse. They have raised over $150 million in funding from notable investors and are known for their blockchain-based gaming platform, Gods Unchained, which allows players to own and trade in-game assets. | A16Z | N/A | 🔒 | N/A |
-| NEXT Trucking | NEXT Trucking is a logistics company that is leveraging artificial intelligence and machine learning to transform the transportation of freight. They have secured $100 million in funding from prominent investors like Kleiner Perkins Caufield & Byers and Sequoia Capital, and currently hold a valuation of $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Nasdaq | Nasdaq empowers finance with technology. Series G, $27B valuation, $1.6B raised. | Goldman Sachs | N/A | 🔒 | N/A |
-| Natera | Natera is a genetic testing company that provides a variety of tests to help individuals gain insight into their health. They aim to empower people by offering accurate and actionable genetic information. Natera has raised a total of $480 million in funding, with a valuation of $2.5 billion. Notably, they have attracted prestigious investors such as Alphabet, Sequoia Capital, Fidelity, and GV. | Sequoia | N/A | 🔒 | N/A |
-| NationBuilder | NationBuilder is a unique software platform that assists grassroots organizations in constructing and overseeing online communities. They have raised a total of $60 million in funding, with a valuation of $400 million, through their Series C funding round, attracting prestigious investors such as Accel Partners, General Catalyst Partners, and Thrive Capital. | Accel, Thrive | N/A | 🔒 | N/A |
-| National Center for Atmospheric Research | UCAR conducts research and provides data services for Earth system understanding. Series C funding, $1.5B valuation, $400M raised. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| National Information Solutions Cooperative (NISC) | Nisca's mission: Affordable AI-powered imaging technology for global challenges. Financials: Ongoing funding round, valued at [valuation], raised [amount]. |  | N/A | 🔒 | N/A |
-| National Research Group | National Research Group (NRG) is a venture-backed artificial intelligence company specializing in next-generation natural language processing technologies. They aim to make AI more accessible and user-friendly for businesses of all sizes. NRG has raised a total of $150 million in funding through a Series C round, with a valuation of $1 billion. Notably, their investors include Google Ventures, Kleiner Perkins, and Sequoia Capital. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Nava PBC | Nava PBC is a Series A-funded startup focused on developing a unique artificial intelligence technology that can comprehend and generate human language, aiming to make AI more accessible for businesses. The company has raised $10 million in funding from prominent investors like Accel and General Catalyst. | Accel | N/A | 🔒 | N/A |
-| Near Protocol | Near Protocol is a decentralized blockchain platform that prioritizes scalability and decentralization. It is unique in that it is the first sharded blockchain to utilize sharding at the protocol level, enabling it to handle thousands of transactions per second without compromising decentralization. The company has raised $350 million in funding from prominent investors including A16z, Tiger Global, and Coinbase Ventures. | A16Z, Coinbase, Tiger Global | N/A | 🔒 | N/A |
-| Neeva | Neeva: Private, secure, user-friendly search engine.  $130M raised from investors. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Neighbor | Neighbor is revolutionizing home rentals, making it easy and convenient. They have raised $130 million in Series C funding with a $1 billion valuation. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Nelnet | Nelnet's mission: Support students' higher education dreams. Financials: $1 billion raised, $2.7 billion valuation. |  | N/A | 🔒 | N/A |
-| Neo Cybernetica | Neo Cybernetica is a deep tech startup specializing in developing advanced AI solutions for the healthcare sector, aiming to equip medical professionals with the necessary tools to enhance patient care. The company stands out due to its focus on next-generation AI technology specifically tailored for the healthcare industry. Neo Cybernetica has received significant support from renowned investors such as Sequoia Capital, Khosla Ventures, and GV. With over $100 million raised in funding, the company has achieved substantial financial backing. | Google Ventures, Sequoia | N/A | 🔒 | N/A |
-| Neo4j | Neo4j is a graph database platform that stands out for its unique graph data model, enabling it to store and query data with exceptional speed and efficiency. This makes it particularly well-suited for use cases like fraud detection, recommendation engines, and supply chain management. In terms of financials, Neo4j has raised a total of $300 million in funding, with a valuation of $1.2 billion, through its Series F funding round. Notable investors include Lightspeed Venture Partners, Meritech Capital Partners, and Accel Partners. | Accel | N/A | 🔒 | N/A |
-| Neon Database | Neon Database is a unique decentralized database built on the Solana blockchain, offering a secure, scalable, and tamper-proof data storage solution. Founded in 2022, the company has raised $6 million in funding from notable investors including Alameda Research, Jump Capital, and CMS Holdings. |  | N/A | 🔒 | N/A |
-| NerdWallet | NerdWallet is a personal finance company that offers unbiased reviews of financial products and services, aiming to assist consumers in making informed financial decisions. What sets them apart is their commitment to providing the necessary information for sound choices. With over $200 million raised from investors like Sequoia Capital, Tiger Global Management, and Ribbit Capital, NerdWallet is currently valued at over $1 billion. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Netflix | Netflix is a leading streaming entertainment service worldwide. It has a Series F funding round, a \$200 billion valuation, and raised \$5.7 billion. |  | N/A | 🔒 | N/A |
-| Netlify | Netlify is a cloud-based platform that offers developers a convenient and dependable solution for deploying, managing, and scaling websites, with a focus on simplifying the process of building and deploying modern web applications. What sets Netlify apart is its strong backing from prominent investors such as Accel, Andreessen Horowitz, and Kleiner Perkins. In its latest funding round, the company secured $110 million, resulting in a valuation of $2.1 billion. | A16Z, Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Neuralink | Neuralink aims to develop brain-computer interfaces.  Series C funding, $10 billion valuation, $1 billion raised. | Google Ventures | N/A | 🔒 | N/A |
-| Newfront | Newfront: Simplifying insurance with technology. Raised $100M, valued at $1B. | Accel | N/A | 🔒 | N/A |
-| Newsela | Newsela is an education technology company that aims to empower students in grades K-12 to succeed in reading, writing, and thinking through a personalized learning experience. They have raised a total of $280 million in funding, with a valuation of $1.8 billion, and have prestigious investors such as Kleiner Perkins Caufield & Byers, NEA, and Google Ventures. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| NexHealth | NexHealth is a digital health company that aims to improve healthcare accessibility and affordability by offering a platform for users to connect with doctors, schedule appointments, and manage health records. What makes them unique is their focus on bridging the gap between patients and healthcare providers through their user-friendly platform. They have raised $100 million in funding from investors including Sequoia Capital and Tiger Global Management. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| NextRoll | NextRoll is a unique next-gen marketing cloud that stands out for its use of AI to personalize customer experiences and drive business growth. The company has raised $120 million in funding from prominent investors including Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Nextdoor | Nextdoor is a unique private social network that aims to connect neighbors and build a sense of community. It has raised over $400 million in funding from investors like Kleiner Perkins Caufield & Byers, Sequoia Capital, and Tiger Global Management, and is currently valued at $4.3 billion. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Niantic | Niantic: AR games blending reality; $9B valuation, $3B raised. | Google Ventures | N/A | 🔒 | N/A |
-| Nielsen | Nielsen: Global leader in measurement and analytics. Publicly-traded with $23.4 billion market cap. |  | N/A | 🔒 | N/A |
-| Nightfall | Nightfall is a cybersecurity company that offers a cloud-based platform for data protection. They aim to make data safe by providing user-friendly and comprehensive security solutions. In February 2023, Nightfall raised $100 million in Series B funding, led by Insight Partners and with participation from Accel and Wing Venture Capital. The company's valuation was reported to be over $1 billion. Nightfall stands out with its experienced team, including CEO Amit Agarwal, who was previously the CTO of Palo Alto Networks, and CPO Santiago Perdiguero, who was previously the CTO of Akamai. Their platform is trusted by major organizations like Google, Microsoft, and Amazon. | Accel, Insight Partners | N/A | 🔒 | N/A |
-| NimbleRx | Nimblerx aims to revolutionize healthcare with AI.  Series B, $1.2B valuation, $125M raised. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Nisc | Nisc is a venture-backed startup focused on developing a unique form of artificial intelligence that can understand and generate human language, with the goal of making AI more accessible and user-friendly. The company has raised $100 million in funding from prominent investors such as Google Ventures, Kleiner Perkins, and Sequoia Capital. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Nium | Nium enables global payments; Series E, \$1.4B valuation, \$385M raised. | Accel, Tiger Global | N/A | 🔒 | N/A |
-| Nobell Foods | Nobell Foods: Plant-based seafood alternatives. Raised $100 million. | Google Ventures | N/A | 🔒 | N/A |
-| Nobl9 | Nobl9 is a unique deep tech startup founded by Stanford University graduates in 2019. They utilize artificial intelligence to assist individuals in finding their ideal jobs. The company has raised $10 million in funding from prominent venture capital firms and is currently in stealth mode, with plans to unveil their platform later this year. |  | N/A | 🔒 | N/A |
-| NodeReal | NodeReal aims to develop safe and beneficial AGI.  Backed by Y Combinator, Sequoia Capital, and Khosla Ventures. | Sequoia, YC | N/A | 🔒 | N/A |
-| Nordson | Nordson CMP: Advanced CMP technology for semiconductors.  Funding: \$100 million, valued at \$1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Nordstrom | Nordstrom's mission: Provide exceptional fashion retail experience. Financials: Raised $1.25 billion, valued at $45 billion. | Blackrock | N/A | 🔒 | N/A |
-| Northrop Grumman | Company mission: Provide advanced aerospace and defense technology. Financials: Revenue $36.4B, market cap $51.4B. |  | N/A | 🔒 | N/A |
-| Northspyre | Northspyre is a unique deep learning company that utilizes artificial intelligence to address practical challenges faced by businesses. Founded in 2017 by two Stanford University computer science graduates, the company has secured $100 million in funding from prominent investors including Sequoia Capital and Kleiner Perkins. Northspyre aims to democratize artificial intelligence and leverage it to foster a more productive and environmentally friendly global landscape. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Not found – 404 error | VCLab: Investing in innovative entrepreneurs.  $100M raised, 100+ companies invested. |  | N/A | 🔒 | N/A |
-| Not found – 404 error | Vial's mission: Cure genetic diseases through accessible gene therapy. Financials: Series A raised $40 million. | Sequoia | N/A | 🔒 | N/A |
-| Not found – 404 error | StubHub Holdings, Inc. connects fans with live events. Series F funding, $4 billion valuation, $1.1 billion raised. | Accel, Goldman Sachs | N/A | 🔒 | N/A |
-| Not found – 404 error | StubHub connects fans with live experiences they love. Raised $1.5 billion at $10.2 billion valuation. |  | N/A | 🔒 | N/A |
-| Not found – 404 error | Opinov8: AI for better business decisions.  Venture-backed startup, raised $100 million, valued at $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Not found – 404 error | Lever: Efficient hiring software.  $100M funding, $1B valuation. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Not found – 404 error | OpenSea is a leading NFT marketplace. They aim to make NFTs accessible for everyone. They have raised $423 million in a Series C funding round, with a valuation of $13.3 billion. | A16Z, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Not found – 404 error | Medal aims to revolutionize remote work.  Seed round: $10M, Valuation: $100M, Total raised: $10M. | Kleiner Perkins, YC | N/A | 🔒 | N/A |
-| Not found – 404 error | Scroll Foundation: Building private and secure web infrastructure.  Backed by Andreessen Horowitz and Y Combinator. | A16Z, YC | N/A | 🔒 | N/A |
-| Not found – 404 error | Rarible: Making NFTs accessible. Funding: $142M, Valuation: $1.3B. | A16Z, Coinbase | N/A | 🔒 | N/A |
-| Not found – 404 error | MBRDNA develops precise gene-editing tools.  $100M Series B funding led by Gates and Bezos. |  | N/A | 🔒 | N/A |
-| Not found – 404 error | BDG is building the future of work, empowering productivity. Series B, \$1.2B valuation, \$100M raised. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Not found – 404 error | Gogolook: AI-powered visual search for quick information and product discovery.  Funding: \$100M raised, valued at \$1.5B. | Sequoia | N/A | 🔒 | N/A |
-| Not found – 404 error | Anthropic's mission: Develop safe and beneficial artificial general intelligence. Financials: Raised over $200 million. |  | N/A | 🔒 | N/A |
-| Not found – 404 error | Aware develops AI platform for carbon footprint management.  Series A funding, $100 million valuation, $20 million raised. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Not found – 404 error | CoinFlip aims to make cryptocurrency accessible to all. Series A, $1.3B valuation, $100M raised. | Coinbase | N/A | 🔒 | N/A |
-| Not found – 404 error | Cord Technologies: Next-gen cybersecurity software protecting critical data. Funding: \$120M raised from top investors. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Not found – 404 error | Autify is an AI-powered test automation platform. It has raised $276.8M in funding, with a valuation of $1.4B, in a Series C round led by Accel, General Catalyst, and Tiger Global Management. | Accel, Tiger Global | N/A | 🔒 | N/A |
-| Notion | Notion: Collaborative workspace for knowledge work. Series D, $10B valuation, $275M raised. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Nova Credit | NeedNova is an AI company making information accessible. They have raised $150 million with a $1 billion valuation in a Series B funding round. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Nowsta | Nowsta is an AI-powered platform that uses artificial intelligence to assist businesses in optimizing their workforce by efficiently matching suitable individuals with appropriate job positions. The company has successfully secured $100 million in funding from prominent investors including Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Nuance | Nuance's mission is to create human-centered AI.  In 2021, Nuance raised $1.6 billion in Series G funding. | KKR | N/A | 🔒 | N/A |
-| Nubank | Nubank: Making banking accessible; valued at $30 billion. |  | N/A | 🔒 | N/A |
-| Nucleus | Nucleus aims to democratize artificial intelligence.  Funded $100M+, valued at $1B. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Nuna | Nuna: Simplifying parenting with luxury baby products.  Raised $120M from top investors. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Nuro | Nuro is a self-driving vehicle company founded in 2016 by former Google engineers. They develop autonomous delivery vehicles and have raised over $1 billion in funding from investors such as SoftBank Vision Fund, Toyota, and Greylock Partners. Nuro is currently valued at $5.5 billion. What makes them unique is their focus on developing vehicles specifically for delivery purposes. | Greylock | N/A | 🔒 | N/A |
-| Nvidia | NVIDIA's mission is to accelerate computing.  NVIDIA raised $7.6 billion at a $69 billion valuation. | Sequoia | N/A | 🔒 | N/A |
-| Nylas | Nylas aims to enhance business email communication. Series C, $1.2B valuation, $145M raised. | Accel | N/A | 🔒 | N/A |
-| OJO Labs | OJO Labs is a San Francisco-based startup focused on developing augmented reality (AR) technology for the automotive industry. Their unique mission is to make AR a standard feature in cars. The company has raised $100 million in funding from notable investors including Toyota, BMW, and Intel. |  | N/A | 🔒 | N/A |
-| Observe | Observe(None) is a stealth-mode startup developing lightweight, comfortable, and affordable augmented reality glasses. The company is unique in its focus on creating accessible AR glasses for all. It is backed by prominent investors such as GV, Kleiner Perkins, and Andreessen Horowitz. No information is provided regarding the company's financials, funding round, valuation, or total amount raised. | A16Z, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Observe, Inc. | Observe uses computer vision to improve business operations.  Series C funding, $1 billion valuation, $100 million raised. | Accel | N/A | 🔒 | N/A |
-| Observe.AI | Observe.AI's mission: Improve customer service through AI-powered insights. Financials: $100M funding, $1B valuation. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| OceanX | OceanX explores the ocean for a sustainable blue economy. Series B funding, $1.1 billion valuation, $150 million raised. | Google Ventures | N/A | 🔒 | N/A |
-| Ocient | Ocient aims to democratize high-performance computing.  Series C, $1.5B valuation, $230M raised. | Sequoia | N/A | 🔒 | N/A |
-| OctoML | OctoML's mission is to simplify machine learning model deployment. They have raised $250 million in a Series C funding round, with a valuation of $1.7 billion. | A16Z, Kleiner Perkins | N/A | 🔒 | N/A |
-| Odeko | Odeko's mission is to democratize AI.  Raised over $100 million in funding. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Offchain Labs | Offchain Labs: Scaling blockchain for billions.  $35M funding, $310M valuation. | A16Z | N/A | 🔒 | N/A |
-| OfferUp | OfferUp is a mobile marketplace app that enables users to buy and sell used goods locally, with a mission to provide convenience and support the local economy. The company has raised a total of $435 million in funding, including a Series F round, and has a valuation of $1.4 billion. Notable investors include Kleiner Perkins Caufield & Byers, NEA, and Tiger Global Management. | Kleiner Perkins, Tiger Global | N/A | 🔒 | N/A |
-| Ogilvy | Ogilvy is a venture-backed startup founded in 2017 by a team of experienced marketing and technology executives. They use artificial intelligence to assist companies in creating more engaging marketing content. What makes them unique is their innovative approach to leveraging AI in the marketing industry. They have raised $10 million in funding from prominent venture capital firms like Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Okcoin | Okcoin is a global cryptocurrency exchange that was founded in 2013. They offer spot, margin, and futures trading of various digital assets including Bitcoin, Ethereum, and Litecoin. Their mission is to make cryptocurrency accessible to everyone. Okcoin has raised a total of $144 million in funding, with a valuation of $2.2 billion. They have prestigious investors such as Tiger Global Management, IDG Capital, and Sequoia Capital China. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Okta | Okta is a leading provider of identity management and security solutions for the enterprise, with a mission to securely connect people to the technologies they need for work. Their platform is trusted by over 7,000 organizations worldwide, including Salesforce, Adobe, and Coca-Cola.  In February 2023, Okta raised $650 million in Series G funding at a valuation of $26 billion. The funding round was led by SoftBank Vision Fund 2, with participation from existing investors Andreessen Horowitz, T. Rowe Price, and Warburg Pincus. In total, Okta has raised $1.6 billion in funding to date.   What makes Okta unique is their focus on providing secure identity management and their extensive list of trusted clients, demonstrating their credibility and success in the industry. | A16Z | N/A | 🔒 | N/A |
-| Olo | Olo: Future of food delivery; raised $200M in Series B. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Omada Health | Omada Health is a unique digital health company that offers personalized, data-driven programs to assist individuals in managing chronic conditions. Their goal is to simplify, enhance, and make chronic disease management more affordable. The company has raised over $200 million in funding from prominent investors such as Google Ventures, Kaiser Permanente, and Oak HC/FT. | Google Ventures | N/A | 🔒 | N/A |
-| Omaze | Omaze is a unique global social impact entertainment company that provides exclusive experiences to raise funds for charitable causes. Since its establishment in 2012, Omaze has donated more than $100 million to over 2,000 charities worldwide. The company has successfully raised over $100 million in funding, including a recent $40 million Series C round led by Accel in 2021. | Accel | N/A | 🔒 | N/A |
-| One Medical | One Medical is a primary care practice that provides both virtual and in-person healthcare services with the goal of making high-quality and affordable healthcare accessible to all. They have raised over $1.3 billion in funding from notable investors like Alphabet, Amazon, and Berkshire Hathaway, and currently hold a valuation of $5.1 billion. |  | N/A | 🔒 | N/A |
-| OneLocal | OneLocal is a hyperlocal social media platform that connects individuals with local businesses and services in their community. Founded in 2012, the company has raised over $10 million in funding from notable investors including Google Ventures, Accel Partners, and Kleiner Perkins Caufield & Byers. With a current valuation of $50 million, OneLocal stands out as a unique platform that focuses on connecting people with businesses in their immediate vicinity. | Accel, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| OneSignal | OneSignal helps businesses engage customers through push notifications. Series D, $2 billion valuation, $300 million raised. | Goldman Sachs, Insight Partners, Tiger Global | N/A | 🔒 | N/A |
-| OneTrust | OneTrust is a leading provider of enterprise privacy management software that helps organizations achieve compliance with privacy regulations and protect customer data. They have raised a total of $725 million in funding, with a valuation of $5.7 billion, and have prestigious investors such as Insight Partners, Goldman Sachs, TPG Capital, and CapitalG. | Goldman Sachs, Insight Partners | N/A | 🔒 | N/A |
-| Onebrief | Ashby: Simplifying short-term rentals; $100M funding, $1B valuation. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Onehouse | Onehouse is a decentralized real estate platform that enables users to directly engage in buying, selling, and renting properties, eliminating the need for intermediaries. The company has raised $10 million in a Series A funding round, with notable investors including Andreessen Horowitz and Coinbase Ventures. | A16Z, Coinbase | N/A | 🔒 | N/A |
-| Onna | Onna is a unique developer of AI-powered software that helps businesses create and manage high-quality content. They offer a platform with features such as content creation, content management, and content analytics. Onna was founded in 2017 by former Google employees and has raised a total of $60 million in funding from investors such as Sequoia Capital, Kleiner Perkins, and GV. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Opal | Opal is a unique deep learning company that utilizes artificial intelligence to enhance online shopping experiences by providing personalized recommendations. In February 2023, Opal secured $100 million in Series B funding, led by Tiger Global Management, bringing their total funding to $140 million. | Tiger Global | N/A | 🔒 | N/A |
-| Opaque Systems | Opaque Systems is a stealth-mode startup founded in 2023 by a team of experienced engineers and researchers from Stanford University and MIT. They have raised $100 million in Series A funding from Sequoia Capital and Kleiner Perkins in 2024. Opaque Systems aims to develop innovative AI-powered technologies that can detect and prevent cyberattacks by using machine learning to learn the normal behavior of a system and identify anomalies. Their approach is more effective than traditional cybersecurity methods. The company is rapidly growing with over 100 employees and has headquarters in San Francisco, California, with offices in New York City and London. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Open Store | Open Store is a decentralized marketplace built on the Ethereum blockchain that enables direct buying and selling between users using smart contracts. It is unique in its decentralized nature, allowing for peer-to-peer transactions without intermediaries. The company has raised $2.5 million in funding from investors including Coinbase Ventures and Pantera Capital. | Coinbase | N/A | 🔒 | N/A |
-| OpenAI | OpenAI is a unique non-profit research company co-founded by Elon Musk and Sam Altman, among others, with a mission to ensure the benefits of artificial general intelligence are accessible to all of humanity. The company has raised more than $1 billion in funding from notable investors including Google Ventures, Microsoft, and DFJ. | Google Ventures | N/A | 🔒 | N/A |
-| OpenGov | OpenGov's mission is to make government more transparent.  Funding: $100M+, Valuation: $1B. | A16Z, Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| OpenPhone | OpenPhone is a cloud-based phone system that offers businesses unlimited calling, texting, and voicemail to stay connected with their customers. Founded in 2014, the company has raised over $100 million in funding from investors such as GV, Kleiner Perkins, and Sequoia Capital. OpenPhone's unique features include its simplicity, affordability, and accessibility to all businesses. The company is currently valued at over $1 billion. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| OpenSea | OpenSea: Making NFTs accessible. Raised $300M, valued at $13B. | A16Z, Coinbase | N/A | 🔒 | N/A |
-| OpenX | OpenX's mission is to provide innovative advertising solutions.  OpenX has raised over $10 billion. | Accel, Goldman Sachs | N/A | 🔒 | N/A |
-| OpenZeppelin | OpenZeppelin is a unique blockchain security company that offers open-source software development frameworks for creating secure smart contracts. Founded in 2017 by Pieter Wuille, Daniel Buchner, and Martin Swende, OpenZeppelin has raised an impressive $39 million in funding from notable investors including Andreessen Horowitz, Coinbase Ventures, and Polychain Capital. In 2021, the company achieved a valuation of $1 billion. | A16Z, Coinbase | N/A | 🔒 | N/A |
-| Opendoor | Opendoor: Simplifying real estate transactions; $10B funding, $4B valuation. |  | N/A | 🔒 | N/A |
-| Opinov8 | Opinov8: Revolutionizing AI interaction. Raised $100 million, valued at $1 billion. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| OppFi | OppLoans provides affordable loans to hardworking Americans. Raised $300M, valued at $1B. | Accel, Goldman Sachs, Kleiner Perkins | N/A | 🔒 | N/A |
-| Optimal Dynamics | Optimal Dynamics aims to develop autonomous vehicles for all. Series B, \$1.1B valuation, \$160M raised. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Optimism | Optimism is a unique Layer 2 scaling solution for Ethereum that utilizes Optimistic Rollups, providing fast, secure, and scalable capabilities. With a Series B funding round, it has achieved a valuation of $1.6 billion and raised a total of $263 million from prestigious investors including Andreessen Horowitz, Paradigm, and Polychain Capital. | A16Z | N/A | 🔒 | N/A |
-| Optiv | Optiv is a cybersecurity company that offers comprehensive security solutions to businesses, aiming to safeguard their data and protect them from cyber threats. What sets Optiv apart is its ability to provide end-to-end security solutions for organizations of all sizes. The company has successfully raised over $1 billion in funding from notable investors including Goldman Sachs, TPG Capital, and Intel Capital, resulting in a current valuation of $2.5 billion. | Goldman Sachs | N/A | 🔒 | N/A |
-| Optiver | Optiver is a global market maker that trades over $500 billion daily across 100+ markets. With over 1,500 employees and 16 offices worldwide, Optiver is a leading player in the industry. In February 2023, they raised $1.1 billion in Series E funding, valuing the company at $7.5 billion. Notable investors in Optiver include Temasek, Tiger Global Management, and Blackstone. What makes Optiver unique is its significant trading volume, global presence, and successful fundraising efforts. | Tiger Global | N/A | 🔒 | N/A |
-| Optoro | Optoro is an e-commerce returns management company that offers comprehensive solutions for retailers to minimize costs and boost profits. Founded in 2004 and based in Atlanta, Georgia, Optoro stands out for its end-to-end approach in handling returns. In 2021, the company secured a $200 million Series E funding round, valuing it at $1.3 billion. Tiger Global Management led the round, with participation from Accel Partners, T. Rowe Price Associates, and Norwest Venture Partners. | Accel, Tiger Global | N/A | 🔒 | N/A |
-| Orchard | Orchard: Simplifying online retail for retailers.  Series B-funded, $60 million raised. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Ordergroove | Ordergroove is an AI-powered eCommerce platform that focuses on personalizing customer experiences, boosting conversions, and driving revenue for retailers. Founded in 2014 and based in San Francisco, California, Ordergroove stands out for its use of artificial intelligence to enhance the eCommerce experience. In 2022, the company secured a $100 million Series C funding round led by Tiger Global Management, bringing its total funding raised to $150 million. | Tiger Global | N/A | 🔒 | N/A |
-| Orum.io | Orum: Next-gen social media connecting people authentically.  Series A, $10 million raised. | Sequoia, YC | N/A | 🔒 | N/A |
-| Osano | Osano is a data privacy and security company that specializes in helping organizations safeguard sensitive data through services such as data discovery, classification, and encryption. Founded in 2014, the company has raised over $50 million in funding. In 2021, Osano was acquired by Google for an undisclosed amount. What makes Osano unique is its comprehensive suite of data privacy and security solutions, which sets it apart in the market. |  | N/A | 🔒 | N/A |
-| Oscar Health | Oscar Health is a health insurance company founded in 2012 that utilizes technology to simplify access to healthcare. They have raised over $1.2 billion in funding from investors such as Google Ventures, Sequoia Capital, and Tiger Global Management, and currently hold a valuation of $3.2 billion. | Google Ventures, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Oshkosh | Oshkosh Corporation: Innovating mission-critical vehicles and services globally. Fourth funding round, \$6.7 billion valuation, \$1.8 billion raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Osmo | Osmo is a unique social media platform that enables users to create and share augmented reality experiences, aiming to make AR accessible and enjoyable for all. Founded in 2017 by Nabiha Syed and Akash Nigam, Osmo has raised $100 million in funding from notable investors including Andreessen Horowitz and Kleiner Perkins, resulting in a valuation of $600 million. | A16Z, Kleiner Perkins | N/A | 🔒 | N/A |
-| Otter.ai | Otterai's mission: Democratize AI for businesses. Financials: $100M raised from top investors. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Outreach | Outreach is a sales engagement platform that offers businesses a comprehensive view of their customers throughout the sales process, enabling them to accelerate revenue growth. Founded in 2014 and based in San Francisco, Outreach has raised $317 million in funding from prominent investors such as Sequoia Capital, Tiger Global Management, and Kleiner Perkins Caufield & Byers. In 2021, the company was recognized as one of the 50 Fastest-Growing SaaS Companies in North America by Deloitte. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Outschool | Outschool is an online marketplace that offers live, one-on-one learning experiences by connecting students with qualified teachers in various subjects. What makes Outschool unique is its focus on personalized, individualized instruction. They have recently raised $165 million in a Series C funding round, bringing their valuation to $1.2 billion. Notably, they have received investments from prestigious investors such as Kleiner Perkins, Union Square Ventures, and NEA. | Kleiner Perkins | N/A | 🔒 | N/A |
-| Outset Medical | Outset Medical is a privately held company that specializes in developing and manufacturing innovative medical devices for at-home use, with a mission to empower individuals to take control of their health and well-being. The company has raised over $100 million in funding from prominent investors such as Sequoia Capital, Kleiner Perkins Caufield & Byers, and GV (formerly Google Ventures). | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Overjet | Overjet is a unique digital orthodontics company that stands out for its use of AI technology to offer affordable clear aligners. The company has successfully raised $100 million in funding from prominent investors including Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Owl Labs | Owl Labs is a hardware company that develops smart home products, with a focus on making parenting easier and more enjoyable. Their popular Owlet Baby Monitor provides parents with peace of mind and insights into their child's well-being. Owl Labs has raised over $100 million in funding from investors such as GV, Kleiner Perkins Caufield & Byers, and Lux Capital. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| OwnBackup | OwnBackup is an AI-powered backup platform that safeguards businesses' data from cyber threats. They have raised $100 million in funding from investors like Insight Partners and Bessemer Venture Partners, and currently hold a valuation of $1.2 billion. | Bessemer, Insight Partners | N/A | 🔒 | N/A |
-| Oyster | Oyster is a unique decentralized peer-to-peer lending platform that utilizes blockchain technology to create a secure and transparent connection between borrowers and lenders. The company has raised $30 million in funding from notable investors including Andreessen Horowitz and Coinbase Ventures. | A16Z, Coinbase | N/A | 🔒 | N/A |
-| PDT Partners | PDT Partners invests in cutting-edge technology startups. Raised $1 billion in capital. |  | N/A | 🔒 | N/A |
-| PJT Partners | PJT Partners is a global investment banking advisory firm founded in 2009 by experienced investment bankers. They are known for their strategic advice and solutions across industries, deep industry expertise, and ability to deliver innovative solutions. In 2019, they raised $1.5 billion in a Series D funding round led by TPG Capital, with a valuation of $6 billion. They have also received investments from Blackstone Group, Carlyle Group, and KKR & Co. With offices in major financial centers worldwide, over 1,000 professionals, and a track record of advising on transactions exceeding $1 trillion, PJT Partners is a respected and well-positioned leader in the industry. | KKR | N/A | 🔒 | N/A |
-| PJT Partners - Students | PJT Partners: Global investment banking firm. Raised $1.75 billion, valued at $10 billion. |  | N/A | 🔒 | N/A |
-| Pace | Pace is developing autonomous vehicles.  Raised $100 million in funding. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Pachyderm | Pachyderm is an open source data orchestration platform that allows organizations to effectively handle large-scale data management securely. Founded in 2017, Pachyderm has raised $22.7 million in funding from notable investors including Andreessen Horowitz, Lightspeed Venture Partners, and GV.   What makes Pachyderm unique is its ability to provide reliable and secure data management at scale, offering organizations a comprehensive solution for handling their data needs. | A16Z | N/A | 🔒 | N/A |
-| PagerDuty | PagerDuty's mission is to enhance incident response globally.  Raised $475 million, valued at $8.2 billion. | Accel, Goldman Sachs, Kleiner Perkins | N/A | 🔒 | N/A |
-| PairTeam | PairTeam is a venture-backed startup that utilizes AI to assist individuals in finding the ideal co-founder, aiming to simplify the process of starting successful businesses by connecting people with compatible co-founders. The company has raised $10 million in funding from prominent investors including Y Combinator and Sequoia Capital. | Sequoia, YC | N/A | 🔒 | N/A |
-| Palantir | Palantir Technologies is a unique software company that specializes in building enterprise data platforms for the intelligence community and government agencies. Founded in 2004 by former CIA employees, their software platform aids analysts in identifying patterns and relationships within large datasets. The company has raised over $2.5 billion in funding from notable investors including Peter Thiel, The New Enterprise Associates, and In-Q-Tel. |  | N/A | 🔒 | N/A |
-| Palantir Technologies | Palantir Technologies helps organizations make data-driven decisions.  Raised $9 billion, valued at $20 billion. | A16Z, Goldman Sachs | N/A | 🔒 | N/A |
-| PandaDoc | PandaDoc is an all-in-one document automation platform that allows businesses to create, edit, and sign documents quickly. It offers features such as proposal and contract creation, invoice generation, and has gained the trust of over 100,000 businesses globally. What makes PandaDoc unique is its ability to streamline the document process, making it faster and more efficient. The company has raised a total of $310 million in funding, with a valuation of $1.7 billion, through a Series C funding round with prestigious investors including Accel, Lightspeed Venture Partners, and Bessemer Venture Partners. | Accel, Bessemer | N/A | 🔒 | N/A |
-| Pandion | Pandion is a deep tech company based in New York City that specializes in developing AI-powered solutions for the financial services industry. Founded in 2017, Pandion has raised a total of $100 million in funding from prominent investors such as Sequoia Capital, Accel, and Ribbit Capital. The company's unique aspect lies in its use of artificial intelligence to provide innovative solutions for the financial sector. With a valuation of $1 billion, Pandion has established itself as a significant player in the industry. | Accel, Sequoia | N/A | 🔒 | N/A |
-| Panorama Education | Panorama Education: Personalized learning for students.  $100M funding, $1B valuation. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Pantheon | Pantheon is a decentralized Web3 infrastructure company that offers a secure and scalable platform for developers to create and deploy applications. They aim to simplify the process of building and using decentralized applications.   What makes Pantheon unique is its focus on providing a decentralized infrastructure, which ensures increased security and reliability for developers. By leveraging blockchain technology, Pantheon offers a platform that is resistant to censorship and provides a transparent and trustless environment for application development.  In terms of financials, Pantheon has successfully raised $150 million in a Series B funding round, resulting in a valuation of $1.2 billion. Notably, they have attracted investments from prestigious firms such as Sequoia Capital, Tiger Global Management, and Coatue Management. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Panther Labs | Panther Labs is a cybersecurity company that offers a comprehensive platform for threat detection, investigation, and response. They aim to enhance global safety by safeguarding organizations against cyber threats. Founded in 2017 by Patrik Toll and Ilya Sorokin, Panther Labs is based in San Francisco and has additional offices in London, New York, and Singapore. In February 2023, the company secured $150 million in Series C funding, led by Insight Partners and joined by existing investors Lightspeed Venture Partners, Accel, and General Catalyst. With a total funding of $260 million, Panther Labs is uniquely positioned to meet the increasing demand for cybersecurity solutions. | Accel, Insight Partners | N/A | 🔒 | N/A |
-| Papa | Papa is a unique food delivery company that aims to simplify the process of getting food by offering a wide range of options from local restaurants. They prioritize providing a fast, reliable, and convenient delivery experience. In terms of financials, Papa has raised $100 million in funding from investors like Sequoia Capital and Tiger Global Management, and the company is currently valued at $1 billion. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Paradigm | Paradigm: Crypto investment firm for institutions.  $2.5B raised from top investors. | A16Z, Sequoia | N/A | 🔒 | N/A |
-| Paradime Labs | Paradime Labs is a deep tech startup founded in 2019 by a team of experienced engineers and scientists. They develop AI-powered solutions to solve real-world problems. What makes them unique is their focus on deep tech and their ability to leverage AI to address complex challenges. They have raised $10 million in funding from leading venture capital firms and currently have a valuation of $50 million. |  | N/A | 🔒 | N/A |
-| Paragon | UseParagon: AI platform improving customer experience; $10.5M funding, $40M valuation. |  | N/A | 🔒 | N/A |
-| Parallel Systems | Parallel Systems is a startup that is developing next-generation computing hardware using photonic chips to process data at high speeds. The company has raised $100 million in a Series B funding round led by Sequoia Capital, with participation from Benchmark, Intel Capital, and other investors. Their technology has the potential to revolutionize computer usage by making them faster, more energy-efficient, and more secure. | Sequoia | N/A | 🔒 | N/A |
-| Parallel Wireless | Parallel Wireless is a wireless technology company that is creating a more efficient and scalable cellular network. They have raised $110 million in funding from investors including Qualcomm Ventures, Intel Capital, and Samsung Ventures. Currently in the Series B funding round, the company is valued at $400 million. What makes them unique is their innovative approach to developing a new type of cellular network. |  | N/A | 🔒 | N/A |
-| Parasol | Parasol's mission: Simplify commercial insurance for businesses. Financials: Series B-funded, $100M raised. | Sequoia | N/A | 🔒 | N/A |
-| Pardes Biosciences | Pardes Bioscience develops cancer and autoimmune disease therapies. Raised $100 million in funding. | Google Ventures | N/A | 🔒 | N/A |
-| Parsley Health | Parsley Health is a unique direct-to-consumer primary care service that provides personalized, holistic healthcare to members across the United States. They have raised $135 million in funding from prominent investors including Thrive Capital, GV (formerly Google Ventures), and Kleiner Perkins. | Google Ventures, Kleiner Perkins, Thrive | N/A | 🔒 | N/A |
-| Parsons | Parsons: Accelerating innovation and growth for businesses.  $100M Series C funding, $1B valuation, $225M total raised. | Kleiner Perkins | N/A | 🔒 | N/A |
-| PathAI | PathAI is a prominent AI company in the life sciences sector, founded in 2016 by Dr. Andrew Ng. They aim to develop innovative solutions for global health issues. Notably, PathAI has raised more than $1 billion in funding from notable investors such as Google Ventures, Andreessen Horowitz, and Bill Gates. | A16Z, Google Ventures | N/A | 🔒 | N/A |
-| Patreon | Patreon: Supporting creators, funding success. $800M raised, $4B valuation. | Accel, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Pave | Pave is a unique decentralized autonomous organization (DAO) that offers a platform for users to manage their digital assets, with a focus on making cryptocurrency ownership and usage easy for people. Founded in 2021, Pave has raised $12 million in funding from notable investors such as Coinbase Ventures, Alameda Research, and Polychain Capital. | Coinbase | N/A | 🔒 | N/A |
-| Pax8 | Pax8 is a cloud-based IT solution provider that offers a one-stop shop for businesses to purchase, manage, and deploy cloud-based software. They have raised over $100 million in funding and were valued at $1.5 billion in 2021. What makes them unique is their wide range of software solutions from top providers and their additional services like 24/7 support and consulting. They are rapidly growing and well-positioned for future growth. |  | N/A | 🔒 | N/A |
-| PayIt | PayIt is a next-gen fintech company that is revolutionizing payment methods by providing an innovative payment platform that allows users to make secure payments, track their spending, and receive rewards. They have raised $100 million in funding in their Series A round and are valued at $1 billion, with investors including prestigious venture capital firms like Sequoia Capital and Kleiner Perkins Caufield & Byers. PayIt is unique in its approach to simplifying payments and providing incentives for users, and is well-positioned for future growth. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Paystack | Paystack: Affordable, secure payment solutions for African businesses.  Funding: \$89 million raised, \$29 billion valuation. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Paytm | Paytm's mission is to make payments and financial services accessible to everyone. The company has raised $3.6 billion in a Series E funding round, with a valuation of $16 billion. |  | N/A | 🔒 | N/A |
-| Pearl Health | Pearl Health: Affordable and accessible healthcare platform. Backed by top investors, raised $100M at $1B valuation. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Peek | Peek's mission: AI-powered visual search technology. Financials: Raised $100M from top investors. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Peloton | Peloton's mission: Fun and accessible exercise for all. Financials: $1.4B raised, $8B valuation. | Kleiner Perkins | N/A | 🔒 | N/A |
-| Pendo | Pendo: Enhancing product experiences. Funding: $600M+, Valuation: $1B+. | Bessemer, Insight Partners, Tiger Global | N/A | 🔒 | N/A |
-| Pentair | Pentair: Global leader in water solutions. Series E, \$1.5B valuation, \$100M raised. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| People.ai | People.ai: AI company helping businesses understand customers.  $300M funding, $1.7B valuation. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Peptilogics | Peptilogics is a synthetic biology company focused on developing a groundbreaking class of antibiotics for treating bacterial infections. They have received significant financial backing of $100 million from prominent investors such as Khosla Ventures and Polaris Partners. |  | N/A | 🔒 | N/A |
-| PerformLine | PerformLine is a prominent provider of AI-powered performance marketing solutions that aims to assist businesses in achieving their digital marketing objectives by offering them the necessary tools and insights for successful campaigns. What sets PerformLine apart is its ability to leverage artificial intelligence to optimize marketing performance. The company has raised more than $50 million in funding from renowned investors such as Sequoia Capital, Accel Partners, and Kleiner Perkins Caufield & Byers, and it currently holds a valuation of $1 billion. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Permutive | Permutive's mission is privacy-first advertising technology.  Backed by Sequoia, Accel, and General Catalyst. | Accel, Sequoia | N/A | 🔒 | N/A |
-| Perpay | Perpay: Revolutionizing payments, backed by top investors. $150M raised, $1B valuation. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Petal | Petal Card: Humanizing credit.  $310M funding, $1.5B valuation. | Goldman Sachs | N/A | 🔒 | N/A |
-| Petuum | Petuum is a distributed computing company founded in 2014 that aims to accelerate the development of artificial intelligence through its platform for large-scale distributed machine learning. What makes Petuum unique is its focus on providing a comprehensive infrastructure for AI development, including tools for data preparation, model training, and deployment. The company has raised $30 million in funding from investors such as Sequoia Capital, NEA, and Accel Partners. | Accel, Sequoia | N/A | 🔒 | N/A |
-| Phantom | Phantom is a unique decentralized cloud gaming platform founded in 2022 by Julian Lin and Paul Brody. It enables users to play high-end games on any device without the need for downloads or installations. The company has raised $100 million in funding from notable investors including Sequoia Capital, Andreessen Horowitz, and Coinbase Ventures. | A16Z, Coinbase, Sequoia | N/A | 🔒 | N/A |
-| Philadelphia Phillies Baseball Operations Department | The Philadelphia Phillies R&D Department innovates baseball using technology.  Series C funding, \$100M valuation, \$250M raised. | Bain, Tiger Global | N/A | 🔒 | N/A |
-| Philadelphia Phillies Baseball Operations Department | The Philadelphia Phillies Baseball Operations Department is responsible for all aspects of the team's on-field performance, led by President of Baseball Operations Dave Dombrowski. They have a long history of success, with two World Series titles, and are currently in a rebuild phase but have a strong farm system. The Phillies are currently valued at $1.8 billion and last received outside funding in 2015 when they sold a minority stake for $250 million to Comcast Spectacor. |  | N/A | 🔒 | N/A |
-| Philips | Philips: Improving lives through health technology. Raised $2 billion, valued at $34 billion. | Bain, KKR | N/A | 🔒 | N/A |
-| Philo | Philo is a unique streaming service that provides a low-cost option for cord-cutters to access live TV channels without a cable or satellite subscription. It stands out by offering a la carte channel selection at an affordable monthly price. The company has raised a total of $170 million in funding, with a valuation of $1.1 billion, through its Series D funding round, attracting prestigious investors such as Comcast Ventures, TCV, and Oaktree Capital Management. |  | N/A | 🔒 | N/A |
-| Physna | Physna is a deep tech company focused on developing advanced computational imaging tools for industrial applications. They aim to enable high-quality 3D imaging on a large scale. Physna stands out due to its prestigious investors, including Sequoia Capital, Playground Global, and Khosla Ventures. In terms of financials, the company has raised a total of $30 million in a Series A funding round, resulting in a valuation of $100 million. | Sequoia | N/A | 🔒 | N/A |
-| Picnic Health | Picnic Health is a healthcare startup founded in 2017 that utilizes AI to assist individuals in locating suitable doctors and treatments. What sets them apart is their use of AI technology. They have raised $20 million in funding from investors including Y Combinator and Sequoia Capital. | Sequoia, YC | N/A | 🔒 | N/A |
-| Pie Insurance | Pie Insurance is an innovative insurtech company that is revolutionizing the insurance industry through its unique pricing and claims approach. It has secured $100 million in funding from prominent investors including Sequoia Capital and Ribbit Capital. | Sequoia | N/A | 🔒 | N/A |
-| Pilot | Pilot is a decentralized autonomous organization (DAO) that aims to democratize finance by providing a platform for users to create and manage their own financial products. They have raised a total of $4 million in funding from investors such as Polychain Capital, Alameda Research, and Binance Labs. Pilot's platform is built on the Ethereum blockchain and uses smart contracts to automate financial transactions, eliminating the need for third-party intermediaries. This makes them unique as they empower individuals to take control of their finances regardless of their financial status or technical expertise. With the potential to revolutionize the financial system, Pilot is at the forefront of the decentralized finance (DeFi) movement. |  | N/A | 🔒 | N/A |
-| Pinata | Pinata: Decentralized NFT infrastructure. Series B, $135M raised. | A16Z, Coinbase, Sequoia | N/A | 🔒 | N/A |
-| Pinterest | Pinterest's mission is visual discovery and inspiration.  Series G funding, $45 billion valuation, $1.5 billion raised. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Pitch | Pitch is a conversational AI platform that aims to simplify customer interactions and enhance customer relationships for businesses. They have raised a total of $150 million in a Series A funding round, with a valuation of $100 million. Notably, they have secured investments from renowned investors such as Kleiner Perkins and Sequoia Capital. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| PitchBook | PitchBook is a unique financial data and software company that specializes in providing data and analytics on private companies to institutional investors. Founded in 2007 and headquartered in Seattle, Washington, PitchBook has raised over $400 million in funding from notable investors including Sequoia Capital, Tiger Global Management, and Fidelity Investments. In its most recent funding round, PitchBook achieved a valuation of $6 billion. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| PitchBook Data | PitchBook Data provides financial data and analytics for VC/PE industry. Raised $250M in Series E at $3.2B valuation. | Accel, Insight Partners, Tiger Global | N/A | 🔒 | N/A |
-| Place Exchange | Place Exchange is a real estate technology company that aims to transform the home buying and selling process through the use of artificial intelligence. They strive to make the transaction process more efficient, transparent, and affordable.   What makes Place Exchange unique is their utilization of AI technology in the real estate industry, which sets them apart from traditional methods.   In terms of financials, Place Exchange has raised a total of $225 million in funding, with a valuation of $1.5 billion. They have secured investments from prestigious investors such as SoftBank Vision Fund 2, GIC, and RRE Ventures. |  | N/A | 🔒 | N/A |
-| Placer Labs | Placer Labs is a unique venture-backed company founded in 2017 that utilizes artificial intelligence to assist companies in discovering untapped mineral deposits. With over $100 million raised in funding from investors such as Khosla Ventures, GV, and Lightspeed Venture Partners, Placer Labs stands out in its ability to leverage AI technology for mineral exploration. |  | N/A | 🔒 | N/A |
-| Plaid | Plaid connects financial accounts for easy app integration. Raised $425M, valued at $13B. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Planet | Planet Labs democratizes access to space.  Raised $250M at $2.9B valuation. | A16Z, Kleiner Perkins, Tiger Global | N/A | 🔒 | N/A |
-| PlanetScale | PlanetScale is a cloud-native database company that offers a fully managed PostgreSQL-as-a-service, aiming to simplify application development and deployment on the cloud. They have raised a total of $225 million in funding, with a valuation of $1.2 billion, and are backed by prestigious investors including GV, Kleiner Perkins, and Sequoia Capital. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Planned Parenthood Federation of America | Palantir Technologies: Software company solving problems with data analysis. Prestigious investors, $2B funding, $20B valuation. | Accel | N/A | 🔒 | N/A |
-| Platform Science | Platform Science is an open, cloud-based platform that connects shippers and carriers, aiming to make freight transportation more efficient, transparent, and sustainable. Founded in 2015 and headquartered in San Francisco, California, the company has raised over $100 million in funding from prestigious investors such as Kleiner Perkins Caufield & Byers, GV (formerly Google Ventures), and Sequoia Capital. In its Series C funding round, Platform Science achieved a valuation of $1.1 billion, with a total amount raised of $115 million. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| PlayStation Global | Sony Interactive Entertainment Global's mission is to create exceptional gaming experiences. In 2021, SIEG had a valuation of $25 billion and raised $1.8 billion. | Goldman Sachs | N/A | 🔒 | N/A |
-| PlayStation Global | PlayStation Global is a video game company known for developing and publishing games for the PlayStation console. They have a mission to create exceptional gaming experiences for users and have released popular titles like the Uncharted, God of War, and Gran Turismo series. The company, founded in 1994 and headquartered in San Mateo, California, has raised over $10 billion in funding from investors including Sony Corporation, Tencent Holdings, and Temasek Holdings. |  | N/A | 🔒 | N/A |
-| Plexus | Plexus: Making AI accessible; raised $100M at $1B valuation. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Plotly | Plotly: Making data accessible; raised $200M, valued at $1.5B. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Plume | Plume is a unique next-generation wireless company that offers intelligent software and hardware solutions for advanced wireless networks. They have raised over $100M in funding, including a recent $53M Series C round led by GV, bringing their total funding to over $100M. Plume was founded in 2015 by a team of experienced CTOs and CEOs. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Pluralsight | Pluralsight: Online learning for tech professionals. Series F, $3.7B valuation, $514.5M raised. | Insight Partners | N/A | 🔒 | N/A |
-| PlusAI | Plus Two: Future of work platform. Series A: $11.5M raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Pocket Gems | Pocket Gems: Mobile gaming bringing joy; acquired for $1 billion. | Insight Partners, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Pocus | Pocus aims to revolutionize global payments.  Latest funding round: $200 million, $1 billion valuation. | Kleiner Perkins, Sequoia, YC | N/A | 🔒 | N/A |
-| Podium | Podium81 aims to revolutionize customer service with AI.  Series B funding, $1 billion valuation, $100 million raised. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| PoggioLabs | Poggio Labs is a deep tech startup focused on developing an innovative AI technology capable of comprehending and generating human language. What sets them apart is their unique approach to language understanding and generation. They have secured a significant $20 million in a Series A funding round, with support from renowned investors including Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Point Digital Finance, Inc. | Point Digital Finance: Revolutionizing financial services.  Venture-backed with leading investors. | Kleiner Perkins, Sequoia, YC | N/A | 🔒 | N/A |
-| Point72 | Point72: Global investment management firm providing institutional-quality services.  $7 billion Series D funding, $60 billion valuation. | KKR | N/A | 🔒 | N/A |
-| PolicyGenius | PolicyGenius is an online insurance marketplace founded in 2014 that aims to simplify and make insurance shopping affordable for everyone. They have raised over $100 million in funding from investors including Sequoia Capital, Ribbit Capital, and Thrive Capital. | Thrive, Sequoia | N/A | 🔒 | N/A |
-| Polly | Polly is an AI-powered conversational platform that assists businesses in delivering personalized customer service and support, enabling them to offer round-the-clock support, enhance customer satisfaction, and lower expenses. What makes Polly unique is its ability to leverage artificial intelligence to provide tailored customer experiences. In terms of financials, Polly has raised $6 million in a seed round, resulting in a valuation of $10 million, with investments from Y Combinator and SV Angel. | YC | N/A | 🔒 | N/A |
-| Polychain Capital | Polychain Capital, founded in 2017, is a cryptocurrency investment firm with over $2 billion in assets under management. They are unique for their early investments in major blockchain projects like Ethereum, Cosmos, and Polkadot, as well as being a major investor in DeFi protocols such as Aave, Compound, and MakerDAO. In their Series C funding round, they raised a total of $460 million, resulting in a valuation of $3.7 billion. They have prestigious investors including Sequoia Capital, Andreessen Horowitz, and Coinbase Ventures. | A16Z, Coinbase, Sequoia | N/A | 🔒 | N/A |
-| Polygon | Polygon, formerly known as Matic Network, is a decentralized Ethereum scaling platform that aims to address the issues of high gas fees and slow transaction speeds. What sets Polygon apart is its utilization of various Layer 2 technologies, such as optimistic rollups, ZK rollups, and Validium, to offer a secure, scalable, and user-friendly experience for Ethereum users.   In terms of financials, Polygon has raised a total of $455 million in funding through a Series D round, resulting in a valuation of $2.5 billion. Notably, the company has attracted investments from prestigious entities like Sequoia Capital, SoftBank Vision Fund 2, Galaxy Digital, Coinbase Ventures, and Binance Labs. | Coinbase, Sequoia | N/A | 🔒 | N/A |
-| Poshmark | Poshmark: Social commerce for clothing. Series D, $3.5B valuation, $400M raised. | Accel, Goldman Sachs | N/A | 🔒 | N/A |
-| Posit | RStudio's mission: Make R more accessible to data scientists. Financials: Raised $110M, valued at $1.7B. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Post. | Ashby: Future of work platform enabling remote work.  Funding: $100M raised, $1B valuation. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Postman | Postman is a unique API development platform that simplifies the process of building, testing, and documenting APIs for developers. It allows developers to create and share API requests, track changes, and debug issues easily. The company's mission is to empower API developers to build better APIs. In terms of financials, Postman has raised a total of $150 million in funding, with a valuation of $5.6 billion. They have secured investments from prestigious investors such as Greylock Partners, Insight Partners, Sequoia Capital, and Tiger Global Management. | Greylock, Insight Partners, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Postscript | Postscript is a unique venture-backed startup that specializes in using artificial intelligence to generate personalized video messages. Founded in 2021 by two Stanford University graduates, the company has raised $10 million in funding from prominent investors including Y Combinator and Sequoia Capital. Currently in beta testing with a limited number of customers, Postscript plans to make its platform available to the public in early 2023. | Sequoia, YC | N/A | 🔒 | N/A |
-| PotentialMotors | PotentialMotors is a self-driving car company that is focused on creating advanced autonomous vehicles. What sets them apart is their $100 million Series A funding round led by Kleiner Perkins Caufield & Byers, which has given them a valuation of $1 billion. | Kleiner Perkins | N/A | 🔒 | N/A |
-| Power Finance | Power Finance is a unique next-generation financial services company that is revolutionizing the lending industry through its innovative approach. With $100 million raised in funding from top investors and a valuation of $1 billion, Power Finance aims to make financial services more accessible and affordable for all. |  | N/A | 🔒 | N/A |
-| Prelim | Prelim aims to democratize financial planning using AI.  Series A, \$100M valuation, \$20M raised. | Sequoia, YC | N/A | 🔒 | N/A |
-| Premise | Premise is a venture-backed startup focused on developing AI for healthcare, aiming to make AI-powered healthcare accessible and affordable to everyone. They have raised a total of $20 million in a Series A funding round, with a valuation of $100 million. Notable investors include Sequoia Capital, GV (formerly Google Ventures), and Kleiner Perkins Caufield & Byers. Premise's platform offers a library of pre-trained AI models for tasks like disease diagnosis, patient outcome prediction, and treatment recommendations. They have a user-friendly interface and prioritize patient data security. Currently in beta with select healthcare providers, Premise plans to launch to the general public in early 2023. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Presto | Presto: Cloud-based data analytics for businesses.  Latest funding round: $267 million, $3.2 billion valuation. | Bessemer, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Presto | Presto: Cloud-based data analytics for businesses.  Funding: \$100 million raised, valued at \$1 billion. | Bessemer, Sequoia | N/A | 🔒 | N/A |
-| Primary | Primary: Revolutionizing healthcare infrastructure.  Series B funding, $1.2 billion valuation. | Sequoia, YC | N/A | 🔒 | N/A |
-| Prime | Ashby: AI tools for finance accessibility. Funding: $110M, valuation: $1.1B. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Prime Medicine | Prime Medicine's mission is to revolutionize cancer treatment. The company has raised over $100 million in funding. |  | N/A | 🔒 | N/A |
-| Primer AI | Primer AI is a unique deep learning company founded in 2017 by Stanford University researchers. They utilize artificial intelligence to tackle real-world problems. With a valuation of $1 billion, Primer AI has raised $200 million in funding from prominent investors like Sequoia Capital, Kleiner Perkins, and GV. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Prisma Data | Prisma Data is a prominent provider of AI-driven data analytics solutions, aiming to assist businesses in making informed decisions by offering valuable insights from their data. What sets them apart is their ability to leverage artificial intelligence to deliver advanced analytics capabilities. Prisma Data has successfully secured over $100 million in funding from renowned investors such as Sequoia Capital and Kleiner Perkins, resulting in a current valuation of $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Procter & Gamble | Palantir helps organizations analyze data; raised $6 billion. |  | N/A | 🔒 | N/A |
-| Procter & Gamble | Palantir Technologies provides data analytics for better decision-making.  Series D, $20 billion valuation, $2.5 billion raised. | Goldman Sachs | N/A | 🔒 | N/A |
-| ProductBoard | ProductBoard is a product management software company that aims to simplify and enhance the product management process for businesses, enabling them to deliver superior products to their customers. They have raised over $100 million in funding from prominent investors like Sequoia Capital, Tiger Global Management, and Kleiner Perkins Caufield & Byers, and are currently valued at over $1 billion. Their leadership in the product management software industry positions them for further expansion in the future. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Productiv | Productiv is a productivity platform founded in 2018 that offers task management, goal setting, and time tracking features to help users stay organized and focused. What makes them unique is their mission to help people achieve their goals by making time management and task focus easier. They have raised $10 million in funding from investors including Y Combinator and Sequoia Capital. | Sequoia, YC | N/A | 🔒 | N/A |
-| Productiv Inc | Productiv helps teams stay focused and organized. Raised $120 million, valued at $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Project Ronin | Project Ronin is a decentralized bridge protocol that enables users to transfer assets across multiple blockchain networks. It stands out as the first bridge to offer instant transfers with zero gas fees. The protocol has facilitated over $2 billion in value transfers. Founded in 2021 by Sky Mavis, the creators of Axie Infinity, Project Ronin secured $1 billion in Series B funding in March 2022, led by Andreessen Horowitz. The company's valuation is currently $3 billion, with a total amount raised of $1.5 billion. Notable investors include Andreessen Horowitz, Coinbase Ventures, Accel, and Animoca Brands. | A16Z, Accel, Coinbase | N/A | 🔒 | N/A |
-| Promenade | Promenade is a unique Web3-native social media platform founded in 2022 that aims to create a more open and decentralized social media experience. Users can create and share content, connect with others, and earn cryptocurrency for their participation. The company has raised $30 million in funding from investors including Coinbase Ventures, Accel, and Polychain Capital. | Accel, Coinbase | N/A | 🔒 | N/A |
-| Proofpoint | Proofpoint's mission is to protect organizations from cyber threats.  Proofpoint has raised $1 billion and is valued at $6 billion. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Propel | Propel is a venture-backed startup founded in 2017 that utilizes artificial intelligence to assist individuals in finding their ideal job. The company has raised $10 million in funding from prominent investors including Sequoia Capital and Kleiner Perkins, and currently holds a valuation of $50 million. What sets Propel apart is its unique approach of leveraging AI technology to match individuals with their perfect job. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Protocol Labs | Protocol Labs' mission is to improve the internet. They have raised over $500 million. | A16Z, Sequoia | N/A | 🔒 | N/A |
-| Prove | Prove is a cybersecurity company that utilizes artificial intelligence to safeguard organizations against phishing attacks, aiming to eliminate such attacks and create a safer internet for all.   Unique features: Prove's use of artificial intelligence sets them apart in their approach to combat phishing attacks.  Financials: Prove raised $200 million in Series B funding at a valuation of $1 billion in February 2023, led by Sequoia Capital with participation from existing investors Accel and General Catalyst. The company has raised a total of $300 million in funding. | Accel, Sequoia | N/A | 🔒 | N/A |
-| Proviti | Protiviti: Solving complex problems, trusted advisor. Rapid growth, $1B funding raised. |  | N/A | 🔒 | N/A |
-| Proviti | Protivitina: Advancing protein therapeutics with AI.  Series A funding: $20 million raised. | Google Ventures, YC | N/A | 🔒 | N/A |
-| Public | Public is a company that aims to advance the growth and acceptance of artificial intelligence by offering a platform that simplifies the creation and implementation of AI applications. They have recently completed a Series B funding round, resulting in a valuation of $1 billion and a total amount raised of $120 million. Notably, Public has secured investments from renowned firms such as Sequoia Capital, Kleiner Perkins Caufield & Byers, and GV (formerly Google Ventures). | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Public Goods | Public Goods is an online marketplace that offers a wide range of sustainable products, aiming to simplify sustainable living by providing easy access to high-quality, ethically sourced items. What sets Public Goods apart is its focus on sustainability and its commitment to offering a diverse selection of eco-friendly products. The company has raised $50 million in funding from prominent investors including Kleiner Perkins Caufield & Byers, Accel Partners, and General Catalyst. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Pulley | Pulley's mission: Flexible, equitable, and rewarding work for all. Financials: Series C funding of $70 million, $1.1 billion valuation, $100 million raised. | Accel, Kleiner Perkins, YC | N/A | 🔒 | N/A |
-| Pure Storage | Pure Storage's mission is data storage revolution.  $750M Series F funding, $7.5B valuation. | Accel, Goldman Sachs, Sequoia | N/A | 🔒 | N/A |
-| Pure Storage | Pure Storage: Revolutionizing data storage; raised $1.5B, $8.2B valuation, $2.5B raised. | Bain, Google Ventures | N/A | 🔒 | N/A |
-| Pushpay | Pushpay is a unique cloud-based payments platform that specializes in serving churches by providing them with the ability to accept donations, manage their finances, and engage with their congregants. Founded in 2009, the company has raised over $200 million in funding from notable investors like Khosla Ventures, General Catalyst, and Accel Partners. Pushpay's current valuation stands at over $1 billion. | Accel | N/A | 🔒 | N/A |
-| Pyka | Pyka is a unique social media platform that enables users to create and share short-form videos, fostering creative expression and connection with others. The company has raised $100 million in funding from notable investors including Sequoia Capital and Tiger Global Management. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Q2 | Q2 empowers banks with digital banking solutions.  $1.3B raised, $10B valuation. | Bain, Goldman Sachs | N/A | 🔒 | N/A |
-| Qualia | Qualia is an AI-powered platform that focuses on creating personalized experiences for businesses and their customers, aiming to make every interaction delightful. The company has raised $100 million in funding from investors like Sequoia Capital and Kleiner Perkins, and is currently valued at $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Qualtrics | Qualtrics helps organizations improve experiences; Series F, $1.5B valuation, $415M raised. | Accel, Sequoia | N/A | 🔒 | N/A |
-| QuantAQ | Ashby aims to advance quantum computing technology.  $100M funding from Google Ventures and Andreessen Horowitz. | A16Z, Google Ventures | N/A | 🔒 | N/A |
-| QuantCo | Quantco uses AI to improve business decisions.  Venture-backed startup, $20M funding, $100M valuation. | Sequoia | N/A | 🔒 | N/A |
-| Quantcast | Quantcast measures internet audience, raises $275M at $2.6B valuation. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| QuantumScape Corporation | QuantumScape's mission: Enable affordable, long-range electric vehicles. Financials: Series D funding, $3 billion valuation, $1 billion raised. |  | N/A | 🔒 | N/A |
-| QuickNode | QuikNode: Simplifying blockchain app development.  Series A funding, $100M valuation, $10M raised. | Coinbase | N/A | 🔒 | N/A |
-| Quintar | Quintar is a San Francisco-based startup founded in 2017 by Stanford University graduates David Yang and Michael Littman. They utilize artificial intelligence to assist businesses in automating their marketing and sales processes. Quintar has raised $10 million in funding from investors including Kleiner Perkins Caufield & Byers and Accel Partners. What makes Quintar unique is their use of AI technology to streamline and optimize marketing and sales operations for businesses. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Quip | Quip is a collaborative productivity platform that aims to simplify and enhance work by integrating documents, spreadsheets, presentations, chat, and tasks into one workspace. What makes Quip unique is its ability to bring together multiple essential tools for work collaboration in a single platform.   In terms of financials, Quip has raised a total of $440 million in funding across multiple rounds, with its most recent funding round being Series E. The company is currently valued at $1 billion and has attracted prestigious investors such as Salesforce Ventures, Sequoia Capital, and Tiger Global Management. | Salesforce Ventures, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Qumulo | Qumulo is a leading provider of file and object storage solutions for enterprise customers, with a mission to make data storage, management, and protection easy for businesses. What makes them unique is their software-defined storage platform that is designed to scale and meet the needs of demanding workloads. The company has raised over $150 million in funding from investors like Sequoia Capital, Accel Partners, and Greylock Partners. | Accel, Greylock, Sequoia | N/A | 🔒 | N/A |
-| Quora | Ashby's mission: Making AI accessible and useful for everyone. Financials: Backed by leading investors. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| QuoteWell | QuoteWell is an innovative AI company that leverages natural language processing to assist investors in making informed choices. They have secured $100 million in funding from prominent investors like Sequoia Capital and Tiger Global, making them stand out in the industry. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Qventus | Qventus' mission: AI-driven decision-making for businesses. Financials: $100M raised from Google Ventures, Kleiner Perkins, Sequoia. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Qvest | Qvest is a venture-backed startup founded in 2017 by two Stanford University graduates. They utilize artificial intelligence to assist companies in identifying the most suitable candidates for their talent needs. Qvest has raised $10 million in funding from prominent investors including Sequoia Capital and Kleiner Perkins. Currently in its Series A funding round, the company is valued at $50 million. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Qvest.US | Qvest develops AI for healthcare.  Venture-backed, $100M funding, $1B valuation. |  | N/A | 🔒 | N/A |
-| RADAR | RADAR is a deep tech startup developing the world's first non-invasive brain-computer interface (BCI) to empower people with disabilities. They are backed by prestigious investors including Andreessen Horowitz, GV, and Kleiner Perkins, and have raised over $100 million in funding to date. | A16Z, Kleiner Perkins | N/A | 🔒 | N/A |
-| RAPP | RAPP is a venture-backed startup that utilizes artificial intelligence to assist individuals in discovering their ideal employment opportunities. The company has secured $10 million in funding from prominent investors including Y Combinator and Sequoia Capital, making it unique in its approach to job search. | Sequoia, YC | N/A | 🔒 | N/A |
-| REGENT Craft | REGENT Craft is a deep tech startup that utilizes AI to automate the design process of jewelry. What sets them apart is their ability to leverage artificial intelligence to create unique and personalized jewelry designs. They have successfully raised a $20M Series A round and currently hold a valuation of $100M, with notable investors such as Accel, Y Combinator, and Kleiner Perkins. | Accel, Kleiner Perkins, YC | N/A | 🔒 | N/A |
-| RPS North America | RPS North America is a prominent healthcare AI solutions provider with a mission to enhance healthcare quality and patient outcomes. They have secured $100 million in funding from notable investors such as Google Ventures, Kleiner Perkins Caufield & Byers, and Accel Partners, resulting in a valuation of $1 billion. | Accel, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| RTI | RTI is a deep tech startup focused on developing a unique AI technology that can understand and generate human language. Their mission is to democratize AI and potentially transform various industries. The company has raised $100 million in funding from prominent investors, resulting in a current valuation of $1 billion. |  | N/A | 🔒 | N/A |
-| RVO Health | RVO Health: Personalized mental healthcare for all.  Series B: $100M raised, $500M valuation. | Google Ventures | N/A | 🔒 | N/A |
-| Rain | Rain automates sales processes using AI.  Series C funding, $1 billion valuation, $100 million raised. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Ramp | Ramp aims to simplify and secure crypto usage. Series B, $8.1B valuation, $108M raised. | Accel, Founders Fund | N/A | 🔒 | N/A |
-| Rapid Robotics | Rapid Robotics is a company that specializes in developing and implementing advanced robotic solutions for industrial automation. They have secured $12M in funding from prominent investors such as Y Combinator and Kleiner Perkins. What sets Rapid Robotics apart is their focus on cutting-edge technology and their ability to provide efficient and effective automation solutions for various industries. | Kleiner Perkins, YC | N/A | 🔒 | N/A |
-| Rarible | Rarible: Empowering creators to sell digital work.  Backed by top VCs. | A16Z, Accel, Coinbase | N/A | 🔒 | N/A |
-| Razorpay Software Private Limited | Razorpay: Leading Indian payment gateway empowering businesses.  Funding: $1 billion raised, valued at $7 billion. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| ReCharge Payments | ReCharge Payments is a unique next-generation payments platform that aims to revolutionize the way businesses accept payments by providing a fast, secure, and seamless solution. The company has raised $100 million in funding and currently holds a valuation of $1 billion. |  | N/A | 🔒 | N/A |
-| Ready | Ashby: Building meaningful work connections. $120M funding, $1B valuation. | A16Z, YC | N/A | 🔒 | N/A |
-| Real Time Innovations | Real Time Innovations (RTI) is a global leader in industrial software that enables real-time communications, systems integration, and visualization. They have over 1,000 customers in more than 70 countries and their products are used in various industries such as industrial automation, transportation, medical devices, and aerospace. RTI's mission is to enable critical systems to communicate, integrate, and visualize data in real time. They have raised a total of $130 million in funding, with a valuation of $1.5 billion, in their Series E funding round. Some of their prestigious investors include Kleiner Perkins Caufield & Byers, Intel Capital, and Walden International. RTI is unique in their ability to provide industrial software solutions and their extensive customer base and global presence. | Kleiner Perkins | N/A | 🔒 | N/A |
-| Real-Time Innovations | RTI uses AI to create a fully autonomous digital twin of the human body. (9 words) Series B, $1.1B valuation, $170M raised. (5 words) |  | N/A | 🔒 | N/A |
-| Rebag | Rebag is a unique online luxury consignment marketplace that specializes in buying and selling pre-owned luxury handbags and accessories. Founded in 2014, the company has gained prominence in the industry and is headquartered in New York City. Rebag has successfully raised over $100 million in funding from notable investors including Thrive Capital, Forerunner Ventures, and Accel Partners. In 2021, the company achieved a valuation of $1.5 billion, reflecting its strong financial standing and market presence. | Accel, Thrive | N/A | 🔒 | N/A |
-| RebellionDefense | Rebellion Defense is a deep tech startup that specializes in developing advanced AI-powered cyber defense solutions. Founded in 2019 by a team of renowned experts in artificial intelligence, cybersecurity, and operations research, the company has gained recognition for its cutting-edge technology. Rebellion Defense has successfully raised $20 million in funding from prominent investors including Sequoia Capital and GV (formerly Google Ventures). | Google Ventures, Sequoia | N/A | 🔒 | N/A |
-| Rec Room | Rec Room is a social virtual reality platform that allows users to play games, create virtual worlds, and interact with friends. It aims to be the top destination for socializing in virtual reality. The company has raised a total of $410 million in funding, with a valuation of $1.25 billion. Notably, it has received investments from prestigious firms such as Andreessen Horowitz, Index Ventures, GV, and Qualcomm Ventures. | A16Z | N/A | 🔒 | N/A |
-| Recogni | Recogni is a venture-backed startup founded in 2017 that utilizes artificial intelligence to assist businesses in identifying and handling risks. The company's unique aspect lies in its expertise in machine learning, natural language processing, and risk management. Recogni has raised $100 million in funding from prominent investors such as Sequoia Capital and Kleiner Perkins, and it currently holds a valuation of $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Recorded Future | Recorded Future is a global leader in threat intelligence, offering innovative solutions that enable organizations to defend against cyber threats. Their platform utilizes artificial intelligence and proprietary data to provide customers with a comprehensive understanding of the threat landscape. What makes Recorded Future unique is their ability to combine cutting-edge technology with extensive data to deliver valuable insights to their customers. The company has raised over $200 million in funding from prominent investors such as Goldman Sachs, Intel Capital, and Accel Partners. In 2018, Recorded Future was recognized as one of the world's most innovative cloud companies by Forbes Cloud 100. | Accel, Goldman Sachs | N/A | 🔒 | N/A |
-| Red Ventures | Red Ventures is a digital marketing and media company based in Charlotte, North Carolina. They have over 3,000 employees and work with over 1,000 brands to help businesses grow their online presence. In 2021, they raised $650 million in Series E funding, valuing the company at $6.1 billion. Red Ventures has received investments from prominent venture capital firms such as Kleiner Perkins Caufield & Byers, Insight Venture Partners, and TPG Growth. What makes Red Ventures unique is their comprehensive range of digital marketing services, including SEO, PPC advertising, social media marketing, and content marketing. | Kleiner Perkins | N/A | 🔒 | N/A |
-| RedFin | Redfin's mission: Real estate made accessible for all. Financials: $1 billion raised from investors. | Tiger Global | N/A | 🔒 | N/A |
-| Reddit | Reddit is a social news aggregation and discussion website. It aims to be the front page of the internet. The company has raised $1.3 billion in funding, with a valuation of $7.1 billion in its Series F round. | A16Z, Sequoia | N/A | 🔒 | N/A |
-| Redesign Health | Redesign Health is a unique digital health company that aims to improve healthcare accessibility, affordability, and personalization through its proprietary AI platform. They offer personalized care plans, access to a network of doctors, and real-time health insights. The company has raised $200 million in funding from investors such as GV, Kleiner Perkins, and Sequoia Capital. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Redwood Materials | Redwood Materials, founded by former Tesla CTO JB Straubel in 2017, specializes in recycling lithium-ion batteries from electric vehicles and other devices to establish a closed-loop supply chain. The company has raised over $1 billion in funding from investors including Baillie Gifford, Fidelity, and Capricorn Investment Group. What makes Redwood Materials unique is its focus on creating a sustainable and circular economy for batteries, addressing the growing need for battery recycling and reducing reliance on raw materials. |  | N/A | 🔒 | N/A |
-| Reforge | Reforge is a leading provider of data engineering training, offering courses, bootcamps, and consulting services to help businesses build and maintain scalable data pipelines. They are unique in their focus on providing businesses with the skills and knowledge they need to make the most of their data. In terms of financials, Reforge has raised a total of $20 million in a Series A funding round, with a valuation of $100 million. They have attracted prestigious investors such as Kleiner Perkins and Sequoia Capital. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Reify Health | Reify Health is a healthcare technology company founded in 2016 that utilizes artificial intelligence to assist doctors in diagnosing and treating patients. What sets them apart is their focus on making healthcare more accessible and affordable by equipping doctors with the necessary tools to make informed decisions. They have raised $120 million in funding from notable investors including Google Ventures, Kleiner Perkins Caufield & Byers, and GV. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Relativity | Relativity Space: Developing reusable rockets. Raised $1.2B, valued at $4.2B. | Kleiner Perkins | N/A | 🔒 | N/A |
-| Relativity | Relativity Space: Democratizing space access. Raised $1.2 billion. | Kleiner Perkins | N/A | 🔒 | N/A |
-| Relativity Space | Relativity Space is a unique private American aerospace company founded in 2015 with the goal of building the world's first fully reusable launch vehicle to enable humanity to live on Mars. In January 2021, the company raised $650 million in Series E funding at a valuation of $4.2 billion, with participation from notable investors such as Fidelity Management & Research Company, BlackRock, Coatue Management, General Atlantic, KKR, Lux Capital, and Tribe Capital. | Blackrock, KKR | N/A | 🔒 | N/A |
-| Relay Robotics | Relay Robotics is a robotics company specializing in advanced AI technology for autonomous vehicles. Founded in 2016, they have secured over $100 million in funding from notable investors including Toyota Ventures, BMW i Ventures, and Intel Capital. Currently in Series B funding, Relay Robotics stands out for their innovative approach to self-driving cars. |  | N/A | 🔒 | N/A |
-| Relay Thera | Relay Therapeutics is a clinical-stage biopharmaceutical company that focuses on developing precision medicines for serious diseases, with their lead program being a selective RET inhibitor for thyroid cancer and other RET-driven diseases. What makes them unique is their approach to drug development, which combines computational techniques with experimental biology to design and optimize new therapies. They have raised over $400 million in funding from prominent investors such as Flagship Pioneering, Fidelity Management & Research Company, and Versant Ventures. |  | N/A | 🔒 | N/A |
-| RelayPro | RelayPro is a prominent sales engagement software company that utilizes AI technology to empower sales teams with the necessary tools and insights to enhance their effectiveness.   Unique features of RelayPro include its AI-powered capabilities and its focus on helping sales teams close more deals.   In terms of financials, RelayPro recently secured $100 million in Series C funding in February 2023, with a valuation of $1 billion. The funding round was led by Tiger Global Management, and existing investors Accel and Norwest Venture Partners also participated. Overall, RelayPro has raised a total of $175 million in funding. | Accel, Tiger Global | N/A | 🔒 | N/A |
-| Reliable Robotics | Reliable: AI-powered insurance solutions, accessible and efficient.  Funding: \$100M raised, valued at \$1B. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Remitly | Remitly is a global remittance company that offers fast, affordable, and secure money transfer services. They have raised over $1 billion in funding from top investors like Accel, TPG Growth, and Ribbit Capital. With a valuation of $7.5 billion, Remitly is considered one of the fastest-growing fintech companies globally. | Accel | N/A | 🔒 | N/A |
-| Render | Render(None) is a prominent company that specializes in real-time 3D rendering solutions. Their unique selling point lies in their mission to make 3D rendering accessible to all, regardless of technical expertise. They have successfully raised $100 million in funding from renowned investors like Kleiner Perkins, Sequoia Capital, and Accel Partners, and currently hold a valuation of $1 billion. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Rent the Runway | Rent the Runway is a fashion rental company that offers customers the opportunity to rent designer clothing at a reduced cost. Founded in 2009 by Jennifer Hyman and Jennifer Fleiss, the company has raised more than $300 million in funding from investors including Bain Capital Ventures, First Round Capital, and Tiger Global Management. With a valuation exceeding $1 billion, Rent the Runway is a highly successful fashion rental company. | Bain, Tiger Global | N/A | 🔒 | N/A |
-| RepairSmith | RepairSmith is a home services marketplace that connects homeowners with local experts for repairs and renovations, aiming to make it easy and affordable for homeowners to get the work done they need. They have raised a total of $125 million in funding, with a valuation of $700 million, and have prestigious investors such as Kleiner Perkins Caufield & Byers, GV, and Norwest Venture Partners. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Replit | Replit's mission is to make coding accessible. They have raised $230 million in a Series B funding round with a valuation of $1.2 billion. | A16Z, Tiger Global | N/A | 🔒 | N/A |
-| Replo | Replo's mission is to improve enterprise search.  Series B: $100 million, $1 billion valuation. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Replo | Replo: AI company revolutionizing search engines.  Series B: \$100M raised, \$1B valuation. | Greylock, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| ResMed | ResMed's mission is to improve sleep apnea treatment. They have raised over $1 billion with a valuation of over $100 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Rescale | Rescale: Making HPC accessible; Series C funding, $1 billion valuation, $100 million raised. | A16Z, Accel | N/A | 🔒 | N/A |
-| Restaurant Brands International | Restaurant Brands International (RBI) is a multinational fast-food holding company formed in 2014 through the merger of Burger King and Tim Hortons. RBI also owns Popeyes Louisiana Kitchen. What makes RBI unique is its mission to be the world's most loved restaurant brand by providing great-tasting, affordable food and exceptional service. In terms of financials, RBI has raised a total of $100 million in a Series A funding round, with a valuation of $10 billion. Prestige investors such as Goldman Sachs and Morgan Stanley have contributed to RBI's success. | Goldman Sachs | N/A | 🔒 | N/A |
-| Restaurant Brands International Campus Opportunities | Ribbon Health: Affordable, accessible healthcare; $200M Series E, $500M funding, $1B valuation. | Google Ventures, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Retool | Retool: Low-code platform for internal tools.  Funding: $100M raised, $1B valuation. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| RevenueCat | RevenueCat is a subscription management platform that assists mobile app developers in growing and monetizing their businesses by simplifying the process of collecting recurring revenue from users. What makes RevenueCat unique is its focus on providing a seamless experience for developers to manage subscriptions, allowing them to focus on creating and improving their apps. The company has raised over $200 million in funding from prominent investors like Tiger Global Management, Coatue Management, and Kleiner Perkins Caufield & Byers, and is currently valued at over $1 billion. | Kleiner Perkins, Tiger Global | N/A | 🔒 | N/A |
-| Rhombus Power | Rhombus Power is a cleantech startup focused on developing a highly efficient and cost-effective solar panel. They are currently in their seed funding round and have raised $10 million from investors including Khosla Ventures and First Round Capital. What makes Rhombus Power unique is their innovative approach to solar panel technology, aiming to improve efficiency and affordability compared to traditional solar panels. |  | N/A | 🔒 | N/A |
-| Ribbon Health | Ribbon Health is a healthcare technology company that utilizes AI to revolutionize patient interactions with the healthcare system, aiming to enhance accessibility, affordability, and effectiveness. The company has secured over $100 million in funding from prominent investors such as Sequoia Capital, Tiger Global, and GV (formerly Google Ventures). Notably, Ribbon Health's financials include a Series B funding round, a valuation of $1.1 billion, and a total amount raised of $132.5 million. | Google Ventures, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Ridecell | Ridecell is an open platform that offers a comprehensive solution for building and managing electric vehicle fleets, encompassing vehicles, charging infrastructure, and software. What makes Ridecell unique is its turnkey approach, providing fleet operators with all the necessary components to efficiently run their fleets. The company has raised over $100 million in funding from notable investors like Toyota Ventures, BMW i Ventures, and Siemens. |  | N/A | 🔒 | N/A |
-| Ridgeline | Ridgeline: Developing self-driving trucks. Series B funding, $100 million raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Rigetti Computing | Company mission: Develop powerful and accessible quantum computers. Financials: $1 billion in funding. |  | N/A | 🔒 | N/A |
-| RightHandRobotics | RightHand Robotics is a prominent supplier of robotic arms for industrial automation, focusing on creating safe, collaborative, and user-friendly robots for various applications. The company has raised more than $200 million in funding from notable investors such as SoftBank Vision Fund, Google Ventures, and Kleiner Perkins, resulting in a current valuation of $1.1 billion. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Riot Games | Riot Games inspires players through innovative game experiences. (Mission) Series H, \$29.1 billion valuation, \$1.45 billion raised. (Financials) |  | N/A | 🔒 | N/A |
-| Ripcord | Ripcord is a quantum computing startup founded in 2014 by Chad Rigetti. They aim to develop the first commercially viable quantum computer and have raised over $100 million in funding from investors including Google Ventures, Khosla Ventures, and GV. Ripcord's unique aspect is their mission to build a quantum computer that will revolutionize the world. | Google Ventures | N/A | 🔒 | N/A |
-| Ripple | nan |  | N/A | 🔒 | N/A |
-| Ripple | Ripple: Redefining global payments. Raised $1 billion in funding. | A16Z, Google Ventures | N/A | 🔒 | N/A |
-| Rippling | nan |  | N/A | 🔒 | N/A |
-| Ritual | Ritual: Future of healthcare, mission-driven. Series C, $1.1B valuation, $170M raised. | Founders Fund, Google Ventures, Thrive | N/A | 🔒 | N/A |
-| Riverside Research | Riverside Research develops advanced AI for national security.  Series B funding, \$500 million raised. | Accel, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Rivos | Rivos develops AI for self-driving cars.  Series B funding, $170 million raised. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Ro | Ro is building a decentralized data marketplace. Series B-funded, \$100M valuation, \$60M raised. | A16Z, Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Roadie | Roadie: On-demand delivery for businesses. Raised $100M+, valued at $1B. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Robert Half | Robert Half connects talent and opportunities globally. Raised $1.2B, valued at $6.9B. |  | N/A | 🔒 | N/A |
-| Robinhood | Robinhood's mission: Democratize finance for all. Financials: $1 billion raised, $8.3 billion valuation. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Roblox | Roblox is a unique global platform that allows users to play, create, and share experiences in immersive 3D worlds, with a mission to build a metaverse for people to connect, create, and explore together. The company has raised over $1 billion in funding from investors like Tencent, Temasek, and Tiger Global Management, and is currently valued at $45 billion. | Tiger Global | N/A | 🔒 | N/A |
-| Rocket Lab | Rocket Lab is a private American aerospace manufacturer founded in 2006 that focuses on designing, manufacturing, and launching small satellites. Their unique mission is to make space more accessible and affordable for everyone. They have successfully launched over 100 satellites into orbit. Rocket Lab has a valuation of $4.1 billion and has raised a total of $1.3 billion in funding, with their latest funding round being a Series E round in 2021 led by BlackRock. Notable investors include SoftBank Vision Fund 2 and Vector Capital. | Blackrock | N/A | 🔒 | N/A |
-| Rocket Money | Truebill aims to simplify and democratize personal finance. Series C, $1.6B valuation, $225M raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Rockstar Games | Rockstar Games creates groundbreaking entertainment experiences for gamers. Series E funding, $3.1 billion valuation, $1.6 billion raised. |  | N/A | 🔒 | N/A |
-| Rockwell Automation | Rockwell Automation: Global leader in industrial automation and digital transformation. Series E, \$2.1B valuation, \$1.1B raised. | Insight Partners, Kleiner Perkins | N/A | 🔒 | N/A |
-| Roivant | Roivant Sciences is a clinical-stage biopharmaceutical company that focuses on discovering, developing, and commercializing innovative medicines for patients with underserved diseases. What makes Roivant unique is its extensive pipeline of over 200 drugs, including treatments for cancer, autoimmune diseases, and neurodegenerative disorders. The company has raised over $5 billion in funding from investors like Fidelity, T. Rowe Price, and RA Capital Management. |  | N/A | 🔒 | N/A |
-| Roivant Sciences | Roivant Sciences develops transformative medicines for serious diseases.  $1.8 billion funding, $9.6 billion valuation. |  | N/A | 🔒 | N/A |
-| Roku | WearerOku revolutionizes clothes shopping, with $200 million raised. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Roofr | Roofr is a real estate technology company that aims to simplify the process of buying and selling homes through their AI and machine learning platform. They have raised $100 million in a Series B funding round, with a valuation of $1 billion, and have secured investments from renowned investors such as Kleiner Perkins Caufield & Byers and Sequoia Capital. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Rooster Teeth | Rooster Teeth creates original content for global audiences. (10 words) Series F funding, $1 billion valuation, $200 million raised. (5 words) |  | N/A | 🔒 | N/A |
-| Routable | Routable's mission: Enhancing customer experiences through conversational commerce. Financials: Series A, $25 million raised. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Route | Route is a decentralized routing protocol on the Solana blockchain that enables users to securely and efficiently route transactions across multiple blockchains. Founded in 2021, the company has raised $2.2 million in funding from notable investors including Alameda Research, Jump Capital, and Solana Ventures. |  | N/A | 🔒 | N/A |
-| Rubrik Job Board | Rubrik simplifies data management; raised $1.2 billion in funding. | Accel, Sequoia | N/A | 🔒 | N/A |
-| RudderStack | RudderStack is an enterprise-grade customer data platform (CDP) founded in 2017 by Dan Siroker and Avinash Kaushik. They help companies aggregate, clean, and activate customer data from all sources, aiming to provide businesses with a single view of their customers for better understanding and personalized experiences. RudderStack has raised $130 million in funding from investors such as Accel, Sequoia Capital, and Tiger Global Management. They recently completed a Series C funding round, resulting in a valuation of $1.3 billion. | Accel, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Rutter | Rutter: AI for accessible healthcare.  $100M raised from top investors. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Ryder | Ryder's mission: Providing innovative and sustainable logistics solutions. Financials: $2.5 billion funding round in 2021. | Goldman Sachs | N/A | 🔒 | N/A |
-| Rye | Ashby: Building future of work, enabling remote work. Series A, $100 million raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| SERES | SERES is a digital health company that aims to revolutionize chronic condition management through its AI-powered digital therapeutics platform. The company has secured over $100 million in funding from prominent investors such as Google Ventures, Kleiner Perkins, and GV. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| SIG | SIG provides infrastructure solutions for financial services. Series F, $3.6B valuation, $500M raised. | Goldman Sachs | N/A | 🔒 | N/A |
-| SOCi | Soci: Social media platform promoting self-expression. Series A, valued at $1 billion, raised $100 million. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| SPINS | SPINS is a unique startup utilizing AI to transform the shopping experience. With $100 million raised in funding from prominent investors like Sequoia Capital and Kleiner Perkins, the company is currently in its Series B round and holds a valuation of $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| SQUIRE | Squire aims to revolutionize financial infrastructure.  Series B funding, $125 million raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Safe Global | Safe Global is a prominent AI-powered cybersecurity solutions provider that aims to safeguard businesses against the increasing risk of cybercrime. Their solutions are trusted by major companies like Google, Amazon, and Microsoft. Notably, Safe Global has secured more than $100 million in funding from renowned investors like Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Safe Security | Safe's mission is to protect sensitive data.  $100 million funding, $1 billion valuation. | Accel, Sequoia | N/A | 🔒 | N/A |
-| SafeBase | SafeBase is a cybersecurity solutions provider specializing in protecting financial institutions from cyber threats and aiding in regulatory compliance. They have raised $100 million in funding from investors like Goldman Sachs and Kleiner Perkins Caufield & Byers, and currently hold a valuation of $1 billion. What sets them apart is their focus on the financial services industry and their ability to provide comprehensive cybersecurity solutions tailored to their specific needs. | Goldman Sachs, Kleiner Perkins | N/A | 🔒 | N/A |
-| SafeGraph | SafeGraph is a location intelligence company that provides data and insights to help businesses make informed decisions about investments, marketing, and customer service. They have raised a total of $100 million in funding, with a valuation of $1.3 billion, and have prestigious investors such as Andreessen Horowitz, NEA, and Index Ventures. What makes them unique is their focus on understanding how people move through the world, providing valuable location-based information to their customers. | A16Z | N/A | 🔒 | N/A |
-| SageSure Insurance Managers | SageSure Insurance Managers is a unique technology-enabled insurance brokerage and consulting firm that offers tailored insurance solutions to businesses. Founded in 2015 and based in New York City, the company has raised $100 million in funding from investors including General Atlantic, Accel Partners, and TPG Growth, resulting in a valuation of $1 billion. | Accel | N/A | 🔒 | N/A |
-| SailPoint | SailPoint secures digital identities; valued at $8.1 billion. |  | N/A | 🔒 | N/A |
-| Salesforce | Salesforce's mission is customer connection transformation.  In 2021, Salesforce raised $31.2 billion at a $221 billion valuation. |  | N/A | 🔒 | N/A |
-| Salsify | Salsify is a leading provider of product information management (PIM) software for retailers and manufacturers. They help businesses create and manage accurate, consistent, and up-to-date product information. Their PIM software platform is used by over 1,000 customers worldwide, including major retailers and manufacturers.   In February 2023, Salsify closed a $100 million Series E funding round, led by Insight Partners, bringing their total funding to over $250 million. With a valuation now over $1 billion, Salsify has attracted prestigious investors such as Insight Partners, Lightspeed Venture Partners, and Bessemer Venture Partners. | Bessemer, Insight Partners | N/A | 🔒 | N/A |
-| Samba TV | Samba TV measures TV viewership and delivers targeted advertising. Funding: $200M raised, $1B valuation. |  | N/A | 🔒 | N/A |
-| SambaNova | SambaNova Systems, founded by former Google Brain engineers in 2017, aims to democratize AI by making it accessible to businesses of all sizes. The company has raised over $600 million in funding from investors including Google Ventures, SoftBank Vision Fund, and Fidelity Investments. In its latest funding round, a $225 million Series D round, SambaNova was valued at $7.3 billion. | Google Ventures | N/A | 🔒 | N/A |
-| SambaNova Systems | SambaNova Systems accelerates AI development.  Raised $676M from investors. |  | N/A | 🔒 | N/A |
-| Samsara | Samsara: IoT fleet management for businesses. Raised $1.3B, valued at $10.5B, $3.4B raised. | Google Ventures, Insight Partners, Kleiner Perkins | N/A | 🔒 | N/A |
-| Samsung | Samsung: Transforming technology, shaping the future. Revenue: $247.5 billion (2021). |  | N/A | 🔒 | N/A |
-| Samsung Research America | Samsung Research America is a research and development arm of Samsung Electronics, headquartered in Mountain View, California, with offices in New York City, Seattle, and Austin. They focus on driving innovation in artificial intelligence, machine learning, computer vision, and natural language processing. What makes them unique is their strong emphasis on research and development in cutting-edge technologies. They have raised over $1 billion in funding from investors including SoftBank Vision Fund, Sequoia Capital, and Kleiner Perkins Caufield & Byers. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Samsung Research America Internship | Samsung Research America's mission is to revolutionize technology. The company is in its Series C funding round with a valuation of $1.5 billion and has raised $400 million. |  | N/A | 🔒 | N/A |
-| Samsung Semiconductor | Samsung Semiconductor: Innovating semiconductor solutions for advanced devices.  Series E funding, \$450B valuation, \$100B raised. |  | N/A | 🔒 | N/A |
-| SandboxAQ | Sandbox AQ is a deep tech company founded in 2016 that focuses on developing advanced quantum technologies to transform cybersecurity and materials science. What makes them unique is their potential to revolutionize various fields through their cutting-edge quantum solutions. In 2021, they raised $100 million in a Series B funding round, bringing their total funding to $165 million, and the company is currently valued at $1 billion. |  | N/A | 🔒 | N/A |
-| Saxumships | Saxum Ships: Revolutionizing maritime industry with autonomous ships. $100M raised from Google Ventures and Kleiner Perkins. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Scale AI | Scale AI helps businesses with machine learning models. (8 words) Series E, $7.3B valuation, $1.3B raised. (5 words) | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Schmidt Futures | Schmidt Futures: Innovating the future; $1 billion raised. |  | N/A | 🔒 | N/A |
-| Schnucks | Schnucks: Convenient, friendly, and affordable grocery shopping.  Series B funding, \$100 million valuation, \$50 million raised. |  | N/A | 🔒 | N/A |
-| Schonfeld | Schonfeld: Media and tech company transforming financial markets.  Financials: $200M funding, $1.7B valuation, $375M raised. | Insight Partners, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Schoolhouse | Schoolhouse is a venture-backed startup that aims to revolutionize the education system by providing personalized and engaging learning experiences for students. They have raised $100 million in funding from prominent investors like Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Schoolhouse.world | Schoolhouse: EdTech startup democratizing education.  Series B: $100M raised, $1.1B valuation. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Schweitzer Engineering Laboratories | SEL Inc. aims to democratize AI for problem-solving.  Backed by top investors, raised $1 billion. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| ScienceLogic | ScienceLogic is a leading provider of unified IT operations management software that helps businesses improve operational efficiency and reduce IT costs. Their cloud-based platform offers a single view of all IT assets, allowing businesses to quickly identify and resolve problems, improve performance, and optimize their IT infrastructure.   What makes ScienceLogic unique is their ability to provide a comprehensive view of all IT assets, including servers, networks, storage, applications, and security devices, in one platform. This holistic approach sets them apart from other ITOM software providers.  In terms of company financials, ScienceLogic has raised a total of $275 million in funding, with a valuation of $1.7 billion. They have received funding from prestigious investors such as Insight Partners, Norwest Venture Partners, and Goldman Sachs. | Goldman Sachs, Insight Partners | N/A | 🔒 | N/A |
-| Scout24 | Scout24's mission: Simplify buying and selling through digital marketplace. Financials: Valued at €4.8 billion. | Goldman Sachs, Insight Partners | N/A | 🔒 | N/A |
-| Scout24 | Scout24 is a prominent online classifieds platform operating in Germany, Austria, the Netherlands, and Switzerland. It was established in 1999 and has emerged as a highly popular online classifieds platform in Europe. Scout24 provides a diverse range of services, encompassing classified ads for cars, real estate, jobs, and more. The company has secured more than €1.5 billion in funding from notable investors like Accel Partners, Goldman Sachs, and Kinnevik. In 2021, Scout24 was acquired by ProSiebenSat.1 Media for a substantial amount of €4.4 billion.   What makes Scout24 unique is its extensive presence in multiple European countries, its wide range of classified ad services, and its significant funding and acquisition by ProSiebenSat.1 Media. | Accel, Goldman Sachs | N/A | 🔒 | N/A |
-| Scratch Fi | Scratch Fi is a unique venture-backed startup that utilizes artificial intelligence to facilitate skill acquisition. They have secured $10 million in funding from prominent investors including Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Scribd | Scribd: Connecting people with knowledge. Series E, $1.3B funding. | KKR | N/A | 🔒 | N/A |
-| Scribe Therapeutics | Scribe Therapeutics: Developing neurodegenerative disease treatments.  Raised $100 million in funding. |  | N/A | 🔒 | N/A |
-| Scroll Foundation | Scroll Foundation is a non-profit organization founded in 2018 by an undisclosed founder, based in San Francisco, California. They are dedicated to advancing open-source technologies for the web and have raised a total of $20 million in funding from undisclosed investors. Their mission is to make the web more open, accessible, and secure for everyone. The unique aspect of Scroll Foundation is their focus on open-source technologies and their non-profit status, which sets them apart from other organizations in the industry. |  | N/A | 🔒 | N/A |
-| Scroll.io | Scroll Foundation: Open source software for web privacy and security. Raised $10 million in funding. | A16Z, YC | N/A | 🔒 | N/A |
-| Sealed | Sealed is an AI-powered platform founded in 2017 by Dr. Daniel Kraft and Dr. Nabeel Abdelfattah that assists companies in speeding up the process of developing and bringing new drugs to market. Their unique approach utilizes artificial intelligence to enhance drug development and commercialization. In 2021, Sealed secured a $200 million Series B funding round led by SoftBank Vision Fund 2, resulting in a valuation of $1.2 billion. |  | N/A | 🔒 | N/A |
-| Seamless.AI | Seamless.ai's mission: AI-powered solutions for financial services. Financials: \$100M funding, \$1B valuation. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Search for Common Ground | San Francisco Community Gardens: Creating green spaces for a sustainable city. Series A funding, \$10M valuation, \$5M raised. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| SeatGeek | SeatGeek: Empowering fans to buy and sell tickets.  $400M funding, $1B valuation. | Accel, Founders Fund, Tiger Global | N/A | 🔒 | N/A |
-| Seated | Company mission: Simplify booking meeting spaces. Financials: Backed by leading investors. | Accel, Sequoia | N/A | 🔒 | N/A |
-| Second Order Effects | So Effects: AI for hyper-realistic Metaverse effects.  Founded 2022, $100M raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Second Spectrum | Second Spectrum enhances fan experience using AI. Raised $100M, valued at $1B. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Secure Code Warrior | Secure Code Warrior: Developer training for secure software.  Funding: \$45M raised, \$1.2B valuation. | Accel, Insight Partners, Kleiner Perkins | N/A | 🔒 | N/A |
-| Secureframe | SecureFrame: Simplifying data protection and compliance.  Series C funding: $40 million raised. | Accel | N/A | 🔒 | N/A |
-| SecurityScorecard | SecurityScorecard is an AI-powered platform that offers real-time security ratings for companies, regardless of their size. It has raised a total of $200 million in funding, with a valuation of $8.5 billion. Notably, it has attracted prestigious investors such as Insight Partners, ForgePoint Capital, General Atlantic, and TPG Growth. | Insight Partners | N/A | 🔒 | N/A |
-| SeekOut | SeekOut is an AI company founded in 2014 that uses natural language processing to assist businesses in finding top talent. They have raised over $100 million in funding from investors like Sequoia Capital and Kleiner Perkins. SeekOut's unique approach involves analyzing millions of data points to create detailed profiles of candidates, including their skills, experience, and suitability for specific roles. This enables companies to make more informed hiring decisions and recruit the best individuals for their teams. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Seesaw | Seesaw is a unique social learning platform that aims to empower students by providing them with a personalized learning experience tailored to their individual needs and pace. The company has raised $21 million in funding from investors including Owl Ventures, Learn Capital, and Rethink Education. |  | N/A | 🔒 | N/A |
-| Segmed | Segmed is a medical technology company focused on developing a groundbreaking surgical robot to enhance surgical safety and precision. Their technology has the potential to revolutionize surgical procedures. The company has raised $100 million in funding from prominent venture capital firms, resulting in a valuation of $1 billion. |  | N/A | 🔒 | N/A |
-| Seismic | Seismic uses AI to understand customers; raised $100M. | Accel | N/A | 🔒 | N/A |
-| Self Financial | Self Financial is a unique next-generation financial services company that offers personal loans, credit cards, and savings accounts to help people achieve their financial goals. They have raised over $1 billion in funding from investors like Kleiner Perkins, Sequoia Capital, and Ribbit Capital, and are currently valued at over $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| SendBird | SendBird is a real-time communications platform that enables businesses to incorporate chat, voice, video, and file sharing features into their mobile apps, enhancing customer engagement and fostering community growth. They have raised a total of $125 million in funding, with a valuation of $1.5 billion, through a Series C funding round, attracting prestigious investors such as SoftBank Vision Fund 2, Tiger Global Management, and GGV Capital. | Tiger Global | N/A | 🔒 | N/A |
-| Sensata Technologies | Sensata Technologies: Sensing solutions for automotive, industrial, and aerospace markets. Well-funded with recent $200M round. |  | N/A | 🔒 | N/A |
-| Sentry | Sentry: Helping engineers monitor applications and troubleshoot errors.  Funding: $100 million, $1.3 billion valuation. | Accel, Sequoia | N/A | 🔒 | N/A |
-| Serotonin | Serotonin is a mental health startup that is utilizing virtual reality to provide therapy for anxiety and depression. What makes them unique is their innovative approach of using virtual reality technology for mental health treatment. The company has raised $10 million in funding from prominent venture capital firms and is currently in a private beta phase with a limited number of users. |  | N/A | 🔒 | N/A |
-| Settle | Settle is a unique decentralized finance protocol that enables users to exchange tokens directly without the need for intermediaries. Founded in 2021, the company has raised $20 million in funding from prominent investors including Coinbase Ventures, Alameda Research, and Polychain Capital. Settle is currently in beta and plans to launch its mainnet in Q4 2022. | Coinbase | N/A | 🔒 | N/A |
-| Seven Eight Capital | Seven Eight Capital is a venture capital firm specializing in early-stage investments in the artificial intelligence, machine learning, and robotics sectors. They have raised $1.1 billion across three funds and have invested in over 100 companies, including notable ones like Airbnb, Palantir Technologies, and Stripe. What makes them unique is their focus on cutting-edge technologies and their successful track record in identifying and supporting promising startups in these industries. |  | N/A | 🔒 | N/A |
-| Sezzle | Sezzle is a unique buy-now-pay-later company that enables shoppers to divide their purchases into four interest-free payments. Founded in 2013 and based in Minneapolis, Minnesota, Sezzle has raised more than $400 million in funding from investors including Insight Partners, Dragoneer Investment Group, and Kleiner Perkins Caufield & Byers. As of 2021, Sezzle has a valuation of $4.7 billion. | Insight Partners, Kleiner Perkins | N/A | 🔒 | N/A |
-| Sharebite | Sharebite is a unique food sharing marketplace that aims to reduce food waste and fight hunger by connecting people with surplus food to those in need. They have raised $10 million in funding from investors like Khosla Ventures and GV (formerly Google Ventures). | Google Ventures | N/A | 🔒 | N/A |
-| Shef | Shef connects home cooks with local restaurants for affordable meals. Series A, $100M+ valuation, $30M+ raised. | A16Z, Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Shield AI | Shield AI's mission: Develop autonomous systems for defense and commercial applications. Financials: Raised over $200 million in funding. | A16Z, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Shift | Shift is a venture-backed startup focused on developing self-driving vehicles with the goal of making transportation more efficient, affordable, and accessible. They have raised $100 million in funding from top investors including Kleiner Perkins Caufield & Byers, Sequoia Capital, and GV. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| ShipBob, Inc. | ShipBob: Simplifying shipping for e-commerce; $1B+ funding, $1B+ valuation. |  | N/A | 🔒 | N/A |
-| Shipwell | Shipwell is a cloud-based logistics platform that aims to simplify shipping operations for businesses by offering a single platform for tracking shipments, managing orders, and communicating with carriers. What makes Shipwell unique is its focus on catering to businesses of all sizes, making shipping easy and efficient for companies of any scale. In terms of financials, Shipwell has raised a total of $137 million in funding, with a valuation of $1.1 billion, through its Series C funding round. Notably, the company has secured investments from prestigious investors such as Kleiner Perkins Caufield & Byers, GV (formerly Google Ventures), and Bessemer Venture Partners. | Bessemer, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Shopmonkey | Shopmonkey is an AI-powered platform that helps retailers optimize their operations and increase sales. They provide retailers with tools and insights to run their businesses more efficiently, including inventory management, order fulfillment, customer service, and marketing automation. What makes Shopmonkey unique is their focus on helping retailers of all sizes compete with big online retailers. They have raised $100 million in funding from investors such as Sequoia Capital and Tiger Global Management. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| ShortStory | ShortStory is a unique venture-backed startup that utilizes AI to produce personalized children's books. Founded in 2020 by two Stanford University graduates, the company has raised $10 million in funding from prominent investors including Sequoia Capital and Kleiner Perkins. ShortStory's mission is to enhance the enjoyment and engagement of reading for children by crafting books that cater to their specific interests and capabilities. Their subscription-based books aim to foster literacy skills and stimulate imaginations in children. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Sierra Nevada Corporation | SNC accelerates sustainable tech adoption, with $200M+ raised. | Kleiner Perkins | N/A | 🔒 | N/A |
-| Sift | Sift Science: AI company combating fraud, abuse, and spam.  Series E round, valued at $2.2 billion, raised $400 million. | Accel | N/A | 🔒 | N/A |
-| Sightline Media Group | Sightline Media Group is a digital media company that creates and distributes premium video content for a global audience. They aim to make the world a more informed place by producing high-quality, engaging content that informs and inspires viewers. Their award-winning content has been featured on major platforms like Netflix, Hulu, and Amazon Prime Video.  In 2023, Sightline Media Group raised $100 million in Series B funding, led by Accel Partners, with participation from existing investors Sequoia Capital and Kleiner Perkins. This funding will be used to expand their production capabilities and reach new audiences worldwide.  What makes Sightline Media Group unique is their focus on creating premium video content that not only entertains but also educates and inspires viewers. Their presence on major streaming platforms showcases their ability to produce content that resonates with a wide audience. With their rapid growth and strong financial backing, Sightline Media Group is positioned to become a major player in the digital media landscape. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Sigma Computing | Sigma Computing: Revolutionizing data analysis; $200M raised. | Accel, Sequoia | N/A | 🔒 | N/A |
-| Signify Health | Signify Health: Affordable, accessible healthcare. Raised $1B+, valued at $4B. | A16Z, Accel | N/A | 🔒 | N/A |
-| Silicon Laboratories | Silicon Laboratories is a prominent company that offers silicon, software, and solutions for various markets including IoT, internet infrastructure, industrial, consumer, and automotive. With over 3,500 employees globally and headquartered in Austin, Texas, the company has been operating since 1982. In 2021, Silicon Labs achieved a revenue of $1.3 billion and had a valuation of $4.1 billion. Notably, the company has raised more than $1.5 billion in funding from notable investors like Kleiner Perkins Caufield & Byers, Intel Capital, and Qualcomm Ventures. | Kleiner Perkins | N/A | 🔒 | N/A |
-| Silicon Labs | Silicon Labs: IoT semiconductor solutions. Raised $1B+, valued at $4B. | Kleiner Perkins | N/A | 🔒 | N/A |
-| SimpliSafe | SimpliSafe: Making home security accessible. Raised $400M+, valued at $1B. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Simpplr | Simpplr is a prominent provider of AI-powered sales enablement solutions, aiming to enhance sales teams' effectiveness and help them close more deals. The company has secured over $100 million in funding from renowned investors like Sequoia Capital and Kleiner Perkins, highlighting its financial success and investor confidence. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| SingleStore | SingleStore: Cloud-native, high-performance database for scalable applications. Series C: $100M raised, $1.1B valuation. | Accel | N/A | 🔒 | N/A |
-| Singular Genomics | Singular Genomics: Advancing precision medicine.  $100M funding, $1B valuation. | Google Ventures | N/A | 🔒 | N/A |
-| Singularity6 | Singularity6 is a unique VR fitness startup founded in 2020 by Jeremy Bailenson and Grant Imahara. They create immersive, full-body workouts that are enjoyable and demanding. The company has raised $100 million in funding from investors like Andreessen Horowitz and GV, and is currently valued at $1 billion. | A16Z | N/A | 🔒 | N/A |
-| Skilljar | Skilljar is an online learning platform that focuses on helping businesses train their employees. They offer a wide range of courses on various topics and aim to make it easy for businesses to provide their employees with the necessary skills for success. Skilljar stands out for its user-friendly platform that can be accessed from anywhere.  In September 2021, Skilljar raised $40 million in Series B funding, led by Insight Partners, with participation from GV and Norwest Venture Partners. This brings their total funding to $65 million. | Google Ventures, Insight Partners | N/A | 🔒 | N/A |
-| Skillshare | Skillshare: Online learning platform for creative and technical skills. $100M Series F funding, $1B valuation, $225M total funding. |  | N/A | 🔒 | N/A |
-| Skupos | Skupos is a unique next-gen adtech platform that utilizes AI to provide consumers with personalized and engaging ads. The company has raised $100 million in funding from prominent investors including Google Ventures and Kleiner Perkins Caufield & Byers. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Skydio | Skydio: Making drones accessible; \$1.6 billion valuation, \$1 billion raised. | A16Z, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Skyryse | Skyryse is a San Francisco-based startup focused on developing an autonomous air taxi service with the goal of making air travel more accessible, affordable, and sustainable. The company has raised $230 million in funding from notable investors including Alphabet's GV, Toyota Ventures, and Lux Capital. |  | N/A | 🔒 | N/A |
-| Skysafe | Skysafe is a cloud-based platform founded in 2017 that utilizes artificial intelligence to safeguard businesses against cyber threats. What sets them apart is their ability to leverage AI technology to provide advanced protection. Skysafe has raised $100 million in funding from investors including Insight Partners, Forgepoint Capital, and GV, and is currently valued at $1 billion. | Google Ventures, Insight Partners | N/A | 🔒 | N/A |
-| Skyscanner | Skyscanner is a unique global travel search engine that assists users in finding the most favorable prices for flights, hotels, and car rentals. Founded in 2003 and based in Edinburgh, Scotland, Skyscanner has raised an impressive $1.3 billion in funding from investors including Baillie Gifford, Vitruvian Partners, and Accel Partners, resulting in a current valuation of $11 billion. | Accel | N/A | 🔒 | N/A |
-| Slack | Slack's mission: Simplify and enhance work collaboration. Financials: $1.4B funding, $16B valuation. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Slack | Slack's mission: Simplify and enhance workplace communication. Financials: $1.4B funding, $16B valuation. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Sleep Number | Sleep Number: Revolutionizing sleep technology. Raised $400M, valued at $1.1B. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Sleeper | Sleeper: Revolutionizing transportation with high-speed autonomous trains. Funding: Raised $100 million from top investors. | Kleiner Perkins, Sequoia, YC | N/A | 🔒 | N/A |
-| Slickdeals | Slickdeals is a social shopping platform founded in 2006 that helps users discover the best deals from various online retailers. What makes them unique is their ability to provide a community-driven platform where users can share and discuss deals. In terms of financials, Slickdeals has raised over $200 million in funding and was acquired by Groupon in 2021 for $1 billion. |  | N/A | 🔒 | N/A |
-| SmartAsset | SmartAsset helps people make informed financial decisions.  Raised $100M, valued at $1B. | Sequoia | N/A | 🔒 | N/A |
-| SmartRent | SmartRent is an AI-powered platform that offers a comprehensive solution for renters to discover, lease, and oversee their homes. What sets them apart is their ability to streamline the entire rental process through a single platform. They have secured $100 million in funding from prominent investors including Kleiner Perkins, Accel, and General Catalyst. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| SmarterTravel | SmarterTravel is a travel planning platform that offers personalized recommendations, insider tips, and up-to-date information to help travelers maximize their trips. What makes them unique is their focus on providing tailored suggestions to individual travelers. They have raised $50 million in funding from investors like Sequoia Capital and Accel Partners. | Accel, Sequoia | N/A | 🔒 | N/A |
-| Smartsheet | Smartsheet is an online platform that aims to enhance work efficiency and productivity for businesses by providing project management, document collaboration, and progress tracking capabilities. What makes them unique is their focus on making work more efficient for businesses of all sizes. They have raised over $400 million in funding from investors like Sequoia Capital, Kleiner Perkins Caufield & Byers, and Tiger Global Management, and currently have a valuation of over $2 billion. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Smith + Nephew | Smith & Nephew: Improving lives through innovative medical solutions. Raised over $1 billion, valued at $15 billion. | KKR | N/A | 🔒 | N/A |
-| Smith Micro Software | Smith Micro: Connecting homes, empowering people. Series E, $500M valuation, $100M funding. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Snackpass | Snackpass: Convenient and affordable healthy eating.  $100M raised from top investors. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Snackpass Part Time Openings | Snackpass: Reimagining healthy eating.  Series B funding, $100M valuation, $65M raised. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Snorkel AI | Snorkel AI: Making AI accessible; raised $100M at $1B valuation. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Snorkel AI | Snorkel AI is an AI company focused on providing tools for improved decision-making in businesses, with a unique goal of democratizing AI accessibility. They have raised over $100 million in funding from prominent investors including Google Ventures, Andreessen Horowitz, and Kleiner Perkins Caufield & Byers. | A16Z, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Snorkel.ai | Snorkel.ai is a prominent AI solutions provider for businesses, aiming to democratize AI by making it accessible to all, regardless of technical expertise. Their platform allows for the rapid and effortless development and deployment of AI models, eliminating the requirement for specialized skills or costly hardware. In terms of financials, Snorkel.ai has raised a total of $100 million in funding across a Series C round, with a valuation of $1.1 billion. Notably, they have secured investments from prestigious firms such as Google Ventures, Andreessen Horowitz, Kleiner Perkins Caufield & Byers, and Accel Partners. | A16Z, Accel, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Snyk | Snyk is a developer-first cybersecurity company that focuses on securing software supply chains by providing a platform for developers to identify, fix, and prevent vulnerabilities. What makes them unique is their emphasis on empowering developers in the security process. They have raised a total of $1.4 billion in funding, with their latest funding round being Series G, resulting in a valuation of $8.6 billion. Notable investors include Accel, Benchmark, CapitalG, IVP, and Tiger Global Management. | Accel, Tiger Global | N/A | 🔒 | N/A |
-| SoFi | SoFi is a personal finance company that aims to help people achieve financial independence by offering a range of financial products and services. They provide student loans, personal loans, mortgages, investment accounts, and credit cards. SoFi's unique aspect lies in their mission to empower individuals with the tools and resources needed to make informed financial decisions. In terms of financials, SoFi has raised a total of $1.2 billion through a Series E funding round, with a valuation of $4.4 billion. Notably, they have secured investments from prestigious firms such as SoftBank, Sequoia Capital, Benchmark Capital, and Tiger Global Management. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Solana | Solana is a unique high-performance blockchain that stands out for its ability to process over 50,000 transactions per second, making it highly scalable, secure, and decentralized. Founded in 2017 by Anatoly Yakovenko, Solana has raised an impressive $314 million in funding from notable investors including Andreessen Horowitz, Polychain Capital, and Coinbase Ventures. | A16Z, Coinbase | N/A | 🔒 | N/A |
-| SonderMind | SonderMind is a mental health technology company that aims to make mental healthcare as common and accessible as physical healthcare. They provide accessible, affordable, and personalized care to those in need. SonderMind has raised over $100 million in funding from investors such as GV, Kleiner Perkins, and Fidelity. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Sony | Sony Global's mission is to "fill the world with emotion." The company is in its Series C funding round with a valuation of $2.1 billion and has raised $1.2 billion in total funding. | Sequoia | N/A | 🔒 | N/A |
-| SoundHound | SoundHound is a voice-activated AI company that aims to create an always-on, voice-first world, allowing people to use their voice for various tasks. They have raised over $1 billion in funding from investors like Google Ventures, Kleiner Perkins Caufield & Byers, and Sequoia Capital. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| SoundHound Inc. | SoundHound's mission: effortless access to information and entertainment. Financials: $100M funding, $1B valuation. |  | N/A | 🔒 | N/A |
-| Sparrow | Sparrow is a venture-backed startup developing a unique real-time adaptive artificial intelligence. Currently in its Series A funding round, the company has raised $10 million from investors including Google Ventures and Kleiner Perkins Caufield & Byers. Sparrow aims to make AI accessible to all and solve global challenges across various industries. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Speechify | Speechify is an AI-powered text-to-speech app that stands out for its advanced technology, allowing it to read any text with human-like accuracy and expression. It helps people read, learn, and focus. The company has raised over $100 million in funding from notable investors such as General Catalyst, GV, and Insight Partners. | Google Ventures, Insight Partners | N/A | 🔒 | N/A |
-| SpinLaunch | SpinLaunch is a unique company that is developing a groundbreaking method to launch satellites into orbit using a rotating centrifuge to accelerate a launch vehicle to supersonic speeds. They have raised $110 million in funding from investors including Google Ventures, Kleiner Perkins, and Peter Thiel, and currently have a valuation of $850 million. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Splice | Splice's mission: Making synthetic biology accessible to all. Financials: $900M funding, $1B valuation. |  | N/A | 🔒 | N/A |
-| Spotify | Spotify: Music streaming service empowering artists, valued at $46.5 billion. | Tiger Global | N/A | 🔒 | N/A |
-| Spreetail | Spreetail: Revolutionizing shopping; prestigious investors; $1 billion raised. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Sprig | Sprig: Future of grocery delivery; mission-driven, convenient, affordable.  Funding: \$100M raised, valued at \$1B. | Accel, Sequoia, YC | N/A | 🔒 | N/A |
-| SprinterHealth | SprinterHealth is a digital health company that aims to make healthcare more affordable and accessible by providing telehealth services such as virtual doctor visits, prescription delivery, and lab testing. They have raised $100 million in funding from prominent investors like Khosla Ventures and General Catalyst. |  | N/A | 🔒 | N/A |
-| SpyCloud | SpyCloud's mission is to provide cloud-based cybersecurity solutions. The company has raised over $100 million and is valued at over $1 billion. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Squarespace | Squarespace is an all-in-one website builder that allows individuals and businesses to easily create and manage their online presence. They offer a user-friendly drag-and-drop editor, customizable templates, and powerful features, making it accessible for anyone to create a professional website without coding knowledge.   What makes Squarespace unique is its emphasis on providing a platform that enables users to create beautiful and professional websites, with a focus on empowering individuals and businesses to grow their online presence and business.  In terms of company financials, Squarespace has raised a total of $1.7 billion in funding, with a valuation of $10 billion. They have received investments from prestigious investors such as Kleiner Perkins Caufield & Byers, Tiger Global Management, and Fidelity Investments. | Kleiner Perkins, Tiger Global | N/A | 🔒 | N/A |
-| StackAdapt | StackAdapt's mission is to simplify and improve programmatic advertising. They have raised $160 million in a Series C funding round, with a valuation of $1.1 billion. | Accel, Google Ventures | N/A | 🔒 | N/A |
-| Stackline | Stackline is an AI-powered platform that aims to streamline the hiring process by connecting businesses with a larger pool of candidates. They have raised $100 million in funding from investors including Kleiner Perkins, Sequoia Capital, and Y Combinator. | Kleiner Perkins, Sequoia, YC | N/A | 🔒 | N/A |
-| Stairwell | Stairwell is a venture-backed startup founded in 2017 by former Google employees, offering a platform for companies to manage employee benefits. With \$100 million in funding from investors like Sequoia Capital and Kleiner Perkins, Stairwell aims to simplify the process of providing desired employee benefits and has emerged as a prominent player in the employee benefits industry. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Standard AI | Standard AI: Making AI accessible to businesses; $100M raised, $1B valuation. | Accel | N/A | 🔒 | N/A |
-| StarTree | StarTree is a deep learning startup founded in 2017 by Dr. Doron Tal and Dr. Yonatan Gur, offering artificial intelligence solutions to enhance decision-making for businesses. What makes StarTree unique is its utilization of deep learning technology to provide advanced AI capabilities. The company has successfully raised $100 million in funding from prominent investors such as Sequoia Capital and GV. | Sequoia | N/A | 🔒 | N/A |
-| Starburst | Starburst Data: Simplifying data analysis; $200M funding, $1B valuation. | Accel | N/A | 🔒 | N/A |
-| Starburst Data | Starburst Data is a leading provider of enterprise analytics and data warehousing solutions, with a mission to make data accessible and usable for everyone. What makes them unique is that they are built on an open source foundation, offering scalability, security, and ease of use. The company has raised over $200 million in funding from investors like Lightspeed Venture Partners, Accel, and Norwest Venture Partners, and in its most recent funding round, it was valued at $1.7 billion. | Accel | N/A | 🔒 | N/A |
-| State Street | State Street: Global financial services for institutional investors. Raised $7.5 billion at $55 billion valuation. | Blackrock | N/A | 🔒 | N/A |
-| Stellar Health | Stellar Health is an AI-powered digital health company that aims to make high-quality healthcare accessible and affordable for all. They have raised $225 million in funding from prominent investors such as Sequoia Capital, GV, and Kleiner Perkins. Their unique approach lies in leveraging artificial intelligence to improve healthcare delivery and reduce costs. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| StepStone Group | StepStone's mission is to improve the world of work.  StepStone raised $100 million in Series E funding. | Accel, Goldman Sachs | N/A | 🔒 | N/A |
-| Sticker Mule | Sticker Mule: Custom sticker maker. Raised $100M, valued at $500M, raised $150M. | Tiger Global | N/A | 🔒 | N/A |
-| StockX | StockX is a global leader in the secondary market for luxury sneakers, handbags, and apparel, providing a trusted platform for consumers to buy and sell authentic, high-demand products. Founded in 2016, StockX has gained popularity and trust among consumers. In 2021, the company raised $260 million in Series E funding, resulting in a valuation of $3.8 billion. Notable investors in StockX include A16Z, GV (formerly Google Ventures), Tiger Global Management, and DST Global. | A16Z, Google Ventures, Tiger Global | N/A | 🔒 | N/A |
-| Stoke Space | Stoke Space Technologies: Making space accessible and affordable.  Funding: \$100 million, valued at \$1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Stone Barns Center | Stone Barns Center advances sustainable agriculture through education and research. Raised $10 million in funding. |  | N/A | 🔒 | N/A |
-| Storable | Storable is a unique decentralized cloud storage platform that prioritizes secure and private data storage for users. Founded in 2017, the company has raised $10 million in funding from notable investors including Y Combinator and Sequoia Capital. Currently in beta, Storable is accessible to users in the United States. | Sequoia, YC | N/A | 🔒 | N/A |
-| Strava | Strava connects athletes, tracks workouts, and shares progress. Series F funding, $15 billion valuation, $200 million raised. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Stride | Stride: AI platform for efficient customer service.  Founded 2017, raised $100M+, valued at $1B. | Accel, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Stripe | Stripe's mission: "Make internet the world's economic infrastructure." Financials: $90B funding, $95B valuation, $28.5B raised. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Stripe | Stripe's mission is to enable online payment processing. They have raised $9.1 billion in funding and are valued at $95 billion. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Stryker | Stryker's mission: Improve patient outcomes through innovative solutions. Financials: Publicly traded, $100+ billion valuation, total amount raised NA. |  | N/A | 🔒 | N/A |
-| StubHub | StubHub: Making live events accessible; \$4.03B acquisition, \$1.1B raised. | Accel | N/A | 🔒 | N/A |
-| Stych | Stych is a venture-backed startup that is creating an innovative search engine powered by artificial intelligence to deliver personalized and relevant search results. The company has secured $10 million in funding from prominent investors including Sequoia Capital and Kleiner Perkins Caufield & Byers. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Stytch | Stytch: Simplifying online user verification.  Funding: $200M raised, $1B valuation. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Submittable | Submittable is a unique cloud-based platform that offers a centralized solution for writers, editors, and publishers to streamline their content workflow. Founded in 2012 by former journalists, the company has raised over $40 million in funding from prestigious investors like Sequoia Capital, First Round Capital, and Khosla Ventures. With a mission to enhance content creation, Submittable provides writers and publishers with efficient tools and resources. The company's financials include a Series C funding round, a valuation of $100 million, and a total amount raised of $40 million. | Sequoia | N/A | 🔒 | N/A |
-| Substack | Substack: Empowering writers, transforming media.  $60M Series B, $650M valuation. | A16Z, Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Sumo Logic | Sumo Logic: Cloud-based data analytics for businesses.  $1.3B funding, $10B valuation. | Accel, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Sunshine | Sunshine is a pre-Series A startup focused on developing a highly efficient and cost-effective solar panel. What makes them unique is their innovative approach to creating a new kind of solar panel that surpasses the efficiency and affordability of traditional ones. The company has received a significant investment of $10 million from Kleiner Perkins Caufield & Byers. | Kleiner Perkins | N/A | 🔒 | N/A |
-| Supabase | Supabase's mission is to simplify application development. They have raised $100 million in Series B funding, with a valuation of $1.4 billion. | Kleiner Perkins, Sequoia, YC | N/A | 🔒 | N/A |
-| Super.com | Super.com is revolutionizing remote work. (7 words) Series B funded, $100M+ valuation, $50M+ raised. (7 words) | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Superblocks | Superblocks is a unique NFT-based metaverse platform that enables users to create, own, and monetize virtual experiences. Founded in 2022, the company has raised $23 million in funding from notable investors including Andreessen Horowitz and Coinbase Ventures. | A16Z, Coinbase | N/A | 🔒 | N/A |
-| Superside | Superside: AI-powered creative platform for scalable marketing content.  Funding: $70 million raised from top investors. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Surescripts | Surescripts: Improving healthcare information exchange.  $1 billion raised, $5 billion valuation. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Susquehanna International Group | Susquehanna International Group (SIG) is a global quantitative trading firm that was founded in 1987. They have over 1,500 employees and offices in New York, Philadelphia, London, Hong Kong, and Tokyo. SIG is known for being a leader in the development and application of quantitative trading strategies, with a mission to provide superior risk-adjusted returns to its clients.  In 2019, SIG raised $1.5 billion in Series D funding, led by SoftBank Vision Fund, and with participation from existing investors Wellington Management, T. Rowe Price, and Viking Global Investors. This funding round resulted in a valuation of $7.5 billion for SIG. |  | N/A | 🔒 | N/A |
-| SwissBorg | Swissborg: Making cryptocurrency accessible; Series C, \$5 billion valuation, \$104 million raised. | Google Ventures | N/A | 🔒 | N/A |
-| Syllable | Syllable is a unique startup founded in 2017 by former Google engineers that utilizes artificial intelligence to improve writing skills. They have raised $10 million in funding from investors including Y Combinator and Sequoia Capital, and are currently in their Series A funding round. | Sequoia, YC | N/A | 🔒 | N/A |
-| Symbotic | Symbotic: Robotics leader transforming supply chain.  $1.3B funding, $7B valuation. |  | N/A | 🔒 | N/A |
-| Synack | Synack is a prominent offensive cybersecurity testing services provider that aims to enhance the security of digital infrastructure by identifying and resolving security vulnerabilities before they can be exploited. What sets Synack apart is its unique approach to cybersecurity testing, which combines the expertise of skilled human hackers with advanced technology. The company has successfully raised over $100M in funding from renowned investors including Accel, General Atlantic, and Kleiner Perkins. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Synapse Fi | Synapse Fi is a financial technology company focused on creating a platform for cryptocurrency trading. They have received $5 million in funding from investors including Initialized Capital and Coinbase Ventures. What makes them unique is their emphasis on providing a user-friendly platform for investors to trade cryptocurrencies. | Coinbase | N/A | 🔒 | N/A |
-| Synthego | Synthego's mission: Engineering biology for global problem-solving. Financials: $1 billion funding, $2 billion valuation. |  | N/A | 🔒 | N/A |
-| T Rowe Price | T. Rowe Price helps clients achieve financial goals through investing. Funding round: Series B, Valuation: $100 million, Total amount raised: $200 million. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| TP ICAP | TP ICAP connects and protects financial markets globally. Funding round: Series C, Valuation: $100M, Total amount raised: $200M. | Goldman Sachs | N/A | 🔒 | N/A |
-| TRM Labs | TRM Labs is a prominent provider of cryptocurrency risk management software, aiming to assist financial institutions and government agencies in safeguarding against cryptocurrency-related risks. Their software platform offers a comprehensive overview of cryptocurrency activity, enabling users to identify and mitigate potential risks. TRM Labs has secured $60 million in funding from notable investors such as Andreessen Horowitz, Accel, and Ribbit Capital. | A16Z, Accel | N/A | 🔒 | N/A |
-| TULA Skincare | TULA Skincare is a clean skincare brand that aims to help people achieve healthier, more radiant skin. They empower individuals to take control of their skin health and achieve their best skin ever. What makes them unique is their focus on clean ingredients and their mission to empower individuals. In terms of company financials, TULA Skincare has raised a total of $110 million in funding, with a valuation of $1.4 billion, through a Series C funding round. Prestige investors include Sephora, Unilever, GV (formerly Google Ventures), and Forerunner Ventures. | Google Ventures | N/A | 🔒 | N/A |
-| TVision Insights | TVision Insights is a data analytics company that offers insights into consumers' TV viewing habits to help businesses make better marketing and advertising decisions. They have raised a total of $100 million in funding, with a valuation of $700 million, and have prestigious investors such as Comcast Ventures, Google Ventures, Liberty Media, and NEA. | Google Ventures | N/A | 🔒 | N/A |
-| Taboola | Taboola is a global technology company that offers digital advertising solutions to help users discover relevant content. They have a vast reach, with over 550 million daily active users worldwide, reaching more than 50% of the global internet population. Taboola was recognized as one of the world's 100 most innovative companies by Fast Company in 2021. In terms of financials, Taboola has raised a total of $1.1 billion in funding through a Series F round, with a valuation of $2.6 billion. Notably, they have received investments from prestigious firms such as Comcast Ventures, RRE Ventures, and Spark Capital. |  | N/A | 🔒 | N/A |
-| Tackle.io | Tackle: AI platform managing risk.  $100M raised, acquired by Google. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Tailscale | Tailscale is a unique secure VPN solution that simplifies private and secure device connections. Founded in 2018, it has raised $40 million in funding from prominent investors like Sequoia Capital, Accel, and A16Z, and currently holds a valuation of $300 million. | A16Z, Accel, Sequoia | N/A | 🔒 | N/A |
-| Tailwind | Tailwind is an AI technology developer focused on using AI to solve real-world problems and make a positive impact. They have raised $100 million in funding from investors like Google Ventures and Kleiner Perkins Caufield & Byers, and are currently valued at $1 billion. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Take Two | Take Two is a venture-backed startup focused on developing a unique form of artificial intelligence that can comprehend and produce human language. Their goal is to enhance the accessibility and usability of AI for businesses and developers. The company has secured $20 million in funding from prominent venture capital firms such as Accel Partners and Y Combinator. | Accel, YC | N/A | 🔒 | N/A |
-| Talend | Talend's mission: Simplify data integration and preparation. Financials: $500M funding, $2B valuation. | Accel, Goldman Sachs | N/A | 🔒 | N/A |
-| Tally | Tally is a unique financial management platform that aims to simplify financial data analysis for businesses, enabling them to make informed decisions. The company has raised $100 million in funding from notable investors including Sequoia Capital, Ribbit Capital, and Y Combinator. | Sequoia, YC | N/A | 🔒 | N/A |
-| Talos | Talos is a unique cybersecurity company that offers a cloud-based platform for threat detection and response, aiming to protect organizations from cyber threats and make the world a safer place. They have raised $200 million in funding from notable investors like Google Ventures, Kleiner Perkins Caufield & Byers, and Sequoia Capital, with a valuation of $1.4 billion. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Tanium | Tanium: Securing computers worldwide.  $700M funding, $6B valuation. | Insight Partners, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Taskrabbit | TaskRabbit connects people with local professionals for on-demand services. Series F funding, $1.3 billion valuation, $225 million raised. | A16Z, Kleiner Perkins | N/A | 🔒 | N/A |
-| Tatari | Tatari is a conversational AI platform founded in 2017 that assists businesses in creating personalized customer experiences. It has raised $12.5 million in funding from notable investors including Y Combinator, Sequoia Capital, and Kleiner Perkins, and currently holds a valuation of $100 million. What sets Tatari apart is its unique approach to leveraging AI technology to enhance customer interactions and its impressive financial backing. | Kleiner Perkins, Sequoia, YC | N/A | 🔒 | N/A |
-| Teachers Pay Teachers | Teachers Pay Teachers is an online marketplace that allows teachers to sell and purchase original teaching resources. They aim to provide high-quality educational materials to all teachers, regardless of their budget. The company has raised a total of $225 million in funding, with a valuation of $3.2 billion in their Series E funding round. Notable investors include Kleiner Perkins Caufield & Byers, NEA, and Google Ventures. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| TeachersPayTeachers | TeachersPayTeachers: Online marketplace for educational resources. Raised $100M in Series D funding at $1B valuation. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Teads | Teads: Better advertising experience for all.  $500M funding, $1B valuation. | Goldman Sachs | N/A | 🔒 | N/A |
-| Tealium | Tealium empowers businesses to create personalized customer experiences. Series F, $1.8B valuation, $262M raised. | Salesforce Ventures | N/A | 🔒 | N/A |
-| Tealium | Tealium: Personalized digital experiences. Raised $150M, valued at $1.1B. | Insight Partners | N/A | 🔒 | N/A |
-| Teampay | TeamPay revolutionizes business payroll; $100M funding, $1B valuation. |  | N/A | 🔒 | N/A |
-| Tebra | Tebra: Revolutionizing chronic condition management.  Series B: $100M raised, $500M valuation. | Accel, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Tecovas | Tecovas is a direct-to-consumer western wear company that offers high-quality products, affordable prices, and a convenient shopping experience. Founded in 2016, they have quickly become an industry leader. In 2021, Tecovas raised $125 million in Series D funding at a valuation of $1 billion, led by Tiger Global Management and with participation from existing investors Forerunner Ventures, NEA, and General Catalyst. | Tiger Global | N/A | 🔒 | N/A |
-| Tecton | Tecton aims to simplify machine learning for data scientists.  Series B, \$1.9B valuation, \$270M raised. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Tegus | Tegus: AI-powered talent recruitment platform.  Founded 2019, $100M funding, $1B valuation. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Tekion | Tekion is an AI-powered automotive software company that offers a comprehensive platform for dealers and OEMs to oversee the complete lifecycle of a vehicle. Founded in 2015 and based in Irvine, California, Tekion recently secured $200 million in Series E funding at a valuation of $2.3 billion in January 2023. The funding round was led by SoftBank Vision Fund 2, with participation from notable existing investors such as General Atlantic, TPG Capital, and KKR. What sets Tekion apart is its utilization of AI technology to streamline and enhance the management of vehicle operations, making it a unique player in the automotive software industry. | KKR | N/A | 🔒 | N/A |
-| Teleport | Teleport connects businesses globally. Raised $200M, valued at $1B. | Bessemer, Google Ventures | N/A | 🔒 | N/A |
-| Tempo | Tempo's mission: Automating workflows for businesses. Financials: $100M funding, $1B valuation. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Tempus | Tempus is a digital pathology company that aims to improve accessibility, efficiency, and accuracy in pathology. They have raised over $1 billion in funding from investors including SoftBank Vision Fund 2, Fidelity Management & Research Company, and General Atlantic. What makes Tempus unique is their focus on utilizing technology to analyze patient tissue and their significant funding success. |  | N/A | 🔒 | N/A |
-| Tempus Ex | Tempus Ex is a digital health company that aims to empower individuals by providing them with the necessary information to manage their health. They have raised $150 million in funding from prominent investors such as Sequoia Capital, Tiger Global, and General Catalyst, and currently hold a valuation of $1 billion. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Tencent | Tencent's mission: Connect everything for a better future. Financials: Valued at $575 billion, raised $145 billion. | Sequoia | N/A | 🔒 | N/A |
-| Tencent | Tencent's mission: "connect everything" through technology. Financials: Raised $5.7 billion, valued at $500 billion. |  | N/A | 🔒 | N/A |
-| TextNow | TextNow's mission: Affordable and accessible communication for all. Financials: $200M raised, $1B valuation. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Textio | Textio is an AI-powered writing platform that aims to improve communication by making writing clear, concise, and persuasive. They have raised over $100 million in funding from investors including Sequoia Capital, Kleiner Perkins, and Google Ventures, and in their latest funding round, they were valued at $1 billion. What makes Textio unique is its use of artificial intelligence to enhance writing skills and help professionals communicate more effectively. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| The Allen Institute for AI | nan |  | N/A | 🔒 | N/A |
-| The Andersons | Company mission: Helping farmers grow and improve. Financials: $200 million funding round. |  | N/A | 🔒 | N/A |
-| The Athletic Media Company | The Athletic provides in-depth sports journalism for fans. Raised $200M, valued at $1B. | Sequoia | N/A | 🔒 | N/A |
-| The Block | The Block: Leading crypto media platform. Raised $200M in Series C. | Google Ventures | N/A | 🔒 | N/A |
-| The Boring Company | The Boring Company aims to revolutionize tunneling.  $675M raised, valued at $5.7B. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| The Farmers Dog | The Farmers Dog is a unique personalized pet food company that delivers fresh, human-grade food to dogs' doorsteps, making it easy for pet owners to feed their dogs a healthy diet with natural ingredients and no fillers. The company has raised over $200 million in funding from investors including SoftBank Vision Fund 2, General Catalyst, and GV (formerly Google Ventures). | Google Ventures | N/A | 🔒 | N/A |
-| The Federal Reserve | Flourish uses AI to find financial products.  Series B funding, $100 million raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| The Markup | The Markup is a unique digital media company founded in 2012 that focuses on providing in-depth journalism on business, technology, and culture. They have raised over $10 million in funding from notable investors such as Google Ventures, Kleiner Perkins Caufield & Byers, and First Round Capital. Their mission is to make sense of the world's most important stories by offering clear, concise, and unbiased reporting. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| The New York Times | The New York Times is a media company with a mission to deliver high-quality journalism that informs and engages the global community. They recently launched a new website with a modern design and improved user experience. The company has seen a 20% year-over-year increase in digital subscribers and has won prestigious awards such as the Pulitzer Prize and the Peabody Award. In terms of financials, The New York Times has raised a total of $240 million in funding, with a valuation of $1.1 billion in its Series C funding round, which included investments from The New York Times Company, GIC, and Prince Alwaleed bin Talal. |  | N/A | 🔒 | N/A |
-| The Nudge | The Nudge is a social impact startup that utilizes AI to encourage individuals to make healthier choices. They aim to improve global health by providing gentle nudges towards healthier behaviors. The company has successfully raised a total of $20M in funding, with a valuation of $100M, through a Series A funding round. Notably, The Nudge has attracted prestigious investors such as Y Combinator and Sequoia Capital. | Sequoia, YC | N/A | 🔒 | N/A |
-| The Pokémon Company International | Pokémon brings joy through innovative entertainment. Series C, \$9B valuation, \$350M raised. | Sequoia | N/A | 🔒 | N/A |
-| The Toro Company | Toro: Autonomous vehicle software solving transportation problem.  Funding: SoftBank, Andreessen Horowitz, Kleiner Perkins. | A16Z, Kleiner Perkins | N/A | 🔒 | N/A |
-| The Voleon Group | Voleon's mission: Make AI accessible to all businesses. Financials: $100M raised, $1B valuation. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| TheoremLP | TheoremLP is a venture capital firm founded by Andrew Ng in 2018 that focuses on investing in early-stage startups in the artificial intelligence and machine learning sector. They have raised $2.1 billion in funding from investors including Sequoia Capital, SoftBank Vision Fund, and Google Ventures. What makes them unique is their emphasis on supporting the development of AI companies that have the potential to make a significant impact on the world. | Google Ventures, Sequoia | N/A | 🔒 | N/A |
-| Thomson Reuters | Thomson Reuters provides information services to professionals globally. (10 words) Acquired by Blackstone for $27 billion, valued at $32 billion, raised $54 billion. (12 words) | Blackrock | N/A | 🔒 | N/A |
-| ThoughtSpot | Company mission: Make data accessible for better decisions. Financials: $200M raised, $1B valuation. | Accel | N/A | 🔒 | N/A |
-| Thrive | Thrive is a venture-backed startup that utilizes AI to assist individuals in reaching their health and fitness objectives. What sets them apart is their innovative technology and experienced team. They have raised $100 million in funding from prominent investors like Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Thrivent | Thrivent: Helping people thrive financially. Series E, $1.5B valuation, $300M raised. | Accel | N/A | 🔒 | N/A |
-| Thumbtack | Thumbtack is an online marketplace that connects customers with local professionals for various services, including home improvement and maintenance. What makes Thumbtack unique is its profitability since 2016 and rapid growth in recent years. In 2017, the company raised $150 million in Series E funding at a valuation of $1.5 billion. Thumbtack generated $700 million in revenue in 2020. |  | N/A | 🔒 | N/A |
-| Thunder SF | Thunder SF is a venture-backed startup founded in 2018 that utilizes artificial intelligence to assist businesses in forecasting and averting fraud. The company has raised $10 million in funding from prominent investors including Y Combinator and Kleiner Perkins, and currently holds a valuation of $40 million. What sets Thunder SF apart is its unique approach of employing AI technology to aid businesses in predicting and preventing fraudulent activities. | Kleiner Perkins, YC | N/A | 🔒 | N/A |
-| Tifin | Tifin is a venture-backed startup that utilizes AI to enhance individuals' financial decision-making. The company has secured $100 million in funding from prominent investors including Sequoia Capital and Kleiner Perkins, highlighting its strong financial backing. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Timescale | Timescale is a cloud-native time series database that allows businesses to analyze time-based data with sub-second latency and high scalability. Founded in 2013 and headquartered in San Francisco, CA, Timescale has raised a total of $162M in funding, including a recent Series C round of $100M in 2022, resulting in a valuation of $1.2B. Notable investors in Timescale include Accel, Benchmark, Coatue, ICONIQ Growth, Kleiner Perkins, and Redpoint Ventures. | Accel, ICONIQ, Kleiner Perkins | N/A | 🔒 | N/A |
-| Titan | Titan develops AI-powered supply chain management platform.  Raised $225M, valued at $1B. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Toast | Toast revolutionizes restaurant industry; Series E, $4.7B valuation, $415M raised. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Tomorrow Health | Tomorrow Health is a digital health company focused on improving healthcare accessibility and affordability through services like telehealth appointments, prescription delivery, and lab testing. They have raised $200 million in funding from investors like Sequoia Capital and Tiger Global Management. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Top Hat | Tohat: AI-powered sales tools for productivity.  Latest funding: $100M, valued at $1B. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Torc Robotics | Torc Robotics is an autonomous vehicle company specializing in self-driving technology for commercial trucks. Founded in 2007 and based in Blacksburg, Virginia, Torc has distinguished itself by raising over $1 billion in funding from notable investors including Daimler, Volvo, and Toyota. In 2021, the company was acquired by Volkswagen for $2.1 billion. |  | N/A | 🔒 | N/A |
-| Tower Research Capital | Tower Research Capital: Quantitative trading firm using advanced technology. Funding: $1 billion raised, $10 billion valuation. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Toyota Connected | Toyota Connected is an automotive technology company that specializes in developing connected vehicle services and solutions. What makes them unique is their focus on creating a safer, more connected, and personalized driving experience for Toyota drivers. They have raised over $1.6 billion in funding from investors including Toyota Motor Corporation, SoftBank Vision Fund, and Accenture. |  | N/A | 🔒 | N/A |
-| Traba | Traba is a unique venture-backed startup founded in 2019 that utilizes AI technology to connect job seekers with their ideal job opportunities. The company has raised $10 million in funding from prominent investors including Kleiner Perkins Caufield & Byers and Sequoia Capital, and currently holds a valuation of $50 million. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Tradeblock | Tradeblock is a prominent provider of digital asset trading infrastructure, aiming to enhance accessibility, efficiency, and security in the digital asset markets. They have raised $146 million in funding from notable investors like Sequoia Capital, Paradigm, and Ribbit Capital since their establishment in 2014, with their headquarters located in New York City. | Sequoia | N/A | 🔒 | N/A |
-| Trainual | Trainual: Sales enablement and operations software platform.  Funding: $100M raised, valued at $1B. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Trans Market Group | Trans Market Group is a global leader in digital asset trading, offering a range of products and services to make the world of digital assets accessible and secure for everyone. They are unique in their comprehensive offerings, including trading, staking, lending, and custody. The company is backed by prestigious investors such as Sequoia Capital, Paradigm, and Coinbase Ventures. Unfortunately, no information about funding rounds, valuation, or total amount raised is provided in the description. | Coinbase, Sequoia | N/A | 🔒 | N/A |
-| TransUnion | TransUnion helps businesses and consumers make informed decisions.  Market cap: $24.6 billion, raised $1.5 billion. | Goldman Sachs | N/A | 🔒 | N/A |
-| Transcarent | Transcarent is a healthcare technology company aiming to revolutionize healthcare access and payment. Their unique approach focuses on making healthcare affordable and accessible for all. They have raised $200 million in funding from prominent investors like Kleiner Perkins, Sequoia Capital, and GV, and currently hold a valuation of $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Transfix | Transfix is a digital freight network that uses machine learning to connect shippers with carriers and optimize routes and pricing. They were founded in 2013 and have raised a total of $380M in funding, including a recent Series E round of $150M in 2021. With a valuation of $1.1B, Transfix stands out as a unique player in the industry, attracting investments from notable firms such as Kleiner Perkins, GV, and Fidelity Investments. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Tray io | Tray.io is an API integration platform that helps businesses connect their software applications and automate workflows. They were founded in 2011 and are headquartered in San Francisco, California. Tray.io has raised over $100 million in funding from prestigious investors such as Kleiner Perkins Caufield & Byers, Sequoia Capital, and Norwest Venture Partners. They were named to the Forbes Cloud 100 list in 2021. Tray.io's mission is to make it easy for businesses to connect their software applications and automate workflows, believing that this connectivity can lead to increased efficiency, productivity, and innovation. In terms of financials, Tray.io recently completed a Series E funding round, resulting in a valuation of $1.1 billion and a total amount raised of $145 million. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Trellis Tech | Trellis Tech is a venture-backed startup focused on developing user-friendly artificial intelligence technology to make AI more accessible for businesses of all sizes. They have raised $100 million in funding from investors including Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Tremendous | Tremendous: Revolutionizing remote work.  Series A, $20 million raised. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Trendyol | Trendyol aims to revolutionize online shopping.  Raised $1.5 billion from prestigious investors. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Trexie Management, LLC | nan |  | N/A | 🔒 | N/A |
-| TrialSpark | TrialSpark is an AI-powered platform that aims to expedite the development of new drugs by streamlining the process of finding suitable patients for clinical trials. They have raised $100 million in funding from prominent investors such as GV, Polaris Partners, and Khosla Ventures. | Google Ventures | N/A | 🔒 | N/A |
-| Trifacta | Trifacta, founded in 2012, is a data preparation company that aims to make data useful for everyone. Their flagship product, Trifacta Wrangler, is a visual data preparation tool that simplifies the process of cleaning, transforming, and exploring data from various sources. What makes Trifacta unique is its user-friendly interface and advanced data wrangling capabilities, enabling users to easily manipulate and analyze data without the need for complex coding or technical expertise. Trifacta has raised over $100 million in funding from prominent investors including Sequoia Capital, Lightspeed Venture Partners, and Accel Partners. | Accel, Sequoia | N/A | 🔒 | N/A |
-| Trimble | Trimble helps customers connect physical and digital worlds.  Series G, $2.4 billion valuation, $1.3 billion raised. |  | N/A | 🔒 | N/A |
-| Trip Actions | TripActions is a corporate travel booking platform that aims to streamline and reduce costs for businesses' travel expenses. They differentiate themselves by focusing on making business travel more efficient, transparent, and affordable. In terms of financials, they have raised a total of $500 million in funding, with a valuation of $3.2 billion in their Series E funding round. Notably, they have secured investments from prestigious investors such as Andreessen Horowitz, CapitalG, TPG Capital, and Silver Lake Partners. | A16Z | N/A | 🔒 | N/A |
-| TripAdvisor | TripAdvisor is a leading travel website that offers users reviews, photos, and travel-related information to assist in trip planning. It has gained immense popularity since its establishment in 2000. The company has raised more than $400 million in funding from notable investors like Sequoia Capital, T. Rowe Price, and CapitalG. As of 2019, TripAdvisor's valuation stands at $4.6 billion. | Sequoia | N/A | 🔒 | N/A |
-| Tripalink | Tripalink: Disrupting travel industry; one-stop shop for travel needs. Funding: $100 million raised from top investors. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| TripleLift | TripleLift is an independent ad-tech platform that helps publishers optimize their ad revenue through innovative ad formats and solutions. They have raised over $225M in funding from investors like Goldman Sachs, Accel, and WPP, and currently have a valuation of $1.1B. What makes them unique is their focus on empowering publishers and their success in securing significant funding from reputable investors. | Accel, Goldman Sachs | N/A | 🔒 | N/A |
-| Tropic | Tropic: Democratizing imaging through computational technology.  Backed by Sequoia, Kleiner Perkins, GV. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Truera | Ailens uses AI to solve business problems.  Series A, $10M raised, $50M valuation. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Truework | Truework is a data integrity platform that specializes in verifying employee information, aiming to establish a more trustworthy workforce. They have raised $140 million in funding from investors including Accel, General Catalyst, and Kleiner Perkins, and currently hold a valuation of $1.6 billion. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Trulioo | Trulioo is a global identity verification provider that aims to make the world a safer place by verifying identities online. They have raised over $100 million in funding and are currently valued at over $1 billion. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Truv | Truv: Making healthcare affordable and accessible.  $110 million raised from GV, Kleiner Perkins, NEA. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Truveta | Truveta is a healthcare data company that aims to revolutionize healthcare through its extensive multi-source healthcare data platform. Founded in 2020, Truveta has secured over $2 billion in funding from prominent investors such as Google Ventures, Temasek, and Fidelity, resulting in a current valuation of $16 billion. | Google Ventures | N/A | 🔒 | N/A |
-| TuSimple | TuSimple: Developing autonomous trucking technology. Series D, $1B+ valuation, $1B+ raised. | Sequoia | N/A | 🔒 | N/A |
-| Turing AI | Turing AI is an artificial intelligence company founded in 2014 by John Smith. They use machine learning to help businesses solve real-world problems. What makes Turing AI unique is their mission to empower businesses with artificial intelligence to solve these problems. They have raised $120 million in funding from investors such as Google Ventures, Kleiner Perkins Caufield & Byers, and Sequoia Capital. Currently, Turing AI is valued at $1 billion. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Turo | Turo is an online car-sharing marketplace that allows individuals to rent out their personal vehicles, providing an easy and affordable transportation solution while promoting sustainability. The company has raised a total of $462 million in funding, with a valuation of $1.4 billion, and has attracted prestigious investors such as Andreessen Horowitz, Kleiner Perkins Caufield & Byers, GV (formerly Google Ventures), and Fidelity Investments. | A16Z, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Twilio | Twilio is a unique cloud communications platform that allows businesses to send and receive phone calls, texts, and other messages, with a mission to empower developers to create exceptional communication experiences. The company has raised more than $2 billion in funding from prominent investors like Sequoia Capital, Kleiner Perkins Caufield & Byers, and Accel Partners, and currently holds a valuation of over $10 billion. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Twilio | Twilio's mission is to "Make communications smarter." Twilio has raised over $2 billion and is valued at over $15 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Twilio - University Programs | Twilio's mission is to empower developers to build communications. Twilio has raised over $2.2 billion, valued at $6.6 billion. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Twitch | Twitch is a live streaming platform for gamers. Raised $900M, acquired for $970M. |  | N/A | 🔒 | N/A |
-| US Bank | US Bank's mission is to provide exceptional financial services.  In Q4 2021, US Bank reported $1.3 billion net income. |  | N/A | 🔒 | N/A |
-| US Venture | U.S. Venture Partners invests in early-stage technology companies. They have a mission to build great companies. Their financials include a Series C funding round, a $1 billion valuation, and $2.2 billion raised. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Udacity | Udacity: Online learning for all. Raised $1 billion, valued at $1.5 billion. | A16Z, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Udemy | Udemy is an online learning platform that provides a wide range of courses in various subjects, aiming to democratize education and make it accessible to all. They have raised over $500 million in funding from investors including Insight Partners, Tiger Global Management, and Learn Capital. | Insight Partners, Tiger Global | N/A | 🔒 | N/A |
-| Uline | Uline's mission: Provide best service and products at lowest prices. Uline's financials: Profitable and steady growth. |  | N/A | 🔒 | N/A |
-| UltiMaker | Ultimaker: Democratizing 3D printing globally. Raised $200M from top investors. | A16Z, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Ultimaker | Ultimaker is a global leader in 3D printing, aiming to make it accessible and affordable for everyone. Founded in 2011, they have raised over $200M in funding from investors like Sequoia Capital, Andreessen Horowitz, and Coatue Management. Their products are used by over 1 million customers in 120+ countries. | A16Z, Sequoia | N/A | 🔒 | N/A |
-| Ultra | Ultra: Next-gen gaming platform with low latency and high-quality graphics. Series B funding, $1 billion valuation, $200 million raised. | A16Z, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Ultra Mobile | Ultra Mobile is a wireless carrier that stands out for its low-cost, no-contract plans. Founded in 2009, the company has raised over $200 million in funding from notable investors like Google Ventures and Kleiner Perkins Caufield & Byers. In 2018, Ultra Mobile was acquired by T-Mobile for an undisclosed amount. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| UmojaBiopharma | Umoja Biopharma is a clinical-stage biopharmaceutical company focused on developing innovative immunotherapies for cancer and autoimmune diseases. Their lead product candidate, UB-612, is a unique bispecific antibody that targets both CD47 and CD16A. Currently, UB-612 is undergoing Phase 1 clinical trials for the treatment of multiple myeloma.   In terms of financials, Umoja Biopharma recently raised $100 million in a Series A funding round led by OrbiMed Advisors. Other notable participants in the funding round include Cowen Healthcare Investments, Fidelity Management & Research Company, Invus, Janus Henderson Investors, Perceptive Advisors, Redmile Group, and Wellington Management. |  | N/A | 🔒 | N/A |
-| UnderdogFantasy | Underdog Fantasy is a unique fantasy sports platform that enables users to compete against each other for cash prizes. Founded in 2016, the company has raised over $10 million in funding from notable investors including GV, General Catalyst, and Canaan Partners. With a valuation of over $100 million, Underdog Fantasy stands out as a cutting-edge platform in the fantasy sports industry. | Google Ventures | N/A | 🔒 | N/A |
-| UnifyID | UnifyID is a leading provider of digital identity verification solutions, aiming to make the internet safer by verifying online user identities. Their solutions are utilized by various businesses, including banks, financial institutions, and e-commerce companies. UnifyID has raised a total of $40 million in funding, with a valuation of $100 million, through a Series B funding round. Notably, they have attracted prestigious investors such as Accel, General Catalyst, and Kleiner Perkins Caufield & Byers. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| UnifyID (acquired by Prove) | Unify: Privacy-preserving data analytics platform. Series B-funded. | A16Z, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Uniswap Labs | Uniswap Labs: Decentralized exchange for financial opportunity.  $100M Series A funding, $1.1B valuation. | A16Z, Coinbase | N/A | 🔒 | N/A |
-| Unit21 | Unit21 is a venture-backed AI company that offers a comprehensive platform for creating and managing intelligent virtual assistants. They have raised over $100 million in funding from prominent investors like Sequoia Capital and Kleiner Perkins Caufield & Byers. What sets Unit21 apart is their mission to democratize AI and their advanced technology, which positions them well to achieve this objective. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Unite Us | Unite Us is a unique technology company that connects health and social care organizations to enhance people's outcomes. They have raised over $1 billion in funding from investors like Google Ventures, Kleiner Perkins, and GV, and currently hold a valuation of $1.4 billion. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| UnitedMasters | UnitedMasters: Music distribution for independent artists.  Series D funding: $160 million, $1 billion valuation, $466 million raised. |  | N/A | 🔒 | N/A |
-| Unqork | Unqork is a unique no-code platform that enables businesses to quickly build complex software applications without writing code. In 2021, they raised $250 million in a Series E funding round, valuing the company at $2.1 billion. Unqork's platform allows businesses to visually design and deploy applications, reducing time to market and development costs. They are already being used by major companies like HSBC, AIG, and Pfizer, and are poised to disrupt the software development industry. | Goldman Sachs, Insight Partners | N/A | 🔒 | N/A |
-| Unqork Internships | Internatunqork connects businesses with remote talent globally. (10 words) Series A, \$100M valuation, \$20M raised. (5 words) | Accel, YC | N/A | 🔒 | N/A |
-| Unum Insurance | Unum helps people financially, backed by prestigious investors. | Accel | N/A | 🔒 | N/A |
-| UpBound | UpBound is a venture-backed startup founded in 2017 by former Google employees. They have raised $100 million in funding from investors such as Sequoia Capital and Kleiner Perkins. UpBound uses AI to help businesses find and hire top talent, aiming to make the hiring process more efficient and effective. Their unique aspect is their use of AI technology in the recruitment process. In terms of financials, UpBound has completed a Series B funding round, has a valuation of $1 billion, and has raised a total of $100 million. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Upgrade | Upgrade is a company with a mission to improve accessibility and efficiency in the financial system. They provide a platform for commission-free trading of stocks, cryptocurrencies, and other financial instruments. Upgrade has raised $160 million in funding from notable investors like Kleiner Perkins, Sequoia Capital, and Founders Fund, and currently holds a valuation of $1.3 billion. What makes Upgrade unique is its focus on eliminating trading fees and its ability to offer a wide range of financial instruments for trading. | Founders Fund, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Upstart | Upstart: AI lending platform. Raised $500M, valued at $1B. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Urban Sports Club | Urban Sports Club is a German fitness and sports club operator that stands out for its extensive network of over 2,500 partner gyms and studios in 11 countries. They offer a unique subscription-based service that grants members access to a wide range of classes and activities, including yoga, pilates, spinning, and strength training. The company has successfully raised over $400 million in funding from prominent investors like Sequoia Capital and Accel Partners. | Accel, Sequoia | N/A | 🔒 | N/A |
-| UrbanFootprint | UrbanFootprint is a unique urban planning software company that utilizes AI and satellite imagery to assist cities in future planning. They have raised $70 million in funding from notable investors including NEA, Lux Capital, and Kleiner Perkins. | Kleiner Perkins | N/A | 🔒 | N/A |
-| UtopiaLabs | Utopia Labs, founded in 2016, is a deep tech company focused on developing synthetic biology tools to make the field accessible to all. Their technology has the potential to revolutionize various industries. The company has raised $20 million in funding from prominent investors such as Y Combinator, Founders Fund, and Khosla Ventures. | Founders Fund, YC | N/A | 🔒 | N/A |
-| VC Lab | DeciLe: AI platform automating enterprise data workflows.  Funding: $75M raised from top investors. | Insight Partners | N/A | 🔒 | N/A |
-| VOLKA GAMES | Volka's mission is accessible voice AI.  Series A-funded startup with leading investors. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| VTS | Vedanta Systems aims to democratize AI for businesses.  Series B, \$1.1 billion valuation, \$160 million raised. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| VTS | VTS is a venture-backed startup focused on creating a next-generation platform for trading financial derivatives, with a mission to democratize access to the derivatives markets and simplify trading of complex financial instruments. The company has raised $100 million in funding from prominent investors including Sequoia Capital and Tiger Global Management. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Vail Systems | Vail Systems is a prominent company that offers AI-powered software solutions for the financial services sector, aiming to automate processes and enhance customer experience. They have secured more than $100 million in funding from renowned investors like Goldman Sachs, Kleiner Perkins, and Sequoia Capital, and currently hold a valuation exceeding $1 billion. | Goldman Sachs, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Vail Systems Inc. | Vail Systems develops autonomous vehicles for safer roads.  Series B funding: $100 million, valuation: $1 billion, total raised: $150 million. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Valkyrie | Valkyrie is a digital asset trading platform that provides spot trading, derivatives trading, and staking services. Founded in 2017 and based in Singapore, Valkyrie stands out for its comprehensive range of offerings. In March 2022, the company secured $100 million in Series B funding, valuing it at $1.2 billion. The funding round was led by Temasek Holdings and featured participation from Tiger Global Management, FTX Ventures, and Coinbase Ventures. | Coinbase, Tiger Global | N/A | 🔒 | N/A |
-| Valkyrie Trading | Valkyrie: Making cryptocurrency trading accessible to institutions.  Founded in 2017, raised $100M+, valued at $1B+. | Sequoia | N/A | 🔒 | N/A |
-| Valo Health | Valo Health is a digital therapeutics company that aims to make digital therapeutics the standard of care for chronic disease. They develop and deliver software-based treatments to improve the lives of individuals with chronic conditions. What makes them unique is their focus on clinically validated solutions and their mission to revolutionize the way chronic diseases are treated. In terms of financials, Valo Health has raised a total of $162.5 million in funding, with a valuation of $1.1 billion. They have attracted prestigious investors such as Andreessen Horowitz, General Catalyst, and Oak HC/FT. | A16Z | N/A | 🔒 | N/A |
-| Valon | Valon is a unique decentralized platform that utilizes blockchain technology to empower users in creating and managing their own financial services. The company is currently in its seed funding round, with a valuation of $10 million, and has raised $2 million in funding from notable investors including Y Combinator and Coinbase Ventures. | Coinbase, YC | N/A | 🔒 | N/A |
-| Vanguard | Vanguard: Largest index fund provider, low-cost investments.  Series E, $29.5B valuation, $4.6B raised. | Blackrock | N/A | 🔒 | N/A |
-| Vanta | VANTA aims to revolutionize imaging technology.  $100M Series B, $1B valuation. | A16Z | N/A | 🔒 | N/A |
-| Vanta | Vanta accelerates materials discovery with AI. Series C, $1.2B valuation, $170M raised. | A16Z | N/A | 🔒 | N/A |
-| Vantage | Vantage: Developing AI for autonomous vehicles.  Raised $100 million in funding. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Varda Space | Varda Space is a venture-backed startup founded in 2020 by ex-SpaceX engineers. They have raised $140 million in funding to date and are developing a new class of rockets that are fully reusable, aiming to make access to space more affordable, reliable, and sustainable. Their unique approach of creating reusable rockets sets them apart from traditional space launch companies. They are targeting their first launch in 2025. |  | N/A | 🔒 | N/A |
-| Varsity Tutors | Varsity Tutors is an online tutoring marketplace that connects students with qualified tutors, aiming to help students succeed by providing them with access to the best educational resources and support. What makes them unique is their platform that allows students to easily find and connect with tutors. In terms of financials, Varsity Tutors has raised a total of $164.5 million in funding, with a valuation of $1.2 billion in their Series E funding round. They have attracted prestigious investors such as Kleiner Perkins Caufield & Byers, NEA, Owl Ventures, and Learn Capital. | Kleiner Perkins | N/A | 🔒 | N/A |
-| VaynerMedia | VaynerMedia is a full-service digital marketing agency that specializes in helping brands expand their businesses through social media, content marketing, and public relations. They have received significant recognition and support from prestigious investors such as General Atlantic, Accel Partners, and Insight Venture Partners. In terms of financials, VaynerMedia has raised a total of $145 million through a Series C funding round, resulting in a valuation of $2.5 billion. | Accel | N/A | 🔒 | N/A |
-| Veem | Veem is a global payments platform that simplifies international payments for businesses. Founded in 2015 and based in San Francisco, Veem has raised over $100 million in funding from investors including Sequoia Capital, Ribbit Capital, and Y Combinator. They were recognized as one of the "Best Places to Work" by the San Francisco Business Times in 2021. | Sequoia, YC | N/A | 🔒 | N/A |
-| Veeva Systems | Veeva Systems: Streamlining life sciences with cloud-based software.  $4B funding, $10B valuation. | Accel, Sequoia | N/A | 🔒 | N/A |
-| Veho | Veho's mission: Making self-driving vehicles accessible for all. Financials: $100 million raised from investors. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Venafi | Venafi is a cybersecurity company that specializes in software solutions for safeguarding digital identities and communications. Their unique approach focuses on securing the world's digital infrastructure against cyber threats. With over $200 million in funding from prominent investors like Goldman Sachs, Intel Capital, and Norwest Venture Partners, Venafi has recently achieved a valuation of $1 billion. | Goldman Sachs | N/A | 🔒 | N/A |
-| Vendr | Vendr helps businesses find software solutions.  $120M funding, $1.1B valuation. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Verafin | Verafin fights financial crime; raised $100 million. | Accel, Goldman Sachs | N/A | 🔒 | N/A |
-| VergeSense | VergeSense: AI spatial intelligence for better decision-making.  Funding: $100M raised, $1B valuation. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Verily | Verily Life Sciences, founded by Google in 2015, is a unique life sciences research and development company focused on utilizing health data to improve people's well-being. They have raised over $9.5 billion in funding from notable investors including Google Ventures, Johnson & Johnson, and Novartis. | Google Ventures | N/A | 🔒 | N/A |
-| Verisign | Verisign is a global leader in domain name registry services, internet security, and infrastructure, providing critical infrastructure services that support the internet's security, stability, and growth. They have over 20 years of experience and are trusted by leading brands and organizations to protect their online presence. Verisign completed the acquisition of Donuts, the world's largest domain name registrar, in February 2023, allowing them to offer a more comprehensive suite of domain name services. Verisign has raised a total of $785 million in funding, with a valuation of $10.7 billion, in a Series E funding round, with investments from prestigious investors such as TPG Capital, Silver Lake Partners, and Fidelity Investments. |  | N/A | 🔒 | N/A |
-| Veritas | Veritas: AI solutions for financial services. Raised $100M+, valued at $1B. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Veritone | Veritone is an AI company that utilizes its own operating system to transform audio, video, and text data into actionable insights. What sets them apart is their proprietary technology and operating system. They have raised more than $1 billion in funding from notable investors like Goldman Sachs, Intel Capital, and Liberty Media. In their latest funding round, Veritone achieved a valuation of $1.5 billion. | Goldman Sachs | N/A | 🔒 | N/A |
-| Verkada | Verkada: Smarter, simpler, affordable physical security.  $250M funding, $1.7B valuation. | Accel, Sequoia | N/A | 🔒 | N/A |
-| Vermeer | Vermeer designs and manufactures innovative equipment for various industries. Financials: Series E, $1.5B valuation, $420M raised. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| VeryGoodSecurity | VeryGoodSecurity is a leading provider of cloud-based email security solutions that aims to protect businesses from email fraud and phishing. What makes them unique is their proprietary AI platform that can identify and block sophisticated phishing attacks. The company has raised $100 million in funding from investors like Accel, Greylock Partners, and Sequoia Capital, and is currently valued at $1 billion. | Accel, Greylock, Sequoia | N/A | 🔒 | N/A |
-| Vestmark | Vestmark is a unique next-generation wealth management platform that offers financial advisors the necessary tools to enhance client service. The company has raised more than $100 million in funding from prominent investors like Sequoia Capital and Ribbit Capital, and it currently holds a valuation of over $1 billion. | Sequoia | N/A | 🔒 | N/A |
-| Vevo | Vevo connects fans with music through innovative video experiences. (10 words) Series F, \$3.5B valuation, \$1.2B raised. (5 words) |  | N/A | 🔒 | N/A |
-| Via | Via: Revolutionizing transportation with self-driving cars.  Funding: $200M raised, valued at $3.3B. |  | N/A | 🔒 | N/A |
-| Vial | Vial: Making gene editing accessible and affordable worldwide. Series A: Raised $100 million, $1 billion valuation. | Google Ventures, Sequoia | N/A | 🔒 | N/A |
-| Victorious | Victorious aims to revolutionize esports betting.  Venture-backed with top investors. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| VidMob | VidMob is a global creative technology company that specializes in helping brands create and manage video content at scale. They have raised over $300 million in funding from notable investors such as Goldman Sachs, Google Ventures, and WPP. What makes VidMob unique is their mission to make video advertising more effective and efficient for brands. They offer a platform with a suite of tools that enable brands to create, manage, and optimize video content across all channels. Their impressive client roster includes major brands like Coca-Cola, Nike, and Unilever. | Goldman Sachs, Google Ventures | N/A | 🔒 | N/A |
-| Vidyard | Vidyard: Video platform for businesses. Raised $100M, valued at $1B. | Accel, Bessemer, Sequoia | N/A | 🔒 | N/A |
-| Vimeo | Vimeo is a unique video-sharing platform that allows users to upload, view, and share videos, with a mission to simplify the process of creating, sharing, and discovering videos online. They have raised more than $200 million in funding from notable investors like Sequoia Capital, Benchmark Capital, and Greylock Partners, and currently hold a valuation of over $2 billion. | Greylock, Sequoia | N/A | 🔒 | N/A |
-| Virtru | Virtru's mission: Protecting sensitive data from hacking and leaks. Financials: $100M+ funding, $1B+ valuation. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Virtu | Virtu is a next-generation financial technology company that is revolutionizing trading for large financial institutions with its state-of-the-art platform. They have raised a total of $440 million in funding, with a valuation of $1.5 billion, and have prestigious investors such as Kleiner Perkins Caufield & Byers, Sequoia Capital, and Tiger Global Management. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Virtu Financial | Virtu: Making markets efficient, transparent, and accessible.  $1 billion raised, $3.5 billion valuation. | Goldman Sachs | N/A | 🔒 | N/A |
-| Visa | Visa's mission: Connect the world through payments. Financials: Raised $20 billion in funding. | Blackrock | N/A | 🔒 | N/A |
-| Visa | Visa connects the world through digital payments.  Founded in 1958, Visa has a $24 billion revenue. |  | N/A | 🔒 | N/A |
-| Visby Medical | Visby Medical is a private medical technology company focused on developing and commercializing innovative surgical instruments and devices. Their mission is to enhance patient outcomes and surgical efficiency by creating safer, more effective, and user-friendly products. The company has raised $200 million in funding from investors including OrbiMed, Insight Venture Partners, and NEA, and is currently in Series D funding. |  | N/A | 🔒 | N/A |
-| Vise | Vise AI makes AI accessible for businesses.  Series C, $1.5B valuation, $100M raised. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Visual Concepts | Leading game studio creating cutting-edge sports video games.  Acquired for $3.3 billion, valued at $4 billion, raised $700 million. |  | N/A | 🔒 | N/A |
-| VivoSense | VivoSense is a prominent healthcare solutions provider that utilizes AI technology to offer personalized and real-time care, aiming to enhance accessibility and affordability in healthcare. They have secured $100 million in funding from investors like Sequoia Capital and Kleiner Perkins, and currently hold a valuation of $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Viz ai | Viz.ai is a San Francisco-based healthcare startup that uses artificial intelligence to democratize medical imaging and make it more accessible and affordable. They have raised a total of $500 million in funding, with a valuation of $1.5 billion. Their platform analyzes medical images using AI to provide doctors with insights that improve patient outcomes and reduce costs. They are currently working with over 500 hospitals in the US and Canada. | Google Ventures, Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Vizient | Vizient: Improving healthcare outcomes, reducing costs.  Series E funding: $1.2 billion, $10 billion valuation. | Insight Partners | N/A | 🔒 | N/A |
-| Voldex | Voldex: AI-powered trading tools for cryptocurrency accessible to all. Funding: \$100M raised, valued at \$1B. | Sequoia | N/A | 🔒 | N/A |
-| Volley | VolleyThat aims to enhance athletes' skills.  Series A funding, $10 million raised. | Accel, Founders Fund, YC | N/A | 🔒 | N/A |
-| Volta Charging | Volta Charging is a prominent electric vehicle charging solutions provider in the US, aiming to promote the widespread use of electric vehicles by offering accessible and convenient charging options. What sets Volta apart is its deployment of over 2,000 charging stations at high-traffic locations like grocery stores, shopping malls, and parking garages. Notably, the company has received support from renowned investors including Kleiner Perkins Caufield & Byers, Shell Ventures, and Siemens. In 2021, Volta raised $750 million in Series E funding, resulting in a valuation of $2.4 billion. | Kleiner Perkins | N/A | 🔒 | N/A |
-| Voltron Data | Voltron Data is an early-stage startup focused on creating a unique data analytics platform to simplify data comprehension and utilization for businesses. The company has secured $10 million in funding from prominent investors including Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Volvo | Volvo Group: Sustainable transportation solutions. Funding: $50B+, Valuation: $250B. | Blackrock | N/A | 🔒 | N/A |
-| Vouch Insurance | Vouch Insurance is a digital insurance platform founded in 2017 that utilizes AI to offer personalized insurance policies at a reduced price. The company has raised $100 million in funding from investors including Sequoia Capital and Ribbit Capital, and currently holds a valuation of $500 million. | Sequoia | N/A | 🔒 | N/A |
-| Voxel ai | Voxel AI is a deep learning company that specializes in building large language models for natural language processing tasks. They have raised $210 million in funding from prestigious investors such as Google Ventures, Sequoia Capital, and Kleiner Perkins. Their models are utilized by major companies like Google, Amazon, and Microsoft for various NLP tasks including text classification, summarization, and translation. What makes Voxel AI unique is their ability to develop advanced language models that are widely adopted by industry leaders. In terms of financials, they have completed a Series C funding round, resulting in a valuation of $1.2 billion with a total amount raised of $210 million. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Voya Financial | Voya: Utilizing health data for healthier lives.  Series E: Raised $100 million, $1 billion valuation. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| WW | Palantir democratizes data; Series F, $20B valuation, $9B raised. |  | N/A | 🔒 | N/A |
-| Waabi Innovation Inc. | Waabi's mission: Automating tasks for a better world. Financials: Raised $80M, valued at $1.5B. |  | N/A | 🔒 | N/A |
-| Wabtec | Wabtec Corporation: Railroad technology leader. Acquired for $115 billion. |  | N/A | 🔒 | N/A |
-| Wagmo | Wagmo is a unique on-demand dog walking and pet sitting platform that connects pet owners with qualified walkers and sitters in their area, aiming to simplify pet care. They have raised over $100 million in funding from investors including SoftBank Vision Fund 2, General Catalyst, and Tiger Global Management. | Tiger Global | N/A | 🔒 | N/A |
-| Walmart | Walmart Labs: Enhancing Walmart's convenience through technology.  Funding: $100M, Valuation: $1B. | Tiger Global | N/A | 🔒 | N/A |
-| Walmart | Walmart's mission: Save people money, live better. Financials: Revenue of $555 billion. |  | N/A | 🔒 | N/A |
-| Walnut | Walnut is a unique decentralized stablecoin protocol that utilizes a unique basket of assets to ensure its stability. It stands out due to its team of experienced financial engineers and has secured a significant funding round of $13 million from prominent investors including Alameda Research, Polychain Capital, and Coinbase Ventures. | Coinbase | N/A | 🔒 | N/A |
-| Walrus | Walrus: Decentralized finance lending protocol. Funding: $25M, $100M valuation. | A16Z | N/A | 🔒 | N/A |
-| Waltz Health | Waltz Health is a digital health company that aims to improve the accessibility and affordability of mental healthcare. They provide a range of telehealth services, such as therapy, psychiatry, and medication management, through a user-friendly and cost-effective app. What sets Waltz Health apart is their focus on making mental healthcare more accessible and affordable through their digital platform. They have raised $25 million in funding from prominent investors like Y Combinator, GV, and Kleiner Perkins. | Google Ventures, Kleiner Perkins, YC | N/A | 🔒 | N/A |
-| Warby Parker | Warby Parker is a direct-to-consumer eyewear company that aims to provide affordable prescription glasses and sunglasses. They stand out by offering high-quality eyewear at a fraction of the cost compared to traditional retailers. In terms of financials, they have raised a total of $420 million in funding, with a valuation of $3.4 billion in their Series E funding round. Notable investors include T. Rowe Price, Tiger Global Management, and Accel Partners. | Accel, Tiger Global | N/A | 🔒 | N/A |
-| Warp | Warp is a secretive startup founded in 2022 by a team of renowned physicists and engineers, focused on developing the next generation of quantum computers. What makes them unique is their cutting-edge technology and expertise in the field. They have raised $100 million in funding from top investors including Google Ventures, Andreessen Horowitz, and Sequoia Capital. | A16Z, Google Ventures, Sequoia | N/A | 🔒 | N/A |
-| Washington Post | The Washington Post: In-depth reporting and investigative journalism.  Owned by Jeff Bezos, valued at $1.1 billion. |  | N/A | 🔒 | N/A |
-| Watershed | Watershed is a climate tech company based in San Francisco that assists companies in measuring, reducing, and offsetting their carbon footprints. Founded in 2017 by Alex Finkelstein and Ben Heifetz, Watershed has secured over $100 million in funding from notable investors including NEA, GV, and Kleiner Perkins. What sets Watershed apart is its unique approach to helping companies address their environmental impact through comprehensive carbon footprint management. | Kleiner Perkins | N/A | 🔒 | N/A |
-| Wave | Wavelength: Advancing wireless technology.  Funding: \$100 million raised. |  | N/A | 🔒 | N/A |
-| Wave | Wave: Streamlining financial operations for businesses.  2021: $200M Series F, $6B valuation. | Accel, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Wave (XR) | WaveXR's mission: Enable immersive experiences. Financials: Raised $200 million, valued at $1 billion. | A16Z, Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| Wave (XR) | Wave (XR) is an AI-powered virtual production platform founded in 2019 that allows creators to produce photorealistic 3D content without requiring costly hardware or software. What sets them apart is their ability to democratize the creation of high-quality virtual content by eliminating the need for expensive tools. In terms of financials, Wave (XR) has raised $15 million in funding from notable investors including SoftBank Vision Fund 2, Samsung Ventures, and GV. |  | N/A | 🔒 | N/A |
-| Wayfair | Wayfair's mission is to simplify home furnishings shopping.  Raised $6 billion, valued at $24 billion. | Blackrock | N/A | 🔒 | N/A |
-| Waymo | Waymo is an autonomous vehicle technology company founded in 2009 that focuses on improving road safety and accessibility in transportation. They have raised over $3.2 billion in funding from investors including Google Ventures, Toyota, and Andreessen Horowitz. In 2017, Waymo became the first company to receive a permit for testing self-driving cars on public roads in California. | A16Z, Google Ventures | N/A | 🔒 | N/A |
-| WePay | WePay: Simplifying online payments.  $100M Series E, $315M raised, $1B valuation. | Goldman Sachs | N/A | 🔒 | N/A |
-| WeRide | WeRide is a prominent autonomous driving company focused on enhancing road safety and accessibility. They have received support from notable investors such as Toyota, Honda, and Sequoia Capital, and have successfully raised over $1 billion in funding. | Sequoia | N/A | 🔒 | N/A |
-| WeRide.ai | WeRide: Making autonomous vehicles a reality. Raised over $1 billion. |  | N/A | 🔒 | N/A |
-| WeWork | WeWork is a global workspace company that offers shared office space, community, and services for entrepreneurs and freelancers. They have expanded to over 800 locations in 150 cities worldwide since their establishment in 2010. WeWork raised $470 million in Series G funding in January 2018, with a valuation of $47 billion, and their investors include SoftBank, Goldman Sachs, and JP Morgan Chase. What makes WeWork unique is their extensive global presence and their ability to provide a collaborative and supportive environment for individuals in various industries. | Goldman Sachs | N/A | 🔒 | N/A |
-| Wealthfront | Wealthfront: Robo-advisor for investing.  $700M funding, $5B valuation. | Founders Fund, Sequoia | N/A | 🔒 | N/A |
-| Wealthfront  | Wealthfront is a personal finance company that uses technology to simplify and make investing accessible for everyone. They offer robo-advisors, portfolios, and financial planning tools. What makes them unique is their use of technology to provide investment solutions. They have raised over $1 billion in funding from prestigious investors such as Sequoia Capital and Founders Fund. In their latest funding round, Series E, they achieved a valuation of $5 billion. | Founders Fund, Sequoia | N/A | 🔒 | N/A |
-| Wealthsimple | Wealthsimple: Making investing accessible and affordable.  $1.1B funding, $5B valuation. | Sequoia | N/A | 🔒 | N/A |
-| Wealthsimple  | Wealthsimple is a Canadian financial services company that aims to make investing accessible and affordable for everyone. They offer low-cost investment products and services, a user-friendly platform, and excellent customer service. The company has raised over $1.5 billion in funding from investors such as Sequoia Capital, GIC, and DST Global, and is currently valued at $4 billion. | Sequoia | N/A | 🔒 | N/A |
-| Webflow | Webflow's mission is accessible web design.  Webflow has raised $190 million. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Well | Well is a digital health company that uses AI to offer personalized nutrition recommendations for individuals to enhance their health and well-being. Their mission is to make personalized nutrition accessible to everyone. Well has raised a total of $150M in funding, with a valuation of $100M, and has garnered support from prestigious investors such as Sequoia Capital, Accel Partners, and Khosla Ventures. | Accel, Sequoia | N/A | 🔒 | N/A |
-| Wells Fargo | Wells Fargo's mission: Help customers succeed financially. Financials: $1.9 trillion in assets. |  | N/A | 🔒 | N/A |
-| Welocalize | Welocalize: Connecting cultures through language services.  \$100M funding, \$1B valuation. | Bain, Goldman Sachs | N/A | 🔒 | N/A |
-| Western Alliance Bank | Western Alliance Bank: Innovative financial solutions for businesses and individuals. $400M Series E funding, $1B raised. | Goldman Sachs | N/A | 🔒 | N/A |
-| Whatnot | Whatnot's mission: Democratize unique item buying and selling. Financials: $200M funding, $1B valuation. | A16Z, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Wheel | Wheel(None) is an innovative AI company focused on developing advanced self-driving vehicles. They have secured $100 million in funding from prominent investors like Google Ventures and Kleiner Perkins Caufield & Byers. The company is currently in stealth mode and plans to release its initial product in 2023. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| WhiteSpace | WhiteSpace is a deep tech startup focused on developing an innovative AI technology that can comprehend and produce human language. Their goal is to enhance the accessibility and usability of AI for all users.   What makes WhiteSpace unique is their emphasis on language understanding and generation, which sets them apart from other AI companies.   In terms of financials, WhiteSpace has successfully raised $100 million in funding from prominent investors like Sequoia Capital and Kleiner Perkins. The company's current valuation stands at $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Wholesail | Wholesail is an AI-powered wholesale marketplace that aims to improve efficiency and transparency by connecting buyers and sellers. They have raised $100 million in funding from investors including Sequoia Capital and Tiger Global Management, making them unique in their ability to leverage AI technology in the wholesale industry. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Wikimedia Foundation | The Wikimedia Foundation is a non-profit organization that operates Wikipedia, a widely used reference website. It was founded in 2001 with a mission to provide a free encyclopedia for the world. What makes them unique is their non-profit status and their commitment to providing free knowledge to everyone. In terms of financials, as of 2023, the foundation had a valuation of $1.2 billion and had raised $132 million in funding from notable investors like Google and Amazon. |  | N/A | 🔒 | N/A |
-| Wildlife Studios | Wildlife Studios creates mobile games. Series F funding, $3 billion valuation, $535 million raised. | Goldman Sachs | N/A | 🔒 | N/A |
-| Wildtype | Wildtype is a unique biotech company that utilizes cellular agriculture to produce meat, seafood, and dairy products, aiming to create a sustainable food system and offer consumers tasty, healthy, and ethical alternatives to animal-based products. The company has successfully raised a total of $115 million in funding, with a valuation of $250 million, and has attracted prestigious investors such as Bill Gates, Jeff Bezos, and Richard Branson. |  | N/A | 🔒 | N/A |
-| WillowTree | WillowTree: Creating innovative, user-friendly products.  $100M raised in funding. |  | N/A | 🔒 | N/A |
-| Wing | Wing is a unique drone delivery company that is revolutionizing the transportation of goods. With its cutting-edge technology and experienced team, Wing is poised to change the world for the better. The company has raised a total of $329 million in funding, with a valuation of $1.7 billion. Prestige investors such as Google Ventures, Fidelity Investments, DFJ, and Kleiner Perkins Caufield & Byers have supported Wing in its mission. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Wintermute | Wintermute Trading: Leading quantitative trading firm for cryptocurrencies.  Financials: $100M funding, $500M valuation. | Sequoia | N/A | 🔒 | N/A |
-| Wisetack | Wisetack is a fintech company founded in 2015 that offers a platform for businesses to handle their cash flow. They have raised over $100 million in funding from investors such as Kleiner Perkins Caufield & Byers, Sequoia Capital, and Accel Partners, and are currently valued at over $1 billion. What makes Wisetack unique is its fast growth and its ability to provide businesses with a comprehensive solution for managing their cash flow. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Wish | Wish: Making shopping fun and affordable for everyone. $1.5B funding, $11B valuation. | Sequoia | N/A | 🔒 | N/A |
-| Wisk | Wisk is a San Francisco-based company that is developing an autonomous air taxi with the goal of making air travel safer, more convenient, and more accessible. They have raised over $1 billion in funding from investors including Google Ventures, Toyota, and Fidelity. Wisk is currently in the final stages of development and plans to launch its air taxi service in 2024.   What makes Wisk unique is their focus on autonomous air travel, which sets them apart from traditional air taxi services. Additionally, their significant funding and partnerships with major companies like Google Ventures and Toyota demonstrate strong support and confidence in their vision. | Google Ventures | N/A | 🔒 | N/A |
-| Wisk Aero | Wisk's mission: Safer, convenient, affordable autonomous air travel. Financials: $1 billion raised from investors. | Google Ventures | N/A | 🔒 | N/A |
-| Wispr AI | Wispr AI is an AI company founded in 2017 by Dr. Yuqing Zhu and Dr. Xueqi Cheng, specializing in natural language processing to assist businesses in customer understanding. They have raised $10 million in funding from investors including Accel Partners and Y Combinator, and currently hold a valuation of $100 million. What sets them apart is their unique approach to utilizing AI for customer insights. | Accel, YC | N/A | 🔒 | N/A |
-| Wistia | Wistia is a unique video platform that not only helps businesses create, manage, and share video content, but also offers features like analytics and engagement tools to track video performance. In February 2023, Wistia raised $100 million in Series E funding at a valuation of $1.7 billion, bringing their total amount raised to $225 million. | Accel, Insight Partners | N/A | 🔒 | N/A |
-| Wizards of the Coast | Wizards of the Coast: Creating immersive experiences, bringing people together. Series E, $4 billion valuation, $550 million raised. | A16Z, Insight Partners | N/A | 🔒 | N/A |
-| Woflow | WoFlow revolutionizes workflow management. Series A funding, $10 million raised. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Wolfspeed | Cree's mission: Innovating for a sustainable future. Financials: Raised $1 billion in funding. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Wolverine | Wolverine is a unique deep learning startup that utilizes artificial intelligence to tackle practical challenges faced by businesses. Founded in 2017 by a team of seasoned AI researchers and engineers, Wolverine has secured an impressive \$100 million in funding from prominent venture capital firms such as Sequoia Capital and Kleiner Perkins, resulting in a current valuation of \$1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Wolverine Trading | Wolve: Conversational AI for enterprise sales. Series B, $1.1B valuation, $135M raised. | Accel, Sequoia | N/A | 🔒 | N/A |
-| Wonderschool | Wonderschool revolutionizes childhood education; Series E, $2.2B valuation, $285M raised. | Kleiner Perkins | N/A | 🔒 | N/A |
-| WorkReduce | WorkReduce automates HR processes for businesses.  Raised $100 million in funding. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Workato | Workato is an enterprise automation platform that aims to simplify work by connecting apps and automating workflows. They help businesses streamline processes and eliminate time-consuming tasks. Workato has raised a total of $750 million in funding, with a valuation of $5.7 billion. Notable investors include SoftBank Vision Fund, Tiger Global Management, and Insight Partners. | Insight Partners, Tiger Global | N/A | 🔒 | N/A |
-| Workday | Workday's mission is to improve business efficiency and effectiveness. The company has raised $5.3 billion in a Series F funding round, with a valuation of $33 billion. | Goldman Sachs | N/A | 🔒 | N/A |
-| Workera | Workera is an AI-powered talent marketplace that connects businesses with skilled remote workers. Founded in 2019 by Andrew Gazdecki and Josh Reeves, Workera has raised $100 million in funding from investors like Andreessen Horowitz and Kleiner Perkins. What sets Workera apart is its mission to make the global workforce accessible to businesses of all sizes. Their platform uses AI to match businesses with the best remote workers and provides tools for managing payroll, benefits, and compliance. With its rapid growth, Workera is poised for continued success in the future. | A16Z, Kleiner Perkins | N/A | 🔒 | N/A |
-| Workrise | Workrise is a construction management platform that utilizes AI to simplify the construction of commercial buildings. They have raised $200 million in funding from prominent investors like Kleiner Perkins, GV, and Sequoia Capital, and currently hold a valuation of $1.5 billion. What sets them apart is their innovative use of AI technology to streamline the construction process. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Workstream | Workstream is a prominent provider of AI solutions for businesses, aiming to enhance decision-making and drive growth. They stand out with their backing from renowned investors like Sequoia Capital, Kleiner Perkins, and GV. In their most recent funding round, they raised $100 million, valuing the company at $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Workvia | Workiva's mission: Accessible and reliable financial data.  Financials: $500M Series F funding, $6.5B valuation. | Blackrock | N/A | 🔒 | N/A |
-| Worlds | Ashby's mission: Making information accessible and useful by voice. Financials: Raised $100M, valued at $1B. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Woven | Woven is a digital health company that aims to empower individuals to lead healthier lives by providing technology-enabled solutions for managing health and well-being. They have recently completed a Series B funding round, resulting in a valuation of $1.1 billion, and have raised a total of $134.5 million. Notably, they have secured investments from prestigious investors such as GV (formerly Google Ventures), Kleiner Perkins Caufield & Byers, and Sequoia Capital. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Woven by Toyota | Woven Planet's mission is to power future mobility.  Raised over $800 million in funding. | Goldman Sachs | N/A | 🔒 | N/A |
-| Wrapbook | Wrapbook revolutionizes entertainment industry; $100+ million raised, $1 billion valuation. | A16Z, Kleiner Perkins | N/A | 🔒 | N/A |
-| Wyld | Wyld's mission is to revolutionize cannabis retail. They have raised over $100 million in funding. | Thrive, Tiger Global | N/A | 🔒 | N/A |
-| X by 2 | XBY2's mission: Affordable AR glasses for all. Financials: Raised $100 million in funding. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| XMTP | XMTP is a decentralized messaging protocol founded in 2022 by Jack Mallers and Alex Miller. It allows users to send messages privately and securely. In March 2023, the company raised $200 million in Series B funding at a valuation of $2 billion, with participation from Paradigm, Sequoia Capital, Ribbit Capital, and A16Z. | A16Z, Sequoia | N/A | 🔒 | N/A |
-| Xealth | Xealth is a healthcare technology company that offers a platform for patients and providers to communicate and exchange information, aiming to enhance accessibility and affordability in healthcare. What makes Xealth unique is its focus on connecting patients with the appropriate care at the right moment. The company has raised $100 million in funding from notable investors including Google Ventures and Kleiner Perkins Caufield & Byers. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Xometry | Xometry is a unique online marketplace that connects manufacturers with customers, aiming to simplify the process of obtaining parts quickly and affordably. They have raised over $150 million in funding from prominent investors like Google Ventures, Kleiner Perkins, and NEA, and are currently valued at over $1 billion. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| Xwing | Xwing: AI solutions for clean energy. $100M funding, $1B valuation. |  | N/A | 🔒 | N/A |
-| Yahoo | Yahoo's mission is to empower people to connect and achieve more. It has raised $1.6 billion in a Series F funding round, with a valuation of $5.7 billion. | Tiger Global | N/A | 🔒 | N/A |
-| Yellow.ai | Yellow AI: Making AI accessible; $100M funding, $1B valuation. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Yext | Yext helps businesses manage online presence. (7 words) Raised $500M, valued at $3B. (5 words) | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| You.com | **You** revolutionizes AI accessibility. Raised $500M at $2B valuation. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Yubico | Yubico: Hardware authentication for secure online accounts.  $100 million raised from investors. | Sequoia | N/A | 🔒 | N/A |
-| Yugabyte | Yugabyte is a cloud-native, distributed SQL database that aims to simplify data usage for businesses to drive innovation. They have raised a total of $415M in funding, with a valuation of $1.3B, through their Series D funding round led by prestigious investors including Sequoia Capital, Accel, and Lightspeed Venture Partners. | Accel, Sequoia | N/A | 🔒 | N/A |
-| YugabyteDB | Yugabyte's mission is to make distributed SQL databases ubiquitous. They have raised over $300 million in funding, with a valuation of $1.3 billion. | Accel | N/A | 🔒 | N/A |
-| Zanbato | Zanbato: Revolutionizing AI accessibility. Raised $1 billion in funding. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Zapier | Zapier connects apps for efficient automation.  Raised $500M, valued at $1B. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Zenefits | Zenefits is a unique cloud-based software company that offers HR, payroll, benefits, and compliance solutions specifically tailored for small businesses. Founded in 2013, the company has raised over $600 million in funding from investors such as Tiger Global Management, Wellington Management, and Fidelity Investments. In 2016, Zenefits was valued at over $4 billion. | Tiger Global | N/A | 🔒 | N/A |
-| Zip | Zip is a decentralized financial platform founded in 2018 that offers users the ability to trade cryptocurrencies, earn interest on their crypto holdings, and borrow against their crypto collateral. What makes Zip unique is its decentralized nature, allowing users to have more control over their financial activities. The company has raised $62 million in funding from investors including Sequoia Capital and Paradigm, and it is currently valued at $3.2 billion. | Sequoia | N/A | 🔒 | N/A |
-| ZipRecruiter | ZipRecruiter: Online job marketplace connecting job seekers and employers. Raised $1 billion, valued at $3.8 billion. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Zipline | FlyZipline aims to revolutionize travel.  $20M funding, $100M valuation. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Zoom | Zoom's mission is global video conferencing accessibility.  Zoom has raised $2.6 billion, valued at $100 billion. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| ZoomInfo | ZoomInfo is a B2B sales intelligence platform that offers data on companies and their employees, aiming to assist businesses in reaching their target customers. What makes them unique is their focus on providing comprehensive information for sales and marketing purposes. In terms of financials, ZoomInfo has raised a total of $490 million in funding, with a valuation of $7.1 billion. Notably, they have received investments from prestigious firms such as Sequoia Capital, Tiger Global Management, and Accel Partners in their Series F funding round. | Accel, Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| Zoox | Zoox: Autonomous vehicles for safer roads.  Series D: \$2.1B raised, \$24B valuation. |  | N/A | 🔒 | N/A |
-| Zora | Zora is a unique computer vision company that utilizes AI-powered tools to assist businesses in comprehending and organizing their data. Founded in 2019, Zora has secured $250 million in funding from prominent investors including Google Ventures, Kleiner Perkins, and Sequoia Capital. Their mission is to democratize data accessibility and usefulness for all. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| Zscaler | Zscaler is a global leader in cloud security, offering a comprehensive security platform for cloud applications. Their unique offering is the Zero Trust Exchange, which provides secure access to applications from any device and location. In terms of financials, Zscaler has raised a total of $1.4 billion in funding, with a valuation of $7.8 billion. They have attracted prestigious investors such as Goldman Sachs, Lightspeed Venture Partners, and Sequoia Capital. | Goldman Sachs, Sequoia | N/A | 🔒 | N/A |
-| Zynga | Zynga is a unique social game developer that has created popular games on Facebook, such as FarmVille and CityVille, with a mission to connect the world through fun and social games. The company has raised over $1 billion in funding from prestigious investors and is currently valued at over $10 billion. | Goldman Sachs, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| a16z | Andreessen Horowitz is a venture capital firm supporting early-stage tech companies. They have a Series G funding round, a \$28.5 billion valuation, and raised \$16.9 billion. | A16Z, Google Ventures, Kleiner Perkins, Tiger Global | N/A | 🔒 | N/A |
-| accesso | nan |  | N/A | 🔒 | N/A |
-| aifleet | nan |  | N/A | 🔒 | N/A |
-| amazon | Amazon's mission is customer-centric innovation. Series G funding, \$1.6 trillion valuation, \$35 billion raised. |  | N/A | 🔒 | N/A |
-| amika | nan |  | N/A | 🔒 | N/A |
-| betterworks | Betterworks is a unique provider of cloud-based performance management software that helps organizations achieve their goals by offering a platform for employees to track progress, set goals, and receive feedback. The company has raised over $100 million in funding from investors like Sequoia Capital and Kleiner Perkins Caufield & Byers, and is currently valued at over $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| brightwheel | Brightwheel's mission: Improve early childhood education accessibility and effectiveness. Financials: $200M raised, $1B valuation. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| brooksrunning.com | nan |  | N/A | 🔒 | N/A |
-| codeandtheory | Code and Theory is a digital product studio based in New York City that specializes in creating innovative and engaging experiences for brands. Founded in 2009, the company has a unique mission to "create products that make people's lives better." They have raised over $100 million in funding from investors including Accel Partners, General Atlantic, and Insight Venture Partners. | Accel | N/A | 🔒 | N/A |
-| collectivei | Collectivei is an innovative AI company founded in 2017 that aims to make AI accessible to everyone. With \$100 million in funding from prominent investors like Google Ventures, Kleiner Perkins Caufield & Byers, and Sequoia Capital, Collectivei's products are already being utilized by major global companies. The company's vision and financial backing position it to have a significant impact on the world. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| commercetools | nan |  | N/A | 🔒 | N/A |
-| cove.tool | nan |  | N/A | 🔒 | N/A |
-| credit suisse | TAS provides financial services to traders worldwide. Series C funding, \$1.5B valuation, \$400M raised. | Accel, Goldman Sachs, Sequoia | N/A | 🔒 | N/A |
-| dYdX | Dydx aims to democratize financial markets through cryptocurrency derivatives. Series C, $1.6B valuation, $137M raised. | A16Z, Coinbase | N/A | 🔒 | N/A |
-| data ai | Data AI is an AI company founded in 2017 that utilizes machine learning to assist businesses in making improved decisions. What sets them apart is their focus on using AI to address real-world issues and help businesses achieve their objectives. They have raised over $100 million in funding from prominent investors like Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| data.ai | nan |  | N/A | 🔒 | N/A |
-| doxo | nan |  | N/A | 🔒 | N/A |
-| ecobee | nan |  | N/A | 🔒 | N/A |
-| eko | nan |  | N/A | 🔒 | N/A |
-| fuboTV | fuboTV is a sports streaming platform that provides live and on-demand content from over 100 channels, including major sports leagues like NFL, NBA, MLB, and NHL. They aim to make sports more accessible and affordable for fans. The company has raised over $480 million in funding from investors like SoftBank Vision Fund, TPG Capital, and 21st Century Fox.   What makes fuboTV unique is its focus on sports content, offering a wide range of channels dedicated to various sports leagues. This specialization sets them apart from other streaming platforms that may offer a broader range of content. |  | N/A | 🔒 | N/A |
-| getbuilt | getbuilt is a construction technology company that aims to revolutionize the construction industry by making sustainable building easier, faster, and more affordable. They have raised $100 million in funding from prominent investors like Kleiner Perkins, Sequoia Capital, and NEA, and currently hold a valuation of $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| goop | Goop is a lifestyle brand founded by Gwyneth Paltrow in 2008, with a mission to empower people to live their best lives. They offer a diverse range of products and services in beauty, wellness, and lifestyle. Goop has raised over $100 million in funding and is valued at $250 million, with notable investors including Accel Partners, General Atlantic, and Kleiner Perkins Caufield & Byers. What makes Goop unique is its celebrity founder, Gwyneth Paltrow, and its focus on providing holistic and curated lifestyle solutions. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
-| heycar | Heycar is a unique used car marketplace that focuses on simplifying and bringing transparency to the process of buying and selling used cars. They have raised a total of $650 million in funding, with a valuation of $2.8 billion, and have prestigious investors such as General Atlantic, SoftBank Vision Fund 2, Mubadala Capital, and Tencent Holdings. |  | N/A | 🔒 | N/A |
-| iCapital Network | iCapital Network is a global private markets investment platform that aims to make alternative investments accessible to everyone. They provide access to alternative investments for institutions and individuals. The company, founded in 2013 and headquartered in New York City, closed a $250 million Series E funding round in February 2022, led by Insight Partners, valuing the company at $3.5 billion. In total, iCapital Network has raised $500 million and has prestigious investors such as Insight Partners, Blackstone, TPG, and KKR. | Insight Partners, KKR | N/A | 🔒 | N/A |
-| iRobot | iRobot's mission is to make the world cleaner.  Raised $750 million in Series G funding. | Google Ventures | N/A | 🔒 | N/A |
-| identifeye HEALTH | identifeye HEALTH is a digital health company that utilizes artificial intelligence to assist patients in managing their chronic conditions. Their unique approach empowers patients to take charge of their health and live healthier lives. The company has raised $20 million in funding from prominent investors such as Khosla Ventures, Polaris Partners, and General Catalyst, and is currently valued at $100 million. |  | N/A | 🔒 | N/A |
-| identifeye HEALTH Inc. | Tesseract revolutionizes computer interaction with human-like AI.  Series B funding, $1 billion valuation, $200 million raised. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| insitro | Insitro develops AI-driven drugs for diseases.  Series B funding, $100 million raised. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
-| lob | Lob is a unique Series B-funded startup that leverages AI to streamline the recruiting process for companies. They have raised $35M in funding from prominent investors including Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| mParticle | mParticle is a customer data platform that enables businesses to collect, manage, and activate customer data from various sources, with a focus on delivering personalized experiences. They have raised a total of $200 million in funding, including a Series D round, and have a valuation of $1.2 billion. Notably, they have secured investments from prestigious firms such as Accel, Battery Ventures, Insight Partners, and Kleiner Perkins Caufield & Byers. | Accel, Battery, Insight Partners, Kleiner Perkins | N/A | 🔒 | N/A |
-| mabl | mabl is a unique no-code AI test automation platform that enables businesses to accelerate software delivery and achieve continuous testing by creating accurate, comprehensive, and maintainable tests. They have raised a total of $171.5 million in funding, with a valuation of $1.5 billion, and have attracted prestigious investors such as Insight Partners, Accel, and Bessemer Venture Partners. | Bessemer, Insight Partners | N/A | 🔒 | N/A |
-| nan | nan |  | N/A | 🔒 | N/A |
-| nan | Stack Sports: Building end-to-end youth sports platform.  Latest funding: $200M, $1.3B valuation. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
-| nan | Tencent's mission: "connect everything" and "make digital world inclusive." Financials: Valued at $550 billion, raised $130 billion. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
-| nan | Rivian's mission: Sustainable transportation solutions.  Financials: $10B raised, $80B valuation. |  | N/A | 🔒 | N/A |
-| sFOX | sFOX is a cryptocurrency exchange based in Hong Kong that provides spot trading, margin trading, futures trading, and options trading. They were founded in 2014. In March 2022, sFOX raised $200 million in Series B funding at a valuation of $1 billion, with participation from Paradigm, Sequoia Capital, Ribbit Capital, and Initialized Capital. What makes sFOX unique is its comprehensive range of trading features and its significant funding round, which demonstrates investor confidence in the company. | Sequoia | N/A | 🔒 | N/A |
-| ‎ConnectWise | nan |  | N/A | 🔒 | N/A |
-| ‏‏‎ ‎ | WaveXR's mission: Make VR/AR accessible to everyone. Financials: $100 million raised, top investors. | A16Z, Kleiner Perkins | N/A | 🔒 | N/A |
+| Applied Intuition | N/A |  | [Software Engineer - New Grad](https://boards.greenhouse.io/appliedintuition/jobs/4296158005?gh_jid=4296158005) | ✅ | July 20, 2023 |
+| Vanguard | N/A |  | [Entry Level Application Engineer](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/Entry-Level---Application-Engineer---2023-START-DATE_150318) | ❌ | July 09, 2023 |
+| SeatGeek | N/A |  | [Junior Quantitative Analyst](https://seatgeek.com/jobs/5152752?gh_jid=5152752) | ❌ | July 09, 2023 |
+| Affirm | Affirm is a unique buy-now-pay-later company that allows consumers to split their purchases into four interest-free payments over six weeks. Founded in 2012 by Max Levchin, Peter Thiel, and Nathan Blecharczyk, Affirm has raised over $1.1 billion in funding from investors including Sequoia Capital, Khosla Ventures, and DST Global, and is currently valued at $3.5 billion. | Sequoia | [Software Engineer, New Grad](https://boards.greenhouse.io/affirm/jobs/5630940003) | ❌ | July 05, 2023 |
+| Rackspace | N/A |  | [Junior Data Scientist](https://jobs.lever.co/rackspace/e6641245-1156-4b4d-945f-fc70ea4b694a) | ✅ | July 04, 2023 |
+| Teledyne | N/A |  | [SharePoint Junior Nintex Developer](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/SharePoint-Junior-Nintex-Developer_REQ19696) | ✅ | July 02, 2023 |
+| Qualcomm | N/A |  | [GPU Compiler Performance Developer- Junior(San Diego/Santa Clara/Boxborough/Toronto)](https://qualcomm.wd5.myworkdayjobs.com/External/job/San-Diego-USA/GPU-Compiler-Performance-Developer--Junior-San-Diego-Santa-Clara-Boxborough-Toronto-_3040071) | ✅ | July 02, 2023 |
+| Qualcomm | N/A |  | [GPU Compiler Developer- Junior (San Diego/Santa Clara/Boxborough/Toronto)](https://qualcomm.wd5.myworkdayjobs.com/External/job/San-Diego-USA/GPU-Compiler-Developer--Junior--SD-SCL-BOX-TOR-_3040062) | ✅ | July 02, 2023 |
+| Pimco | N/A |  | [Portfolio Manager – Junior Systematic Quantitative Researcher](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Portfolio-Manager---Junior-Systematic-Quantitative-Researcher_R100959) | ❌ | July 02, 2023 |
+| Harris | N/A |  | [Junior Mobile Software Developer](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---Ontario/Junior-Mobile-Software-Developer_R0020435-3) | ❌ | July 02, 2023 |
+| Ercot | N/A |  | [Engineer Development Program - Entry Level Power Engineer](https://ercot.wd1.myworkdayjobs.com/en-US/ercot_careers/job/Austin-TX/Engineer-Development-Program---Entry-Level-Power-Engineer_R1047) | ✅ | July 02, 2023 |
+| Applied Intuition | N/A |  | [Software Engineer - New Grad](https://boards.greenhouse.io/appliedintuition/jobs/4045212005?gh_jid=4045212005) | ❌ | June 22, 2023 |
+| Applied Intuition | N/A |  | [Junior Software Engineer](https://boards.greenhouse.io/appliedintuition/jobs/4204732005?gh_jid=4204732005) | ✅ | June 22, 2023 |
+| Applied Intuition | N/A |  | [Product Application Engineer - New Grad](https://boards.greenhouse.io/appliedintuition/jobs/4045211005?gh_jid=4045211005) | ✅ | June 22, 2023 |
+| Affirm | Affirm is a unique buy-now-pay-later company that allows consumers to split their purchases into four interest-free payments over six weeks. Founded in 2012 by Max Levchin, Peter Thiel, and Nathan Blecharczyk, Affirm has raised over $1.1 billion in funding from investors including Sequoia Capital, Khosla Ventures, and DST Global, and is currently valued at $3.5 billion. | Sequoia | [Software Engineer, New Grad](https://boards.greenhouse.io/affirm/jobs/5630963003) | ❌ | June 22, 2023 |
+| webfx.com | N/A |  | [Entry Level Software Engineer](https://jobs.lever.co/webfx/7c15f9e7-6ca5-4188-887e-3b147485c58f) | ✅ | June 21, 2023 |
+| Commonwealth Fusion Systems | N/A |  | [Instrumentation and Control Engineer – Entry Level](https://jobs.lever.co/cfsenergy/bdc3cbaf-7574-411f-8635-b0ea268e7dfc) | ❌ | June 21, 2023 |
+| Binance | N/A |  | [Binance Accelerator Program - Junior Data Analyst](https://jobs.lever.co/binance/3e2fc921-a871-4cbb-9cd0-8000412053be) | ❌ | June 21, 2023 |
+| Agot | Agot is a prominent player in the insurance industry, offering innovative artificial intelligence-powered solutions that aim to make insurance more accessible and affordable. Their unique approach involves leveraging data and analytics to provide personalized and predictive coverage. Agot has successfully raised $100 million in funding from renowned investors such as Sequoia Capital, Tiger Global, and Kleiner Perkins, resulting in a current valuation of $1 billion. | Kleiner Perkins, Tiger Global, Sequoia | [Junior Computer Vision Engineer](https://jobs.lever.co/agotai/cf6c3e9d-d5a6-467b-b04f-695af995d46e) | ✅ | June 21, 2023 |
+| Unity Technologies | N/A |  | [Junior Test Engineer](https://careers.unity.com/position?id=1742856?gh_jid=1742856) | ✅ | June 21, 2023 |
+| Squarepoint Capital | N/A |  | [Junior Quant Researcher - Data Science](https://www.squarepoint-capital.com?gh_jid=4481896) | ✅ | June 21, 2023 |
+| Squarepoint Capital | N/A |  | [Junior Quant Researcher](https://www.squarepoint-capital.com?gh_jid=239376) | ✅ | June 21, 2023 |
+| SpaceX | N/A |  | [Security Engineer, New Graduate](https://boards.greenhouse.io/spacex/jobs/6793678002?gh_jid=6793678002) | ✅ | June 21, 2023 |
+| SpaceX | N/A |  | [Security Engineer, New Graduate](https://boards.greenhouse.io/spacex/jobs/6793685002?gh_jid=6793685002) | ✅ | June 21, 2023 |
+| SpaceX | N/A |  | [Security Engineer, New Graduate](https://boards.greenhouse.io/spacex/jobs/6793684002?gh_jid=6793684002) | ✅ | June 21, 2023 |
+| Old Mission | N/A |  | [College Graduates - Full-Time - Junior Software Engineer (2024)](https://www.oldmissioncapital.com/careers/?gh_jid=5643831003) | ✅ | June 21, 2023 |
+| Old Mission | N/A |  | [Junior Quantitative Trader (Asian Market Hours)](https://www.oldmissioncapital.com/careers/?gh_jid=4454224003) | ✅ | June 21, 2023 |
+| 1Password | N/A | N/A | N/A | 🔒 | N/A |
+| 23andMe | N/A | N/A | N/A | 🔒 | N/A |
+| 2K | N/A | N/A | N/A | 🔒 | N/A |
+| 360Learning | N/A | N/A | N/A | 🔒 | N/A |
+| 3M | N/A | N/A | N/A | 🔒 | N/A |
+| 84.51° | N/A | N/A | N/A | 🔒 | N/A |
+| 84.51° University Programs / Early Career Paths | N/A | N/A | N/A | 🔒 | N/A |
+| A Thinking Ape | N/A | N/A | N/A | 🔒 | N/A |
+| A10 | N/A | N/A | N/A | 🔒 | N/A |
+| ABL Schools | N/A | N/A | N/A | 🔒 | N/A |
+| ABL Space Systems | N/A | N/A | N/A | 🔒 | N/A |
+| AIG | N/A | N/A | N/A | 🔒 | N/A |
+| AIP Connect | N/A | N/A | N/A | 🔒 | N/A |
+| AKASA | N/A | N/A | N/A | 🔒 | N/A |
+| AMAROK | N/A | N/A | N/A | 🔒 | N/A |
+| AMP Robotics | N/A | N/A | N/A | 🔒 | N/A |
+| AMP Robotics | N/A | N/A | N/A | 🔒 | N/A |
+| AMT Engineering | AMT Engineering is a prominent engineering services provider for the aerospace and defense sectors, specializing in developing inventive solutions to meet customer requirements efficiently. The company has secured $100 million in funding from investors like Kleiner Perkins Caufield & Byers and Sequoia Capital, and currently holds a valuation of $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
+| AON3D | N/A | N/A | N/A | 🔒 | N/A |
+| APOLLO Insurance | N/A | N/A | N/A | 🔒 | N/A |
+| AQR | N/A | N/A | N/A | 🔒 | N/A |
+| ASAPP | N/A | N/A | N/A | 🔒 | N/A |
+| AUDIENCEX | N/A | N/A | N/A | 🔒 | N/A |
+| Aalto | N/A | N/A | N/A | 🔒 | N/A |
+| Aave | Aave is an open-source decentralized finance protocol on Ethereum that enables users to lend and borrow cryptocurrency assets with variable interest rates. What makes them unique is their large liquidity pool of over $11 billion and their impressive loan processing volume of over $100 billion. In January 2023, Aave raised $450 million in Series A funding at a valuation of $4.5 billion, with participation from Paradigm, Andreessen Horowitz, Coinbase Ventures, and Polychain Capital. | A16Z, Coinbase | N/A | 🔒 | N/A |
+| Abarca Health | Abarca Health is a unique technology-enabled, value-based health care company that focuses on delivering comprehensive, integrated care to complex, high-need populations. They aim to improve the health and well-being of the communities they serve by providing high-quality, affordable care. Abarca Health has raised over $1 billion in funding from notable investors such as Blue Cross Blue Shield Venture Partners, GV (formerly Google Ventures), and Oak HC/FT. | Google Ventures | N/A | 🔒 | N/A |
+| Abata Therapeutics | Abata Therapeutics is a clinical-stage biopharmaceutical company focused on developing innovative therapies for severe inflammatory diseases. Their lead product candidate, ATA188, is a unique oral small molecule that targets the NLRP3 inflammasome, a key regulator of inflammation. ATA188 is currently in Phase 2 clinical trials for the treatment of active Crohn's disease.   In terms of financials, Abata Therapeutics recently raised $100 million in a Series C funding round led by OrbiMed Advisors in March 2023. This brings their total funding raised to $225 million. Notable investors in the company include OrbiMed Advisors, RA Capital Management, and Fidelity Management & Research Company. |  | N/A | 🔒 | N/A |
+| AbelsonTaylor | AbelsonTaylor is a venture capital firm founded in 2012 that focuses on investing in early-stage companies. They have raised over $1 billion in capital and have a mission to help entrepreneurs build great companies. What makes them unique is their extensive portfolio of over 100 investments, including well-known companies like Airbnb, Dropbox, and Spotify. Unfortunately, the description does not provide specific information about funding rounds, valuation, or the total amount raised by AbelsonTaylor. |  | N/A | 🔒 | N/A |
+| Abl | Abl is a stealth-mode startup focused on developing the next generation of artificial intelligence. Their unique selling point is their mission to create AI that is safe, ethical, and beneficial to humanity. The company has raised $100 million in funding from prominent venture capital firms such as Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
+| Abnormal Security | Abnormal Security is a cybersecurity company that utilizes artificial intelligence to safeguard businesses against email threats, aiming to create a safer world by preventing email-based attacks. The company has raised a total of $137 million in funding, with its latest funding round being a Series C round that raised $100 million, resulting in a valuation of $1.3 billion. | Greylock, Sequoia | N/A | 🔒 | N/A |
+| Abridge | Abridge is an AI-powered platform founded in 2021 by Stanford University graduates Ben Hutchinson and Michael Tung. It helps users create and share shorter, more engaging versions of long-form content. What makes Abridge unique is its use of artificial intelligence to automatically condense and summarize content, making it easier for users to consume and share. The company has raised $10 million in funding from investors including Y Combinator and Sequoia Capital. | Sequoia, YC | N/A | 🔒 | N/A |
+| Absci | Absci is a unique synthetic biology company that utilizes machine learning to create novel proteins, aiming to enhance the accessibility and efficiency of synthetic biology for the development of medicines and materials. The company has raised $120 million in funding from notable investors including Fidelity, Perceptive Ventures, and GV (formerly Google Ventures). | Google Ventures | N/A | 🔒 | N/A |
+| Academy Sports + Outdoors | Academy Sports + Outdoors is a prominent sporting goods retailer that provides a diverse range of products for all family members, encompassing hunting, fishing, camping, and outdoor recreation gear. They have a mission to cater to the needs of outdoor enthusiasts.   In terms of financials, Academy Sports + Outdoors has completed a Series D funding round, resulting in a valuation of $3.5 billion. They have raised a total of $1.2 billion, with notable investors such as T. Rowe Price, KKR, and Goldman Sachs. | Goldman Sachs, KKR | N/A | 🔒 | N/A |
+| Acadia Pharmaceuticals Inc. | Acadia Pharmaceuticals is a clinical-stage biopharmaceutical company that focuses on developing innovative medicines for central nervous system disorders. Their lead product candidate, pimavanserin, is currently in Phase 3 clinical development for the treatment of Parkinson's disease psychosis. They also have a portfolio of other CNS product candidates, including acamprosate for alcohol use disorder and an undisclosed compound for Alzheimer's disease.   What makes Acadia Pharmaceuticals unique is their dedication to finding treatments for CNS disorders, which are often complex and challenging to address. They have a strong focus on research and development, with a diverse pipeline of potential therapies.   In terms of financials, Acadia Pharmaceuticals completed a $150 million Series D financing round in February 2017, led by RA Capital Management. In total, the company has raised $360 million in funding to date. They are headquartered in San Diego, California. |  | N/A | 🔒 | N/A |
+| Accela | Accela is a cloud-based software platform that streamlines permitting processes for governments, making it easier for businesses to obtain permits while reducing time and cost for governments. They have raised over $200 million in funding, with a valuation of over $1 billion. In 2023, they were acquired by Roper Technologies for $1.3 billion. | Goldman Sachs, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
+| Accenture | Accenture is a global management consulting firm that helps clients transform their businesses, with a mission to create a sustainable future and build a more inclusive society. They have been ranked as one of the world's most innovative companies and recognized for their commitment to diversity and inclusion. Accenture has raised over $10 billion in funding and is backed by leading investors including BlackRock, Temasek, and Warburg Pincus. | Blackrock | N/A | 🔒 | N/A |
+| Access Softek | Access Softek is an innovative AI company that aims to make AI accessible and user-friendly. They have raised $100 million in funding from prominent investors like Sequoia Capital and Kleiner Perkins Caufield & Byers, and currently have a valuation of $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
+| Accesso | N/A | N/A | N/A | 🔒 | N/A |
+| Accolade | Accolade is a unique digital health company that utilizes AI to assist individuals in locating suitable healthcare providers and treatments. They have raised $100 million in funding from investors like Kaiser Permanente Ventures and Oak HC/FT, and currently hold a valuation of $1 billion. |  | N/A | 🔒 | N/A |
+| Accolade | N/A | N/A | N/A | 🔒 | N/A |
+| AccuWeather | N/A | N/A | N/A | 🔒 | N/A |
+| AccuWeather Careers | N/A | N/A | N/A | 🔒 | N/A |
+| Acelerate | Acelerate is a venture-backed startup focused on developing a new type of real-time adaptive artificial intelligence. Their mission is to make AI more accessible for businesses of all sizes. Acelerate has raised $100 million in funding from top venture capital firms, including Sequoia Capital and Kleiner Perkins, and is currently valued at $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
+| Aclima | Aclima is a unique climate intelligence company that offers hyperlocal air quality data to businesses and governments, aiming to make air quality data accessible and actionable. Founded in 2014 by Matt Peterson and Davida Herzberg, the company has raised $100 million in funding from investors including NEA, Kleiner Perkins, and Salesforce Ventures. | Kleiner Perkins, Salesforce Ventures | N/A | 🔒 | N/A |
+| Acorns | Acorns is a unique investment platform that aims to make investing accessible to everyone, particularly millennials. It has garnered attention from prestigious investors like Sequoia Capital and Ribbit Capital. In its latest funding round, Acorns raised $100 million, valuing the company at $1.4 billion. | Sequoia | N/A | 🔒 | N/A |
+| Acquia | Acquia is a prominent open source cloud platform specializing in Drupal, WordPress, and other digital experiences, offering a comprehensive solution for organizations to effortlessly create, launch, and oversee their digital projects. What sets Acquia apart is its ability to provide a turnkey solution for managing digital experiences. The company has secured more than $300 million in funding from renowned investors such as Accel, Bessemer Venture Partners, and Google Ventures, resulting in a valuation exceeding $1 billion. | Accel, Bessemer, Google Ventures | N/A | 🔒 | N/A |
+| Acronis | Acronis is a global leader in cyber protection, specializing in helping organizations safeguard their data, applications, and infrastructure from cyber threats. Their mission is to protect the digital future of every organization and individual. Acronis has achieved significant financial success, with a valuation of $2.5 billion and a total amount raised of $440 million through their Series F funding round. They have attracted prestigious investors such as Insight Partners, Goldman Sachs, and General Atlantic. What makes Acronis unique is their comprehensive approach to cyber protection, offering solutions that go beyond traditional backup and recovery to include advanced features like AI-based anti-malware, secure file sync and share, and blockchain-based data notarization. | Goldman Sachs, Insight Partners | N/A | 🔒 | N/A |
+| ActBlue | ActBlue is a unique nonprofit technology organization that serves as the largest digital fundraising platform for Democratic causes, helping candidates, progressive groups, and causes raise money online. They have processed over $1 billion in donations annually. In terms of financials, ActBlue has raised a total of $986.5 million through a Series E funding round, with a valuation of $750 million. They have attracted prestigious investors such as Google Ventures, Fidelity Investments, and Kleiner Perkins Caufield & Byers. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
+| ActionIQ | ActionIQ is a predictive analytics platform for marketers that aims to provide actionable insights to help them make better decisions. The company has raised over $100 million in funding from investors like Sequoia Capital, Accel Partners, and Kleiner Perkins Caufield & Byers, and was valued at $1 billion in its most recent funding round. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
+| ActiveCampaign | ActiveCampaign is a cloud-based marketing automation platform that helps businesses grow their sales, leads, and revenue. Founded in 2003 and headquartered in Chicago, Illinois, the company has raised over $300 million in funding from prestigious investors such as Tiger Global Management, Accel Partners, and Insight Venture Partners. What makes ActiveCampaign unique is its mission to provide businesses with the tools and resources they need to reach and engage their customers, offering features to automate marketing campaigns, track leads, and measure results. The platform is user-friendly and customizable for businesses of all sizes. | Accel, Tiger Global | N/A | 🔒 | N/A |
+| Activision Blizzard | Activision Blizzard is a global leader in interactive entertainment, known for creating highly popular games. Their unique aspect lies in their mission to connect and engage the world through epic entertainment. With over $7 billion in funding, the company is currently valued at over $68 billion and has notable investors such as Tencent, Blackstone, and Carlyle Group. |  | N/A | 🔒 | N/A |
+| Actual | Actual is a venture-backed startup founded in 2017 by Stanford University researchers. They have developed a unique artificial intelligence technology that can understand and generate human language. The company has raised $100 million in funding from investors including Google Ventures, Kleiner Perkins, and Sequoia Capital. Their mission is to make AI accessible to everyone and use it to solve global challenges. | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
+| Acumen, LLC | Acumen, LLC is a venture capital firm that focuses on investing in early-stage companies that have the potential to address significant global challenges. They have raised over $1 billion in funding and have invested in more than 100 companies, including well-known companies like Airbnb, Spotify, and Palantir. What makes Acumen unique is their emphasis on investing in companies that aim to make a positive social impact while also generating financial returns. |  | N/A | 🔒 | N/A |
+| Acument | N/A | N/A | N/A | 🔒 | N/A |
+| Ad Hoc | N/A | N/A | N/A | 🔒 | N/A |
+| Ad Hoc Company Website | Ad Hoc is a leading provider of artificial intelligence solutions that aims to empower businesses with tools for faster and better decision-making. They are unique in their expertise and have raised over $100 million in funding, including a Series B round, with a valuation of $1 billion. Their investors include Kleiner Perkins, Sequoia Capital, and GV (formerly Google Ventures). | Google Ventures, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
+| Ada | Ada is an AI-powered platform that assists businesses in creating personalized customer experiences. They aim to simplify the process of understanding customers and delivering appropriate experiences. Ada has raised $50 million in funding from investors including Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
+| Adaptive | Adaptive is a venture-backed startup founded in 2017 by experienced AI researchers and engineers. They develop AI-powered solutions to help businesses solve complex problems. What makes them unique is their ability to leverage artificial intelligence to provide innovative solutions. They have raised $100 million in funding from top venture capital firms, including Sequoia Capital and Kleiner Perkins, and currently have a valuation of $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
+| Adaptive Biotech | N/A | N/A | N/A | 🔒 | N/A |
+| Adaptive Biotechnologies | Adaptive Biotechnologies is a unique clinical stage biotechnology company that specializes in developing and commercializing next-generation T-cell therapies for cancer. They were founded in 2011 and are based in Seattle, Washington. In June 2022, they raised $2.3 billion in a Series E funding round led by Fidelity Management & Research Company, bringing their total funding raised to $4.8 billion. |  | N/A | 🔒 | N/A |
+| Adaptive build | N/A | N/A | N/A | 🔒 | N/A |
+| Addepar | Addepar is a unique cloud-based software platform that specializes in assisting financial advisors in managing client portfolios. Founded in 2009, the company has raised an impressive $500 million in funding from notable investors such as Sequoia Capital, Tiger Global Management, and Kleiner Perkins Caufield & Byers. As of 2021, Addepar holds a valuation of $2.5 billion. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
+| Addi | Addi is a unique fintech company in the Philippines that offers unsecured personal loans to consumers, aiming to improve access to financial services. The company has raised $23 million in funding from notable investors including Sequoia Capital India and Ribbit Capital. | Sequoia | N/A | 🔒 | N/A |
+| Adept | Adept is a deep tech startup founded in 2017 by a team of MIT engineers. They use artificial intelligence to assist companies in solving complex problems. Adept has raised $100 million in funding from investors like Sequoia Capital and Kleiner Perkins, and currently holds a valuation of $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
+| Adept AI Labs | N/A | N/A | N/A | 🔒 | N/A |
+| Adim | Adim is a unique deep tech company specializing in AI-powered solutions for the retail industry, aiming to enhance personalized and efficient shopping experiences for consumers. The company has successfully raised $100 million in funding from prominent investors such as Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
+| Adobe | Adobe is a global leader in digital media and digital marketing software, known for creating cutting-edge products and services that empower customers to create, communicate, and collaborate. What makes Adobe unique is its focus on enabling creativity for all. In terms of financials, Adobe has raised a total of $3.2 billion in funding, with a valuation of $10 billion. Prestige investors in Adobe include Sequoia Capital, Kleiner Perkins Caufield & Byers, and Fidelity Investments. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
+| Adyen | Adyen is a global payments platform that offers a comprehensive solution for businesses to accept payments online, in-store, and on mobile. They aim to enable businesses of all sizes to accept payments anywhere, anytime, and in any way. Adyen has quickly become a leading payment provider, processing over $100 billion in payments annually. They are headquartered in Amsterdam and have offices in Europe, Asia, and the Americas. Adyen's unique aspect lies in their ability to provide a single solution for businesses of all sizes, making them a versatile and convenient option for payment processing.  In terms of financials, Adyen has raised a total of $1.8 billion in funding, with their latest funding round being Series G. They have achieved a valuation of $29.5 billion and have attracted prestigious investors such as Temasek, GIC, Visa, and Goldman Sachs. | Goldman Sachs | N/A | 🔒 | N/A |
+| Aechelon Technology | Aechelon Technology is a leading provider of AI solutions for the industrial sector, helping manufacturers improve productivity and efficiency through automation. Their AI solutions are used by major manufacturers such as Toyota, BMW, and Siemens. In February 2023, they closed a Series C funding round of $100 million led by SoftBank Vision Fund 2, with a valuation of $1 billion. In total, Aechelon has raised $170 million in funding. |  | N/A | 🔒 | N/A |
+| Aera Technology | Aera Technology is a privately held company based in Mountain View, California, that specializes in developing advanced LiDAR sensors for autonomous vehicles. Founded in 2017, the company has raised $100 million in funding from notable investors including Kleiner Perkins Caufield & Byers, GV (formerly Google Ventures), and Toyota Ventures. This funding has helped Aera Technology establish itself as a leading player in the self-driving car industry. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
+| AeroVect | AeroVect is a unique startup focused on developing a new type of VTOL aircraft to make air travel more accessible and affordable. They aim to create an aircraft that is easier to fly and maintain than traditional helicopters. The company has raised $100 million in funding from investors including Kleiner Perkins Caufield & Byers and GV (formerly Google Ventures). | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
+| AeroVironment | AeroVironment is a company that specializes in designing and producing innovative Unmanned Aircraft Systems (UAS), including small UAVs and eVTOL aircraft, for both government and commercial customers. What makes them unique is their focus on developing electric vertical takeoff and landing aircraft, which sets them apart from traditional drone manufacturers. They have raised over $1.1 billion in funding, with a valuation of $1.8 billion, and have received support from notable investors like Google Ventures, Kleiner Perkins Caufield & Byers, and Fidelity Investments. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
+| Aerospike | Aerospike is a unique in-memory data store for real-time applications, leveraging technologies from Google, Facebook, and Amazon. They have raised a total of $135 million in funding, with a valuation of $1.1 billion, and have prestigious investors such as Andreessen Horowitz, GV, and Kleiner Perkins Caufield & Byers. | A16Z, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
+| Aetion | Aetion is a healthcare data analytics company that aims to improve patient outcomes and reduce costs by helping healthcare organizations identify and mitigate risks. They have a proprietary platform that enables them to provide these services.   In March 2023, Aetion raised $100 million in Series E funding at a valuation of $1 billion. They have raised a total of $250 million in funding to date. | Insight Partners | N/A | 🔒 | N/A |
+| AffiniPay | N/A | N/A | N/A | 🔒 | N/A |
+| Affinitiv | Affinitiv is a prominent company in the automotive industry that specializes in AI-powered solutions. Their unique approach focuses on making roads safer and more efficient by providing automakers with the necessary tools for developing self-driving cars. In March 2023, Affinitiv successfully raised $700 million in a Series E funding round, resulting in a valuation of $7.7 billion. The funding round was led by SoftBank Vision Fund 2, with participation from notable existing investors such as BMW i Ventures, Intel Capital, and Kleiner Perkins. | Kleiner Perkins | N/A | 🔒 | N/A |
+| Affinity | N/A | N/A | N/A | 🔒 | N/A |
+| Affinity.co | Affinity.co is a venture-backed startup focused on revolutionizing the future of work by assisting individuals in discovering and cultivating fulfilling careers. They have raised $100 million in funding from prominent investors like Sequoia Capital and Kleiner Perkins, and currently hold a valuation of $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
+| Afresh | Afresh is a unique B2B SaaS company that specializes in inventory management, demand forecasting, and supply chain optimization for businesses. Founded in 2016, the company has raised $100 million in funding from prominent investors including Sequoia Capital and Tiger Global Management. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
+| Age of Learning | Age of Learning is an educational technology company that develops research-based products to help children learn. They have raised over $150 million in funding from prestigious investors such as Kleiner Perkins Caufield & Byers, Google Ventures, and First Round Capital. What makes Age of Learning unique is their mission to make learning fun and engaging for kids of all ages. Their products include ABCmouse.com, an online learning platform for children ages 2-8; ReadingIQ, an online reading program for children ages 6-12; and Math Mammoth, a comprehensive math curriculum for children in grades K-8. In terms of financials, Age of Learning recently completed a Series E funding round, resulting in a valuation of $1.3 billion. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
+| AgentSync | AgentSync is an AI-powered platform that aims to simplify and make insurance more affordable for everyone by helping insurance agents find and close more business. They have raised $100 million in funding from prominent investors like Sequoia Capital, GV, and Ribbit Capital, and currently have a valuation of $1 billion. | Google Ventures, Sequoia | N/A | 🔒 | N/A |
+| Agero | Agero is a global leader in intelligent roadside assistance, aiming to provide easy access to help when needed. They have raised over $300 million in funding from investors like Kleiner Perkins Caufield & Byers, Accel Partners, and General Catalyst, and are currently valued at over $1 billion. What makes them unique is their focus on using technology to provide efficient and timely assistance. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
+| Agiloft | Agiloft is a unique low-code application development platform that enables businesses to build and deploy applications quickly and easily, without requiring specialized coding skills. The company has received significant backing from prominent investors such as Kleiner Perkins Caufield & Byers and Sequoia Capital. In its most recent funding round, Agiloft raised $100 million, valuing the company at $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
+| Agtonomy | Agtonomy is a self-driving technology company focused on developing autonomous vehicles to improve road safety and efficiency. They aim to create a future where self-driving vehicles are the standard. Agtonomy has raised $100 million in funding from prominent investors like Toyota Ventures, BMW i Ventures, and Intel Capital, and is currently in its Series B funding round. |  | N/A | 🔒 | N/A |
+| Aifleet | N/A | N/A | N/A | 🔒 | N/A |
+| Aigen | Aigen is a deep tech company that utilizes artificial intelligence to address critical challenges faced by businesses. Their unique aspect lies in their mission to make AI accessible to all. They have secured $100 million in funding from prominent investors like Sequoia Capital and Kleiner Perkins. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
+| AirGarage | AirGarage is a parking startup that provides a user-friendly platform for drivers to locate and reserve parking spaces. Their unique approach focuses on making parking more convenient and sustainable. They have raised $100 million in funding from prominent investors like Kleiner Perkins, Accel Partners, and Y Combinator, and currently hold a valuation of $1 billion. | Accel, Kleiner Perkins, YC | N/A | 🔒 | N/A |
+| Airbase | Airbase is a financial management platform that helps businesses streamline their spend and processes. They provide a single place for businesses to manage their spend, track expenses, and forecast cash flow. Airbase offers features like automated expense reporting, supplier onboarding, and spend analytics to help businesses save money. They have raised over $100 million in funding from investors including Accel, Y Combinator, and Kleiner Perkins. Airbase's strong financials, experienced team, and innovative platform position them for continued growth in the future. | Accel, Kleiner Perkins, YC | N/A | 🔒 | N/A |
+| Airbnb | Airbnb is a unique, mission-driven company that aims to democratize travel by providing a community-driven hospitality platform. They offer a platform for people to list, discover, and book unique accommodations worldwide, ranging from apartments to castles and treehouses. With over 6 million listings in 191 countries, Airbnb is the leading marketplace for unique stays and experiences. Founded in 2008 by Brian Chesky, Nathan Blecharczyk, and Joe Gebbia, Airbnb has raised a total of $4.5 billion in funding, with notable investors including Sequoia Capital, Tiger Global Management, and Fidelity Investments. In February 2017, the company was valued at $31 billion after a Series G funding round of $1 billion. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
+| Airbyte | Airbyte is an open-source data integration platform that allows organizations to securely connect and transfer data between different sources. Founded in 2019, Airbyte has raised $100 million in funding, including a recent $70 million Series B round led by Insight Partners in March 2023. The company is based in San Francisco, California. What makes Airbyte unique is its open-source nature, which provides flexibility and customization options for users. | Insight Partners | N/A | 🔒 | N/A |
+| Aircall | Aircall is a cloud-based phone system that provides businesses with an easy and cost-effective solution for making and receiving calls. Founded in 2014 and based in Paris, France, Aircall has raised $225 million in funding from investors including Accel, DST Global, and Salesforce Ventures. What sets Aircall apart is its mission to simplify and make business communications accessible and affordable for businesses of all sizes. | Accel, Salesforce Ventures | N/A | 🔒 | N/A |
+| Airkit | Airkit is a unique enterprise-grade no-code platform that allows businesses to create custom apps and workflows without the need for developers. They have raised a total of $20M in a Series A funding round, with a valuation of $100M, and have prestigious investors such as Andreessen Horowitz, Kleiner Perkins Caufield & Byers, and GV. | A16Z, Kleiner Perkins | N/A | 🔒 | N/A |
+| Airlines Reporting Corporation | Airlines Reporting Corporation (ARC) is a global payments network that specializes in processing a significant amount of transactions in the travel industry. Founded in 1945, ARC is known for being the leading provider of electronic payment solutions in the travel industry, aiming to facilitate seamless, secure, and efficient payments for all travel-related transactions.   In terms of financials, ARC raised $100 million in Series C funding in 2023, valuing the company at $1 billion. The funding round was led by Accel Partners, with participation from existing investors TPG Capital and General Atlantic. This funding will be utilized to accelerate ARC's growth and expand its range of products.  What makes ARC unique is its extensive experience and successful track record in the industry, positioning the company for continued growth in the future. | Accel | N/A | 🔒 | N/A |
+| Airplane | Airplane is a Palo Alto-based startup that is developing a unique aircraft with a revolutionary propulsion system. The company has raised $100 million in funding from investors like Google Ventures and Kleiner Perkins Caufield & Byers. Airplane is currently in stealth mode and plans to launch its first commercial aircraft in 2025. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
+| Airspeed | Airspeed is a venture-backed startup focused on developing a faster, more efficient, and sustainable form of air travel. The company is unique in its approach to revolutionizing the industry. It is backed by prominent investors such as Andreessen Horowitz and Kleiner Perkins. In its latest funding round, Airspeed raised $100 million, valuing the company at $1 billion. | A16Z, Kleiner Perkins | N/A | 🔒 | N/A |
+| Airtable | Airtable is a unique low-code platform that enables businesses to effortlessly create and manage customized databases, catering to users without technical expertise. With over $100 million in funding, it has garnered support from prominent investors like Accel, Benchmark, and Index Ventures. | Accel | N/A | 🔒 | N/A |
+| Airwallex | Airwallex is a global payments company that aims to revolutionize finance by enabling borderless, frictionless, and affordable transactions. What makes them unique is their mission to make finance accessible to everyone, regardless of geographical boundaries. They have recently completed a Series D funding round, resulting in a valuation of $10 billion, and have raised a total of $600 million from prestigious investors such as Sequoia Capital, Tencent, Hillhouse Capital, and Tiger Global Management. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
+| Aizon | Aizon is a deep tech company focused on developing a groundbreaking AI technology capable of comprehending and generating human language. What sets them apart is their ability to revolutionize human-computer interaction. The company has raised $100M in funding from prominent investors. |  | N/A | 🔒 | N/A |
+| Akasa | N/A | N/A | N/A | 🔒 | N/A |
+| Akuna Capital | Akuna Capital is a global quantitative trading firm that utilizes advanced technology to trade in financial markets. Founded in 2009 and based in Sydney, Australia, the company has offices in London, New York, and Hong Kong. What sets Akuna Capital apart is its ability to raise over $1 billion in funding from prominent investors like Sequoia Capital, Tiger Global Management, and DFJ Growth. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
+| Alamar Biosciences | Alamar Biosciences is a clinical stage biotechnology company specializing in the development of immunotherapies for cancer and infectious diseases. Their unique approach involves the use of a novel bispecific antibody, AL-101, which targets the PD-1 and CD137 receptors. AL-101 is currently undergoing Phase 1 clinical trials for the treatment of multiple myeloma and solid tumors.  In terms of financials, Alamar Biosciences raised $100 million in Series B funding in February 2023. The funding round was led by OrbiMed Advisors and included participation from NEA, Casdin Capital, and other investors. The company's valuation at the time of the funding was $500 million. |  | N/A | 🔒 | N/A |
+| Alation | N/A | N/A | N/A | 🔒 | N/A |
+| Alation, Inc. | Alation, Inc. is an enterprise data catalog company that aims to make data accessible and useful for everyone in an organization. They provide a unified view of data across the enterprise.   What makes Alation unique is their focus on creating a comprehensive data catalog that allows users to easily find, understand, and collaborate on data. Their platform enables organizations to improve data governance, increase data literacy, and drive data-driven decision-making.  In terms of financials, Alation raised $100 million in Series E funding in March 2023, valuing the company at $1.2 billion. This funding round was led by Tiger Global Management, with participation from existing investors such as Sequoia Capital, Kleiner Perkins, and Meritech Capital. In total, Alation has raised $245 million in funding to date. | Kleiner Perkins, Tiger Global, Sequoia | N/A | 🔒 | N/A |
+| Albert | Albert is an AI-powered virtual assistant founded in 2017 that helps users find information, complete tasks, and stay organized. What makes Albert unique is its ability to utilize artificial intelligence to provide personalized assistance. The company has raised $120 million in funding from investors like Sequoia Capital and Kleiner Perkins, and is currently in its Series B round of funding with a valuation of $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
+| Alchemy | Alchemy is a prominent provider of enterprise-grade data APIs, aiming to simplify data access and utilization for businesses. The company has raised $112M in funding from notable investors like Andreessen Horowitz, Sequoia Capital, and Kleiner Perkins, and currently holds a valuation of $1.5B. | A16Z, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
+| Alcon | Alcon is a deep tech startup specializing in the development of machine learning algorithms for drug discovery. What makes them unique is their ability to accelerate the process of finding new drugs. They have received support from prominent venture capital firms like Sequoia Capital and Benchmark. In their most recent funding round, Alcon raised $100 million, reaching a valuation of $1 billion. | Sequoia | N/A | 🔒 | N/A |
+| Aledade | Aledade is a healthcare technology company founded in 2014 that utilizes AI to match patients with suitable doctors and care. They have raised over $200 million in funding from investors such as Google Ventures, Kleiner Perkins, and GV. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
+| Aleo | Aleo is a unique privacy-preserving blockchain platform that allows decentralized applications (dApps) to scale securely. They recently raised $20 million in a Series A funding round led by Andreessen Horowitz in July 2022. | A16Z | N/A | 🔒 | N/A |
+| Algolia | Algolia is a prominent enterprise search and discovery platform that aims to transform every company into a search company. They have secured more than $400 million in funding from notable investors like Accel, CapitalG, and IVP, and currently hold a valuation of over $2 billion. | Accel | N/A | 🔒 | N/A |
+| Alkymi | Alkemy is a deep tech company that utilizes artificial intelligence to analyze human DNA and identify genetic markers linked to specific diseases, aiming to empower individuals with personalized information about their genetic risks. They have raised a total of $125 million in funding, with a valuation of $1.1 billion, through a Series B funding round, with notable investors including General Atlantic, GV, Illumina Ventures, and Kaiser Permanente Ventures. | Google Ventures | N/A | 🔒 | N/A |
+| Allegion | Allegion is a next-generation cybersecurity company focused on protecting critical infrastructure from cyber threats. They aim to make the world's critical infrastructure more secure and resilient. What makes them unique is their innovative approach to cybersecurity. Allegion has received significant backing from renowned investors such as Sequoia Capital, Accel Partners, and Khosla Ventures. They have successfully raised over $100 million in funding. | Accel, Sequoia | N/A | 🔒 | N/A |
+| Allen Institute for AI | N/A | N/A | N/A | 🔒 | N/A |
+| Alloy | Alloy is a unique deep learning company that specializes in building self-driving cars. Founded in 2014 by a team of Stanford PhDs, they have raised an impressive $800 million in funding from notable investors including Google Ventures, Toyota, and Kleiner Perkins. In 2018, Alloy was acquired by Intel for a staggering $15 billion. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
+| Alloy AI | N/A | N/A | N/A | 🔒 | N/A |
+| Alloy Automation | Alloy Automation is an AI-powered automation platform founded in 2017 by serial entrepreneurs and MIT alumni. They have raised $100 million in funding from investors like Sequoia Capital and Tiger Global, and are currently valued at $1 billion. What makes them unique is their ability to help businesses scale their operations through the use of AI technology. | Tiger Global, Sequoia | N/A | 🔒 | N/A |
+| Alloy.ai | Alloy.ai is an AI company focused on developing advanced software for the financial services industry, aiming to enhance efficiency, transparency, and accessibility. They recently raised $200 million in a Series B funding round at a valuation of $1.2 billion, led by Tiger Global Management and with participation from Lightspeed Venture Partners, Accel, and General Catalyst. | Accel, Tiger Global | N/A | 🔒 | N/A |
+| Alluxio | Alluxio is a unique distributed memory system that speeds up data analytics by offering a consolidated perspective of data from both on-premises and cloud-based sources. Founded in 2015, the company has raised $185 million in funding from prominent investors like Lightspeed Venture Partners, Khosla Ventures, and Sequoia Capital, and it was valued at $1.5 billion in its most recent funding round. | Sequoia | N/A | 🔒 | N/A |
+| Alma | Alma is an early stage startup that aims to create the first decentralized social media platform, offering users complete control over their data and privacy for a more authentic and transparent online experience. What makes Alma unique is its focus on decentralization and empowering users. The company has received significant backing from renowned investors such as Y Combinator, Accel, and General Catalyst. In terms of financials, Alma has raised a total of $100 million in funding. | Accel, YC | N/A | 🔒 | N/A |
+| Almanac | Almanac is a unique data science-powered platform that aims to democratize access to data and analytics, enabling companies to make better-informed decisions. They have raised $100 million in funding from prominent investors like Sequoia Capital, Accel, and Kleiner Perkins. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
+| Aloft Appraisal | Aloft Appraisal is a real estate appraisal startup founded in 2019 that utilizes AI technology to deliver more precise and efficient appraisals. They have secured $10M in funding from notable investors including Y Combinator and Kleiner Perkins. | Kleiner Perkins, YC | N/A | 🔒 | N/A |
+| Alpaca | Alpaca is a unique decentralized finance platform that aims to make DeFi accessible to all, regardless of financial background or technical expertise. They offer a range of financial products and services such as lending, borrowing, and trading. Alpaca has raised $25 million in funding from top investors like Andreessen Horowitz, Polychain Capital, and Coinbase Ventures, and currently holds a valuation of $1 billion. | A16Z, Coinbase | N/A | 🔒 | N/A |
+| Alpha Grep | N/A | N/A | N/A | 🔒 | N/A |
+| AlphaFlow | AlphaFlow is a financial technology company that utilizes artificial intelligence to assist investors in making informed decisions. They have raised $100 million in funding from prominent investors like Sequoia Capital and Kleiner Perkins, and their most recent funding round valued the company at $1 billion. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
+| AlphaGrep Securities | AlphaGrep Securities is a financial technology company founded in 2017 that utilizes artificial intelligence to offer advanced trading tools and analytics to institutional investors. It has raised $100 million in funding from investors like Sequoia Capital and Kleiner Perkins, and in its latest funding round, the company was valued at $1 billion. What sets AlphaGrep Securities apart is its use of AI technology to provide innovative solutions for institutional investors in the financial industry. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
+| AlphaSights | N/A | N/A | N/A | 🔒 | N/A |
+| Alpine Investors | N/A | N/A | N/A | 🔒 | N/A |
+| Altana AI | N/A | N/A | N/A | 🔒 | N/A |
+| Alteryx | N/A | N/A | N/A | 🔒 | N/A |
+| Altimate AI | N/A | N/A | N/A | 🔒 | N/A |
+| Alto Pharmacy | N/A | N/A | N/A | 🔒 | N/A |
+| Amadeus | N/A | N/A | N/A | 🔒 | N/A |
+| Amazon | Amazon is a venture-backed startup focused on developing an innovative search engine powered by artificial intelligence. Their goal is to provide a comprehensive and unbiased search experience using machine learning. What makes them unique is their emphasis on leveraging AI technology to enhance search capabilities. In terms of financials, Amazon has raised $10 million in funding from prominent investors including Y Combinator and Sequoia Capital. | Sequoia, YC | N/A | 🔒 | N/A |
+| Amazon | N/A | N/A | N/A | 🔒 | N/A |
+| Ambi Robotics | N/A | N/A | N/A | 🔒 | N/A |
+| Ambience Healthcare | N/A | N/A | N/A | 🔒 | N/A |
+| Ambient AI | N/A | N/A | N/A | 🔒 | N/A |
+| Ambiq | N/A | N/A | N/A | 🔒 | N/A |
+| American Century Investments | N/A | N/A | N/A | 🔒 | N/A |
+| American Family Insurance | N/A | N/A | N/A | 🔒 | N/A |
+| Amino, Inc. | N/A | N/A | N/A | 🔒 | N/A |
+| Amperity | N/A | N/A | N/A | 🔒 | N/A |
+| Ampla | N/A | N/A | N/A | 🔒 | N/A |
+| Amplitude | N/A | N/A | N/A | 🔒 | N/A |
+| Ampush | N/A | N/A | N/A | 🔒 | N/A |
+| Anaconda | N/A | N/A | N/A | 🔒 | N/A |
+| Anchorage Digital | N/A | N/A | N/A | 🔒 | N/A |
+| Andela | N/A | N/A | N/A | 🔒 | N/A |
+| Anduril Industries | N/A | N/A | N/A | 🔒 | N/A |
+| Angi | N/A | N/A | N/A | 🔒 | N/A |
+| Angle Labs | N/A | N/A | N/A | 🔒 | N/A |
+| Angle Labs | N/A | N/A | N/A | 🔒 | N/A |
+| Ansira | N/A | N/A | N/A | 🔒 | N/A |
+| Ansys | N/A | N/A | N/A | 🔒 | N/A |
+| Ansys | N/A | N/A | N/A | 🔒 | N/A |
+| Anthropic | N/A | N/A | N/A | 🔒 | N/A |
+| Antler | N/A | N/A | N/A | 🔒 | N/A |
+| AnyRoad | N/A | N/A | N/A | 🔒 | N/A |
+| Anyscale | N/A | N/A | N/A | 🔒 | N/A |
+| Apeel Sciences Careers | N/A | N/A | N/A | 🔒 | N/A |
+| Apex | N/A | N/A | N/A | 🔒 | N/A |
+| Apollo | N/A | N/A | N/A | 🔒 | N/A |
+| Apollo.io | N/A | N/A | N/A | 🔒 | N/A |
+| AppLovin | N/A | N/A | N/A | 🔒 | N/A |
+| AppOmni | N/A | N/A | N/A | 🔒 | N/A |
+| Appcues | N/A | N/A | N/A | 🔒 | N/A |
+| Appfolio | N/A | N/A | N/A | 🔒 | N/A |
+| Appian Corporation | N/A | N/A | N/A | 🔒 | N/A |
+| Apple | N/A | N/A | N/A | 🔒 | N/A |
+| Apple | N/A | N/A | N/A | 🔒 | N/A |
+| Apple | N/A | N/A | N/A | 🔒 | N/A |
+| Applied Materials | N/A | N/A | N/A | 🔒 | N/A |
+| ApplyBoard | N/A | N/A | N/A | 🔒 | N/A |
+| AptDeco | N/A | N/A | N/A | 🔒 | N/A |
+| Aptos | N/A | N/A | N/A | 🔒 | N/A |
+| Aquatic Capital Management | N/A | N/A | N/A | 🔒 | N/A |
+| Arc Boats | N/A | N/A | N/A | 🔒 | N/A |
+| Arc Technologies | N/A | N/A | N/A | 🔒 | N/A |
+| Arcadia | N/A | N/A | N/A | 🔒 | N/A |
+| Arcadia | N/A | N/A | N/A | 🔒 | N/A |
+| Arcellx | Arcellx is a synthetic biology company founded in 2017 that is focused on developing a new class of antibiotics to combat drug-resistant infections. What makes Arcellx unique is its use of synthetic biology to create innovative solutions for antibiotic resistance. The company has raised $175 million in funding from investors including Flagship Pioneering, Polaris Partners, and Khosla Ventures. Currently, Arcellx is in Phase 1 clinical trials for its lead antibiotic candidate, ARC-520. |  | N/A | 🔒 | N/A |
+| Archive | N/A | N/A | N/A | 🔒 | N/A |
+| Arctic Wolf | N/A | N/A | N/A | 🔒 | N/A |
+| Aritzia | N/A | N/A | N/A | 🔒 | N/A |
+| Arkestro | N/A | N/A | N/A | 🔒 | N/A |
+| Arrive Logistics | N/A | N/A | N/A | 🔒 | N/A |
+| Arrowstreet Capital | N/A | N/A | N/A | 🔒 | N/A |
+| Arsenal Biosciences | N/A | N/A | N/A | 🔒 | N/A |
+| Art Processors | N/A | N/A | N/A | 🔒 | N/A |
+| Arta Finance | N/A | N/A | N/A | 🔒 | N/A |
+| Artemis | N/A | N/A | N/A | 🔒 | N/A |
+| Arthur AI | N/A | N/A | N/A | 🔒 | N/A |
+| Articulate | N/A | N/A | N/A | 🔒 | N/A |
+| Artisan Partners | N/A | N/A | N/A | 🔒 | N/A |
+| Artsy | N/A | N/A | N/A | 🔒 | N/A |
+| Asana | N/A | N/A | N/A | 🔒 | N/A |
+| Asana Early Career Programs | N/A | N/A | N/A | 🔒 | N/A |
+| Ascend.io | Ascend.io is an AI company focused on the healthcare industry, aiming to enhance accessibility, affordability, and effectiveness of healthcare through AI automation, improved decision-making, and personalized treatment. They have raised $100 million in funding from prominent investors like Sequoia Capital, Accel Partners, and Kleiner Perkins Caufield & Byers. | Accel, Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
+| Ashby | N/A | N/A | N/A | 🔒 | N/A |
+| Asimov | N/A | N/A | N/A | 🔒 | N/A |
+| Aspire | N/A | N/A | N/A | 🔒 | N/A |
+| Assembled | N/A | N/A | N/A | 🔒 | N/A |
+| AssemblyAI | N/A | N/A | N/A | 🔒 | N/A |
+| Assurance Careers | N/A | N/A | N/A | 🔒 | N/A |
+| Assured | N/A | N/A | N/A | 🔒 | N/A |
+| Astra | N/A | N/A | N/A | 🔒 | N/A |
+| Astranis | N/A | N/A | N/A | 🔒 | N/A |
+| Asure | N/A | N/A | N/A | 🔒 | N/A |
+| At-Bay | N/A | N/A | N/A | 🔒 | N/A |
+| Athelas | N/A | N/A | N/A | 🔒 | N/A |
+| Athena Health | N/A | N/A | N/A | 🔒 | N/A |
+| Atlan | N/A | N/A | N/A | 🔒 | N/A |
+| Atlassian | N/A | N/A | N/A | 🔒 | N/A |
+| Atlys | N/A | N/A | N/A | 🔒 | N/A |
+| Atlys | N/A | N/A | N/A | 🔒 | N/A |
+| AtoB | N/A | N/A | N/A | 🔒 | N/A |
+| Atom Finance | N/A | N/A | N/A | 🔒 | N/A |
+| Atomic | N/A | N/A | N/A | 🔒 | N/A |
+| Atomwise | N/A | N/A | N/A | 🔒 | N/A |
+| Attabotics | N/A | N/A | N/A | 🔒 | N/A |
+| AttackIQ | N/A | N/A | N/A | 🔒 | N/A |
+| Attentive | N/A | N/A | N/A | 🔒 | N/A |
+| Attest | N/A | N/A | N/A | 🔒 | N/A |
+| Aucto | N/A | N/A | N/A | 🔒 | N/A |
+| Audigent | N/A | N/A | N/A | 🔒 | N/A |
+| Audius | N/A | N/A | N/A | 🔒 | N/A |
+| Augmedix | N/A | N/A | N/A | 🔒 | N/A |
+| Aurora Innovation | N/A | N/A | N/A | 🔒 | N/A |
+| Aurora Labs | N/A | N/A | N/A | 🔒 | N/A |
+| Aurora Solar | N/A | N/A | N/A | 🔒 | N/A |
+| Auterion | N/A | N/A | N/A | 🔒 | N/A |
+| Autify, Inc. | N/A | N/A | N/A | 🔒 | N/A |
+| Autodesk | N/A | N/A | N/A | 🔒 | N/A |
+| Autograph | N/A | N/A | N/A | 🔒 | N/A |
+| Ava Labs | N/A | N/A | N/A | 🔒 | N/A |
+| Avala | N/A | N/A | N/A | 🔒 | N/A |
+| Avantium | N/A | N/A | N/A | 🔒 | N/A |
+| Aven | N/A | N/A | N/A | 🔒 | N/A |
+| Aviatrix | N/A | N/A | N/A | 🔒 | N/A |
+| Avnet | N/A | N/A | N/A | 🔒 | N/A |
+| Awardco | N/A | N/A | N/A | 🔒 | N/A |
+| Aware | N/A | N/A | N/A | 🔒 | N/A |
+| Away | N/A | N/A | N/A | 🔒 | N/A |
+| Axios | N/A | N/A | N/A | 🔒 | N/A |
+| Axon | N/A | N/A | N/A | 🔒 | N/A |
+| Axoni | N/A | N/A | N/A | 🔒 | N/A |
+| Azra Games | N/A | N/A | N/A | 🔒 | N/A |
+| Aztec | N/A | N/A | N/A | 🔒 | N/A |
+| Aztec | N/A | N/A | N/A | 🔒 | N/A |
+| B-Stock | N/A | N/A | N/A | 🔒 | N/A |
+| B12 | N/A | N/A | N/A | 🔒 | N/A |
+| BAO, Inc | N/A | N/A | N/A | 🔒 | N/A |
+| BARK | N/A | N/A | N/A | 🔒 | N/A |
+| BCG X | N/A | N/A | N/A | 🔒 | N/A |
+| BDG | N/A | N/A | N/A | 🔒 | N/A |
+| BETA Technologies | N/A | N/A | N/A | 🔒 | N/A |
+| BHG Financial | N/A | N/A | N/A | 🔒 | N/A |
+| BILL | N/A | N/A | N/A | 🔒 | N/A |
+| BMO | N/A | N/A | N/A | 🔒 | N/A |
+| Babylon | N/A | N/A | N/A | 🔒 | N/A |
+| Backbone | N/A | N/A | N/A | 🔒 | N/A |
+| BackerKit | N/A | N/A | N/A | 🔒 | N/A |
+| Badger Meter | N/A | N/A | N/A | 🔒 | N/A |
+| Balbix | N/A | N/A | N/A | 🔒 | N/A |
+| Bandwidth | N/A | N/A | N/A | 🔒 | N/A |
+| Barefoot | N/A | N/A | N/A | 🔒 | N/A |
+| Baseten | N/A | N/A | N/A | 🔒 | N/A |
+| Basis Technologies | N/A | N/A | N/A | 🔒 | N/A |
+| Baton (A Ryder Technology Lab) | N/A | N/A | N/A | 🔒 | N/A |
+| BaubleBar | N/A | N/A | N/A | 🔒 | N/A |
+| Bazaarvoice | N/A | N/A | N/A | 🔒 | N/A |
+| BeReal. | N/A | N/A | N/A | 🔒 | N/A |
+| Beacon Platform | N/A | N/A | N/A | 🔒 | N/A |
+| Beacons | N/A | N/A | N/A | 🔒 | N/A |
+| Beam Benefits | N/A | N/A | N/A | 🔒 | N/A |
+| Believer | N/A | N/A | N/A | 🔒 | N/A |
+| Belong | N/A | N/A | N/A | 🔒 | N/A |
+| Belvedere Trading | N/A | N/A | N/A | 🔒 | N/A |
+| BenchSci | N/A | N/A | N/A | 🔒 | N/A |
+| Benchling | N/A | N/A | N/A | 🔒 | N/A |
+| Benchling | N/A | N/A | N/A | 🔒 | N/A |
+| Benepass | N/A | N/A | N/A | 🔒 | N/A |
+| Benevity | N/A | N/A | N/A | 🔒 | N/A |
+| BentoBox | N/A | N/A | N/A | 🔒 | N/A |
+| BerlinRosen | N/A | N/A | N/A | 🔒 | N/A |
+| Better.com | N/A | N/A | N/A | 🔒 | N/A |
+| BetterCloud | N/A | N/A | N/A | 🔒 | N/A |
+| BetterSleep | N/A | N/A | N/A | 🔒 | N/A |
+| BetterUp | N/A | N/A | N/A | 🔒 | N/A |
+| Betterment | Betterment is an online financial advisor that uses algorithms to offer personalized investment advice. Founded in 2008, the company has raised over $1 billion in funding from investors like Sequoia Capital, TPG Growth, and Goldman Sachs. What sets Betterment apart is its mission to provide affordable and personalized investment advice, aiming to help individuals achieve financial freedom. | Goldman Sachs, Sequoia | N/A | 🔒 | N/A |
+| Betterworks | N/A | N/A | N/A | 🔒 | N/A |
+| Beyond Identity | N/A | N/A | N/A | 🔒 | N/A |
+| Big Health | N/A | N/A | N/A | 🔒 | N/A |
+| BigCommerce | N/A | N/A | N/A | 🔒 | N/A |
+| BigHat Biosciences | N/A | N/A | N/A | 🔒 | N/A |
+| BillionToOne | N/A | N/A | N/A | 🔒 | N/A |
+| Billtrust US Careers | N/A | N/A | N/A | 🔒 | N/A |
+| Bilt Rewards | N/A | N/A | N/A | 🔒 | N/A |
+| Binti | N/A | N/A | N/A | 🔒 | N/A |
+| BitGo | N/A | N/A | N/A | 🔒 | N/A |
+| BitMEX | N/A | N/A | N/A | 🔒 | N/A |
+| Bitcoin Depot | N/A | N/A | N/A | 🔒 | N/A |
+| Bitfury | N/A | N/A | N/A | 🔒 | N/A |
+| Bitrise | N/A | N/A | N/A | 🔒 | N/A |
+| Bitwarden | N/A | N/A | N/A | 🔒 | N/A |
+| BlackBerry | N/A | N/A | N/A | 🔒 | N/A |
+| Blackbaud | N/A | N/A | N/A | 🔒 | N/A |
+| Blackbird | N/A | N/A | N/A | 🔒 | N/A |
+| Blackboard | N/A | N/A | N/A | 🔒 | N/A |
+| Blackstone | N/A | N/A | N/A | 🔒 | N/A |
+| Blackstone | N/A | N/A | N/A | 🔒 | N/A |
+| Blackstone | N/A | N/A | N/A | 🔒 | N/A |
+| Blend | N/A | N/A | N/A | 🔒 | N/A |
+| Blink UX | Blink UX is a venture-backed startup offering an AI-powered platform for businesses to create user experiences. They aim to make UX design accessible to all, regardless of technical skills or budget. The company has raised $10 million in funding from investors like Sequoia Capital and Kleiner Perkins, and is currently valued at $100 million. | Kleiner Perkins, Sequoia | N/A | 🔒 | N/A |
+| Blinkist | N/A | N/A | N/A | 🔒 | N/A |
+| BlocPower | N/A | N/A | N/A | 🔒 | N/A |
+| Blockchain.com | N/A | N/A | N/A | 🔒 | N/A |
+| Blockstream | N/A | N/A | N/A | 🔒 | N/A |
+| Blockworks | N/A | N/A | N/A | 🔒 | N/A |
+| Bloom Institute of Technology | N/A | N/A | N/A | 🔒 | N/A |
+| Blue Cross Blue Shield of Massachusetts | N/A | N/A | N/A | 🔒 | N/A |
+| Blue Origin | N/A | N/A | N/A | 🔒 | N/A |
+| Blue River Technology | N/A | N/A | N/A | 🔒 | N/A |
+| BlueCrest Capital Management | N/A | N/A | N/A | 🔒 | N/A |
+| BlueYonder | N/A | N/A | N/A | 🔒 | N/A |
+| Bluesky | N/A | N/A | N/A | 🔒 | N/A |
+| Bodo, Inc. | N/A | N/A | N/A | 🔒 | N/A |
+| Boku | N/A | N/A | N/A | 🔒 | N/A |
+| Bonfire Studios | N/A | N/A | N/A | 🔒 | N/A |
+| Boom Supersonic | N/A | N/A | N/A | 🔒 | N/A |
+| Boost | N/A | N/A | N/A | 🔒 | N/A |
+| BorgWarner | N/A | N/A | N/A | 🔒 | N/A |
+| Bose | N/A | N/A | N/A | 🔒 | N/A |
+| Boulevard | N/A | N/A | N/A | 🔒 | N/A |
+| Bounteous | N/A | N/A | N/A | 🔒 | N/A |
+| Box | N/A | N/A | N/A | 🔒 | N/A |
+| Bracebridge Capital | N/A | N/A | N/A | 🔒 | N/A |
+| Brain Corp | N/A | N/A | N/A | 🔒 | N/A |
+| Brain Technologies | N/A | N/A | N/A | 🔒 | N/A |
+| Branch | N/A | N/A | N/A | 🔒 | N/A |
+| Branch Metrics | N/A | N/A | N/A | 🔒 | N/A |
+| Brand Knew | N/A | N/A | N/A | 🔒 | N/A |
+| Brave | N/A | N/A | N/A | 🔒 | N/A |
+| Braze | N/A | N/A | N/A | 🔒 | N/A |
+| Bread Financial | N/A | N/A | N/A | 🔒 | N/A |
+| BreederDAO | N/A | N/A | N/A | 🔒 | N/A |
+| Breeze Airways™ | N/A | N/A | N/A | 🔒 | N/A |
+| Brex | N/A | N/A | N/A | 🔒 | N/A |
+| BridgeBio | N/A | N/A | N/A | 🔒 | N/A |
+| Bridgewater Associates | N/A | N/A | N/A | 🔒 | N/A |
+| BrightHire | N/A | N/A | N/A | 🔒 | N/A |
+| Brightflow AI | N/A | N/A | N/A | 🔒 | N/A |
+| Brightside | N/A | N/A | N/A | 🔒 | N/A |
+| Brilliant | N/A | N/A | N/A | 🔒 | N/A |
+| Brilliant | N/A | N/A | N/A | 🔒 | N/A |
+| Bristol Myers Squibb | N/A | N/A | N/A | 🔒 | N/A |
+| Bristol Myers Squibb | N/A | N/A | N/A | 🔒 | N/A |
+| Bristol Myers Squibb | N/A | N/A | N/A | 🔒 | N/A |
+| Broadway Technology | N/A | N/A | N/A | 🔒 | N/A |
+| Brooklinen | N/A | N/A | N/A | 🔒 | N/A |
+| Browser Company | N/A | N/A | N/A | 🔒 | N/A |
+| Bubble | N/A | N/A | N/A | 🔒 | N/A |
+| Bugcrowd | N/A | N/A | N/A | 🔒 | N/A |
+| BuildOps | N/A | N/A | N/A | 🔒 | N/A |
+| BukuWarung | N/A | N/A | N/A | 🔒 | N/A |
+| Bungie | N/A | N/A | N/A | 🔒 | N/A |
+| Businessolver | N/A | N/A | N/A | 🔒 | N/A |
+| Butler, Shine, Stern & Partners | N/A | N/A | N/A | 🔒 | N/A |
+| Butterfly Network | N/A | N/A | N/A | 🔒 | N/A |
+| Button | N/A | N/A | N/A | 🔒 | N/A |
+| C3 AI | N/A | N/A | N/A | 🔒 | N/A |
+| CANDY | N/A | N/A | N/A | 🔒 | N/A |
+| CB Insights | N/A | N/A | N/A | 🔒 | N/A |
+| CDC Foundation | N/A | N/A | N/A | 🔒 | N/A |
+| CLEAR - Corporate | N/A | N/A | N/A | 🔒 | N/A |
+| COTA | N/A | N/A | N/A | 🔒 | N/A |
+| Cadence | N/A | N/A | N/A | 🔒 | N/A |
+| Cadre | N/A | N/A | N/A | 🔒 | N/A |
+| Caffeine | N/A | N/A | N/A | 🔒 | N/A |
+| Cake Group | N/A | N/A | N/A | 🔒 | N/A |
+| Calendly | N/A | N/A | N/A | 🔒 | N/A |
+| Calm | N/A | N/A | N/A | 🔒 | N/A |
+| Cambly | N/A | N/A | N/A | 🔒 | N/A |
+| Cameo | N/A | N/A | N/A | 🔒 | N/A |
+| Canal | N/A | N/A | N/A | 🔒 | N/A |
+| Candid | N/A | N/A | N/A | 🔒 | N/A |
+| Canonical | N/A | N/A | N/A | 🔒 | N/A |
+| Capital One | N/A | N/A | N/A | 🔒 | N/A |
+| Capital One | N/A | N/A | N/A | 🔒 | N/A |
+| Capitolis | N/A | N/A | N/A | 🔒 | N/A |
+| Capitolis | N/A | N/A | N/A | 🔒 | N/A |
+| Capstone | N/A | N/A | N/A | 🔒 | N/A |
+| Capstone | N/A | N/A | N/A | 🔒 | N/A |
+| CaptivateIQ | N/A | N/A | N/A | 🔒 | N/A |
+| Car IQ Inc. | N/A | N/A | N/A | 🔒 | N/A |
+| Carbon | N/A | N/A | N/A | 🔒 | N/A |
+| Carbon Direct | N/A | N/A | N/A | 🔒 | N/A |
+| Cardlytics | N/A | N/A | N/A | 🔒 | N/A |
+| Care/of | N/A | N/A | N/A | 🔒 | N/A |
+| CareRev | N/A | N/A | N/A | 🔒 | N/A |
+| Careem | N/A | N/A | N/A | 🔒 | N/A |
+| Career Karma | N/A | N/A | N/A | 🔒 | N/A |
+| Careers - Karat | N/A | N/A | N/A | 🔒 | N/A |
+| Careers at Drata | N/A | N/A | N/A | 🔒 | N/A |
+| Careers at KKR | N/A | N/A | N/A | 🔒 | N/A |
+| Carrot Fertility | N/A | N/A | N/A | 🔒 | N/A |
+| Carry1st | N/A | N/A | N/A | 🔒 | N/A |
+| Carta | N/A | N/A | N/A | 🔒 | N/A |
+| Carta | N/A | N/A | N/A | 🔒 | N/A |
+| Cartography Biosciences | N/A | N/A | N/A | 🔒 | N/A |
+| Carvana | N/A | N/A | N/A | 🔒 | N/A |
+| Castiron | N/A | N/A | N/A | 🔒 | N/A |
+| Castleton Commodities International | N/A | N/A | N/A | 🔒 | N/A |
+| Cboe | N/A | N/A | N/A | 🔒 | N/A |
+| Cedar | N/A | N/A | N/A | 🔒 | N/A |
+| Celestia Labs | N/A | N/A | N/A | 🔒 | N/A |
+| Celigo | N/A | N/A | N/A | 🔒 | N/A |
+| Census | N/A | N/A | N/A | 🔒 | N/A |
+| Censys | N/A | N/A | N/A | 🔒 | N/A |
+| Centivo | N/A | N/A | N/A | 🔒 | N/A |
+| Cerebral | N/A | N/A | N/A | 🔒 | N/A |
+| Cerebras Systems | N/A | N/A | N/A | 🔒 | N/A |
+| CertiK | N/A | N/A | N/A | 🔒 | N/A |
+| Chainalysis | N/A | N/A | N/A | 🔒 | N/A |
+| Chamberlain Group | N/A | N/A | N/A | 🔒 | N/A |
+| Chan Zuckerberg Initiative | N/A | N/A | N/A | 🔒 | N/A |
+| Chapter | N/A | N/A | N/A | 🔒 | N/A |
+| Character.AI | N/A | N/A | N/A | 🔒 | N/A |
+| ChargePoint | N/A | N/A | N/A | 🔒 | N/A |
+| ChartHop | N/A | N/A | N/A | 🔒 | N/A |
+| ChartHop | N/A | N/A | N/A | 🔒 | N/A |
+| Chartboost | N/A | N/A | N/A | 🔒 | N/A |
+| Check | N/A | N/A | N/A | 🔒 | N/A |
+| Checkr | N/A | N/A | N/A | 🔒 | N/A |
+| Chef Robotics | N/A | N/A | N/A | 🔒 | N/A |
+| Chemours | N/A | N/A | N/A | 🔒 | N/A |
+| Chewy | N/A | N/A | N/A | 🔒 | N/A |
+| Chia Network Inc. | N/A | N/A | N/A | 🔒 | N/A |
+| Chief | N/A | N/A | N/A | 🔒 | N/A |
+| Chime | N/A | N/A | N/A | 🔒 | N/A |
+| Choco | N/A | N/A | N/A | 🔒 | N/A |
+| Choco | N/A | N/A | N/A | 🔒 | N/A |
+| Chowbus | N/A | N/A | N/A | 🔒 | N/A |
+| Chronosphere | N/A | N/A | N/A | 🔒 | N/A |
+| Cider | N/A | N/A | N/A | 🔒 | N/A |
+| Cinder | N/A | N/A | N/A | 🔒 | N/A |
+| Circle | N/A | N/A | N/A | 🔒 | N/A |
+| CircleCI | N/A | N/A | N/A | 🔒 | N/A |
+| Circles.Life | N/A | N/A | N/A | 🔒 | N/A |
+| Cirque du Soleil Entertainment Group | N/A | N/A | N/A | 🔒 | N/A |
+| Citadel | N/A | N/A | N/A | 🔒 | N/A |
+| Citadel | N/A | N/A | N/A | 🔒 | N/A |
+| Citi | N/A | N/A | N/A | 🔒 | N/A |
+| Citizen | N/A | N/A | N/A | 🔒 | N/A |
+| Citrix | N/A | N/A | N/A | 🔒 | N/A |
+| Civis Analytics | N/A | N/A | N/A | 🔒 | N/A |
+| ClassDojo | N/A | N/A | N/A | 🔒 | N/A |
+| ClassPass | N/A | N/A | N/A | 🔒 | N/A |
+| Clear Street | N/A | N/A | N/A | 🔒 | N/A |
+| Clearcover | N/A | N/A | N/A | 🔒 | N/A |
+| Cleo (US) | N/A | N/A | N/A | 🔒 | N/A |
+| Clerk | N/A | N/A | N/A | 🔒 | N/A |
+| Clever | N/A | N/A | N/A | 🔒 | N/A |
+| ClickHouse | N/A | N/A | N/A | 🔒 | N/A |
+| ClickUp | N/A | N/A | N/A | 🔒 | N/A |
+| Climate Power | N/A | N/A | N/A | 🔒 | N/A |
+| Clio | N/A | N/A | N/A | 🔒 | N/A |
+| Clipboard Health | N/A | N/A | N/A | 🔒 | N/A |
+| Clockwise | N/A | N/A | N/A | 🔒 | N/A |
+| Clockwork | N/A | N/A | N/A | 🔒 | N/A |
+| Close | N/A | N/A | N/A | 🔒 | N/A |
+| Cloudera | N/A | N/A | N/A | 🔒 | N/A |
+| Cloudflare | N/A | N/A | N/A | 🔒 | N/A |
+| Clozd | N/A | N/A | N/A | 🔒 | N/A |
+| Clutter | N/A | N/A | N/A | 🔒 | N/A |
+| Coalition | N/A | N/A | N/A | 🔒 | N/A |
+| Coast | N/A | N/A | N/A | 🔒 | N/A |
+| Cockroach Labs | N/A | N/A | N/A | 🔒 | N/A |
+| Coda | N/A | N/A | N/A | 🔒 | N/A |
+| Code Climate | N/A | N/A | N/A | 🔒 | N/A |
+| Code and Theory | N/A | N/A | N/A | 🔒 | N/A |
+| Code42 | N/A | N/A | N/A | 🔒 | N/A |
+| CodeSignal | N/A | N/A | N/A | 🔒 | N/A |
+| Codi | N/A | N/A | N/A | 🔒 | N/A |
+| Coffee Meets Bagel | N/A | N/A | N/A | 🔒 | N/A |
+| Cogent Biosciences | N/A | N/A | N/A | 🔒 | N/A |
+| Cogo Labs | N/A | N/A | N/A | 🔒 | N/A |
+| Cohere | N/A | N/A | N/A | 🔒 | N/A |
+| Coherus BioSciences | Coherus BioSciences is a clinical-stage biopharmaceutical company focused on developing biosimilars of FDA-approved therapeutics, with a mission to provide affordable and accessible biologics to patients with unmet medical needs. They have raised over $600 million in funding from prominent investors, including OrbiMed Advisors, Fidelity Management & Research Company, and RA Capital Management. In their latest funding round, Coherus raised $150 million at a valuation of $1.2 billion. |  | N/A | 🔒 | N/A |
+| Cohesity | Cohesity is a leading enterprise data management software company that offers a unified platform for managing data across various environments. They aim to help organizations protect, manage, and analyze their data to make better business decisions.   What makes Cohesity unique is its ability to provide a comprehensive solution for data management across on-premises, hybrid, and multi-cloud environments. This sets them apart from competitors who may only focus on one or two of these areas.   In terms of financials, Cohesity recently raised $1.8 billion in Series F funding, bringing their total funding to $4.8 billion. This funding round was led by Insight Partners and included participation from existing investors Lightspeed Venture Partners, Sequoia Capital, and TPG Capital. With this funding, Cohesity's valuation now stands at $6.2 billion.   Additionally, Cohesity boasts a strong customer base of over 4,000 organizations, including major companies like AT&T, Cisco, and Coca-Cola. The company has experienced significant growth, with a 50% increase in revenue year-over-year in 2021.   Overall, Cohesity is a disruptive player in the enterprise data management market and is well-positioned for continued growth. | Insight Partners, Sequoia | N/A | 🔒 | N/A |
+| Coin Metrics | Coin Metrics is a prominent provider of cryptocurrency market data and analytics, aiming to enhance transparency and accessibility for institutional investors. They have raised $20 million in funding from notable investors like Sequoia Capital, Digital Currency Group, and Pantera Capital, and achieved a valuation of $1 billion in 2021. | Sequoia | N/A | 🔒 | N/A |
+| CoinDesk | CoinDesk is a prominent media outlet that focuses on providing comprehensive coverage of the cryptocurrency industry, offering news, analysis, and opinion pieces on various cryptocurrencies including Bitcoin and altcoins. Founded in 2013, the company has successfully raised over $10 million in funding from notable investors such as Digital Currency Group, Pantera Capital, and First Round Capital. |  | N/A | 🔒 | N/A |
+| CoinFlip | N/A | N/A | N/A | 🔒 | N/A |
+| CoinGecko | N/A | N/A | N/A | 🔒 | N/A |
+| CoinList | N/A | N/A | N/A | 🔒 | N/A |
+| CoinTracker | N/A | N/A | N/A | 🔒 | N/A |
+| Coinbase Careers Page | N/A | N/A | N/A | 🔒 | N/A |
+| Collective Health | N/A | N/A | N/A | 🔒 | N/A |
+| Collective[i] | N/A | N/A | N/A | 🔒 | N/A |
+| Collibra | N/A | N/A | N/A | 🔒 | N/A |
+| Color | N/A | N/A | N/A | 🔒 | N/A |
+| Column | N/A | N/A | N/A | 🔒 | N/A |
+| Commerce Bank | N/A | N/A | N/A | 🔒 | N/A |
+| Common | N/A | N/A | N/A | 🔒 | N/A |
+| Common Room | N/A | N/A | N/A | 🔒 | N/A |
+| Community Phone | N/A | N/A | N/A | 🔒 | N/A |
+| ComplyAdvantage | N/A | N/A | N/A | 🔒 | N/A |
+| Conduit | N/A | N/A | N/A | 🔒 | N/A |
+| Confirm | N/A | N/A | N/A | 🔒 | N/A |
+| Confluent | N/A | N/A | N/A | 🔒 | N/A |
+| Consensys | N/A | N/A | N/A | 🔒 | N/A |
+| Contentful | N/A | N/A | N/A | 🔒 | N/A |
+| Convoy | N/A | N/A | N/A | 🔒 | N/A |
+| Cord | N/A | N/A | N/A | 🔒 | N/A |
+| Core | N/A | N/A | N/A | 🔒 | N/A |
+| Corvus Insurance | N/A | N/A | N/A | 🔒 | N/A |
+| Cottage | N/A | N/A | N/A | 🔒 | N/A |
+| Coupa Software, Inc. | N/A | N/A | N/A | 🔒 | N/A |
+| Coupang | N/A | N/A | N/A | 🔒 | N/A |
+| Course Hero | N/A | N/A | N/A | 🔒 | N/A |
+| Coursera | N/A | N/A | N/A | 🔒 | N/A |
+| Covera Health | N/A | N/A | N/A | 🔒 | N/A |
+| Cowbell Cyber Inc. | N/A | N/A | N/A | 🔒 | N/A |
+| Crabel Capital Management, LLC | N/A | N/A | N/A | 🔒 | N/A |
+| Credible | N/A | N/A | N/A | 🔒 | N/A |
+| Credit Karma | N/A | N/A | N/A | 🔒 | N/A |
+| Creditas | N/A | N/A | N/A | 🔒 | N/A |
+| Cresco Labs | N/A | N/A | N/A | 🔒 | N/A |
+| Cresta | N/A | N/A | N/A | 🔒 | N/A |
+| Cribl | N/A | N/A | N/A | 🔒 | N/A |
+| Critical Mass | N/A | N/A | N/A | 🔒 | N/A |
+| Cross River | N/A | N/A | N/A | 🔒 | N/A |
+| Cross River | N/A | N/A | N/A | 🔒 | N/A |
+| Crossbeam | N/A | N/A | N/A | 🔒 | N/A |
+| Crowdbotics | N/A | N/A | N/A | 🔒 | N/A |
+| Crowdstrike | N/A | N/A | N/A | 🔒 | N/A |
+| Cruise | N/A | N/A | N/A | 🔒 | N/A |
+| Cruise - University | N/A | N/A | N/A | 🔒 | N/A |
+| Crunchbase | N/A | N/A | N/A | 🔒 | N/A |
+| Crunchyroll | N/A | N/A | N/A | 🔒 | N/A |
+| Crusoe | N/A | N/A | N/A | 🔒 | N/A |
+| Crusoe | N/A | N/A | N/A | 🔒 | N/A |
+| Cubic | N/A | N/A | N/A | 🔒 | N/A |
+| Culture Biosciences | N/A | N/A | N/A | 🔒 | N/A |
+| Curaleaf | N/A | N/A | N/A | 🔒 | N/A |
+| Curated | N/A | N/A | N/A | 🔒 | N/A |
+| Curative | N/A | N/A | N/A | 🔒 | N/A |
+| Curio Research | N/A | N/A | N/A | 🔒 | N/A |
+| Curve Health | N/A | N/A | N/A | 🔒 | N/A |
+| D2L | N/A | N/A | N/A | 🔒 | N/A |
+| DHI Group, Inc. | N/A | N/A | N/A | 🔒 | N/A |
+| DISCO | N/A | N/A | N/A | 🔒 | N/A |
+| DRW | N/A | N/A | N/A | 🔒 | N/A |
+| Dagger | N/A | N/A | N/A | 🔒 | N/A |
+| Daily Harvest | N/A | N/A | N/A | 🔒 | N/A |
+| DailyPay Belfast | N/A | N/A | N/A | 🔒 | N/A |
+| Dandy | N/A | N/A | N/A | 🔒 | N/A |
+| Dapper Labs | N/A | N/A | N/A | 🔒 | N/A |
+| Dashlane | N/A | N/A | N/A | 🔒 | N/A |
+| Dashworks | N/A | N/A | N/A | 🔒 | N/A |
+| DataCamp | N/A | N/A | N/A | 🔒 | N/A |
+| DataGrail | N/A | N/A | N/A | 🔒 | N/A |
+| Databento | N/A | N/A | N/A | 🔒 | N/A |
+| Databook | N/A | N/A | N/A | 🔒 | N/A |
+| Databricks | N/A | N/A | N/A | 🔒 | N/A |
+| Datadog | N/A | N/A | N/A | 🔒 | N/A |
+| Dataiku | N/A | N/A | N/A | 🔒 | N/A |
+| Datavant | N/A | N/A | N/A | 🔒 | N/A |
+| Dealpath | N/A | N/A | N/A | 🔒 | N/A |
+| Decide | N/A | N/A | N/A | 🔒 | N/A |
+| Deel | N/A | N/A | N/A | 🔒 | N/A |
+| DeepMind | N/A | N/A | N/A | 🔒 | N/A |
+| Deepcell | N/A | N/A | N/A | 🔒 | N/A |
+| Deepgram | N/A | N/A | N/A | 🔒 | N/A |
+| Degreed | N/A | N/A | N/A | 🔒 | N/A |
+| Deliveroo | N/A | N/A | N/A | 🔒 | N/A |
+| Dell | N/A | N/A | N/A | 🔒 | N/A |
+| Delphia | N/A | N/A | N/A | 🔒 | N/A |
+| Demandbase | Demandbase is a B2B marketing software company that helps businesses reach and engage their target customers. They stand out by providing tools to help businesses grow by reaching the right people, at the right time, with the right message. They have raised a total of $280 million in funding, with a valuation of $1.5 billion, and have prestigious investors such as Salesforce Ventures, Kleiner Perkins Caufield & Byers, and Sequoia Capital. | Kleiner Perkins, Salesforce Ventures, Sequoia | N/A | 🔒 | N/A |
+| Demiurge Studios | N/A | N/A | N/A | 🔒 | N/A |
+| Density | N/A | N/A | N/A | 🔒 | N/A |
+| Descript | N/A | N/A | N/A | 🔒 | N/A |
+| Desktop Metal | N/A | N/A | N/A | 🔒 | N/A |
+| DevRev | N/A | N/A | N/A | 🔒 | N/A |
+| DiDi Labs | N/A | N/A | N/A | 🔒 | N/A |
+| Dialpad | N/A | N/A | N/A | 🔒 | N/A |
+| Diamond Foundry | N/A | N/A | N/A | 🔒 | N/A |
+| Digit | N/A | N/A | N/A | 🔒 | N/A |
+| Digital.ai | N/A | N/A | N/A | 🔒 | N/A |
+| Diligent Corporation | N/A | N/A | N/A | 🔒 | N/A |
+| Diligent Services | N/A | N/A | N/A | 🔒 | N/A |
+| Dimensional | N/A | N/A | N/A | 🔒 | N/A |
+| Disability Rights California | N/A | N/A | N/A | 🔒 | N/A |
+| Disc Golf Pro Tour | N/A | N/A | N/A | 🔒 | N/A |
+| Discord | N/A | N/A | N/A | 🔒 | N/A |
+| Ditto | Ditto is a unique decentralized protocol that allows users to create and manage their own data wallets, giving them ownership and control over their data. The company has received backing from prominent venture capital firms like Sequoia Capital and Andreessen Horowitz. In its most recent funding round, Ditto raised $100 million, valuing the company at $1 billion. | A16Z, Sequoia | N/A | 🔒 | N/A |
+| Divvy Homes | N/A | N/A | N/A | 🔒 | N/A |
+| Docker | N/A | N/A | N/A | 🔒 | N/A |
+| Docugami | N/A | N/A | N/A | 🔒 | N/A |
+| Dollar Shave Club | N/A | N/A | N/A | 🔒 | N/A |
+| Doma | N/A | N/A | N/A | 🔒 | N/A |
+| Domeyard LP | N/A | N/A | N/A | 🔒 | N/A |
+| Domino Data Lab | N/A | N/A | N/A | 🔒 | N/A |
+| Domo | N/A | N/A | N/A | 🔒 | N/A |
+| DoorDash | N/A | N/A | N/A | 🔒 | N/A |
+| DoubleVerify | N/A | N/A | N/A | 🔒 | N/A |
+| Dovetail | N/A | N/A | N/A | 🔒 | N/A |
+| Dow Jones | N/A | N/A | N/A | 🔒 | N/A |
+| Doximity | N/A | N/A | N/A | 🔒 | N/A |
+| Dremio | N/A | N/A | N/A | 🔒 | N/A |
+| Drift.com | N/A | N/A | N/A | 🔒 | N/A |
+| DriveTime | N/A | N/A | N/A | 🔒 | N/A |
+| DriveWealth | N/A | N/A | N/A | 🔒 | N/A |
+| DroneUp | N/A | N/A | N/A | 🔒 | N/A |
+| Dropbox | N/A | N/A | N/A | 🔒 | N/A |
+| Druva | N/A | N/A | N/A | 🔒 | N/A |
+| Ducera Partners - Experienced Hires | N/A | N/A | N/A | 🔒 | N/A |
+| Duck Creek | N/A | N/A | N/A | 🔒 | N/A |
+| Duke Energy | N/A | N/A | N/A | 🔒 | N/A |
+| Duolingo | Duolingo is a unique free language-learning website and app that employs a game-like approach to teach users new languages, aiming to make language learning accessible to all. The company has raised over $500 million in funding from notable investors including Google Ventures, Kleiner Perkins Caufield & Byers, and CapitalG. | Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
+| Dwolla | Dwolla is a financial technology company founded in 2007 that aims to democratize money movement by providing a simple, secure, and affordable way for businesses and individuals to send and receive money. They have raised over $100 million in funding from investors such as Accel Partners, Revolution Ventures, and Kleiner Perkins Caufield & Byers, and are currently valued at over $1 billion. Dwolla offers a range of financial products and services, including bill payment, peer-to-peer payments, and business banking, and is dedicated to continuously innovating to meet the needs of its customers. | Accel, Kleiner Perkins | N/A | 🔒 | N/A |
+| Dynamic | N/A | N/A | N/A | 🔒 | N/A |
+| Dyno Therapeutics | N/A | N/A | N/A | 🔒 | N/A |
+| E-Space | N/A | N/A | N/A | 🔒 | N/A |
+| EarnIn | N/A | N/A | N/A | 🔒 | N/A |
+| EarnUp | N/A | N/A | N/A | 🔒 | N/A |
+| Earnest Current Job Openings | N/A | N/A | N/A | 🔒 | N/A |
+| EasyPost | N/A | N/A | N/A | 🔒 | N/A |
+| Echo | N/A | N/A | N/A | 🔒 | N/A |
+| Eco | N/A | N/A | N/A | 🔒 | N/A |
+| Egen | N/A | N/A | N/A | 🔒 | N/A |
+| Elastic | N/A | N/A | N/A | 🔒 | N/A |
+| Electric AI | N/A | N/A | N/A | 🔒 | N/A |
+| Electric Hydrogen | N/A | N/A | N/A | 🔒 | N/A |
+| Elegen | N/A | N/A | N/A | 🔒 | N/A |
+| Element Biosciences | N/A | N/A | N/A | 🔒 | N/A |
+| Elementum | N/A | N/A | N/A | 🔒 | N/A |
+| Elevance Health | N/A | N/A | N/A | 🔒 | N/A |
+| EliseAI | N/A | N/A | N/A | 🔒 | N/A |
+| Elodie Games | N/A | N/A | N/A | 🔒 | N/A |
+| Elwood Technologies | N/A | N/A | N/A | 🔒 | N/A |
+| Embrace | N/A | N/A | N/A | 🔒 | N/A |
+| Employment Opportunities at BuzzFeed, Inc. | N/A | N/A | N/A | 🔒 | N/A |
+| Emulate | N/A | N/A | N/A | 🔒 | N/A |
+| Endava | N/A | N/A | N/A | 🔒 | N/A |
+| EnergyHub | N/A | N/A | N/A | 🔒 | N/A |
+| Enova International | N/A | N/A | N/A | 🔒 | N/A |
+| Enthought | N/A | N/A | N/A | 🔒 | N/A |
+| Entrata | N/A | N/A | N/A | 🔒 | N/A |
+| Enveda Biosciences | N/A | N/A | N/A | 🔒 | N/A |
+| Enveritas | N/A | N/A | N/A | 🔒 | N/A |
+| Envision Employment Solutions | N/A | N/A | N/A | 🔒 | N/A |
+| Envoy | N/A | N/A | N/A | 🔒 | N/A |
+| Epic Avature | N/A | N/A | N/A | 🔒 | N/A |
+| Epic Games | N/A | N/A | N/A | 🔒 | N/A |
+| Epirus | N/A | N/A | N/A | 🔒 | N/A |
+| Epsilon3 | N/A | N/A | N/A | 🔒 | N/A |
+| Equinix | N/A | N/A | N/A | 🔒 | N/A |
+| Equitable Bank | N/A | N/A | N/A | 🔒 | N/A |
+| Erasca | N/A | N/A | N/A | 🔒 | N/A |
+| Ethereum Foundation | N/A | N/A | N/A | 🔒 | N/A |
+| Everlaw | N/A | N/A | N/A | 🔒 | N/A |
+| Exact Sciences | N/A | N/A | N/A | 🔒 | N/A |
+| ExodusPoint | N/A | N/A | N/A | 🔒 | N/A |
+| Expedia | N/A | N/A | N/A | 🔒 | N/A |
+| Exponential Defi, Inc | N/A | N/A | N/A | 🔒 | N/A |
+| Extreme Networks | N/A | N/A | N/A | 🔒 | N/A |
+| F5 | N/A | N/A | N/A | 🔒 | N/A |
+| FIGS | N/A | N/A | N/A | 🔒 | N/A |
+| FORTE | N/A | N/A | N/A | 🔒 | N/A |
+| FS Investments | N/A | N/A | N/A | 🔒 | N/A |
+| FabFitFun | N/A | N/A | N/A | 🔒 | N/A |
+| FactSet | N/A | N/A | N/A | 🔒 | N/A |
+| Fair Square Medicare | N/A | N/A | N/A | 🔒 | N/A |
+| Faire | N/A | N/A | N/A | 🔒 | N/A |
+| FanDuel | N/A | N/A | N/A | 🔒 | N/A |
+| Fanatics | Fanatics is a global digital sports platform that offers a wide range of products and services for fans of major sports, including e-commerce, ticketing, and media. What makes them unique is their one-stop shop approach, providing a comprehensive solution for sports enthusiasts. Founded in 2011 and headquartered in Philadelphia, Pennsylvania, Fanatics has raised over $1.5 billion in funding from investors like SoftBank Vision Fund, Silver Lake Partners, and Accel Partners. In 2021, the company was valued at $27 billion. | Accel | N/A | 🔒 | N/A |
+| Featureform | N/A | N/A | N/A | 🔒 | N/A |
+| Feedzai | N/A | N/A | N/A | 🔒 | N/A |
+| Fetch | N/A | N/A | N/A | 🔒 | N/A |
+| Fifth Third Bank | N/A | N/A | N/A | 🔒 | N/A |
+| Figma | N/A | N/A | N/A | 🔒 | N/A |
+| Financial Technology Partners | N/A | N/A | N/A | 🔒 | N/A |
+| Findhelp, A Public Benefit Corporation | N/A | N/A | N/A | 🔒 | N/A |
+| Fireblocks | N/A | N/A | N/A | 🔒 | N/A |
+| Firefly Health | N/A | N/A | N/A | 🔒 | N/A |
+| FiscalNote | N/A | N/A | N/A | 🔒 | N/A |
+| Fisher & Paykel | N/A | N/A | N/A | 🔒 | N/A |
+| Five Rings | Five Rings is a venture-backed startup focused on developing lightweight, comfortable, and powerful augmented reality (AR) glasses that allow users to interact with digital content naturally. The company has raised $100 million in funding from prominent investors such as Google Ventures, Kleiner Perkins, and Accel Partners. | Accel, Google Ventures, Kleiner Perkins | N/A | 🔒 | N/A |
+| Fivetran | N/A | N/A | N/A | 🔒 | N/A |
+| Fivetran | N/A | N/A | N/A | 🔒 | N/A |
+| Flatiron Health Conference Applications | N/A | N/A | N/A | 🔒 | N/A |
+| Flex | N/A | N/A | N/A | 🔒 | N/A |
+| Flexport | N/A | N/A | N/A | 🔒 | N/A |
+| Flix | N/A | N/A | N/A | 🔒 | N/A |
+| Flock Safety | N/A | N/A | N/A | 🔒 | N/A |
+| Flow | N/A | N/A | N/A | 🔒 | N/A |
+| Flowcarbon | N/A | N/A | N/A | 🔒 | N/A |
+| Fly.io | N/A | N/A | N/A | 🔒 | N/A |
+| Flyhomes | N/A | N/A | N/A | 🔒 | N/A |
+| Forbes | N/A | N/A | N/A | 🔒 | N/A |
+| Forma | N/A | N/A | N/A | 🔒 | N/A |
+| Formation | N/A | N/A | N/A | 🔒 | N/A |
+| Forta Job Board | N/A | N/A | N/A | 🔒 | N/A |
+| Forward | N/A | N/A | N/A | 🔒 | N/A |
+| Found | N/A | N/A | N/A | 🔒 | N/A |
+| Foundation | N/A | N/A | N/A | 🔒 | N/A |
+| Fountain | N/A | N/A | N/A | 🔒 | N/A |
+| FourKites | N/A | N/A | N/A | 🔒 | N/A |
+| Foursquare | N/A | N/A | N/A | 🔒 | N/A |
+| Freenome | N/A | N/A | N/A | 🔒 | N/A |
+| Front | N/A | N/A | N/A | 🔒 | N/A |
+| FullStack Labs | N/A | N/A | N/A | 🔒 | N/A |
+| Fynd | N/A | N/A | N/A | 🔒 | N/A |
+| GHX | N/A | N/A | N/A | 🔒 | N/A |
+| GOAT Group | N/A | N/A | N/A | 🔒 | N/A |
+| GPTZero | N/A | N/A | N/A | 🔒 | N/A |
+| Garda Capital Partners | N/A | N/A | N/A | 🔒 | N/A |
+| Gate.io | N/A | N/A | N/A | 🔒 | N/A |
+| Gather | N/A | N/A | N/A | 🔒 | N/A |
+| Gatik | N/A | N/A | N/A | 🔒 | N/A |
+| Gem | N/A | N/A | N/A | 🔒 | N/A |
+| Gen | N/A | N/A | N/A | 🔒 | N/A |
+| General Motors | N/A | N/A | N/A | 🔒 | N/A |
+| Genesis Therapeutics | N/A | N/A | N/A | 🔒 | N/A |
+| Getty Images | N/A | N/A | N/A | 🔒 | N/A |
+| GigFinesse | N/A | N/A | N/A | 🔒 | N/A |
+| Gilead Sciences | N/A | N/A | N/A | 🔒 | N/A |
+| Ginkgo Bioworks | N/A | N/A | N/A | 🔒 | N/A |
+| Girl Effect | N/A | N/A | N/A | 🔒 | N/A |
+| GitHub | N/A | N/A | N/A | 🔒 | N/A |
+| GitLab | N/A | N/A | N/A | 🔒 | N/A |
+| Glean Website | N/A | N/A | N/A | 🔒 | N/A |
+| Glovo | N/A | N/A | N/A | 🔒 | N/A |
+| Go1 Australia | N/A | N/A | N/A | 🔒 | N/A |
+| Go1 United States | N/A | N/A | N/A | 🔒 | N/A |
+| GoCardless | N/A | N/A | N/A | 🔒 | N/A |
+| GoPro | N/A | N/A | N/A | 🔒 | N/A |
+| Going | N/A | N/A | N/A | 🔒 | N/A |
+| Gold Flora | N/A | N/A | N/A | 🔒 | N/A |
+| Goldbelly | N/A | N/A | N/A | 🔒 | N/A |
+| Gong.io | N/A | N/A | N/A | 🔒 | N/A |
+| Google | N/A | N/A | N/A | 🔒 | N/A |
+| Gordian Software | N/A | N/A | N/A | 🔒 | N/A |
+| Gordian Software | N/A | N/A | N/A | 🔒 | N/A |
+| Grafana Labs | N/A | N/A | N/A | 🔒 | N/A |
+| Grammarly | N/A | N/A | N/A | 🔒 | N/A |
+| Greene & Co Careers | N/A | N/A | N/A | 🔒 | N/A |
+| Greenlight Financial Technology | N/A | N/A | N/A | 🔒 | N/A |
+| Grindr | N/A | N/A | N/A | 🔒 | N/A |
+| Guild | N/A | N/A | N/A | 🔒 | N/A |
+| Gusto, Inc. | N/A | N/A | N/A | 🔒 | N/A |
+| H1 | N/A | N/A | N/A | 🔒 | N/A |
+| HCVT | N/A | N/A | N/A | 🔒 | N/A |
+| HackerRank | N/A | N/A | N/A | 🔒 | N/A |
+| Hang | N/A | N/A | N/A | 🔒 | N/A |
+| Hardsuit Labs | N/A | N/A | N/A | 🔒 | N/A |
+| Harry's | N/A | N/A | N/A | 🔒 | N/A |
+| HashiCorp | N/A | N/A | N/A | 🔒 | N/A |
+| Helbiz Inc. | N/A | N/A | N/A | 🔒 | N/A |
+| Helion Energy | N/A | N/A | N/A | 🔒 | N/A |
+| HelloFresh | N/A | N/A | N/A | 🔒 | N/A |
+| Hightouch | N/A | N/A | N/A | 🔒 | N/A |
+| Hipcamp | N/A | N/A | N/A | 🔒 | N/A |
+| Honor | N/A | N/A | N/A | 🔒 | N/A |
+| Hopin | N/A | N/A | N/A | 🔒 | N/A |
+| Hopper | N/A | N/A | N/A | 🔒 | N/A |
+| Hot Topic & BoxLunch | N/A | N/A | N/A | 🔒 | N/A |
+| HubSpot | N/A | N/A | N/A | 🔒 | N/A |
+| Hudl | N/A | N/A | N/A | 🔒 | N/A |
+| Hudson River Trading | N/A | N/A | N/A | 🔒 | N/A |
+| Humaans | N/A | N/A | N/A | 🔒 | N/A |
+| Human Interest | N/A | N/A | N/A | 🔒 | N/A |
+| Humane | N/A | N/A | N/A | 🔒 | N/A |
+| Huntsman | N/A | N/A | N/A | 🔒 | N/A |
+| Hyperscience | N/A | N/A | N/A | 🔒 | N/A |
+| IDEO | N/A | N/A | N/A | 🔒 | N/A |
+| IMC Trading | N/A | N/A | N/A | 🔒 | N/A |
+| INMAR Intelligence | N/A | N/A | N/A | 🔒 | N/A |
+| Illumio | N/A | N/A | N/A | 🔒 | N/A |
+| Impulse | N/A | N/A | N/A | 🔒 | N/A |
+| Included Health | N/A | N/A | N/A | 🔒 | N/A |
+| Independent Financial | N/A | N/A | N/A | 🔒 | N/A |
+| Ingredion | N/A | N/A | N/A | 🔒 | N/A |
+| Insightsoftware | N/A | N/A | N/A | 🔒 | N/A |
+| Insightsoftware | N/A | N/A | N/A | 🔒 | N/A |
+| Instabase | N/A | N/A | N/A | 🔒 | N/A |
+| Instacart | N/A | N/A | N/A | 🔒 | N/A |
+| Intapp | N/A | N/A | N/A | 🔒 | N/A |
+| Intel | N/A | N/A | N/A | 🔒 | N/A |
+| Interactive Brokers | N/A | N/A | N/A | 🔒 | N/A |
+| Interstate Batteries | N/A | N/A | N/A | 🔒 | N/A |
+| Intro | N/A | N/A | N/A | 🔒 | N/A |
+| Inversion | N/A | N/A | N/A | 🔒 | N/A |
+| Invitae | N/A | N/A | N/A | 🔒 | N/A |
+| Invoke Staffing | N/A | N/A | N/A | 🔒 | N/A |
+| Iomaxis | N/A | N/A | N/A | 🔒 | N/A |
+| Iomaxis | N/A | N/A | N/A | 🔒 | N/A |
+| JIL | N/A | N/A | N/A | 🔒 | N/A |
+| JOOR | N/A | N/A | N/A | 🔒 | N/A |
+| JP Morgan | N/A | N/A | N/A | 🔒 | N/A |
+| Jagex | N/A | N/A | N/A | 🔒 | N/A |
+| Jamf | N/A | N/A | N/A | 🔒 | N/A |
+| Jane Street | N/A | N/A | N/A | 🔒 | N/A |
+| Jasper | N/A | N/A | N/A | 🔒 | N/A |
+| Jeeves | N/A | N/A | N/A | 🔒 | N/A |
+| Jellyfish | N/A | N/A | N/A | 🔒 | N/A |
+| Jina AI | N/A | N/A | N/A | 🔒 | N/A |
+| Job Application for Submit a General Application at Apixio | N/A | N/A | N/A | 🔒 | N/A |
+| Job Board | N/A | N/A | N/A | 🔒 | N/A |
+| Johnson Controls | N/A | N/A | N/A | 🔒 | N/A |
+| Juniper Solutions, Inc. | N/A | N/A | N/A | 🔒 | N/A |
+| Jupiter | N/A | N/A | N/A | 🔒 | N/A |
+| JustWatch | N/A | N/A | N/A | 🔒 | N/A |
+| Justworks | N/A | N/A | N/A | 🔒 | N/A |
+| KAYAK | N/A | N/A | N/A | 🔒 | N/A |
+| KOKO Networks | N/A | N/A | N/A | 🔒 | N/A |
+| KUNGFU.AI | N/A | N/A | N/A | 🔒 | N/A |
+| Kapwing | N/A | N/A | N/A | 🔒 | N/A |
+| Kensho | N/A | N/A | N/A | 🔒 | N/A |
+| Kernel | N/A | N/A | N/A | 🔒 | N/A |
+| KeyBank | N/A | N/A | N/A | 🔒 | N/A |
+| Khan Academy | N/A | N/A | N/A | 🔒 | N/A |
+| Kindred | N/A | N/A | N/A | 🔒 | N/A |
+| Kindred | N/A | N/A | N/A | 🔒 | N/A |
+| Kinsta | N/A | N/A | N/A | 🔒 | N/A |
+| Kiva.org | N/A | N/A | N/A | 🔒 | N/A |
+| Kla | N/A | N/A | N/A | 🔒 | N/A |
+| Klarity | N/A | N/A | N/A | 🔒 | N/A |
+| Klarna | N/A | N/A | N/A | 🔒 | N/A |
+| Klue | N/A | N/A | N/A | 🔒 | N/A |
+| KnowBe4 | N/A | N/A | N/A | 🔒 | N/A |
+| KoBold Metals | N/A | N/A | N/A | 🔒 | N/A |
+| Kodiak Robotics | N/A | N/A | N/A | 🔒 | N/A |
+| Komodo Health | N/A | N/A | N/A | 🔒 | N/A |
+| Komodo Health | N/A | N/A | N/A | 🔒 | N/A |
+| Kong | N/A | N/A | N/A | 🔒 | N/A |
+| Konrad | N/A | N/A | N/A | 🔒 | N/A |
+| Kraken Digital Asset Exchange | N/A | N/A | N/A | 🔒 | N/A |
+| Kroll Bond Rating Agency | N/A | N/A | N/A | 🔒 | N/A |
+| LPA, Inc. | N/A | N/A | N/A | 🔒 | N/A |
+| Labelbox | N/A | N/A | N/A | 🔒 | N/A |
+| Lakeside Software | N/A | N/A | N/A | 🔒 | N/A |
+| Lark Health | N/A | N/A | N/A | 🔒 | N/A |
+| LaunchDarkly | N/A | N/A | N/A | 🔒 | N/A |
+| LayerZero Labs | N/A | N/A | N/A | 🔒 | N/A |
+| LevelTen Energy | N/A | N/A | N/A | 🔒 | N/A |
+| Lightning Labs | N/A | N/A | N/A | 🔒 | N/A |
+| Lime | N/A | N/A | N/A | 🔒 | N/A |
+| Lime | N/A | N/A | N/A | 🔒 | N/A |
+| Live Oak Bank | N/A | N/A | N/A | 🔒 | N/A |
+| Lookout | N/A | N/A | N/A | 🔒 | N/A |
+| Loom, Inc. | N/A | N/A | N/A | 🔒 | N/A |
+| Loopio | N/A | N/A | N/A | 🔒 | N/A |
+| Lucid Motors | N/A | N/A | N/A | 🔒 | N/A |
+| Lucid Software | N/A | N/A | N/A | 🔒 | N/A |
+| Lumen | N/A | N/A | N/A | 🔒 | N/A |
+| Lyft | N/A | N/A | N/A | 🔒 | N/A |
+| Lyft | N/A | N/A | N/A | 🔒 | N/A |
+| Lytx | N/A | N/A | N/A | 🔒 | N/A |
+| MFS Careers | N/A | N/A | N/A | 🔒 | N/A |
+| MITRE | N/A | N/A | N/A | 🔒 | N/A |
+| MORSE Corp | N/A | N/A | N/A | 🔒 | N/A |
+| MTS Health Partners, L.P. | N/A | N/A | N/A | 🔒 | N/A |
+| MUI | N/A | N/A | N/A | 🔒 | N/A |
+| Machine Zone | N/A | N/A | N/A | 🔒 | N/A |
+| Machine Zone | N/A | N/A | N/A | 🔒 | N/A |
+| Magic Leap, Inc. | N/A | N/A | N/A | 🔒 | N/A |
+| Marshfield Clinic Health Systems | N/A | N/A | N/A | 🔒 | N/A |
+| Marvell | N/A | N/A | N/A | 🔒 | N/A |
+| Mashgin | N/A | N/A | N/A | 🔒 | N/A |
+| Mastercard | N/A | N/A | N/A | 🔒 | N/A |
+| Mastery Charter Schools | N/A | N/A | N/A | 🔒 | N/A |
+| Match Group | N/A | N/A | N/A | 🔒 | N/A |
+| Matter Labs | N/A | N/A | N/A | 🔒 | N/A |
+| Matterport | N/A | N/A | N/A | 🔒 | N/A |
+| McKesson | N/A | N/A | N/A | 🔒 | N/A |
+| Medal | N/A | N/A | N/A | 🔒 | N/A |
+| Medallion | N/A | N/A | N/A | 🔒 | N/A |
+| Medely | N/A | N/A | N/A | 🔒 | N/A |
+| MediaLab | N/A | N/A | N/A | 🔒 | N/A |
+| Meesho | N/A | N/A | N/A | 🔒 | N/A |
+| Meijer  | N/A | N/A | N/A | 🔒 | N/A |
+| Memora Health | N/A | N/A | N/A | 🔒 | N/A |
+| Mercedes-Benz R&D North America | N/A | N/A | N/A | 🔒 | N/A |
+| Mercury | N/A | N/A | N/A | 🔒 | N/A |
+| Merge | N/A | N/A | N/A | 🔒 | N/A |
+| Meta | N/A | N/A | N/A | 🔒 | N/A |
+| Mezmo | N/A | N/A | N/A | 🔒 | N/A |
+| MiTek | N/A | N/A | N/A | 🔒 | N/A |
+| Michaels | N/A | N/A | N/A | 🔒 | N/A |
+| Microsoft | N/A | N/A | N/A | 🔒 | N/A |
+| Mindbloom | N/A | N/A | N/A | 🔒 | N/A |
+| Minted | N/A | N/A | N/A | 🔒 | N/A |
+| Mitek Systems | N/A | N/A | N/A | 🔒 | N/A |
+| Modern Health | N/A | N/A | N/A | 🔒 | N/A |
+| Modern Treasury | N/A | N/A | N/A | 🔒 | N/A |
+| Momentus Space LLC | N/A | N/A | N/A | 🔒 | N/A |
+| Monad | N/A | N/A | N/A | 🔒 | N/A |
+| MongoDB | N/A | N/A | N/A | 🔒 | N/A |
+| Monzo | N/A | N/A | N/A | 🔒 | N/A |
+| MosaicML | N/A | N/A | N/A | 🔒 | N/A |
+| Motion | N/A | N/A | N/A | 🔒 | N/A |
+| Motional | N/A | N/A | N/A | 🔒 | N/A |
+| Motorola | N/A | N/A | N/A | 🔒 | N/A |
+| Multiply Labs | N/A | N/A | N/A | 🔒 | N/A |
+| Mutiny | N/A | N/A | N/A | 🔒 | N/A |
+| MyFitnessPal | N/A | N/A | N/A | 🔒 | N/A |
+| MyTutor | N/A | N/A | N/A | 🔒 | N/A |
+| Mysten Labs | N/A | N/A | N/A | 🔒 | N/A |
+| Nasdaq | N/A | N/A | N/A | 🔒 | N/A |
+| National Center for Atmospheric Research | N/A | N/A | N/A | 🔒 | N/A |
+| National Information Solutions Cooperative (NISC) | N/A | N/A | N/A | 🔒 | N/A |
+| Neeva | N/A | N/A | N/A | 🔒 | N/A |
+| Neighbor | N/A | N/A | N/A | 🔒 | N/A |
+| Nelnet | N/A | N/A | N/A | 🔒 | N/A |
+| Netflix | N/A | N/A | N/A | 🔒 | N/A |
+| Neuralink | N/A | N/A | N/A | 🔒 | N/A |
+| Newfront | N/A | N/A | N/A | 🔒 | N/A |
+| Niantic | N/A | N/A | N/A | 🔒 | N/A |
+| Nielsen | N/A | N/A | N/A | 🔒 | N/A |
+| NimbleRx | N/A | N/A | N/A | 🔒 | N/A |
+| Nium | N/A | N/A | N/A | 🔒 | N/A |
+| Nobell Foods | N/A | N/A | N/A | 🔒 | N/A |
+| NodeReal | N/A | N/A | N/A | 🔒 | N/A |
+| Nordson | N/A | N/A | N/A | 🔒 | N/A |
+| Nordstrom | N/A | N/A | N/A | 🔒 | N/A |
+| Northrop Grumman | N/A | N/A | N/A | 🔒 | N/A |
+| Not found – 404 error | N/A | N/A | N/A | 🔒 | N/A |
+| Notion | N/A | N/A | N/A | 🔒 | N/A |
+| Nova Credit | N/A | N/A | N/A | 🔒 | N/A |
+| Nuance | N/A | N/A | N/A | 🔒 | N/A |
+| Nubank | N/A | N/A | N/A | 🔒 | N/A |
+| Nucleus | N/A | N/A | N/A | 🔒 | N/A |
+| Nuna | N/A | N/A | N/A | 🔒 | N/A |
+| Nvidia | N/A | N/A | N/A | 🔒 | N/A |
+| Nylas | N/A | N/A | N/A | 🔒 | N/A |
+| Observe, Inc. | N/A | N/A | N/A | 🔒 | N/A |
+| Observe.AI | N/A | N/A | N/A | 🔒 | N/A |
+| OceanX | N/A | N/A | N/A | 🔒 | N/A |
+| Ocient | N/A | N/A | N/A | 🔒 | N/A |
+| OctoML | N/A | N/A | N/A | 🔒 | N/A |
+| Odeko | N/A | N/A | N/A | 🔒 | N/A |
+| Offchain Labs | N/A | N/A | N/A | 🔒 | N/A |
+| Olo | N/A | N/A | N/A | 🔒 | N/A |
+| OneSignal | N/A | N/A | N/A | 🔒 | N/A |
+| Onebrief | N/A | N/A | N/A | 🔒 | N/A |
+| OpenGov | N/A | N/A | N/A | 🔒 | N/A |
+| OpenSea | N/A | N/A | N/A | 🔒 | N/A |
+| OpenX | N/A | N/A | N/A | 🔒 | N/A |
+| Opendoor | N/A | N/A | N/A | 🔒 | N/A |
+| Opinov8 | N/A | N/A | N/A | 🔒 | N/A |
+| OppFi | N/A | N/A | N/A | 🔒 | N/A |
+| Optimal Dynamics | N/A | N/A | N/A | 🔒 | N/A |
+| Orchard | N/A | N/A | N/A | 🔒 | N/A |
+| Orum.io | N/A | N/A | N/A | 🔒 | N/A |
+| Oshkosh | N/A | N/A | N/A | 🔒 | N/A |
+| Otter.ai | N/A | N/A | N/A | 🔒 | N/A |
+| PDT Partners | N/A | N/A | N/A | 🔒 | N/A |
+| PJT Partners - Students | N/A | N/A | N/A | 🔒 | N/A |
+| Pace | N/A | N/A | N/A | 🔒 | N/A |
+| PagerDuty | N/A | N/A | N/A | 🔒 | N/A |
+| Palantir Technologies | N/A | N/A | N/A | 🔒 | N/A |
+| Panorama Education | N/A | N/A | N/A | 🔒 | N/A |
+| Paradigm | N/A | N/A | N/A | 🔒 | N/A |
+| Paragon | N/A | N/A | N/A | 🔒 | N/A |
+| Parasol | N/A | N/A | N/A | 🔒 | N/A |
+| Pardes Biosciences | N/A | N/A | N/A | 🔒 | N/A |
+| Parsons | N/A | N/A | N/A | 🔒 | N/A |
+| Patreon | N/A | N/A | N/A | 🔒 | N/A |
+| Paystack | N/A | N/A | N/A | 🔒 | N/A |
+| Paytm | N/A | N/A | N/A | 🔒 | N/A |
+| Pearl Health | N/A | N/A | N/A | 🔒 | N/A |
+| Peek | N/A | N/A | N/A | 🔒 | N/A |
+| Peloton | N/A | N/A | N/A | 🔒 | N/A |
+| Pendo | N/A | N/A | N/A | 🔒 | N/A |
+| Pentair | N/A | N/A | N/A | 🔒 | N/A |
+| People.ai | N/A | N/A | N/A | 🔒 | N/A |
+| Permutive | N/A | N/A | N/A | 🔒 | N/A |
+| Perpay | N/A | N/A | N/A | 🔒 | N/A |
+| Petal | N/A | N/A | N/A | 🔒 | N/A |
+| Philadelphia Phillies Baseball Operations Department | N/A | N/A | N/A | 🔒 | N/A |
+| Philips | N/A | N/A | N/A | 🔒 | N/A |
+| Pinata | N/A | N/A | N/A | 🔒 | N/A |
+| Pinterest | N/A | N/A | N/A | 🔒 | N/A |
+| PitchBook Data | N/A | N/A | N/A | 🔒 | N/A |
+| Plaid | N/A | N/A | N/A | 🔒 | N/A |
+| Planet | N/A | N/A | N/A | 🔒 | N/A |
+| Planned Parenthood Federation of America | N/A | N/A | N/A | 🔒 | N/A |
+| PlayStation Global | N/A | N/A | N/A | 🔒 | N/A |
+| Plexus | N/A | N/A | N/A | 🔒 | N/A |
+| Plotly | N/A | N/A | N/A | 🔒 | N/A |
+| Pluralsight | N/A | N/A | N/A | 🔒 | N/A |
+| PlusAI | N/A | N/A | N/A | 🔒 | N/A |
+| Pocket Gems | N/A | N/A | N/A | 🔒 | N/A |
+| Pocus | N/A | N/A | N/A | 🔒 | N/A |
+| Podium | N/A | N/A | N/A | 🔒 | N/A |
+| Point Digital Finance, Inc. | N/A | N/A | N/A | 🔒 | N/A |
+| Point72 | N/A | N/A | N/A | 🔒 | N/A |
+| Poshmark | N/A | N/A | N/A | 🔒 | N/A |
+| Posit | N/A | N/A | N/A | 🔒 | N/A |
+| Post. | N/A | N/A | N/A | 🔒 | N/A |
+| Prelim | N/A | N/A | N/A | 🔒 | N/A |
+| Presto | N/A | N/A | N/A | 🔒 | N/A |
+| Presto | N/A | N/A | N/A | 🔒 | N/A |
+| Primary | N/A | N/A | N/A | 🔒 | N/A |
+| Prime | N/A | N/A | N/A | 🔒 | N/A |
+| Prime Medicine | N/A | N/A | N/A | 🔒 | N/A |
+| Procter & Gamble | N/A | N/A | N/A | 🔒 | N/A |
+| Procter & Gamble | N/A | N/A | N/A | 🔒 | N/A |
+| Productiv Inc | N/A | N/A | N/A | 🔒 | N/A |
+| Proofpoint | N/A | N/A | N/A | 🔒 | N/A |
+| Protocol Labs | N/A | N/A | N/A | 🔒 | N/A |
+| Proviti | N/A | N/A | N/A | 🔒 | N/A |
+| Proviti | N/A | N/A | N/A | 🔒 | N/A |
+| Pulley | N/A | N/A | N/A | 🔒 | N/A |
+| Pure Storage | N/A | N/A | N/A | 🔒 | N/A |
+| Pure Storage | N/A | N/A | N/A | 🔒 | N/A |
+| Q2 | N/A | N/A | N/A | 🔒 | N/A |
+| Qualtrics | N/A | N/A | N/A | 🔒 | N/A |
+| QuantAQ | N/A | N/A | N/A | 🔒 | N/A |
+| QuantCo | N/A | N/A | N/A | 🔒 | N/A |
+| Quantcast | N/A | N/A | N/A | 🔒 | N/A |
+| QuantumScape Corporation | N/A | N/A | N/A | 🔒 | N/A |
+| QuickNode | N/A | N/A | N/A | 🔒 | N/A |
+| Quora | N/A | N/A | N/A | 🔒 | N/A |
+| Qventus | N/A | N/A | N/A | 🔒 | N/A |
+| Qvest.US | N/A | N/A | N/A | 🔒 | N/A |
+| RVO Health | N/A | N/A | N/A | 🔒 | N/A |
+| Rain | N/A | N/A | N/A | 🔒 | N/A |
+| Ramp | N/A | N/A | N/A | 🔒 | N/A |
+| Rarible | N/A | N/A | N/A | 🔒 | N/A |
+| Razorpay Software Private Limited | N/A | N/A | N/A | 🔒 | N/A |
+| Ready | N/A | N/A | N/A | 🔒 | N/A |
+| Real-Time Innovations | N/A | N/A | N/A | 🔒 | N/A |
+| RedFin | N/A | N/A | N/A | 🔒 | N/A |
+| Reddit | N/A | N/A | N/A | 🔒 | N/A |
+| Relativity | N/A | N/A | N/A | 🔒 | N/A |
+| Relativity | N/A | N/A | N/A | 🔒 | N/A |
+| Reliable Robotics | N/A | N/A | N/A | 🔒 | N/A |
+| Replit | N/A | N/A | N/A | 🔒 | N/A |
+| Replo | N/A | N/A | N/A | 🔒 | N/A |
+| Replo | N/A | N/A | N/A | 🔒 | N/A |
+| ResMed | N/A | N/A | N/A | 🔒 | N/A |
+| Rescale | N/A | N/A | N/A | 🔒 | N/A |
+| Restaurant Brands International Campus Opportunities | N/A | N/A | N/A | 🔒 | N/A |
+| Retool | N/A | N/A | N/A | 🔒 | N/A |
+| Ridgeline | N/A | N/A | N/A | 🔒 | N/A |
+| Rigetti Computing | N/A | N/A | N/A | 🔒 | N/A |
+| Riot Games | N/A | N/A | N/A | 🔒 | N/A |
+| Ripple | N/A | N/A | N/A | 🔒 | N/A |
+| Ripple | N/A | N/A | N/A | 🔒 | N/A |
+| Rippling | N/A | N/A | N/A | 🔒 | N/A |
+| Ritual | N/A | N/A | N/A | 🔒 | N/A |
+| Riverside Research | N/A | N/A | N/A | 🔒 | N/A |
+| Rivos | N/A | N/A | N/A | 🔒 | N/A |
+| Ro | N/A | N/A | N/A | 🔒 | N/A |
+| Roadie | N/A | N/A | N/A | 🔒 | N/A |
+| Robert Half | N/A | N/A | N/A | 🔒 | N/A |
+| Robinhood | N/A | N/A | N/A | 🔒 | N/A |
+| Rocket Money | N/A | N/A | N/A | 🔒 | N/A |
+| Rockstar Games | N/A | N/A | N/A | 🔒 | N/A |
+| Rockwell Automation | N/A | N/A | N/A | 🔒 | N/A |
+| Roivant Sciences | N/A | N/A | N/A | 🔒 | N/A |
+| Roku | N/A | N/A | N/A | 🔒 | N/A |
+| Rooster Teeth | N/A | N/A | N/A | 🔒 | N/A |
+| Routable | N/A | N/A | N/A | 🔒 | N/A |
+| Rubrik Job Board | N/A | N/A | N/A | 🔒 | N/A |
+| Rutter | N/A | N/A | N/A | 🔒 | N/A |
+| Ryder | N/A | N/A | N/A | 🔒 | N/A |
+| Rye | N/A | N/A | N/A | 🔒 | N/A |
+| SIG | N/A | N/A | N/A | 🔒 | N/A |
+| SOCi | N/A | N/A | N/A | 🔒 | N/A |
+| SQUIRE | N/A | N/A | N/A | 🔒 | N/A |
+| Safe Security | N/A | N/A | N/A | 🔒 | N/A |
+| SailPoint | N/A | N/A | N/A | 🔒 | N/A |
+| Salesforce | N/A | N/A | N/A | 🔒 | N/A |
+| Samba TV | N/A | N/A | N/A | 🔒 | N/A |
+| SambaNova Systems | N/A | N/A | N/A | 🔒 | N/A |
+| Samsara | N/A | N/A | N/A | 🔒 | N/A |
+| Samsung | N/A | N/A | N/A | 🔒 | N/A |
+| Samsung Research America Internship | N/A | N/A | N/A | 🔒 | N/A |
+| Samsung Semiconductor | N/A | N/A | N/A | 🔒 | N/A |
+| Saxumships | N/A | N/A | N/A | 🔒 | N/A |
+| Scale AI | N/A | N/A | N/A | 🔒 | N/A |
+| Schmidt Futures | N/A | N/A | N/A | 🔒 | N/A |
+| Schnucks | N/A | N/A | N/A | 🔒 | N/A |
+| Schonfeld | N/A | N/A | N/A | 🔒 | N/A |
+| Schoolhouse.world | N/A | N/A | N/A | 🔒 | N/A |
+| Schweitzer Engineering Laboratories | N/A | N/A | N/A | 🔒 | N/A |
+| Scout24 |  |  | N/A | 🔒 | N/A |
+| Scout24 | N/A | N/A | N/A | 🔒 | N/A |
+| Scribd | N/A | N/A | N/A | 🔒 | N/A |
+| Scribe Therapeutics | N/A | N/A | N/A | 🔒 | N/A |
+| Scroll.io | N/A | N/A | N/A | 🔒 | N/A |
+| Seamless.AI | N/A | N/A | N/A | 🔒 | N/A |
+| Search for Common Ground | N/A | N/A | N/A | 🔒 | N/A |
+| Seated | N/A | N/A | N/A | 🔒 | N/A |
+| Second Order Effects | N/A | N/A | N/A | 🔒 | N/A |
+| Second Spectrum | N/A | N/A | N/A | 🔒 | N/A |
+| Secure Code Warrior | N/A | N/A | N/A | 🔒 | N/A |
+| Secureframe | N/A | N/A | N/A | 🔒 | N/A |
+| Seismic | N/A | N/A | N/A | 🔒 | N/A |
+| Sensata Technologies | N/A | N/A | N/A | 🔒 | N/A |
+| Sentry | N/A | N/A | N/A | 🔒 | N/A |
+| Seven Eight Capital |  |  | N/A | 🔒 | N/A |
+| Shef | N/A | N/A | N/A | 🔒 | N/A |
+| Shield AI | N/A | N/A | N/A | 🔒 | N/A |
+| ShipBob, Inc. | N/A | N/A | N/A | 🔒 | N/A |
+| Sierra Nevada Corporation | N/A | N/A | N/A | 🔒 | N/A |
+| Sift | N/A | N/A | N/A | 🔒 | N/A |
+| Sigma Computing | N/A | N/A | N/A | 🔒 | N/A |
+| Signify Health | N/A | N/A | N/A | 🔒 | N/A |
+| Silicon Labs | N/A | N/A | N/A | 🔒 | N/A |
+| SimpliSafe | N/A | N/A | N/A | 🔒 | N/A |
+| SingleStore | N/A | N/A | N/A | 🔒 | N/A |
+| Singular Genomics | N/A | N/A | N/A | 🔒 | N/A |
+| Skillshare | N/A | N/A | N/A | 🔒 | N/A |
+| Skydio | N/A | N/A | N/A | 🔒 | N/A |
+| Slack | N/A | N/A | N/A | 🔒 | N/A |
+| Slack | N/A | N/A | N/A | 🔒 | N/A |
+| Sleep Number | N/A | N/A | N/A | 🔒 | N/A |
+| Sleeper | N/A | N/A | N/A | 🔒 | N/A |
+| SmartAsset | N/A | N/A | N/A | 🔒 | N/A |
+| Smith + Nephew | N/A | N/A | N/A | 🔒 | N/A |
+| Smith Micro Software | N/A | N/A | N/A | 🔒 | N/A |
+| Snackpass | N/A | N/A | N/A | 🔒 | N/A |
+| Snackpass Part Time Openings | N/A | N/A | N/A | 🔒 | N/A |
+| Snappy Gifts | Snappy Gifts is a unique one-stop-shop for personalized gifts, offering a wide variety of custom-made jewelry and personalized photo books. Their mission is to make gift-giving easy and stress-free. In terms of financials, they have raised a total of $20 million in a Series A funding round, with a valuation of $100 million. They have attracted prestigious investors such as Sequoia Capital and Accel Partners. | Accel, Sequoia | N/A | 🔒 | N/A |
+| Snorkel AI | N/A | N/A | N/A | 🔒 | N/A |
+| Sony | N/A | N/A | N/A | 🔒 | N/A |
+| SoundHound Inc. | N/A | N/A | N/A | 🔒 | N/A |
+| Splice | N/A | N/A | N/A | 🔒 | N/A |
+| Spotify | N/A | N/A | N/A | 🔒 | N/A |
+| Spreetail | N/A | N/A | N/A | 🔒 | N/A |
+| Sprig | N/A | N/A | N/A | 🔒 | N/A |
+| SpyCloud | N/A | N/A | N/A | 🔒 | N/A |
+| StackAdapt | N/A | N/A | N/A | 🔒 | N/A |
+| Standard AI | N/A | N/A | N/A | 🔒 | N/A |
+| Starburst | N/A | N/A | N/A | 🔒 | N/A |
+| State Street | N/A | N/A | N/A | 🔒 | N/A |
+| StepStone Group | N/A | N/A | N/A | 🔒 | N/A |
+| Sticker Mule | N/A | N/A | N/A | 🔒 | N/A |
+| Stoke Space | N/A | N/A | N/A | 🔒 | N/A |
+| Stone Barns Center | N/A | N/A | N/A | 🔒 | N/A |
+| Strava | N/A | N/A | N/A | 🔒 | N/A |
+| Stride | N/A | N/A | N/A | 🔒 | N/A |
+| Stripe | N/A | N/A | N/A | 🔒 | N/A |
+| Stripe | N/A | N/A | N/A | 🔒 | N/A |
+| Stryker | N/A | N/A | N/A | 🔒 | N/A |
+| StubHub | N/A | N/A | N/A | 🔒 | N/A |
+| Stytch | N/A | N/A | N/A | 🔒 | N/A |
+| Substack | N/A | N/A | N/A | 🔒 | N/A |
+| Sumo Logic | N/A | N/A | N/A | 🔒 | N/A |
+| Supabase | N/A | N/A | N/A | 🔒 | N/A |
+| Super.com | N/A | N/A | N/A | 🔒 | N/A |
+| Superside | N/A | N/A | N/A | 🔒 | N/A |
+| Surescripts | N/A | N/A | N/A | 🔒 | N/A |
+| SwissBorg | N/A | N/A | N/A | 🔒 | N/A |
+| Sword Health | N/A | N/A | N/A | 🔒 | N/A |
+| Symbotic | N/A | N/A | N/A | 🔒 | N/A |
+| Synthego | N/A | N/A | N/A | 🔒 | N/A |
+| T Rowe Price | N/A | N/A | N/A | 🔒 | N/A |
+| TP ICAP | N/A | N/A | N/A | 🔒 | N/A |
+| Tackle.io | N/A | N/A | N/A | 🔒 | N/A |
+| Talend | N/A | N/A | N/A | 🔒 | N/A |
+| Tanium | N/A | N/A | N/A | 🔒 | N/A |
+| Taskrabbit | N/A | N/A | N/A | 🔒 | N/A |
+| TeachersPayTeachers | N/A | N/A | N/A | 🔒 | N/A |
+| Teads | N/A | N/A | N/A | 🔒 | N/A |
+| Tealium | N/A | N/A | N/A | 🔒 | N/A |
+| Tealium | N/A | N/A | N/A | 🔒 | N/A |
+| Teampay | N/A | N/A | N/A | 🔒 | N/A |
+| Tebra | N/A | N/A | N/A | 🔒 | N/A |
+| Tecton | N/A | N/A | N/A | 🔒 | N/A |
+| Tegus | N/A | N/A | N/A | 🔒 | N/A |
+| Teleport | N/A | N/A | N/A | 🔒 | N/A |
+| Tempo | N/A | N/A | N/A | 🔒 | N/A |
+| Tencent | N/A | N/A | N/A | 🔒 | N/A |
+| Tencent | N/A | N/A | N/A | 🔒 | N/A |
+| TextNow | N/A | N/A | N/A | 🔒 | N/A |
+| The Allen Institute for AI | N/A | N/A | N/A | 🔒 | N/A |
+| The Andersons | N/A | N/A | N/A | 🔒 | N/A |
+| The Athletic Media Company | N/A | N/A | N/A | 🔒 | N/A |
+| The Block | N/A | N/A | N/A | 🔒 | N/A |
+| The Boring Company | N/A | N/A | N/A | 🔒 | N/A |
+| The Federal Reserve | N/A | N/A | N/A | 🔒 | N/A |
+| The Pokémon Company International | N/A | N/A | N/A | 🔒 | N/A |
+| The Toro Company | N/A | N/A | N/A | 🔒 | N/A |
+| The Voleon Group | N/A | N/A | N/A | 🔒 | N/A |
+| Thomson Reuters | N/A | N/A | N/A | 🔒 | N/A |
+| ThoughtSpot | N/A | N/A | N/A | 🔒 | N/A |
+| Thrivent | N/A | N/A | N/A | 🔒 | N/A |
+| Titan | N/A | N/A | N/A | 🔒 | N/A |
+| Toast | N/A | N/A | N/A | 🔒 | N/A |
+| Top Hat | N/A | N/A | N/A | 🔒 | N/A |
+| Tower Research Capital | N/A | N/A | N/A | 🔒 | N/A |
+| Trainual | N/A | N/A | N/A | 🔒 | N/A |
+| TransUnion | N/A | N/A | N/A | 🔒 | N/A |
+| Tremendous | N/A | N/A | N/A | 🔒 | N/A |
+| Trendyol | N/A | N/A | N/A | 🔒 | N/A |
+| Trexie Management, LLC | N/A | N/A | N/A | 🔒 | N/A |
+| Trimble | N/A | N/A | N/A | 🔒 | N/A |
+| Tripalink | N/A | N/A | N/A | 🔒 | N/A |
+| Tropic | N/A | N/A | N/A | 🔒 | N/A |
+| Truera | N/A | N/A | N/A | 🔒 | N/A |
+| Truv | N/A | N/A | N/A | 🔒 | N/A |
+| TuSimple | N/A | N/A | N/A | 🔒 | N/A |
+| Twilio | N/A | N/A | N/A | 🔒 | N/A |
+| Twilio - University Programs | N/A | N/A | N/A | 🔒 | N/A |
+| Twitch | N/A | N/A | N/A | 🔒 | N/A |
+| US Bank | N/A | N/A | N/A | 🔒 | N/A |
+| US Venture | N/A | N/A | N/A | 🔒 | N/A |
+| Udacity | N/A | N/A | N/A | 🔒 | N/A |
+| Uline | N/A | N/A | N/A | 🔒 | N/A |
+| UltiMaker | N/A | N/A | N/A | 🔒 | N/A |
+| Ultra | N/A | N/A | N/A | 🔒 | N/A |
+| UnifyID (acquired by Prove) | N/A | N/A | N/A | 🔒 | N/A |
+| Uniswap Labs | N/A | N/A | N/A | 🔒 | N/A |
+| UnitedMasters | N/A | N/A | N/A | 🔒 | N/A |
+| Unqork Internships | N/A | N/A | N/A | 🔒 | N/A |
+| Unum Insurance | N/A | N/A | N/A | 🔒 | N/A |
+| Upstart | N/A | N/A | N/A | 🔒 | N/A |
+| VC Lab | N/A | N/A | N/A | 🔒 | N/A |
+| VOLKA GAMES | N/A | N/A | N/A | 🔒 | N/A |
+| VTS | N/A | N/A | N/A | 🔒 | N/A |
+| Vail Systems Inc. | N/A | N/A | N/A | 🔒 | N/A |
+| Valkyrie Trading | N/A | N/A | N/A | 🔒 | N/A |
+| Vanta | N/A | N/A | N/A | 🔒 | N/A |
+| Vanta | N/A | N/A | N/A | 🔒 | N/A |
+| Vantage | N/A | N/A | N/A | 🔒 | N/A |
+| Veeva Systems | N/A | N/A | N/A | 🔒 | N/A |
+| Veho | N/A | N/A | N/A | 🔒 | N/A |
+| Vendr | N/A | N/A | N/A | 🔒 | N/A |
+| Verafin | N/A | N/A | N/A | 🔒 | N/A |
+| VergeSense | N/A | N/A | N/A | 🔒 | N/A |
+| Veritas | N/A | N/A | N/A | 🔒 | N/A |
+| Verkada | N/A | N/A | N/A | 🔒 | N/A |
+| Vermeer | N/A | N/A | N/A | 🔒 | N/A |
+| Vevo | N/A | N/A | N/A | 🔒 | N/A |
+| Via | N/A | N/A | N/A | 🔒 | N/A |
+| Vial | N/A | N/A | N/A | 🔒 | N/A |
+| Victorious | N/A | N/A | N/A | 🔒 | N/A |
+| Vidyard | N/A | N/A | N/A | 🔒 | N/A |
+| Virtru | N/A | N/A | N/A | 🔒 | N/A |
+| Virtu Financial | N/A | N/A | N/A | 🔒 | N/A |
+| Visa | N/A | N/A | N/A | 🔒 | N/A |
+| Visa | N/A | N/A | N/A | 🔒 | N/A |
+| Vise | N/A | N/A | N/A | 🔒 | N/A |
+| Visual Concepts | N/A | N/A | N/A | 🔒 | N/A |
+| Vizient | N/A | N/A | N/A | 🔒 | N/A |
+| Voldex | N/A | N/A | N/A | 🔒 | N/A |
+| Volley | N/A | N/A | N/A | 🔒 | N/A |
+| Volvo | N/A | N/A | N/A | 🔒 | N/A |
+| Voya Financial | N/A | N/A | N/A | 🔒 | N/A |
+| WW | N/A | N/A | N/A | 🔒 | N/A |
+| Waabi Innovation Inc. | N/A | N/A | N/A | 🔒 | N/A |
+| Wabtec | N/A | N/A | N/A | 🔒 | N/A |
+| Walmart | N/A | N/A | N/A | 🔒 | N/A |
+| Walmart | N/A | N/A | N/A | 🔒 | N/A |
+| Walrus | N/A | N/A | N/A | 🔒 | N/A |
+| Washington Post | N/A | N/A | N/A | 🔒 | N/A |
+| Wave | N/A | N/A | N/A | 🔒 | N/A |
+| Wave | N/A | N/A | N/A | 🔒 | N/A |
+| Wave (XR) | N/A | N/A | N/A | 🔒 | N/A |
+| Wayfair | N/A | N/A | N/A | 🔒 | N/A |
+| WePay | N/A | N/A | N/A | 🔒 | N/A |
+| WeRide.ai | N/A | N/A | N/A | 🔒 | N/A |
+| Wealthfront | N/A | N/A | N/A | 🔒 | N/A |
+| Wealthsimple | N/A | N/A | N/A | 🔒 | N/A |
+| Webflow | N/A | N/A | N/A | 🔒 | N/A |
+| Wells Fargo | N/A | N/A | N/A | 🔒 | N/A |
+| Welocalize | N/A | N/A | N/A | 🔒 | N/A |
+| Western Alliance Bank | N/A | N/A | N/A | 🔒 | N/A |
+| Whatnot | N/A | N/A | N/A | 🔒 | N/A |
+| Wildlife Studios | N/A | N/A | N/A | 🔒 | N/A |
+| WillowTree | N/A | N/A | N/A | 🔒 | N/A |
+| Wintermute | N/A | N/A | N/A | 🔒 | N/A |
+| Wish | N/A | N/A | N/A | 🔒 | N/A |
+| Wisk Aero | N/A | N/A | N/A | 🔒 | N/A |
+| Wizards of the Coast | N/A | N/A | N/A | 🔒 | N/A |
+| Woflow | N/A | N/A | N/A | 🔒 | N/A |
+| Wolfspeed | N/A | N/A | N/A | 🔒 | N/A |
+| Wolverine Trading | N/A | N/A | N/A | 🔒 | N/A |
+| Wonderschool | N/A | N/A | N/A | 🔒 | N/A |
+| WorkReduce | N/A | N/A | N/A | 🔒 | N/A |
+| Workday | N/A | N/A | N/A | 🔒 | N/A |
+| Workvia | N/A | N/A | N/A | 🔒 | N/A |
+| Worlds | N/A | N/A | N/A | 🔒 | N/A |
+| Woven by Toyota | N/A | N/A | N/A | 🔒 | N/A |
+| Wrapbook | N/A | N/A | N/A | 🔒 | N/A |
+| Wyld | N/A | N/A | N/A | 🔒 | N/A |
+| X by 2 | N/A | N/A | N/A | 🔒 | N/A |
+| Xwing | N/A | N/A | N/A | 🔒 | N/A |
+| Yahoo | N/A | N/A | N/A | 🔒 | N/A |
+| Yellow.ai | N/A | N/A | N/A | 🔒 | N/A |
+| Yext | N/A | N/A | N/A | 🔒 | N/A |
+| You.com | N/A | N/A | N/A | 🔒 | N/A |
+| Yubico | N/A | N/A | N/A | 🔒 | N/A |
+| YugabyteDB | N/A | N/A | N/A | 🔒 | N/A |
+| Zanbato | N/A | N/A | N/A | 🔒 | N/A |
+| Zapier | N/A | N/A | N/A | 🔒 | N/A |
+| ZipRecruiter | N/A | N/A | N/A | 🔒 | N/A |
+| Zipline | N/A | N/A | N/A | 🔒 | N/A |
+| Zoom | N/A | N/A | N/A | 🔒 | N/A |
+| Zoox | N/A | N/A | N/A | 🔒 | N/A |
+| a16z | N/A | N/A | N/A | 🔒 | N/A |
+| accesso | N/A | N/A | N/A | 🔒 | N/A |
+| aifleet | N/A | N/A | N/A | 🔒 | N/A |
+| amika | N/A | N/A | N/A | 🔒 | N/A |
+| brightwheel | N/A | N/A | N/A | 🔒 | N/A |
+| brooksrunning.com | N/A | N/A | N/A | 🔒 | N/A |
+| commercetools | N/A | N/A | N/A | 🔒 | N/A |
+| cove.tool | N/A | N/A | N/A | 🔒 | N/A |
+| credit suisse | N/A | N/A | N/A | 🔒 | N/A |
+| dYdX | N/A | N/A | N/A | 🔒 | N/A |
+| data.ai | N/A | N/A | N/A | 🔒 | N/A |
+| doxo | N/A | N/A | N/A | 🔒 | N/A |
+| ecobee | N/A | N/A | N/A | 🔒 | N/A |
+| eko | N/A | N/A | N/A | 🔒 | N/A |
+| iRobot | N/A | N/A | N/A | 🔒 | N/A |
+| identifeye HEALTH Inc. | N/A | N/A | N/A | 🔒 | N/A |
+| insitro | N/A | N/A | N/A | 🔒 | N/A |
+| ‎ConnectWise | N/A | N/A | N/A | 🔒 | N/A |
+| ‏‏‎ ‎Wave XR |  |  | N/A | 🔒 | N/A |
