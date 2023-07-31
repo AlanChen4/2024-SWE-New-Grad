@@ -21,7 +21,7 @@
 
 | Company | Description | Investors | Title | Status | Added On |
 | ------- | ------------| ----------| ----- | ------ |--------- |
-| Teledyne | FLIR develops thermal imaging for various applications. Series G funding, $4.5 billion valuation, $1.4 billion raised. | Kleiner Perkins | [SharePoint Junior Nintex Developer](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/SharePoint-Junior-Nintex-Developer_REQ19696?utm_source=CarbosJobs) | ✅ | July 21, 2023 |
+| Teledyne | FLIR develops thermal imaging for various applications. Series G funding, $4.5 billion valuation, $1.4 billion raised. | Kleiner Perkins | [SharePoint Junior Nintex Developer](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/SharePoint-Junior-Nintex-Developer_REQ19696?utm_source=CarbosJobs) | ❌ | July 21, 2023 |
 | Sword Health | Sword Health: Improving musculoskeletal care accessibility. Series B: $60M raised, $360M valuation. | Google Ventures | [Junior ML Engineer (Portugal Based Remote/Hybrid)](https://jobs.lever.co/swordhealth/3a4a2ba1-f398-4c39-8e50-054bd2db5d8e?utm_source=CarbosJobs) | ✅ | July 21, 2023 |
 | Squarepoint Capital | SquarePound Capital invests in early-stage fintech companies.$2.1 billion raised, 100+ investments. |  | [Junior Quant Researcher - Data Science](https://www.squarepoint-capital.com?gh_jid=4481896?utm_source=CarbosJobs) | ✅ | July 21, 2023 |
 | Squarepoint Capital | SquarePound Capital invests in early-stage fintech companies.$2.1 billion raised, 100+ investments. |  | [Junior Quant Researcher](https://www.squarepoint-capital.com?gh_jid=239376?utm_source=CarbosJobs) | ✅ | July 21, 2023 |
