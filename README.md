@@ -21,6 +21,7 @@
 
 | Company | Description | Investors | Title | Status | Added On |
 | ------- | ------------| ----------| ----- | ------ |--------- |
+| Commonwealth Fusion Systems | CFS Energy: Decarbonizing energy with innovative solutions. $1 billion raised from leading investors. |  | [Quality Engineer - Entry Level](https://jobs.lever.co/cfsenergy/37bc58c5-f696-4c80-b9ae-c9afe0a09bf7?utm_source=CarbosJobs) | ✅ | August 01, 2023 |
 | Vanguard | Vanguard: Largest index fund provider, low-cost investments. Series E, $29.5B valuation, $4.6B raised. | Blackrock | [Entry Level Application Engineer - 2024 Start Date](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer---2024-Start-Date_155916-1?utm_source=CarbosJobs) | ✅ | August 01, 2023 |
 | Vanguard | Vanguard: Largest index fund provider, low-cost investments. Series E, $29.5B valuation, $4.6B raised. | Blackrock | [Entry Level Application Engineer - 2024 Start Date](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Entry-Level-Application-Engineer---2024-Start-Date_155913-1?utm_source=CarbosJobs) | ✅ | August 01, 2023 |
 | Modern Health | Modern Health: Making mental healthcare accessible; raised $100M+. | Google Ventures, Thrive | [Junior Security Engineer](https://boards.greenhouse.io/modernhealth/jobs/6868652002?utm_source=CarbosJobs) | ✅ | August 01, 2023 |
