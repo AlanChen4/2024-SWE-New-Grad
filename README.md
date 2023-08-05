@@ -22,6 +22,10 @@
 
 | Company | Investors | Title | Status | Added On |
 | ------- | ----------| ----- | ------ |--------- |
+| Belvedere Trading | Sequoia | [Junior Quantitative Trading Analyst Intern - Summer 2024 Chicago](https://jobs.lever.co/belvederetrading/982414fc-a2d2-4152-8735-78a47fe7b4c2?utm_source=CarbosJobs) | ✅ | August 05, 2023 |
+| Belvedere Trading | Sequoia | [Junior Quantitative Trading Analyst Intern - Summer 2024 Boulder](https://jobs.lever.co/belvederetrading/8b4147ca-8aa0-49c1-82c6-02714781ac3b?utm_source=CarbosJobs) | ✅ | August 05, 2023 |
+| Belvedere Trading | Sequoia | [Junior Quantitative Trading Analyst - Entry Level 2024 Chicago](https://jobs.lever.co/belvederetrading/e85965d8-23f2-472d-901f-d86a01c837d0?utm_source=CarbosJobs) | ✅ | August 05, 2023 |
+| Belvedere Trading | Sequoia | [Software Engineer - Entry Level 2024 Chicago](https://jobs.lever.co/belvederetrading/d9596403-6195-4af3-9e41-279d2dd6ef4e?utm_source=CarbosJobs) | ✅ | August 05, 2023 |
 | OpenGov | A16Z, Accel, Kleiner Perkins | [Entry level Software Sales](https://jobs.lever.co/opengov/80f61e46-bc46-4fff-ac0e-c264b66d14be?utm_source=CarbosJobs) | ✅ | August 04, 2023 |
 | OpenGov | A16Z, Accel, Kleiner Perkins | [Entry level Software Sales](https://jobs.lever.co/opengov/7cfe73b5-8d56-4a3a-85e7-9dd45d7839ee?utm_source=CarbosJobs) | ✅ | August 04, 2023 |
 | Impulse | Sequoia | [Junior Firmware Engineer (Full time$150K – $185K)](https://jobs.ashbyhq.com/impulse/8ece5aeb-3339-4d45-8ed1-133da9035591?utm_source=CarbosJobs) | ✅ | August 03, 2023 |
