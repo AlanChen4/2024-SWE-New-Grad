@@ -22,6 +22,7 @@
 
 | Company | Investors | Title | Status | Added On |
 | ------- | ----------| ----- | ------ |--------- |
+| Teledyne | A16Z, Sequoia | [Junior Optomechanical Engineer](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Acton-MA/Optomechanical-Designer_REQ18533?utm_source=CarbosJobs) | ✅ | August 07, 2023 |
 | Belvedere Trading | Sequoia | [Junior Quantitative Trading Analyst Intern - Summer 2024 Chicago](https://jobs.lever.co/belvederetrading/982414fc-a2d2-4152-8735-78a47fe7b4c2?utm_source=CarbosJobs) | ✅ | August 05, 2023 |
 | Belvedere Trading | Sequoia | [Junior Quantitative Trading Analyst Intern - Summer 2024 Boulder](https://jobs.lever.co/belvederetrading/8b4147ca-8aa0-49c1-82c6-02714781ac3b?utm_source=CarbosJobs) | ✅ | August 05, 2023 |
 | Belvedere Trading | Sequoia | [Junior Quantitative Trading Analyst - Entry Level 2024 Chicago](https://jobs.lever.co/belvederetrading/e85965d8-23f2-472d-901f-d86a01c837d0?utm_source=CarbosJobs) | ✅ | August 05, 2023 |
@@ -53,6 +54,6 @@
 | Binance | Tiger Global, Sequoia | [Binance Accelerator Program - Junior Data Analyst](https://jobs.lever.co/binance/3e2fc921-a871-4cbb-9cd0-8000412053be?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Agot | Kleiner Perkins, Sequoia | [Junior Computer Vision Engineer](https://jobs.lever.co/agotai/cf6c3e9d-d5a6-467b-b04f-695af995d46e?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | Unity Technologies | Sequoia | [Junior Test Engineer](https://careers.unity.com/position?id=1742856?gh_jid=1742856?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
-| SpaceX | Founders Fund | [Security Engineer, New Graduate](https://boards.greenhouse.io/spacex/jobs/6793685002?gh_jid=6793685002?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | SpaceX | Founders Fund | [Security Engineer, New Graduate](https://boards.greenhouse.io/spacex/jobs/6793678002?gh_jid=6793678002?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
+| SpaceX | Founders Fund | [Security Engineer, New Graduate](https://boards.greenhouse.io/spacex/jobs/6793685002?gh_jid=6793685002?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | SpaceX | Founders Fund | [Security Engineer, New Graduate](https://boards.greenhouse.io/spacex/jobs/6793684002?gh_jid=6793684002?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
