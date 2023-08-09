@@ -22,6 +22,8 @@
 
 | Company | Investors | Title | Status | Added On |
 | ------- | ----------| ----- | ------ |--------- |
+| Wave | Tiger Global, Sequoia | [Junior Software Engineer](https://www.wave.com/en/careers/job/4950577004?gh_jid=4950577004?utm_source=CarbosJobs) | ✅ | August 09, 2023 |
+| TransUnion | Goldman Sachs | [Junior FullStack Developer](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Heredia---Centro-de-Ciencia-y-Tecnologa-Ultrapark/Junior-FullStack-Developer_19024470?utm_source=CarbosJobs) | ✅ | August 09, 2023 |
 | Teledyne | A16Z, Sequoia | [Junior Optomechanical Engineer](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Acton-MA/Optomechanical-Designer_REQ18533?utm_source=CarbosJobs) | ✅ | August 07, 2023 |
 | Belvedere Trading | Sequoia | [Junior Quantitative Trading Analyst Intern - Summer 2024 Chicago](https://jobs.lever.co/belvederetrading/982414fc-a2d2-4152-8735-78a47fe7b4c2?utm_source=CarbosJobs) | ✅ | August 05, 2023 |
 | Belvedere Trading | Sequoia | [Junior Quantitative Trading Analyst Intern - Summer 2024 Boulder](https://jobs.lever.co/belvederetrading/8b4147ca-8aa0-49c1-82c6-02714781ac3b?utm_source=CarbosJobs) | ✅ | August 05, 2023 |
@@ -33,7 +35,7 @@
 | Commonwealth Fusion Systems | Google Ventures | [Quality Engineer - Entry Level](https://jobs.lever.co/cfsenergy/37bc58c5-f696-4c80-b9ae-c9afe0a09bf7?utm_source=CarbosJobs) | ✅ | August 01, 2023 |
 | Vanguard | Google Ventures, Kleiner Perkins, Sequoia | [Entry Level Application Engineer - 2024 Start Date](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer---2024-Start-Date_155916-1?utm_source=CarbosJobs) | ✅ | August 01, 2023 |
 | Vanguard | Google Ventures, Kleiner Perkins, Sequoia | [Entry Level Application Engineer - 2024 Start Date](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Entry-Level-Application-Engineer---2024-Start-Date_155913-1?utm_source=CarbosJobs) | ✅ | August 01, 2023 |
-| Modern Health | Tiger Global, Sequoia | [Junior Security Engineer](https://boards.greenhouse.io/modernhealth/jobs/6868652002?utm_source=CarbosJobs) | ✅ | August 01, 2023 |
+| Modern Health | Tiger Global, Sequoia | [Junior Security Engineer](https://boards.greenhouse.io/modernhealth/jobs/6868652002?utm_source=CarbosJobs) | ❌ | August 01, 2023 |
 | Teledyne | A16Z, Sequoia | [SharePoint Junior Nintex Developer](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/SharePoint-Junior-Nintex-Developer_REQ19696?utm_source=CarbosJobs) | ❌ | July 21, 2023 |
 | Sword Health | A16Z, Google Ventures | [Junior ML Engineer (Portugal Based Remote/Hybrid)](https://jobs.lever.co/swordhealth/3a4a2ba1-f398-4c39-8e50-054bd2db5d8e?utm_source=CarbosJobs) | ✅ | July 21, 2023 |
 | Squarepoint Capital | Tiger Global, Sequoia | [Junior Quant Researcher - Data Science](https://www.squarepoint-capital.com?gh_jid=4481896?utm_source=CarbosJobs) | ✅ | July 21, 2023 |
@@ -54,6 +56,6 @@
 | Binance | Tiger Global, Sequoia | [Binance Accelerator Program - Junior Data Analyst](https://jobs.lever.co/binance/3e2fc921-a871-4cbb-9cd0-8000412053be?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Agot | Kleiner Perkins, Sequoia | [Junior Computer Vision Engineer](https://jobs.lever.co/agotai/cf6c3e9d-d5a6-467b-b04f-695af995d46e?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | Unity Technologies | Sequoia | [Junior Test Engineer](https://careers.unity.com/position?id=1742856?gh_jid=1742856?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
-| SpaceX | Founders Fund | [Security Engineer, New Graduate](https://boards.greenhouse.io/spacex/jobs/6793684002?gh_jid=6793684002?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | SpaceX | Founders Fund | [Security Engineer, New Graduate](https://boards.greenhouse.io/spacex/jobs/6793678002?gh_jid=6793678002?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | SpaceX | Founders Fund | [Security Engineer, New Graduate](https://boards.greenhouse.io/spacex/jobs/6793685002?gh_jid=6793685002?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
+| SpaceX | Founders Fund | [Security Engineer, New Graduate](https://boards.greenhouse.io/spacex/jobs/6793684002?gh_jid=6793684002?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
