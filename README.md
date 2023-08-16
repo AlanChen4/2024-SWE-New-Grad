@@ -22,6 +22,7 @@
 
 | Company | Investors | Title | Status | Added On |
 | ------- | ----------| ----- | ------ |--------- |
+| Veritas | Kleiner Perkins, Sequoia | [Associate Software Engineer- New Graduate*](https://veritas.wd1.myworkdayjobs.com/careers/job/Minnesota-Remote/Associate-Software-Engineer--New-Graduate-_61867?utm_source=CarbosJobs) | ✅ | August 16, 2023 |
 | SIG | Greylock, Kleiner Perkins, Sequoia | [Systems Engineer (New Grad)](https://careers.sig.com/job/7403/Systems-Engineer-Campus?utm_source=CarbosJobs) | ✅ | August 15, 2023 |
 | Color | Google Ventures, Kleiner Perkins | [New Grad Software Engineer](https://jobs.lever.co/color/ec1d4828-0adc-4087-a746-13e83ef0b844?utm_source=CarbosJobs) | ✅ | August 10, 2023 |
 | Wave | Tiger Global, Sequoia | [Junior Software Engineer](https://www.wave.com/en/careers/job/4950577004?gh_jid=4950577004?utm_source=CarbosJobs) | ❌ | August 09, 2023 |
@@ -58,6 +59,6 @@
 | Binance | Tiger Global, Sequoia | [Binance Accelerator Program - Junior Data Analyst](https://jobs.lever.co/binance/3e2fc921-a871-4cbb-9cd0-8000412053be?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Agot | Kleiner Perkins, Sequoia | [Junior Computer Vision Engineer](https://jobs.lever.co/agotai/cf6c3e9d-d5a6-467b-b04f-695af995d46e?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | Unity Technologies | Sequoia | [Junior Test Engineer](https://careers.unity.com/position?id=1742856?gh_jid=1742856?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
-| SpaceX | Founders Fund | [Security Engineer, New Graduate](https://boards.greenhouse.io/spacex/jobs/6793678002?gh_jid=6793678002?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | SpaceX | Founders Fund | [Security Engineer, New Graduate](https://boards.greenhouse.io/spacex/jobs/6793685002?gh_jid=6793685002?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
+| SpaceX | Founders Fund | [Security Engineer, New Graduate](https://boards.greenhouse.io/spacex/jobs/6793678002?gh_jid=6793678002?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | SpaceX | Founders Fund | [Security Engineer, New Graduate](https://boards.greenhouse.io/spacex/jobs/6793684002?gh_jid=6793684002?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
