@@ -27,7 +27,7 @@
 | Color | Google Ventures, Kleiner Perkins | [New Grad Software Engineer](https://jobs.lever.co/color/ec1d4828-0adc-4087-a746-13e83ef0b844?utm_source=CarbosJobs) | ✅ | August 10, 2023 |
 | Wave | Tiger Global, Sequoia | [Junior Software Engineer](https://www.wave.com/en/careers/job/4950577004?gh_jid=4950577004?utm_source=CarbosJobs) | ❌ | August 09, 2023 |
 | TransUnion | Goldman Sachs | [Junior FullStack Developer](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Heredia---Centro-de-Ciencia-y-Tecnologa-Ultrapark/Junior-FullStack-Developer_19024470?utm_source=CarbosJobs) | ✅ | August 09, 2023 |
-| Teledyne | A16Z, Sequoia | [Junior Optomechanical Engineer](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Acton-MA/Optomechanical-Designer_REQ18533?utm_source=CarbosJobs) | ✅ | August 07, 2023 |
+| Teledyne | A16Z, Sequoia | [Junior Optomechanical Engineer](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Acton-MA/Optomechanical-Designer_REQ18533?utm_source=CarbosJobs) | ❌ | August 07, 2023 |
 | Belvedere Trading | Sequoia | [Junior Quantitative Trading Analyst Intern - Summer 2024 Chicago](https://jobs.lever.co/belvederetrading/982414fc-a2d2-4152-8735-78a47fe7b4c2?utm_source=CarbosJobs) | ✅ | August 05, 2023 |
 | Belvedere Trading | Sequoia | [Junior Quantitative Trading Analyst Intern - Summer 2024 Boulder](https://jobs.lever.co/belvederetrading/8b4147ca-8aa0-49c1-82c6-02714781ac3b?utm_source=CarbosJobs) | ✅ | August 05, 2023 |
 | Belvedere Trading | Sequoia | [Junior Quantitative Trading Analyst - Entry Level 2024 Chicago](https://jobs.lever.co/belvederetrading/e85965d8-23f2-472d-901f-d86a01c837d0?utm_source=CarbosJobs) | ✅ | August 05, 2023 |
