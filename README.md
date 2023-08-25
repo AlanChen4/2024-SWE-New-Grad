@@ -22,6 +22,7 @@
 
 | Company | Investors | Title | Status | Added On |
 | ------- | ----------| ----- | ------ |--------- |
+| Anyscale | Accel, Tiger Global, Sequoia | [Software Engineer (New Grad 2024)](https://jobs.lever.co/anyscale/2888fb5f-3489-46c0-b776-2a02004ce21b?utm_source=CarbosJobs) | ✅ | August 25, 2023 |
 | Qualtrics | Accel, Insight Partners, Sequoia | [Software Engineer - New Grad - Seattle, WA](https://www.qualtrics.com/careers/us/en/job/5317704?gh_jid=5317704?utm_source=CarbosJobs) | ✅ | August 24, 2023 |
 | Qualtrics | Accel, Insight Partners, Sequoia | [Software Engineer - New Grad - Reston, VA](https://www.qualtrics.com/careers/us/en/job/5317695?gh_jid=5317695?utm_source=CarbosJobs) | ✅ | August 24, 2023 |
 | Qualtrics | Accel, Insight Partners, Sequoia | [Software Engineer - New Grad - Provo, UT](https://www.qualtrics.com/careers/us/en/job/5317685?gh_jid=5317685?utm_source=CarbosJobs) | ✅ | August 24, 2023 |
