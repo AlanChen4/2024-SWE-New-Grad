@@ -22,6 +22,9 @@
 
 | Company | Investors | Title | Status | Added On |
 | ------- | ----------| ----- | ------ |--------- |
+| Qualtrics | Accel, Insight Partners, Sequoia | [Software Engineer - New Grad - Seattle, WA](https://www.qualtrics.com/careers/us/en/job/5317704?gh_jid=5317704?utm_source=CarbosJobs) | ✅ | August 24, 2023 |
+| Qualtrics | Accel, Insight Partners, Sequoia | [Software Engineer - New Grad - Reston, VA](https://www.qualtrics.com/careers/us/en/job/5317695?gh_jid=5317695?utm_source=CarbosJobs) | ✅ | August 24, 2023 |
+| Qualtrics | Accel, Insight Partners, Sequoia | [Software Engineer - New Grad - Provo, UT](https://www.qualtrics.com/careers/us/en/job/5317685?gh_jid=5317685?utm_source=CarbosJobs) | ✅ | August 24, 2023 |
 | Lucid Motors | Sequoia | [Sr. Validation Engineer - ADAS Parking & Viewing Functions (Junior and Sr Level)](https://jobs.lever.co/lucidmotors/a26de337-2c48-47c3-bdab-e93571a02f6f?utm_source=CarbosJobs) | ✅ | August 23, 2023 |
 | Lucid Motors | Sequoia | [Sr Validation Engineer, ADAS Driving & Safety Features (Junior/ Sr. Level)](https://jobs.lever.co/lucidmotors/ec72832f-79d2-419f-a91f-e7c16016ccc1?utm_source=CarbosJobs) | ✅ | August 23, 2023 |
 | Northrop Grumman | A16Z, Kleiner Perkins | [Associate/ Software Engineer (New Grad Masters)](https://ngc.wd1.myworkdayjobs.com/en-us/Northrop_Grumman_External_Site/job/Associate--Software-Engineer_R10126011?utm_source=CarbosJobs) | ✅ | August 23, 2023 |
