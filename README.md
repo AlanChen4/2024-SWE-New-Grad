@@ -22,6 +22,15 @@
 
 | Company | Investors | Title | Status | Added On |
 | ------- | ----------| ----- | ------ |--------- |
+| Mitek Systems | Bain, Goldman Sachs, Kleiner Perkins | [Junior Data Test/QA Engineer, ID R&D (Barcelona,Spain)](https://jobs.lever.co/miteksystems-2/60d1e5c8-811b-486b-b87d-2d21a82cdf65?utm_source=CarbosJobs) | ✅ | August 25, 2023 |
+| Anyscale | Accel, Tiger Global, Sequoia | [Software Engineer (New Grad 2024)](https://jobs.lever.co/anyscale/2888fb5f-3489-46c0-b776-2a02004ce21b?utm_source=CarbosJobs) | ✅ | August 25, 2023 |
+| Qualtrics | Accel, Insight Partners, Sequoia | [Software Engineer - New Grad - Seattle, WA](https://www.qualtrics.com/careers/us/en/job/5317704?gh_jid=5317704?utm_source=CarbosJobs) | ✅ | August 24, 2023 |
+| Qualtrics | Accel, Insight Partners, Sequoia | [Software Engineer - New Grad - Reston, VA](https://www.qualtrics.com/careers/us/en/job/5317695?gh_jid=5317695?utm_source=CarbosJobs) | ✅ | August 24, 2023 |
+| Qualtrics | Accel, Insight Partners, Sequoia | [Software Engineer - New Grad - Provo, UT](https://www.qualtrics.com/careers/us/en/job/5317685?gh_jid=5317685?utm_source=CarbosJobs) | ✅ | August 24, 2023 |
+| Lucid Motors | Sequoia | [Sr. Validation Engineer - ADAS Parking & Viewing Functions (Junior and Sr Level)](https://jobs.lever.co/lucidmotors/a26de337-2c48-47c3-bdab-e93571a02f6f?utm_source=CarbosJobs) | ✅ | August 23, 2023 |
+| Lucid Motors | Sequoia | [Sr Validation Engineer, ADAS Driving & Safety Features (Junior/ Sr. Level)](https://jobs.lever.co/lucidmotors/ec72832f-79d2-419f-a91f-e7c16016ccc1?utm_source=CarbosJobs) | ✅ | August 23, 2023 |
+| Northrop Grumman | A16Z, Kleiner Perkins | [Associate/ Software Engineer (New Grad Masters)](https://ngc.wd1.myworkdayjobs.com/en-us/Northrop_Grumman_External_Site/job/Associate--Software-Engineer_R10126011?utm_source=CarbosJobs) | ✅ | August 23, 2023 |
+| Northrop Grumman | A16Z, Kleiner Perkins | [Software Engineer New Grad](https://ngc.wd1.myworkdayjobs.com/en-us/Northrop_Grumman_External_Site/job/Software-Engineer_R10125822?utm_source=CarbosJobs) | ✅ | August 23, 2023 |
 | StepStone Group |  | [Global Data and Risk Operations Junior Analyst](https://www.stepstoneglobal.com/who-we-are/working-at-stepstone/careers/5314550?gh_jid=5314550?utm_source=CarbosJobs) | ✅ | August 22, 2023 |
 | Scale AI | A16Z, Google Ventures, Kleiner Perkins | [Software Engineer - New Grad](https://boards.greenhouse.io/scaleai/jobs/4305866005?utm_source=CarbosJobs) | ✅ | August 22, 2023 |
 | Scale AI | A16Z, Google Ventures, Kleiner Perkins | [Machine Learning Research Engineer - New Grad](https://boards.greenhouse.io/scaleai/jobs/4305880005?utm_source=CarbosJobs) | ✅ | August 22, 2023 |
