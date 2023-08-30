@@ -14,7 +14,7 @@ class FileUpdater:
         :param url: The URL to read data from
         :param output: The path and filename to save the output
         """
-        response = requests.get(url, timeout=60)
+        response = requests.get(url, timeout=600)
         if 200 <= response.status_code < 300:
             with open(output, "w", encoding="utf-8") as file:
                 file.write(response.text)
