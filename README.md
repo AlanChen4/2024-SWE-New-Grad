@@ -22,6 +22,12 @@
 
 | Company | Investors | Title | Status | Added On |
 | ------- | ----------| ----- | ------ |--------- |
+| SeatGeek | Tiger Global | [Application Security Engineer - New Grad](https://seatgeek.com/jobs/2387032?gh_jid=2387032?utm_source=CarbosJobs) | ✅ | September 01, 2023 |
+| SeatGeek | Tiger Global | [Application Security Engineer - New Grad](https://seatgeek.com/jobs/5328189?gh_jid=5328189?utm_source=CarbosJobs) | ✅ | September 01, 2023 |
+| SeatGeek | Tiger Global | [Software Engineer - New Grad](https://seatgeek.com/jobs/3788489?gh_jid=3788489?utm_source=CarbosJobs) | ✅ | September 01, 2023 |
+| SeatGeek | Tiger Global | [Software Engineer - New Grad](https://seatgeek.com/jobs/5328134?gh_jid=5328134?utm_source=CarbosJobs) | ✅ | September 01, 2023 |
+| SeatGeek | Tiger Global | [Data Analyst - New Grad](https://seatgeek.com/jobs/2423041?gh_jid=2423041?utm_source=CarbosJobs) | ✅ | September 01, 2023 |
+| SeatGeek | Tiger Global | [Data Analyst - New Grad](https://seatgeek.com/jobs/5328240?gh_jid=5328240?utm_source=CarbosJobs) | ✅ | September 01, 2023 |
 | Marvell | Kleiner Perkins, Sequoia | [Physical Design Engineer - Junior](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/AR---Cordoba/Physical-Design-Engineer---Argentina_2202106?utm_source=CarbosJobs) | ✅ | August 31, 2023 |
 | Commonwealth Fusion Systems | Google Ventures | [Mechanical Engineer - Entry Level Contractor](https://jobs.lever.co/cfsenergy/c23bf25b-db3b-416f-aa4c-00131ced2144?utm_source=CarbosJobs) | ✅ | August 31, 2023 |
 | Scale AI | A16Z, Google Ventures, Kleiner Perkins | [Software Engineer, New Grad](https://boards.greenhouse.io/scaleai/jobs/4305866005?utm_source=CarbosJobs) | ✅ | August 30, 2023 |
@@ -41,9 +47,9 @@
 | StepStone Group |  | [Global Data and Risk Operations Junior Analyst](https://www.stepstoneglobal.com/who-we-are/working-at-stepstone/careers/5314550?gh_jid=5314550?utm_source=CarbosJobs) | ✅ | August 22, 2023 |
 | Scale AI | A16Z, Google Ventures, Kleiner Perkins | [Software Engineer - New Grad](https://boards.greenhouse.io/scaleai/jobs/4305866005?utm_source=CarbosJobs) | ✅ | August 22, 2023 |
 | Scale AI | A16Z, Google Ventures, Kleiner Perkins | [Machine Learning Research Engineer - New Grad](https://boards.greenhouse.io/scaleai/jobs/4305880005?utm_source=CarbosJobs) | ✅ | August 22, 2023 |
-| Lyft | A16Z, Sequoia | [Junior Software Engineer, Android](https://app.careerpuck.com/job-board/lyft/job/6899034002?gh_jid=6899034002?utm_source=CarbosJobs) | ✅ | August 22, 2023 |
-| Lyft | A16Z, Sequoia | [Junior Software Engineer, Android](https://app.careerpuck.com/job-board/lyft/job/6899370002?gh_jid=6899370002?utm_source=CarbosJobs) | ✅ | August 22, 2023 |
-| Lyft | A16Z, Sequoia | [Junior Software Engineer, Android](https://app.careerpuck.com/job-board/lyft/job/6899297002?gh_jid=6899297002?utm_source=CarbosJobs) | ✅ | August 22, 2023 |
+| Lyft | A16Z, Sequoia | [Junior Software Engineer, Android](https://app.careerpuck.com/job-board/lyft/job/6899034002?gh_jid=6899034002?utm_source=CarbosJobs) | ❌ | August 22, 2023 |
+| Lyft | A16Z, Sequoia | [Junior Software Engineer, Android](https://app.careerpuck.com/job-board/lyft/job/6899370002?gh_jid=6899370002?utm_source=CarbosJobs) | ❌ | August 22, 2023 |
+| Lyft | A16Z, Sequoia | [Junior Software Engineer, Android](https://app.careerpuck.com/job-board/lyft/job/6899297002?gh_jid=6899297002?utm_source=CarbosJobs) | ❌ | August 22, 2023 |
 | Commonwealth Fusion Systems | Google Ventures | [Design Engineer - Entry Level Contractor](https://jobs.lever.co/cfsenergy/c23bf25b-db3b-416f-aa4c-00131ced2144?utm_source=CarbosJobs) | ✅ | August 22, 2023 |
 | Stripe | Kleiner Perkins, Sequoia | [Software Engineering, New Grad](https://stripe.com/jobs/listing/software-engineering-new-grad/5305676?utm_source=CarbosJobs) | ✅ | August 22, 2023 |
 | Hot Topic & BoxLunch | Insight Partners | [Junior Analyst, Data and Systems](https://jobs.lever.co/hottopic/993803d7-a5db-4a1d-9650-225cdad8b28d?utm_source=CarbosJobs) | ❌ | August 19, 2023 |
@@ -72,7 +78,7 @@
 | Old Mission | Kleiner Perkins, Sequoia | [Junior Quantitative Trader (Asian Market Hours)](https://www.oldmissioncapital.com/careers/?gh_jid=4454224003?utm_source=CarbosJobs) | ✅ | July 21, 2023 |
 | Old Mission | Kleiner Perkins, Sequoia | [College Graduates - Full-Time - Junior Software Engineer (2024)](https://www.oldmissioncapital.com/careers/?gh_jid=5643831003?utm_source=CarbosJobs) | ✅ | July 21, 2023 |
 | Ercot | Kleiner Perkins, Sequoia | [Engineer Development Program - Entry Level Power Engineer](https://ercot.wd1.myworkdayjobs.com/en-US/ercot_careers/job/Austin-TX/Engineer-Development-Program---Entry-Level-Power-Engineer_R1376?utm_source=CarbosJobs) | ✅ | July 21, 2023 |
-| Applied Intuition | A16Z, Kleiner Perkins, Tiger Global | [Software Engineer - New Grad](https://boards.greenhouse.io/appliedintuition/jobs/4296158005?gh_jid=4296158005?utm_source=CarbosJobs) | ❌ | July 21, 2023 |
+| Applied Intuition | A16Z, Kleiner Perkins, Tiger Global | [Software Engineer - New Grad](https://boards.greenhouse.io/appliedintuition/jobs/4296158005?gh_jid=4296158005?utm_source=CarbosJobs) | ✅ | July 21, 2023 |
 | Applied Intuition | A16Z, Kleiner Perkins, Tiger Global | [Product Application Engineer - New Grad](https://boards.greenhouse.io/appliedintuition/jobs/4045211005?gh_jid=4045211005?utm_source=CarbosJobs) | ✅ | July 21, 2023 |
 | Rackspace | Goldman Sachs, Google Ventures | [Junior Data Scientist](https://jobs.lever.co/rackspace/e6641245-1156-4b4d-945f-fc70ea4b694a?utm_source=CarbosJobs) | ❌ | July 04, 2023 |
 | Qualcomm | Kleiner Perkins, Sequoia | [GPU Compiler Developer- Junior (San Diego/Santa Clara/Boxborough/Toronto)](https://qualcomm.wd5.myworkdayjobs.com/External/job/San-Diego-USA/GPU-Compiler-Developer--Junior--SD-SCL-BOX-TOR-_3040062?utm_source=CarbosJobs) | ❌ | July 02, 2023 |
@@ -85,6 +91,6 @@
 | Binance | Tiger Global, Sequoia | [Binance Accelerator Program - Junior Data Analyst](https://jobs.lever.co/binance/3e2fc921-a871-4cbb-9cd0-8000412053be?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Agot | Kleiner Perkins, Sequoia | [Junior Computer Vision Engineer](https://jobs.lever.co/agotai/cf6c3e9d-d5a6-467b-b04f-695af995d46e?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | Unity Technologies | Sequoia | [Junior Test Engineer](https://careers.unity.com/position?id=1742856?gh_jid=1742856?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
-| SpaceX | Founders Fund | [Security Engineer, New Graduate](https://boards.greenhouse.io/spacex/jobs/6793684002?gh_jid=6793684002?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | SpaceX | Founders Fund | [Security Engineer, New Graduate](https://boards.greenhouse.io/spacex/jobs/6793685002?gh_jid=6793685002?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | SpaceX | Founders Fund | [Security Engineer, New Graduate](https://boards.greenhouse.io/spacex/jobs/6793678002?gh_jid=6793678002?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
+| SpaceX | Founders Fund | [Security Engineer, New Graduate](https://boards.greenhouse.io/spacex/jobs/6793684002?gh_jid=6793684002?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
